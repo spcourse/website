@@ -1,4 +1,4 @@
-name: integrals
+name: integrals_(level2)
 files:
     required:
         - roots.py

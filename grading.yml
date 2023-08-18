@@ -39,15 +39,15 @@ templates:
         calculation: "1.0 + 9.0 * (3.0 * correctness + 2.0 * code_quality - 5.0) / 20.0"
 
 grades:
-    algorithms:
+    algorithms_(level1):
         <<: *check
-    numbers:
+    numbers_(level1):
         <<: *check
-    text:
+    text_(level2):
         <<: *check
-    integrals:
+    integrals_(level2):
         <<: *check
-    bigdata-en:
+    bigdata_(level3):
         <<: *check
     movement_(bonus):
         <<: *check
@@ -61,29 +61,29 @@ grades:
     sp1-exam4:
         <<: *testt
 
-    monopoly-en:
+    monopoly_(level4):
         <<: *check
-    q1_complexity:
+    q1_complexity_(level5):
         type: pass
         subgrades:
             correct: boolean
         calculation: correct
         hide_subgrades: true
-    q2_complexity:
+    q2_complexity_(level5):
         type: pass
         subgrades:
             correct: boolean
         calculation: correct
         hide_subgrades: true
-    q3_complexity:
+    q3_complexity_(level5):
         type: pass
         subgrades:
             correct: boolean
         calculation: correct
         hide_subgrades: true
-    complexity:
+    complexity_(level5):
         <<: *check-man
-    survival: *check-man
+    survival_(level6): *check-man
 
     sp2-exam1:
         <<: *testt

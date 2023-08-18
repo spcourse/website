@@ -1,4 +1,4 @@
-name: text
+name: text_(level2)
 files:
     required:
         - text_statistics.py

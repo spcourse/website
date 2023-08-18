@@ -1,4 +1,4 @@
-name: numbers
+name: numbers_(level1)
 files:
     required:
         - whiz.py
