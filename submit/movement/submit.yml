@@ -1,4 +1,4 @@
-name: movement
+name: movement_(bonus)
 files:
     required:
         - apple.py
