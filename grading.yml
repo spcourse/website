@@ -114,7 +114,7 @@ sp1-modules:
         text: 1
         integrals: 1
         bigdata-en: 1
-        movement: 0
+        movement: 1
     required: true
 
 sp1-exams:
@@ -130,9 +130,9 @@ sp2-modules:
     show_progress: true
     submits:
         monopoly-en: 1
-        q1_complexity: 0
-        q2_complexity: 0
-        q3_complexity: 0
+        q1_complexity: 1
+        q2_complexity: 1
+        q3_complexity: 1
         complexity: 1
         populations: 1
 
@@ -149,7 +149,7 @@ data-modules:
     show_progress: true
     submits:
         survival: 25
-        scraping-data: 0
+        scraping-data: 1
         transformation: 25
-        databases: 0
+        databases: 1
         project: 50
