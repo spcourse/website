@@ -134,7 +134,7 @@ sp2_modules:
         q2_complexity_(level5): 1
         q3_complexity_(level5): 1
         complexity_(level5): 1
-        populations_(level6): 1
+        survival_(level6): 1
 
 sp2_exams:
     show_progress: true
@@ -148,7 +148,7 @@ sp2_exams:
 data_modules:
     show_progress: true
     submits:
-        survival: 25
+        populations: 25
         scraping-data: 1
         transformation: 25
         databases: 1
