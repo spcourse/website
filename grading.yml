@@ -109,11 +109,11 @@ grades:
 sp1_modules:
     show_progress: true
     submits:
-        algorithms: 1
-        numbers: 1
-        text: 1
-        integrals: 1
-        bigdata-en: 1
+        algorithms_(level1): 1
+        numbers_(level1): 1
+        text_(level2): 1
+        integrals_(level2): 1
+        bigdata_(level3): 1
         movement_(bonus): 1
     required: true
 
@@ -129,12 +129,12 @@ sp1_exams:
 sp2_modules:
     show_progress: true
     submits:
-        monopoly-en: 1
-        q1_complexity: 1
-        q2_complexity: 1
-        q3_complexity: 1
-        complexity: 1
-        populations: 1
+        monopoly_(level4): 1
+        q1_complexity_(level5): 1
+        q2_complexity_(level5): 1
+        q3_complexity_(level5): 1
+        complexity_(level5): 1
+        populations_(level6): 1
 
 sp2_exams:
     show_progress: true
