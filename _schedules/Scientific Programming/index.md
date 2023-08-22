@@ -57,9 +57,9 @@
     <td> <b>Level 8</b> </td><td colspan="3"> <b>ACQUISITION</b> </td>
   </tr><tr>
     <td> <b>Level 9</b> </td><td colspan="3"> <b>TRANSFORMATION</b> </td>
-  </tr>tr>
+  </tr><tr>
     <td> <b>Level 10</b> </td><td colspan="3"> <b>DATABASES</b> </td>
-  </tr>tr>
+  </tr><tr>
     <td> <b>Level 11</b> </td><td colspan="3"> <b>FINAL PROJECT</b> </td>
   </tr>
 </table>
