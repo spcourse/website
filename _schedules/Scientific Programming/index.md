@@ -30,9 +30,9 @@
       <b>NUMERICAL INTEGRATION</b>. In many scientific fields you need to determine the surface area under a function. Integration is a mathematical tool for doing so. However this tool doesn't always work and in such cases we can use numerical integration techniques to let the computer do the work for us. You will learn two important techniques for numerical integration.
     </td>
   </tr><tr>
-    <td> Level 3 (no choice)</td><td colspan="3"> <b>BIG-DATA</b>. In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period? </td>
+    <td> <b>Level 3</b> (no choice)</td><td colspan="3"> <b>BIG-DATA</b>. In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period? </td>
   </tr><tr>
-    <td> Bonus (this module is optional)</td><td colspan="3"> <b>MOVEMENT</b>. What happens if you dig a tunnel from one side to the other side of the planet and you fall in this tunnel? In this module you’re going to simulate that situation. In physics you often run into problems that are too laborious to compute by hand. In this module you’ll learn how to use your computer instead. </td>
+    <td> <b>Bonus</b> (this module is optional)</td><td colspan="3"> <b>MOVEMENT</b>. What happens if you dig a tunnel from one side to the other side of the planet and you fall in this tunnel? In this module you’re going to simulate that situation. In physics you often run into problems that are too laborious to compute by hand. In this module you’ll learn how to use your computer instead. </td>
   </tr>
 </table>
 
@@ -40,11 +40,11 @@
 
 <table>
   <tr>
-    <td> Level 4 </td><td colspan="3"> <b>MONOPOLY</b> </td>
+    <td> <b>Level 4</b> </td><td colspan="3"> <b>MONOPOLY</b> </td>
   </tr><tr>
-    <td> Level 5 </td><td colspan="3"> <b>COMPLEXITY</b> </td>
+    <td> <b>Level 5</b> </td><td colspan="3"> <b>COMPLEXITY</b> </td>
   </tr><tr>
-    <td> Level 6 </td><td colspan="3"> <b>SURVIVAL</b> </td>
+    <td> <b>Level 6</b> </td><td colspan="3"> <b>SURVIVAL</b> </td>
   </tr>
 </table>
 
@@ -52,14 +52,14 @@
 
 <table>
   <tr>
-    <td> Level 7 </td><td colspan="3"> <b>POPULATIONS</b> </td>
+    <td> <b>Level 7</b> </td><td colspan="3"> <b>POPULATIONS</b> </td>
   </tr><tr>
-    <td> Level 8 </td><td colspan="3"> <b>ACQUISITION</b> </td>
+    <td> <b>Level 8</b> </td><td colspan="3"> <b>ACQUISITION</b> </td>
   </tr><tr>
-    <td> Level 9 </td><td colspan="3"> <b>TRANSFORMATION</b> </td>
+    <td> <b>Level 9</b> </td><td colspan="3"> <b>TRANSFORMATION</b> </td>
   </tr>tr>
-    <td> Level 10 </td><td colspan="3"> <b>DATABASES</b> </td>
+    <td> <b>Level 10</b> </td><td colspan="3"> <b>DATABASES</b> </td>
   </tr>tr>
-    <td> Level 11 </td><td colspan="3"> <b>FINAL PROJECT</b> </td>
+    <td> <b>Level 11</b> </td><td colspan="3"> <b>FINAL PROJECT</b> </td>
   </tr>
 </table>
