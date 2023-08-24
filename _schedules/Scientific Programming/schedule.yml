@@ -177,6 +177,7 @@ Monopoly (SP2 - level 4):
     Monopoly:
         Introduction: /monopoly/en/
         Learn about debugging simulations [theory]: /python/en/debugging
+        "Design: default arguments [theory]": /python/en/default-arguments
         Moving around the board [assignment]: /monopoly/en/moving-around
         Using starting funds and buying stuff [assignment]: /monopoly/en/money
         Add a player and restore the balance [assignment]: /monopoly/en/two-player
@@ -208,6 +209,9 @@ Complexity (SP2 - level 5):
 
 Survival (SP2 - level 6):
     Introduction: /survival/
+    Function arguments:
+        Default arguments [theory]: /python/en/default-arguments
+        Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
     "Part 1: Pandas":
         Pandas (assignment): /survival/pandas
     "Part 2: Survival":
@@ -222,8 +226,8 @@ Populations (DP - level 7, graded):
     Classes:
         Learn about using classes in Python [theory]: /python/en/classes
         Practice with classes [practice]: /objects/cards
-    Default parameters:
-        Default parameters: /populations-oo/default_params
+    Default arguments:
+        Default arguments [theory]: /python/en/default-arguments
     Populations (part 1):
         Introduction: /populations-oo/introduction
         Phase 1: /populations-oo/phase1
@@ -236,7 +240,8 @@ Populations (DP - level 7, graded):
         Phase 8: /populations-oo/phase8
         Phase 9: /populations-oo/phase9
     Theory:
-        Keyword arguments [theory]: /populations-oo/kwargs
+        Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
+        Keyword argument dictionaries [theory]: /python/en/keyword-arguments/starstar
         Sampling methods [theory]: /populations-oo/sampling
     Populations (part 2):
         Experiment: /populations-oo/experimenting
