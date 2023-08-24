@@ -176,6 +176,7 @@ Monopoly (SP2 - level 4):
     Monopoly:
         Introduction: /monopoly/en/
         Learn about debugging simulations [theory]: /python/en/debugging
+        "Design: default arguments [theory]": /python/en/default-arguments
         Moving around the board [assignment]: /monopoly/en/moving-around
         Using starting funds and buying stuff [assignment]: /monopoly/en/money
         Add a player and restore the balance [assignment]: /monopoly/en/two-player
@@ -207,6 +208,9 @@ Complexity (SP2 - level 5):
 
 Survival (SP2 - level 6):
     Introduction: /survival/
+    Function arguments:
+        Default arguments [theory]: /python/en/default-arguments
+        Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
     "Part 1: Pandas":
         Pandas (assignment): /survival/pandas
     "Part 2: Survival":
