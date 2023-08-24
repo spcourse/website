@@ -61,6 +61,7 @@ There are two ways to get help, the tutorials and the forum:
 ### Programming modules
 
 You're going to learn programming through a number of programming modules. Each module consist of:
+
 - Theory: Explanations both written and in the form of video's.
 - Practice: Exercises to test your understanding of the theory.
 - Assignments: Bigger programming problems, that require combining multiple programming concepts.
