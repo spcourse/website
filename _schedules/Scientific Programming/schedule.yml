@@ -226,7 +226,7 @@ Populations (DP - level 7, graded):
         Learn about using classes in Python [theory]: /python/en/classes
         Practice with classes [practice]: /objects/cards
     Default parameters:
-        Default parameters: /populations-oo/default_params
+        Default parameters [theory]: /python/en/default-arguments
     Populations (part 1):
         Introduction: /populations-oo/introduction
         Phase 1: /populations-oo/phase1
@@ -239,7 +239,8 @@ Populations (DP - level 7, graded):
         Phase 8: /populations-oo/phase8
         Phase 9: /populations-oo/phase9
     Theory:
-        Keyword arguments [theory]: /populations-oo/kwargs
+        Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
+        Keyword argument dictionaries [theory]: /python/en/keyword-arguments/starstar
         Sampling methods [theory]: /populations-oo/sampling
     Populations (part 2):
         Experiment: /populations-oo/experimenting
