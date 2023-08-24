@@ -1,10 +1,75 @@
-# Scientific Programming
+# Scientific Programming / Data Processing
 
+## Syllabus Fall 2023/2024
 
+Welcome to this programming track! In the weeks ahead, you’ll use the Python programming language while learning to solve scientific problems from several fields of science. This track is intended for students who have no experience in programming at all. It comprises three courses, Scientific Programming 1, Scientific Programming 2 and Data Processing wherein you learn about the Python language by working on programming problems from several scientific areas.
 
-## Levels
+### Course materials
 
-### Scientific Programming 1 (Level 1 - Level 3)
+All the reading and video material is available on this website. You do not need to purchase any books or software. Every module consists of short explanations (written and in the form of videos) and assignments. _You do need to bring your own laptop._
+
+### Staff
+
+Milena Kapralova, Amir Sahrani, Roan van Blanken, Simon Pauw
+
+Contact: scientific@proglab.nl
+
+### Getting started
+
+Your entry to the course is the sidebar, where you can leaf through all modules (levels) that you have to complete. To get started:
+
+- Read the rest of the syllabus, below.
+- Install Python.
+- Choose one of the level 1 modules (Algorithms or Numbers) to get started!
+
+Beware that these are all the modules for all the Scientific Programming courses! **Don't start making them all until you've read below which specific modules you need to do for the course you are following.**
+
+### The track
+
+The Scientific Programming track consists of three courses:
+
+- Scientific Programming 1 (3 EC, not graded but pass/fail).
+- Scientific Programming 2 (3 EC, not graded but pass/fail).
+- Data Processing (6 EC, graded).
+
+You can follow each course at different paces to fit your schedule. You don't have to follow the entire track, you can also follow a single course. If you already have some programming experience and would like to skip the first (two) course(s), please contact us.
+
+Course specific information can be found further down.
+
+### Structure
+
+The track is designed to be very flexible. So, there are no compulsory sessions. There are no lectures (except for a kick-off meeting at the start of Scientific Programming 1) and the tutorials are optional. And, you can follow the courses at any pace that fits your schedule.
+
+### Help
+
+The fact that the track is flexible doesn't mean you are on you own. We do provide a lot of help throughout the course with the programming assignments. It is up to you to seek out this help.
+
+There are two ways to get help, the tutorials and the forum:
+
+- Tutorials (on campus): The tutorials are the most classic way of getting help with your programming. You’ll work on campus (together with other students) in a classroom. You can ask us questions while you’re working on your assignments.
+  - **We highly recommend to join at least one tutorial a week.**
+  - You can find the tutorial schedule here: [datanose](https://datanose.nl/#course[119429])
+  - This is a good place to work on your assignments and get immediate help.
+  - This is the main place where you can meet other students.
+  - If you can not make it to the tutorial you can book an appointment to get online help during the sessions.
+    - Book an appointment here: [link]
+    - At the moment of your appointment you can join here: [zoom](https://uva-live.zoom.us/j/87393415014)
+- Forum (online): We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
+  - Use the forum: [link]
+  - If you are registered for Scientific Programming 1 you should automatically have access to the forum. If not, please send and email to get access.
+
+### Programming modules
+
+You're going to learn programming through a number of programming modules. Each module consist of:
+- Theory: Explanations both written and in the form of video's.
+- Practice: Exercises to test your understanding of the theory.
+- Assignments: Bigger programming problems, that require combining multiple programming concepts.
+
+The modules are grouped into levels, you have to make one module per level. For some levels you have the choice between two different modules. When there is such a choice, you will learn the same programming concepts, but often in different thematic context (i.e. different scientific field).
+
+Here below is an overview of all modules for all courses.
+
+#### Scientific Programming 1 (Level 1 - Level 3)
 
 <table>
   <tr>
@@ -36,7 +101,7 @@
   </tr>
 </table>
 
-### Scientific Programming 2 (Level 4 - Level 6)
+#### Scientific Programming 2 (Level 4 - Level 6)
 
 <table>
   <tr>
@@ -48,7 +113,7 @@
   </tr>
 </table>
 
-### Data Processing (Level 7 - Level 11)
+#### Data Processing (Level 7 - Level 11)
 
 <table>
   <tr>
