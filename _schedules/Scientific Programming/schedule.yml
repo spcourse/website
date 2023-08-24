@@ -5,7 +5,8 @@ Welcome:
 SP1 - L1 (Algorithms):
 
     Scientific Programming 1 - Level 1 (Algorithms):
-        Intro: /algorithms/en/intro2
+
+    Intro: /algorithms/en/intro2
 
     Getting started:
         Basic elements of Python [theory]: /python/en/basics
@@ -46,7 +47,8 @@ SP1 - L1 (Algorithms):
 
 SP1 - L1 (Number theory):
     Scientific Programming 1 - Level 1 (Number Theory):
-      Introduction: /numbers/en/intro2
+
+    Introduction: /numbers/en/intro2
 
     Getting started:
         Basic elements of Python [theory]: /python/en/basics
@@ -118,7 +120,8 @@ SP1 - L2 (Numerical integration):
 
 SP1 - L2 (Text Processing):
     Scientific Programming 1 - Level 2 (Text Processing):
-      Introduction: /text/en/intro2
+
+    Introduction: /text/en/intro2
 
     Text statistics:
         Learn about functions in Python [theory]: /python/en/functions
@@ -142,7 +145,8 @@ SP1 - L2 (Text Processing):
 
 SP1 - level 3 (Big Data):
     Scientific Programming 1 - Level 3 (Big Data):
-      Introduction: /bigdata/en/
+
+    Introduction: /bigdata/en/
 
     Big data:
         Learn about file I/O (repeated if you did Text) [theory]: /python/en/file-io
@@ -156,7 +160,7 @@ SP1 - level 3 (Big Data):
 
 SP1 - BONUS (Physics of Movement):
     Scientific Programming 1 - Bonus (Physics of Movement):
-      
+
     Animating in Python:
         Learn how to create animated graphics [theory]: /animation/en/explanation
         A spiraling dot [assignment]: /animation/en/dot
@@ -176,7 +180,8 @@ SP1 - BONUS (Physics of Movement):
 Practice Exam:
     Practice exam: /exams/sp1/practice
 
-Monopoly (SP2 - level 4):
+SP2 - L4 (Monopoly):
+    Scientific Programming 2 - Level 4 (Monopoly):
     Animating in Python:
         Learn how to create animated graphics [theory]: /animation/en/explanation
         A spiraling dot [assignment]: /animation/en/dot
@@ -191,7 +196,8 @@ Monopoly (SP2 - level 4):
     Submit:
         Submit your solutions: /submit/monopoly
 
-Complexity (SP2 - level 5):
+SP2 - L5 (Complexity):
+    Scientific Programming 2 - Level 5 (Complexity):
     Introduction: /complexity
     "Part 1: Computational complexity":
         Complexity [theory]: /python/en/efficiency
@@ -214,7 +220,8 @@ Complexity (SP2 - level 5):
         Indexing words [assignment]: /complexity/word-index
     Submit your solutions: /submit/complexity
 
-Survival (SP2 - level 6):
+SP2 - L6 (Survival):
+    Scientific Programming 2 - Level 6 (Survival):
     Introduction: /survival/
     Function arguments:
         Default arguments [theory]: /python/en/default-arguments
@@ -228,7 +235,8 @@ Survival (SP2 - level 6):
 Practice Exam:
     Practice exam: /exam/sp2/practice
 
-Populations (DP - level 7, graded):
+DP - L7 (Populations):
+    Data Processing - Level 7 (Populations) [graded assignment]:
     Introduction: /populations-oo
     Classes:
         Learn about using classes in Python [theory]: /python/en/classes
@@ -255,7 +263,8 @@ Populations (DP - level 7, graded):
         Visualize: /populations-oo/visualizing
     Submit your solutions: /submit/populations
 
-Acquisition (DP - level 8, pass/fail):
+DP - L8 (Acquisition):
+    Data Processing - Level 8 (Acquisition) [pass/fail assignment]:
     Introduction: "/acquisition"
     HTML:
         What is HTML?: /acquisition/html
@@ -273,7 +282,8 @@ Acquisition (DP - level 8, pass/fail):
         Get even more data: "/acquisition/crawling"
     Submit: "/acquisition/submit"
 
-Transformation (DP - level 9, graded):
+DP - L9 (Transformation):
+    Data Processing - Level 9 (Transformation) [graded assignment]:
     Introduction: /transformation/
     Transform and visualize climate data: /transformation/climate-change
     Work with structured data in health:
@@ -281,7 +291,8 @@ Transformation (DP - level 9, graded):
         "Part two: processing the data": /transformation/health-code-violations-2
     Submit: /transformation/submit
 
-Databases (DP - level 10, pass/fail):
+DP - L10 (Databases):
+    Data Processing - Level 10 (Databases) [pass/fail assignment]:
     Introduction: /sql/intro
     Learn SQL:
         Learn about Databases: /sql/lecture
@@ -290,7 +301,8 @@ Databases (DP - level 10, pass/fail):
         Solve a mistery using sqlite: /sql/fiftyville
     Submit: /sql/submit
 
-Final project (DP - graded):
+DP - Final project:
+    Data Processing - Final Project [graded assignment]:
     Learn to use git: /basics/git
     Project: /project
     Submit: /project/submit
