@@ -256,7 +256,7 @@ DP - L7 (Populations):
         Phase 9: /populations-oo/phase9
     Theory:
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
-        Keyword argument dictionaries [theory]: /python/en/keyword-arguments/starstar
+        Args and kwargs [theory]: /python/en/keyword-arguments/starstar
         Sampling methods [theory]: /populations-oo/sampling
     Populations (part 2):
         Experiment: /populations-oo/experimenting
