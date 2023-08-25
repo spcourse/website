@@ -4,31 +4,59 @@
 
 Welcome to this programming track! In the weeks ahead, you’ll use the Python programming language while learning to solve scientific problems from several fields of science. This track is intended for students who have no experience in programming at all. It comprises three courses, Scientific Programming 1, Scientific Programming 2 and Data Processing wherein you learn about the Python language by working on programming problems from several scientific areas.
 
-## Table of Contents {#toc}
+### Table of Contents {#toc}
 
-- [Scientific Programming / Data Processing](#overview)
-  - [Syllabus Fall 2023/2024](#syllabus)
-    - [Course materials](#materials)
-    - [Staff](#staff)
-    - [Getting started](#start)
-    - [About the Scientific Programming track](#track)
-    - [Structure of the courses](#structure)
-    - [Help](#help)
-    - [Programming modules](#programming-modules)
-      - [Scientific Programming 1 (Level 1 - Level 3)](#sp1-modules)
-      - [Scientific Programming 2 (Level 4 - Level 6)](#sp2-modules)
-      - [Data Processing (Level 7 - Level 11)](#dp-modules)
-  - [Dates and deadlines](#deadlines)
-    - [Deadlines](#level-deadlines)
-      - [Start period 1](#start-p1-deadlines)
-      - [Start period 2](#start-p2-deadlines)
-  - [Grading](#grading)
-    - [Grading Scientific Programming 1 and Scientific Programming 2](#sp1-sp2-grading)
-  - [Doing your own work](#plagiarism)
-  - [Acknowledgements](#acknowledgements)
+- [Syllabus Fall 2023/2024](#syllabus)
+  - [Prerequisites](#prerequisites)
+  - [Learning Goals](#goals)
+  - [Course materials](#materials)
+  - [Staff](#staff)
+  - [Getting started](#start)
+  - [About the Scientific Programming track](#track)
+  - [Structure of the courses](#structure)
+  - [Help](#help)
+  - [Programming modules](#programming-modules)
+- [Dates and deadlines](#deadlines)
+  - [Deadlines](#level-deadlines)
+- [Grading](#grading)
+  - [Grading Scientific Programming 1 and Scientific Programming 2](#sp1-sp2-grading)
+  - [Grading Data Processing](#dp-grading)
+- [Doing your own work](#plagiarism)
+- [Acknowledgements](#acknowledgements)
 
+### Prerequisites {#prerequisites}
 
+Scientific Programming 1 assumes no prior programming experience. If you have already done a course in Python, or if you have extensive experience in another programming language, this course might not be your best option—but we’re happy to refer you to other courses if you’d like!
 
+Other than that, some modules assume high school mathematics or physics, but in those case you can choose an alternative module that doesn't. If you feel overwhelmed, don’t hesitate to contact the course staff! We can explain the course’s philosophy and requirements, and make recommendations on how to approach problems.
+
+Scientific Programming 2 and Data Processing only assume the preceding course as prior knowledge.
+
+### Learning Goals {#goals}
+
+**Scientific Programming 1** is a beginner's course. We will teach you the basics of Python programming as well as several different ways of solving computational problems. After this course, we envision that you:
+
+- can transform the description of a simple algorithm into working code by combining basic program elements
+- can apply several scientific programming techniques from different areas of study
+- can use a couple of libraries in your program and know how to find and read documentation on other libraries
+- can make your programs simpler and easier to read by employing a few standard tactics
+- can trace and fix several common programming errors
+
+After **Scientific Programming 2** you should be able to independently tackle typically programming challenges that you might encounter in your field of studies/research. We will teach you more intermediate Python concepts. And some more advanced concepts pertaining to data analysis. After this course, we envision that you:
+
+- can use native python data structures (like sets, dictionaries, and tuples)
+- analyze the complexity of an algorithm
+- quickly learn to use new python packages and know how to find documentation for them
+- import and analyze data
+- create advanced plots
+
+For **Data Processing** you'll build your own toolkit of useful programs with which you can read, transform and analyze data that you might find in various scientific areas. After this course we envision that you:
+
+- you can read data into your programs from several structured standard formats
+- you can transform data into a form suitable for further analysis by combining basic operators
+- you can build meaningful visualizations of your data
+- you understand how to write programs that are easy to understand for yourself and other programmers
+- you are capable of using advanced programming concepts (like object oriented programming)
 
 ### Course materials {#materials}
 
@@ -212,9 +240,82 @@ The deadline schedule
 
 ## Grading {#grading}
 
+The grading for Scientific Programming 1 and 2 is different from the grading for Data Processing. The main differences are:
+  - Scientific Programming 1 and 2 are pass/fail courses and Data Processing is a graded course.
+  - Scientific Programming 1 and 2 have a final exam Data Processing hasn't.
+
 ### Grading Scientific Programming 1 and Scientific Programming 2 {#sp1-sp2-grading}
 
+The grading for Scientific Programming 1 and 2 is exactly the same. For both, the grading is based on three modules and a final exam.
 
+#### Final grade
+The course's final result will be "pass" or "fail", which means that no grades are assigned. You pass by:
+
+- submitting sufficient coursework (as detailed below)
+- passing the final exam
+
+#### Coursework (modules)
+For each module you will one of the following grades:
+
+* completely correct
+* mostly correct
+* insufficient
+
+In principle we expect that everything you hand in is *completely correct*. However, it happens easily to miss a detail, so to relax the requirements a bit:
+
+- All your modules need to be *mostly correct*.
+- At least one module needs to be *completely correct*
+
+You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
+
+#### Final exam
+The final exam is (on campus) programming exam in a controlled setting. This will take about 3 hours. It contains a couple of small programming assignments. You'll pass the exam when your answers are sufficiently correct.
+
+You can participate in the final exam if you're done with the coursework, meaning:
+
+* The first two modules are *graded* and at least *mostly correct*.
+* The last module is handed in (with reasonable expectation to be correct).
+
+If you do not meet these requirements (for example when you still have an insufficient or one of the first two modules isn't graded yet) you cannot participate with the exam yet. You will have to finish the coursework first and do the exam at a later date.
+
+You need to make sure that you leave enough time for grading for the first two modules before the exam. So, **hand in the *first two modules* no later that two weeks before the exam**. If you hand in everything last minute you risk not being able to participate in the exam
+
+### Grading Data Processing {#dp-grading}
+
+#### Final grade
+
+For Data Processing you will receive a regular grade (1-10).
+
+Your final grade will be determined by the grades for Level 2, 9 and your final project as follows:
+
+| Module                  | Weight |
+|-------------------------|--------|
+| Level 7                 | 25%    |
+| Level 9                 | 25%    |
+| Final Project           | 50%    |
+
+Note that, even though level 8 and 10 do not contribute to the grade, you still need to hand them in correctly in order to pass the course.
+
+#### Coursework (modules)
+
+Some of the assignments are graded (level 7, level 9 and the final project) and some are pass fail (level 8 and level 10).
+
+* For the pass/fail assignments the grading works the same as for Scientific Programming 1 and 2. You can get one three possible marks: completely correct, mostly correct, or insufficient. You need to get these assignments at least mostly correct.
+* For the graded assignments you get a note based on the code quality (how well written is the code?) and the correctness (does it meet the specifications) of your assignment. Both are graded on a scale from 1 to 5. Where the correctness weighs more than code quality: points $=$ correctness $\times$ 3 $+$ design $\times$ 2. So you can get at most 25 and at least 5 points.
+* The final project is graded based on novelty and quality. For both you get points on a scale from 1 to 5.
+    * Novelty: As a independent programmer you need to often learn a new skill, library or concept by yourself. The main purpose of the final project is to practice with this. This is reflected in the novelty part: to what extend did you do/learn something new (not yet discussed during the course)?
+    * Quality: Just like the other graded assignments. How well structured/written is your code?
+
+#### Final project grade
+
+The final project is graded on four aspects:
+
+| aspect       | weight | notes |
+|--------------|--------|-------|
+| final_result | 30%    |       |
+| complexity   | 30%    | How complex is your project? How many data sources? Do you need to transform the data? |
+| code_quality | 20%    | Is your code well designed? Is it easy to understand? |
+| process      | 20%    | How well did you document the process of the project? |
 
 ## Doing your own work {#plagiarism}
 
