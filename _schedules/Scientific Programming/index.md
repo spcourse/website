@@ -1,20 +1,46 @@
-# Scientific Programming / Data Processing
+# Scientific Programming / Data Processing {#overview}
 
-## Syllabus Fall 2023/2024
+## Syllabus Fall 2023/2024 {#syllabus}
 
 Welcome to this programming track! In the weeks ahead, you’ll use the Python programming language while learning to solve scientific problems from several fields of science. This track is intended for students who have no experience in programming at all. It comprises three courses, Scientific Programming 1, Scientific Programming 2 and Data Processing wherein you learn about the Python language by working on programming problems from several scientific areas.
 
-### Course materials
+## Table of Contents {#toc}
+
+- [Scientific Programming / Data Processing](#overview)
+  - [Syllabus Fall 2023/2024](#syllabus)
+    - [Course materials](#materials)
+    - [Staff](#staff)
+    - [Getting started](#start)
+    - [About the Scientific Programming track](#track)
+    - [Structure of the courses](#structure)
+    - [Help](#help)
+    - [Programming modules](#programming-modules)
+      - [Scientific Programming 1 (Level 1 - Level 3)](#sp1-modules)
+      - [Scientific Programming 2 (Level 4 - Level 6)](#sp2-modules)
+      - [Data Processing (Level 7 - Level 11)](#dp-modules)
+  - [Dates and deadlines](#deadlines)
+    - [Deadlines](#level-deadlines)
+      - [Start period 1](#start-p1-deadlines)
+      - [Start period 2](#start-p2-deadlines)
+  - [Grading](#grading)
+    - [Grading Scientific Programming 1 and Scientific Programming 2](#sp1-sp2-grading)
+  - [Doing your own work](#plagiarism)
+  - [Acknowledgements](#acknowledgements)
+
+
+
+
+### Course materials {#materials}
 
 All the reading and video material is available on this website. You do not need to purchase any books or software. Every module consists of short explanations (written and in the form of videos) and assignments. _You do need to bring your own laptop._
 
-### Staff
+### Staff {#staff}
 
 Milena Kapralova, Amir Sahrani, Roan van Blanken, Simon Pauw
 
 Contact: scientific@proglab.nl
 
-### Getting started
+### Getting started {#start}
 
 Your entry to the course is the sidebar, where you can leaf through all modules (levels) that you have to complete. To get started:
 
@@ -24,7 +50,7 @@ Your entry to the course is the sidebar, where you can leaf through all modules 
 
 Beware that these are all the modules for all the Scientific Programming courses! **Don't start making them all until you've read below which specific modules you need to do for the course you are following.**
 
-### The track
+### The track {#track}
 
 The Scientific Programming track consists of three courses:
 
@@ -36,11 +62,11 @@ You can follow each course at different paces to fit your schedule. You don't ha
 
 Course specific information can be found further down.
 
-### Structure
+### Structure {#structure}
 
 The track is designed to be very flexible. So, there are no compulsory sessions. There are no lectures (except for a kick-off meeting at the start of Scientific Programming 1) and the tutorials are optional. And, you can follow the courses at any pace that fits your schedule.
 
-### Help
+### Help {#help}
 
 The fact that the track is flexible doesn't mean you are on you own. We do provide a lot of help throughout the course with the programming assignments. It is up to you to seek out this help.
 
@@ -58,7 +84,7 @@ There are two ways to get help, the tutorials and the forum:
   - Use the forum: [link]
   - If you are registered for Scientific Programming 1 you should automatically have access to the forum. If not, please send and email to get access.
 
-### Programming modules
+### Programming modules {#programming-modules}
 
 You're going to learn programming through a number of programming modules. Each module consist of:
 
@@ -70,7 +96,7 @@ The modules are grouped into levels, you have to make one module per level. For 
 
 Here below is an overview of all modules for all courses.
 
-#### Scientific Programming 1 (Level 1 - Level 3)
+#### Scientific Programming 1 (Level 1 - Level 3) {#sp1-modules}
 
 <table>
   <tr>
@@ -102,7 +128,7 @@ Here below is an overview of all modules for all courses.
   </tr>
 </table>
 
-#### Scientific Programming 2 (Level 4 - Level 6)
+#### Scientific Programming 2 (Level 4 - Level 6) {#sp2-modules}
 
 <table>
   <tr>
@@ -114,7 +140,7 @@ Here below is an overview of all modules for all courses.
   </tr>
 </table>
 
-#### Data Processing (Level 7 - Level 11)
+#### Data Processing (Level 7 - Level 11) #dp-modules}
 
 <table>
   <tr>
@@ -130,13 +156,13 @@ Here below is an overview of all modules for all courses.
   </tr>
 </table>
 
-## Dates and deadlines
+## Dates and deadlines {#deadlines}
 
-### Deadlines
+### Deadlines {#level-deadlines}
 
 Deadlines for each level are listed below. The deadlines are our recommendation. If you follow these deadlines you'll have all the assignments finished in time for the corresponding examination moment. You can occasionally diverge a bit from the deadlines, but if you notice that you're structurally behind please contact us.
 
-The deadlines depend on the period in which you start the course (1, or 2) and at what pace you're following it (relaxed - finish SP1 and SP2 in one year, standard - finish all courses in one year, fast - finish all courses in one semester). Most students tend to follow the standard schedule, which corresponds to an investment of about 10 hrs/wk. 
+The deadlines depend on the period in which you start the course (1, or 2) and at what pace you're following it (relaxed - finish SP1 and SP2 in one year, standard - finish all courses in one year, fast - finish all courses in one semester). Most students tend to follow the standard schedule. The standard schedule corresponds to an investment of about 10 hrs/wk, but this varies widely per student, mostly depending on other experiences
 
 The deadline schedule
 
@@ -184,6 +210,83 @@ The deadline schedule
 
 </details>
 
-## Grading
+## Grading {#grading}
 
-### Grading Scientific Programming 1 and Scientific Programming 2
+### Grading Scientific Programming 1 and Scientific Programming 2 {#sp1-sp2-grading}
+
+
+
+## Doing your own work {#plagiarism}
+
+This course's philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course's material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
+
+The essence of all work that you submit to this course must be your own (unless explicitly stated otherwise). Collaboration on problem sets is not permitted except to the extent that you may ask classmates and others for help so long as that help does not reduce to another doing your work for you. Generally speaking, when asking for help, you may show your code to others, but you may not view theirs, so long as you and they respect this policy's other constraints. Collaboration on the course's test and quiz is not permitted at all.
+
+Below are rules of thumb that (inexhaustively) characterize acts that the course considers reasonable and not reasonable. If in doubt as to whether some act is reasonable, do not commit it until you solicit and receive approval in writing from the course's heads. Acts considered not reasonable by the course are handled harshly.
+
+### Reasonable
+
+- Communicating with classmates about problem sets' problems in English (or some other spoken language).
+- Discussing the course's material with others in order to understand it better.
+- Helping a classmate identify a bug in his or her code at office hours, elsewhere, or even online, as by viewing, compiling, or running his or her code, even on your own computer.
+- Incorporating a few lines of code that you find online or elsewhere into your own code, provided that those lines are not themselves solutions to assigned problems and that you cite the lines' origins.
+- Reviewing past semesters' quizzes and solutions thereto.
+- Sending or showing code that you've written to someone, possibly a classmate, so that he or she might help you identify and fix a bug.
+- Sharing a few lines of your own code online so that others might help you identify and fix a bug.
+- Turning to the course's heads for help or receiving help from the course's heads during the quiz or test.
+- Turning to the web or elsewhere for instruction beyond the course's own, for references, and for solutions to technical difficulties, but not for outright solutions to problem set's problems or your own final project.
+- Whiteboarding solutions to problem sets with others using diagrams or pseudocode but not actual code.
+- Working with (and even paying) a tutor to help you with the course, provided the tutor does not do your work for you.
+
+### Not Reasonable
+
+- Accessing a solution to some problem prior to (re-)submitting your own.
+- Asking a classmate to see his or her solution to a problem set's problem before (re-)submitting your own.
+- Decompiling, de-obfuscating, or disassembling the staff's solutions to problem sets.
+- Failing to cite (as with comments) the origins of code or techniques that you discover outside of the course's own lessons and integrate into your own work, even while respecting this policy's other constraints.
+- Giving or showing to a classmate a solution to a problem set's problem when it is he or she, and not you, who is struggling to solve it.
+- Looking at another individual's work during the test or quiz.
+- Paying or offering to pay an individual for work that you may submit as (part of) your own.
+- Providing or making available solutions to problem sets to individuals who might take this course in the future.
+- Searching for or soliciting outright solutions to problem sets online or elsewhere. So, **avoid** sources like: **Stackoverflow, Google, chatGPT, GitHub, Copilot**, etc.
+- Splitting a problem set's workload with another individual and combining your work.
+- Submitting (after possibly modifying) the work of another individual beyond the few lines allowed herein.
+- Submitting the same or similar work to this course that you have submitted or will submit to another.
+- Submitting work to this course that you intend to use outside of the course (e.g., for a job) without prior approval from the course's heads.
+- Turning to humans (besides the course's heads) for help or receiving help from humans (besides the course's heads) during the quiz or test.
+- Viewing another's solution to a problem set's problem and basing your own solution on it.
+
+In all cases we follow the directives regarding fraud and plagiarism of the
+University of Amsterdam and of the Computer Science
+BSc programme. Find them here in [English] and [Dutch].
+
+[Dutch]: http://uva.nl/plagiaat
+[English]: https://student.uva.nl/en/content/az/plagiarism-and-fraud/plagiarism-and-fraud.html
+
+
+## Acknowledgements {#acknowledgements}
+This course has been designed by Simon Pauw, Martijn Stegeman, Wouter Vrielink, Tim Doolan and Ivo van Vulpen.
+
+It is partially based on many great programming resources that have been published as Open Courseware under a Creative Commons license. The resulting work itself is also published under the Creative Commons License Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Feel free to re-use! If you would like to use the work commercially, please send an e-mail for arranging a license.
+
+We have had lots of help from students as well as teaching assistants who tried the course or added ideas of their own. We especially thank:
+
+- Jelle van Assema (assignments and checkpy)
+- Roan van Blanken (checkpy tests)
+- Natasja Wezel (videos, revisions)
+- Iris Luden (video)
+- Marianne de Heer Kloots (revisions and testing)
+- Maarten Inja (DNA assignment)
+- Quinten Post (translations)
+- Marleen Rijksen (revisions)
+- Huub Rutjes (films)
+- Vera Schild (checkpy tests)
+- Luca Verhees (artwork “semester of code”)
+
+We have used many programming recourses for inspiration:
+
+- 6.189 A Gentle Introduction to Programming Using Python by Sarina Canelake at MIT http://ocw.mit.edu
+- 6.00 Introduction to Computer Science and Programming, Fall 2008 by Eric Grimson and John Guttag at MIT http://ocw.mit.edu
+- CS50 Introduction to Computer Science I by David Malan at Harvard http://cs50.tv/
+- 6.0001 Introduction to Computer Science and Programming in Python by Ana Bell, Eric Grimson and John Guttag at MIT http://ocw.mit.edu
+- Think Python by Allen B. Downey http://greenteapress.com/wp/think-python/
