@@ -7,9 +7,9 @@ Welcome to this programming track! In the weeks ahead, you’ll use the Python p
 
 ### Table of Contents {#toc}
 
-- [Syllabus Fall 2023/2024](#general)
+- [General info](#general)
   - [Prerequisites](#prerequisites)
-  - [Learning Goals](#goals)
+  - [Learning goals](#goals)
   - [Course materials](#materials)
   - [Staff](#staff)
   - [Getting started](#start)
@@ -33,7 +33,7 @@ Other than that, some modules assume high school mathematics or physics, but in 
 
 Scientific Programming 2 and Data Processing only assume the preceding course as prior knowledge.
 
-### Learning Goals {#goals}
+### Learning goals {#goals}
 
 **Scientific Programming 1** is a beginner's course. We will teach you the basics of Python programming as well as several different ways of solving computational problems. After this course, we envision that you:
 
