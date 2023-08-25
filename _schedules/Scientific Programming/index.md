@@ -1,12 +1,13 @@
-# Scientific Programming / Data Processing {#overview}
+# Syllabus Scientific Programming / Data Processing {#overview}
+**Fall 2022/2023**
 
-## Syllabus Fall 2023/2024 {#syllabus}
+## General info {#general}
 
 Welcome to this programming track! In the weeks ahead, you’ll use the Python programming language while learning to solve scientific problems from several fields of science. This track is intended for students who have no experience in programming at all. It comprises three courses, Scientific Programming 1, Scientific Programming 2 and Data Processing wherein you learn about the Python language by working on programming problems from several scientific areas.
 
 ### Table of Contents {#toc}
 
-- [Syllabus Fall 2023/2024](#syllabus)
+- [Syllabus Fall 2023/2024](#general)
   - [Prerequisites](#prerequisites)
   - [Learning Goals](#goals)
   - [Course materials](#materials)
@@ -66,7 +67,7 @@ All the reading and video material is available on this website. You do not need
 
 Milena Kapralova, Amir Sahrani, Roan van Blanken, Simon Pauw
 
-Contact: scientific@proglab.nl
+Contact: <scientific@proglab.nl>
 
 ### Getting started {#start}
 
