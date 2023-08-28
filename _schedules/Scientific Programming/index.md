@@ -252,11 +252,13 @@ The deadline schedules:
 ## Grading {#grading}
 
 The grading for Scientific Programming 1 and 2 is different from the grading for Data Processing. The main differences are:
+
   - Scientific Programming 1 and 2 are pass/fail courses and Data Processing is a graded course.
   - Scientific Programming 1 and 2 have a final exam Data Processing hasn't.
 
+{#sp1-sp2-grading}
 <details markdown="1"><summary  markdown="span">
-### Grading Scientific Programming 1 and Scientific Programming 2 {#sp1-sp2-grading}
+<h3>Grading Scientific Programming 1 and Scientific Programming 2</hr>
 </summary>
 
 The grading for Scientific Programming 1 and 2 is exactly the same. For both, the grading is based on three modules and a final exam.
