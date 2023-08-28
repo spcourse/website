@@ -152,7 +152,7 @@ Here below is an overview of all modules for all courses.
     </td>
   </tr><tr>
     <td> <b>Level 3</b> (no choice)</td><td colspan="3"> <b>BIG-DATA</b>. In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period? </td>
-  </tr><tr>
+  </tr><tr></tr><tr>
     <td> <b>Bonus</b> (this module is optional)</td><td colspan="3"> <b>MOVEMENT</b>. What happens if you dig a tunnel from one side to the other side of the planet and you fall in this tunnel? In this module you’re going to simulate that situation. In physics you often run into problems that are too laborious to compute by hand. In this module you’ll learn how to use your computer instead. </td>
   </tr>
 </table>
@@ -169,7 +169,7 @@ Here below is an overview of all modules for all courses.
   </tr>
 </table>
 
-#### Data Processing (Level 7 - Level 11) #dp-modules}
+#### Data Processing (Level 7 - Level 11) {#dp-modules}
 
 <table>
   <tr>
@@ -197,7 +197,7 @@ The proposed schedules are worked out for only the most common cases. If non of 
 
 The deadline schedules:
 
-<details markdown="1"><summary  markdown="span">Start Scientific Programming 1 period 1</summary>
+<details markdown="1"><summary  markdown="span">Start Scientific Programming 1 in period 1</summary>
 
 | Level\Pace          | relaxed         | standard        | fast            |
 |---------------------|-----------------|-----------------|-----------------|
@@ -255,7 +255,9 @@ The grading for Scientific Programming 1 and 2 is different from the grading for
   - Scientific Programming 1 and 2 are pass/fail courses and Data Processing is a graded course.
   - Scientific Programming 1 and 2 have a final exam Data Processing hasn't.
 
+<details markdown="1"><summary  markdown="span">
 ### Grading Scientific Programming 1 and Scientific Programming 2 {#sp1-sp2-grading}
+</summary>
 
 The grading for Scientific Programming 1 and 2 is exactly the same. For both, the grading is based on three modules and a final exam.
 
@@ -290,7 +292,7 @@ You can participate in the final exam if you're done with the coursework, meanin
 If you do not meet these requirements (for example when you still have an insufficient or one of the first two modules isn't graded yet) you cannot participate with the exam yet. You will have to finish the coursework first and do the exam at a later date.
 
 You need to make sure that you leave enough time for grading for the first two modules before the exam. So, **hand in the *first two modules* no later that two weeks before the exam**. If you hand in everything last minute you risk not being able to participate in the exam
-
+</details>
 ### Grading Data Processing {#dp-grading}
 
 #### Final grade
@@ -312,7 +314,7 @@ Note that, even though level 8 and 10 do not contribute to the grade, you still 
 Some of the assignments are graded (level 7, level 9 and the final project) and some are pass fail (level 8 and level 10).
 
 * For the pass/fail assignments the grading works the same as for Scientific Programming 1 and 2. You can get one three possible marks: completely correct, mostly correct, or insufficient. You need to get these assignments at least mostly correct.
-* For the graded assignments you get a note based on the code quality (how well written is the code?) and the correctness (does it meet the specifications) of your assignment. Both are graded on a scale from 1 to 5. Where the correctness weighs more than code quality: points $=$ correctness $\times$ 3 $+$ design $\times$ 2. So you can get at most 25 and at least 5 points.
+* For the graded assignments you get a note based on the code quality (how well written is the code?) and the correctness (does it meet the specifications) of your assignment. Both are graded on a scale from 1 to 5. Where the correctness weighs more than code quality: $$\textrm{points} =  \textrm{correctness} \times 3 + \textrm{design} \times 2$$. So you can get at most 25 and at least 5 points.
 * The final project is graded based on novelty and quality. For both you get points on a scale from 1 to 5.
     * Novelty: As a independent programmer you need to often learn a new skill, library or concept by yourself. The main purpose of the final project is to practice with this. This is reflected in the novelty part: to what extend did you do/learn something new (not yet discussed during the course)?
     * Quality: Just like the other graded assignments. How well structured/written is your code?
