@@ -59,11 +59,11 @@ Beware that you don't need to make all modules. **Don't start making them all un
 
 ### Structure {#structure}
 
-The course is designed to be very flexible. So, there are no compulsory sessions. There are no lectures (except for a kick-off meeting at the start) and the tutorials are optional. And, you can follow the courses at any pace that fits your schedule.
+The course is designed to be very flexible. So, there are no compulsory sessions. There are no lectures (except for a kick-off meeting at the start) and the tutorials are optional. The default pace of the course is based on finishing the course in 8 weeks. However, it is possible to extend beyond that up to 16 weeks when needed.
 
 ### Help {#help}
 
-The fact that the course is flexible doesn't mean you are on you own. We do provide a lot of help throughout the course with the programming assignments. It is up to you to seek out this help.
+The fact that the track is flexible doesn't mean you are on you own. We do provide a lot of help throughout the course with the programming assignments. It is up to you to seek out this help.
 
 There are two ways to get help, the tutorials and the forum:
 
@@ -73,10 +73,10 @@ There are two ways to get help, the tutorials and the forum:
   - This is a good place to work on your assignments and get immediate help.
   - This is the main place where you can meet other students.
   - If you can not make it to the tutorial you can book an appointment to get online help during the sessions.
-    - Book an appointment here: [link]
-    - At the moment of your appointment you can join here: [zoom](https://uva-live.zoom.us/j/87393415014)
+    - Book an appointment here: [book online tutorial slot](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/YkpwFIJMMkqDLSs-Fd-dhw2)
+    - At the moment of your appointment you can join here: [join online tutorial on zoom](https://uva-live.zoom.us/j/87393415014)
 - Forum (online): We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
-  - Use the forum: [link]
+  - Use the forum: [go to Ed](https://edstem.org/eu/courses/676/discussion/)
   - If you are registered for Scientific Programming 1 you should automatically have access to the forum. If not, please send and email to get access.
 
 ### Programming modules {#programming-modules}
