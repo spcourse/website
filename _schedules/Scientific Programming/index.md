@@ -256,10 +256,9 @@ The grading for Scientific Programming 1 and 2 is different from the grading for
   - Scientific Programming 1 and 2 are pass/fail courses and Data Processing is a graded course.
   - Scientific Programming 1 and 2 have a final exam Data Processing hasn't.
 
-{#sp1-sp2-grading}
-<details markdown="1"><summary  markdown="span">
-<h3>Grading Scientific Programming 1 and Scientific Programming 2</hr>
-</summary>
+### Grading Scientific Programming 1 and Scientific Programming 2{#sp1-sp2-grading}
+
+<details markdown="1"><summary  markdown="span">Show grading details.</summary>
 
 The grading for Scientific Programming 1 and 2 is exactly the same. For both, the grading is based on three modules and a final exam.
 
@@ -298,6 +297,8 @@ You need to make sure that you leave enough time for grading for the first two m
 
 ### Grading Data Processing {#dp-grading}
 
+<details markdown="1"><summary  markdown="span">Show grading details.</summary>
+
 #### Final grade
 
 For Data Processing you will receive a regular grade (1-10).
@@ -332,6 +333,8 @@ The final project is graded on four aspects:
 | complexity   | 30%    | How complex is your project? How many data sources? Do you need to transform the data? |
 | code_quality | 20%    | Is your code well designed? Is it easy to understand? |
 | process      | 20%    | How well did you document the process of the project? |
+
+</details>
 
 ## Doing your own work {#plagiarism}
 
