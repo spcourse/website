@@ -295,6 +295,7 @@ If you do not meet these requirements (for example when you still have an insuff
 
 You need to make sure that you leave enough time for grading for the first two modules before the exam. So, **hand in the *first two modules* no later that two weeks before the exam**. If you hand in everything last minute you risk not being able to participate in the exam
 </details>
+
 ### Grading Data Processing {#dp-grading}
 
 #### Final grade
