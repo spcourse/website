@@ -1,5 +1,5 @@
 # Syllabus Scientific Programming / Data Processing {#overview}
-**Fall 2022/2023**
+**Fall 2023/2024**
 
 ## General info {#general}
 
@@ -65,7 +65,7 @@ All the reading and video material is available on this website. You do not need
 
 ### Staff {#staff}
 
-Milena Kapralova, Amir Sahrani, Roan van Blanken, Simon Pauw
+Milena Kapralova, Amir Sahrani, Roan van Blanken, Tim de Groot, Simon Pauw
 
 Contact: <scientific@proglab.nl>
 
