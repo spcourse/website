@@ -63,24 +63,6 @@ grades:
 
     monopoly_(level4):
         <<: *check
-    q1_complexity_(level5):
-        type: pass
-        subgrades:
-            correct: boolean
-        calculation: correct
-        hide_subgrades: true
-    q2_complexity_(level5):
-        type: pass
-        subgrades:
-            correct: boolean
-        calculation: correct
-        hide_subgrades: true
-    q3_complexity_(level5):
-        type: pass
-        subgrades:
-            correct: boolean
-        calculation: correct
-        hide_subgrades: true
     complexity_(level5):
         <<: *check-man
     survival_(level6): *check-man
@@ -130,11 +112,9 @@ sp2_modules:
     show_progress: true
     submits:
         monopoly_(level4): 1
-        q1_complexity_(level5): 1
-        q2_complexity_(level5): 1
-        q3_complexity_(level5): 1
         complexity_(level5): 1
         survival_(level6): 1
+    required: true
 
 sp2_exams:
     show_progress: true
@@ -153,3 +133,4 @@ data_modules:
         transformation: 25
         databases: 1
         project: 50
+    required: true
