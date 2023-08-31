@@ -37,27 +37,27 @@ Scientific Programming 2 and Data Processing only assume the preceding course as
 
 **Scientific Programming 1** is a beginner's course. We will teach you the basics of Python programming as well as several different ways of solving computational problems. After this course, we envision that you:
 
-- can transform the description of a simple algorithm into working code by combining basic program elements
-- can apply several scientific programming techniques from different areas of study
-- can use a couple of libraries in your program and know how to find and read documentation on other libraries
-- can make your programs simpler and easier to read by employing a few standard tactics
-- can trace and fix several common programming errors
+- can transform the description of a simple algorithm into working code by combining basic program elements;
+- can apply several scientific programming techniques from different areas of study;
+- can use a couple of libraries in your program and know how to find and read documentation on other libraries;
+- can make your programs simpler and easier to read by employing a few standard tactics;
+- can trace and fix several common programming errors.
 
-After **Scientific Programming 2** you should be able to independently tackle typically programming challenges that you might encounter in your field of studies/research. We will teach you more intermediate Python concepts. And some more advanced concepts pertaining to data analysis. After this course, we envision that you:
+After **Scientific Programming 2** you should be able to independently tackle typical programming challenges that you might encounter in your field of studies/research. We will teach you more intermediate Python concepts. And some more advanced concepts pertaining to data analysis. After this course, we envision that you:
 
-- can use native python data structures (like sets, dictionaries, and tuples)
-- analyze the complexity of an algorithm
-- quickly learn to use new python packages and know how to find documentation for them
-- import and analyze data
-- create advanced plots
+- can use native python data structures (like sets, dictionaries, and tuples);
+- analyze the complexity of an algorithm;
+- quickly learn to use new python packages and know how to find documentation for them;
+- import and analyze data;
+- create advanced plots.
 
 For **Data Processing** you'll build your own toolkit of useful programs with which you can read, transform and analyze data that you might find in various scientific areas. After this course we envision that you:
 
-- you can read data into your programs from several structured standard formats
-- you can transform data into a form suitable for further analysis by combining basic operators
-- you can build meaningful visualizations of your data
-- you understand how to write programs that are easy to understand for yourself and other programmers
-- you are capable of using advanced programming concepts (like object oriented programming)
+- can read data into your programs from several structured standard formats;
+- can transform data into a form suitable for further analysis by combining basic operators;
+- can build meaningful visualizations of your data;
+- understand how to write programs that are easy to understand for yourself and other programmers;
+- are capable of using advanced programming concepts (like object oriented programming).
 
 ### Course materials {#materials}
 
@@ -107,6 +107,7 @@ There are two ways to get help, the tutorials and the forum:
   - This is a good place to work on your assignments and get immediate help.
   - This is the main place where you can meet other students.
   - If you can not make it to the tutorial you can book an appointment to get online help during the sessions.
+    - This is meant for occasional use, not as a structural replacement for physically going to the tutorials. As such, there a limited slots available throughout the week.
     - Book an appointment here: [book online tutorial slot](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/YkpwFIJMMkqDLSs-Fd-dhw2)
     - At the moment of your appointment you can join here: [join online tutorial on zoom](https://uva-live.zoom.us/j/87393415014)
 - Forum (online): We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
@@ -119,7 +120,7 @@ You're going to learn programming through a number of programming modules. Each 
 
 - Theory: Explanations both written and in the form of video's.
 - Practice: Exercises to test your understanding of the theory.
-- Assignments: Bigger programming problems, that require combining multiple programming concepts.
+- Assignments: Bigger programming problems that require combining multiple programming concepts.
 
 The modules are grouped into levels, you have to make one module per level. For some levels you have the choice between two different modules. When there is such a choice, you will learn the same programming concepts, but often in different thematic context (i.e. different scientific fields).
 
@@ -138,7 +139,7 @@ Here below is an overview of all modules for all courses.
     </td><td>
       <b>or</b>
     </td><td>
-      <b>NUMBERS</b>. How do you know if a number is a prime number? Number theory is the science about properties of numbers. In this mathematically oriented module you create a series of programs that compute this and other properties of numbers. No math knowledge required for this module. (You will learn some, though)
+      <b>NUMBERS</b>. How do you know if a number is a prime number? Number theory is the science about properties of numbers. In this mathematically oriented module you create a series of programs that compute this and other properties of numbers. No math knowledge required for this module. (You will learn some, though.)
     </td>
   </tr><tr>
     <td>
@@ -175,9 +176,9 @@ Here below is an overview of all modules for all courses.
 
 <table>
   <tr>
-    <td> <b>Level 7</b> </td><td colspan="3"> <b>POPULATIONS</b>. Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. Ta make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP).</td>
+    <td> <b>Level 7</b> </td><td colspan="3"> <b>POPULATIONS</b>. Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP).</td>
   </tr><tr>
-    <td> <b>Level 8</b> </td><td colspan="3"> <b>ACQUISITION</b>. What was the best year for movies? This is often debated on the internet, for example [here](https://www.washingtonpost.com/news/style/wp/2018/12/28/feature/what-was-the-best-year-in-movie-history/), [here](https://www.independent.co.uk/arts-entertainment/films/features/film-history-best-year-1999-star-wars-matrix-fight-club-sixth-sense-a9036911.html), [here](https://www.reddit.com/r/movies/comments/5m6jrp/best_year_for_movies/) and [here](https://www.maxim.com/entertainment/10-movies-prove-1994-was-best-year-film-history). You're going to write a bot that extracts information from websites to find an answer to this question. This process is called web-scraping. When you're doing research it's often the case that the data is out there on the internet, but no-one went through the effort to collect for you in way that you can directly use it. In that case you will need to know how to acquire this data yourself. </td>
+    <td> <b>Level 8</b> </td><td colspan="3"> <b>ACQUISITION</b>. What was the best year for movies? This is often debated on the internet, for example <a href = "https://www.washingtonpost.com/news/style/wp/2018/12/28/feature/what-was-the-best-year-in-movie-history/">here</a>, <a href = "https://www.independent.co.uk/arts-entertainment/films/features/film-history-best-year-1999-star-wars-matrix-fight-club-sixth-sense-a9036911.html">here</a>, <a href = "https://www.reddit.com/r/movies/comments/5m6jrp/best_year_for_movies/"> and <a href = "https://www.maxim.com/entertainment/10-movies-prove-1994-was-best-year-film-history">here</a>. You're going to write a bot that extracts information from websites to find an answer to this question. This process is called web-scraping. When you're doing research it's often the case that the data is out there on the internet, but no-one went through the effort to collect for you in way that you can directly use it. In that case you will need to know how to acquire this data yourself. </td>
   </tr><tr>
     <td> <b>Level 9</b> </td><td colspan="3"> <b>TRANSFORMATION</b>. Does a restaurant pass health code inspections? Could you gauge this by analyzing reviews of this restaurant? You will use information from two different data sources (Yelp and the Washington State Department of Health) to answer these questions. The problem is (as you will see quite often when analyzing data), there is no straightforward way to combine the two data sources. They were never made to be used together, so you will need to transform the datasets to be used together.</td>
   </tr><tr>
@@ -195,7 +196,7 @@ Deadlines for each level are listed below. The deadlines are our recommendation.
 
 The deadlines depend on the course you're starting this period and on the pace you decided to do the course at: *relaxed* (finish SP1 and SP2 in one year), *standard* (finish all courses in one year), and *fast* (finish all courses in one semester). Most students tend to follow the standard schedule. The standard schedule corresponds to an investment of about 10 hours per week, but this varies a lot per student and educational background.
 
-The proposed schedules are worked out for only the most common cases. If non of those seems to apply to you, please contact us.
+The proposed schedules are worked out for only the most common cases. If none of those seems to apply to you, please contact us.
 
 The deadline schedules:
 
@@ -203,21 +204,21 @@ The deadline schedules:
 
 | Level\Pace          | relaxed         | standard        | fast            |
 |---------------------|-----------------|-----------------|-----------------|
-| SP1 - Level 1       | Mon 01 Jan 2023 | ??? ?? ??? ???? | ??? ?? ??? ???? |
-| SP1 - Level 2       | ??? ?? ??? ???? | ??? ?? ??? ???? | ??? ?? ??? ???? |
-| SP1 - Level 3       | ??? ?? ??? ???? | ??? ?? ??? ???? | ??? ?? ??? ???? |
-| SP1 - Exam          | ??? ?? ??? ???? | ??? ?? ??? ???? | ??? ?? ??? ???? |
+| SP1 - Level 1       | Fri 29 Sep 2023 | Fri 15 Sep 2023 | Mon 11 Sep 2023 |
+| SP1 - Level 2       | Fri 03 Nov 2023 | Fri 29 Sep 2023 | Mon 18 Sep 2023 |
+| SP1 - Level 3       | Fri 08 Dec 2023 | Fri 13 Oct 2023 | Mon 25 Sep 2023 |
+| SP1 - Exam          | Tue 19 Dec 2023 | Mon 23 Oct 2023 | Mon 23 Oct 2023 |
 |---------------------|-----------------|-----------------|-----------------|
-| SP2 - Level 4       | Semester 2      | ??? ?? ??? ???? | ??? ?? ??? ???? |
-| SP2 - Level 5       | Semester 2      | ??? ?? ??? ???? | ??? ?? ??? ???? |
-| SP2 - Level 6       | Semester 2      | ??? ?? ??? ???? | ??? ?? ??? ???? |
-| SP2 - Exam          | Semester 2      | ??? ?? ??? ???? | ??? ?? ??? ???? |
+| SP2 - Level 4       | Semester 2      | Fri 10 Nov 2023 | Mon 02 Oct 2023 |
+| SP2 - Level 5       | Semester 2      | Fri 24 Nov 2023 | Mon 09 Oct 2023 |
+| SP2 - Level 6       | Semester 2      | Fri 08 Dec 2023 | Mon 16 Oct 2023 |
+| SP2 - Exam          | Semester 2      | Wed 20 Dec 2023 | Wed 25 Oct 2023 |
 |---------------------|-----------------|-----------------|-----------------|
-| DP  - Level 7       |                 | Semester 2      | ??? ?? ??? ???? |
-| DP  - Level 8       |                 | Semester 2      | ??? ?? ??? ???? |
-| DP  - Level 9       |                 | Semester 2      | ??? ?? ??? ???? |
-| DP  - Level 10      |                 | Semester 2      | ??? ?? ??? ???? |
-| DP  - Final Project |                 | Semester 2      | ??? ?? ??? ???? |
+| DP  - Level 7       |                 | Semester 2      | Fri 10 Nov 2023 |
+| DP  - Level 8       |                 | Semester 2      | Wed 22 Nov 2023 |
+| DP  - Level 9       |                 | Semester 2      | Wed 29 Nov 2023 |
+| DP  - Level 10      |                 | Semester 2      | Wed 06 Dec 2023 |
+| DP  - Final Project |                 | Semester 2      | Wed 20 Dec 2023 |
 
 </details>
 
@@ -225,10 +226,10 @@ The deadline schedules:
 
 | Level\Pace          | relaxed         | standard        |
 |---------------------|-----------------|-----------------|
-| SP2 - Level 4       | ??? ?? ??? ???? | ??? ?? ??? ???? |
-| SP2 - Level 5       | ??? ?? ??? ???? | ??? ?? ??? ???? |
-| SP2 - Level 6       | ??? ?? ??? ???? | ??? ?? ??? ???? |
-| SP2 - Exam          | ??? ?? ??? ???? | ??? ?? ??? ???? |
+| SP2 - Level 4       | Fri 29 Sep 2023 | Fri 15 Sep 2023 |
+| SP2 - Level 5       | Fri 03 Nov 2023 | Fri 29 Sep 2023 |
+| SP2 - Level 6       | Fri 08 Dec 2023 | Fri 13 Oct 2023 |
+| SP2 - Exam          | Wed 20 Dec 2023 | Wed 25 Oct 2023 |
 |---------------------|-----------------|-----------------|
 | DP  - Level 7       | Semester 2      | Semester 2      |
 | DP  - Level 8       | Semester 2      | Semester 2      |
@@ -243,11 +244,11 @@ The deadline schedules:
 
 | Level\Pace          | standard        |
 |---------------------|-----------------|
-| DP  - Level 7       | ??? ?? ??? ???? |
-| DP  - Level 8       | ??? ?? ??? ???? |
-| DP  - Level 9       | ??? ?? ??? ???? |
-| DP  - Level 10      | ??? ?? ??? ???? |
-| DP  - Final Project | ??? ?? ??? ???? |
+| DP  - Level 7       | Mon 25 Sep 2023 |
+| DP  - Level 8       | Mon 16 Oct 2023 |
+| DP  - Level 9       | Mon 06 Nov 2023 |
+| DP  - Level 10      | Wed 22 Nov 2023 |
+| DP  - Final Project | Wed 20 Dec 2023 |
 
 </details>
 
@@ -305,7 +306,7 @@ You need to make sure that you leave enough time for grading for the first two m
 
 For Data Processing you will receive a regular grade (1-10).
 
-Your final grade will be determined by the grades for Level 2, 9 and your final project as follows:
+Your final grade will be determined by the grades for Level 7, 9 and your final project as follows:
 
 | Module                  | Weight |
 |-------------------------|--------|
