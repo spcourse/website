@@ -1,4 +1,5 @@
 # Syllabus Scientific Programming 1
+
 **Fall 2023/2024**
 
 ## General info {#general}
@@ -129,22 +130,24 @@ The deadline schedule:
 
 | Level               |                 |
 |---------------------|-----------------|
-| Level 1             | ??? ?? ??? ???? |
-| Level 2             | ??? ?? ??? ???? |
-| Level 3             | ??? ?? ??? ???? |
-| Exam                | ??? ?? ??? ???? |
+| Level 1             | Wed 20 Sep 2023 |
+| Level 2             | Wed 4 Oct 2023  |
+| Level 3             | Wed 18 Oct 2023 |
+| Exam                | Mon 23 Oct 2023 |
 |---------------------|-----------------|
 
 
 ## Grading {#grading}
 
 #### Final grade
+
 The course's final result will be "pass" or "fail", which means that no grades are assigned. You pass by:
 
 - submitting sufficient coursework (as detailed below)
 - passing the final exam
 
 #### Coursework (modules)
+
 For each module you will one of the following grades:
 
 * completely correct
@@ -159,6 +162,7 @@ In principle we expect that everything you hand in is *completely correct*. Howe
 You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
 
 #### Final exam
+
 The final exam is (on campus) programming exam in a controlled setting. This will take about 3 hours. It contains a couple of small programming assignments. You'll pass the exam when your answers are sufficiently correct.
 
 You can participate in the final exam if you're done with the coursework, meaning:
@@ -219,6 +223,7 @@ BSc programme. Find them here in [English] and [Dutch].
 
 
 ## Acknowledgements {#acknowledgements}
+
 This course has been designed by Simon Pauw, Martijn Stegeman, Wouter Vrielink, Tim Doolan and Ivo van Vulpen.
 
 It is partially based on many great programming resources that have been published as Open Courseware under a Creative Commons license. The resulting work itself is also published under the Creative Commons License Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Feel free to re-use! If you would like to use the work commercially, please send an e-mail for arranging a license.
