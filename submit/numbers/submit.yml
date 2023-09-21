@@ -12,4 +12,4 @@ files:
 check:
     tool: checkpy
     repo: uva-sp/sp1
-    args: -m numbers
+    args: whiz leap birthday prime listprimes goldbach plot
