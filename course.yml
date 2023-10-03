@@ -4,5 +4,5 @@ language: en
 
 links:
     '[brush] Style guide': /python/en/style
-    '[check lg] Checkpy guide': /python/en/checkpy
+    '[check] Checkpy use': /python/en/checkpy
     '[question-square] Help!': /syllabus#help
