@@ -110,6 +110,7 @@ Which should print:
 
 
 The problem involves a number of steps:
+
 1. First you will need to deal with the `NaN`. You can use the Pandas `fillna` method for this.
 2. Second, you need to compute the percentage of votes of each candidate and create a column `percentage_votes` which contains the number of votes as a percentage of the total votes cast.
 3. Finally you should select only the rows where this percentage is higher then 2%.
