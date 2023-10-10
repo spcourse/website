@@ -228,11 +228,11 @@ SP2 - L6 (Survival):
         Default arguments [theory]: /python/en/default-arguments
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
     Pandas:
-        Pandas [practice]: /pandas/pandas
+        Pandas [practice]: /pandas/pandas-sp
     Seaborn:
         Seaborn [practice]: /pandas/seaborn
     Survival:
-        Mushrooms [assignment]: /pandas/survival
+        Mushrooms [assignment]: /pandas/survival-sp
     Submit your solutions: /submit/survival
 
 SP2 - Exam:
