@@ -177,8 +177,10 @@ SP1 - BONUS (Physics of Movement):
     Submit:
         Submit your solutions: /submit/movement
 
-SP1 - Exam:
+SP1 - Practice exam:
     Practice exam: /exams/sp1/practice
+
+SP1 - Exam:
     Exam: /exams/sp1/exam
 
 SP2 - L4 (Monopoly):
@@ -236,8 +238,10 @@ SP2 - L6 (Survival):
         Mushrooms [assignment]: /pandas/survival-sp
     Submit your solutions: /submit/survival
 
-SP2 - Exam:
+SP2 - Practice exam:
     Practice exam: /exams/sp2/practice
+
+SP2 - Exam:
     Exam: /exams/sp2/exam
 
 DP - L7 (Populations):
