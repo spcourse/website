@@ -18,7 +18,7 @@ Run checkpy:
 
 - Create one file for all your solutions called `sp1_exam10.py`. This is the file you'll hand in at the end of your exam.
 - You're not allowed to use `numpy` or any other external Python module.
-- You're only allowed to use the websites sp.mprog.nl. You're not allowed to use any other website.
+- You're only allowed to use the websites sp.proglab.nl. You're not allowed to use any other website.
 - You cannot get any help with programming during the exam.
 - Submit your solutions when you're done. **Check with the teacher present if you handed in your assignment correctly before leaving the exam venue.**
 
@@ -31,7 +31,7 @@ Example usage:
 
     clist = converge(5)
     print(clist)
-
+    
     clist = converge(10)
     print(clist)
 
