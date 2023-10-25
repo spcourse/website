@@ -88,23 +88,23 @@ Expected output:
 
 For this assignment you're going to use the datafile [spotify.csv](spotify.csv). This file contains information about the popularity of songs on Spotify. It contains these columns:
 
-    | Column Name           | Description                                      |
-    |-----------------------|--------------------------------------------------|
-    | track_name            | The name of the music track.                     |
-    | artist(s)_name        | The name(s) of the artist(s) who performed the track. If there are multiple artists, they are separated by commas. |
-    | released_date (yyyy-mm) | The release date (month) of the track in the "yyyy-mm" format. |
-    | streams               | The number of streams for the track.            |
+| Column Name           | Description                                      |
+|-----------------------|--------------------------------------------------|
+| track_name            | The name of the music track.                     |
+| artist(s)_name        | The name(s) of the artist(s) who performed the track. If there are multiple artists, they are separated by commas. |
+| released_date (yyyy-mm) | The release date (month) of the track in the "yyyy-mm" format. |
+| streams               | The number of streams for the track.            |
 
 The is a small sample of the contents of the file:
 
-    | track_name                  | artist(s)_name                  | released_date (yyyy-mm) | streams   |
-    |-----------------------------|---------------------------------|-------------------------|-----------|
-    | Seven (feat. Latto) (Explicit Ver.) | "Latto, Jung Kook" | 2023-7                  | 141,381,703 |
-    | LALA                        | Myke Towers                     | 2023-3                  | 133,716,286 |
-    | vampire                     | Olivia Rodrigo                   | 2023-6                  | 140,003,974 |
-    | Cruel Summer                 | Taylor Swift                     | 2019-8                  | 800,840,817 |
-    | WHERE SHE GOES              | Bad Bunny                        | 2023-5                  | 303,236,322 |
-    | ...                    |...             | ...                  | ... |
+| track_name                  | artist(s)_name                  | released_date (yyyy-mm) | streams   |
+|-----------------------------|---------------------------------|-------------------------|-----------|
+| Seven (feat. Latto) (Explicit Ver.) | "Latto, Jung Kook" | 2023-7                  | 141,381,703 |
+| LALA                        | Myke Towers                     | 2023-3                  | 133,716,286 |
+| vampire                     | Olivia Rodrigo                   | 2023-6                  | 140,003,974 |
+| Cruel Summer                 | Taylor Swift                     | 2019-8                  | 800,840,817 |
+| WHERE SHE GOES              | Bad Bunny                        | 2023-5                  | 303,236,322 |
+| ...                    |...             | ...                  | ... |
 
 So for instance, the song "Cruel Summer" was written by "Taylor Swift", was released in August 2019 (2019-8) and was streamed on Spotify a total of 800,840,817 times.
 
