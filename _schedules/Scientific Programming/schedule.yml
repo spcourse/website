@@ -276,7 +276,9 @@ DP - L8 (Acquisition):
     More Pandas:
         Improve your Pandas skills: "/acquisition/pandas"
     Scraping:
-        Scrape a web page: "/acquisition/scraping"
+        Introduction: "/acquisition/scraping"
+        Scraping a single page: "/acquisition/scraping1"
+        Scrape more pages: "/acquisition/scraping2"
         Transforming data to be more usable: "/acquisition/transforming"
         Visualizing the data: "/acquisition/visualizing"
     Crawling:
