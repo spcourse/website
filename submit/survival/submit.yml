@@ -1,5 +1,4 @@
 name: survival_(level6)
 files:
     required:
-        - pandas.ipynb
         - survival.ipynb

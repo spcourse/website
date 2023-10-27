@@ -29,7 +29,7 @@ Level 1 - Algorithms:
         Looking for trouble [theory]: /python/en/debugging-basics
         Understand how to write good code [theory]: /python/en/style
         Calculate change [assignment]: /algorithms/en/greedy
-        Review the previous assignment [peer review]: /peer/greedy
+        Review the previous assignment [peer review]: /peer
 
     Plotting graphs:
         Learn about lists [theory]: /python/en/lists
@@ -165,5 +165,8 @@ BONUS - Physics of movement:
     Submit:
         Submit your solutions: /submit/movement
 
-Exam:
+Practice exam:
     Practice exam: /exams/sp1/practice
+
+Exam:
+    Exam: /exams/sp1/exam

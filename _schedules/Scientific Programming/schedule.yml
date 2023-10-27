@@ -32,7 +32,7 @@ SP1 - L1 (Algorithms):
         Looking for trouble [theory]: /python/en/debugging-basics
         Understand how to write good code [theory]: /python/en/style
         Calculate change [assignment]: /algorithms/en/greedy
-        Review the previous assignment [peer review]: /peer/greedy
+        Review the previous assignment [peer review]: /peer
 
     Plotting graphs:
         Learn about lists [theory]: /python/en/lists
@@ -177,8 +177,11 @@ SP1 - BONUS (Physics of Movement):
     Submit:
         Submit your solutions: /submit/movement
 
-SP1 - Exam:
+SP1 - Practice exam:
     Practice exam: /exams/sp1/practice
+
+SP1 - Exam:
+    Exam: /exams/sp1/exam
 
 SP2 - L4 (Monopoly):
     Scientific Programming 2 - Level 4 (Monopoly):
@@ -227,14 +230,19 @@ SP2 - L6 (Survival):
     Function arguments:
         Default arguments [theory]: /python/en/default-arguments
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
-    "Part 1: Pandas":
-        Pandas (assignment): /survival/pandas
-    "Part 2: Survival":
-        Survival (assignment): /survival/survival
+    Pandas:
+        Pandas [practice]: /pandas/pandas-sp
+    Seaborn:
+        Seaborn [practice]: /pandas/seaborn
+    Survival:
+        Mushrooms [assignment]: /pandas/survival-sp
     Submit your solutions: /submit/survival
 
+SP2 - Practice exam:
+    Practice exam: /exams/sp2/practice
+
 SP2 - Exam:
-    # Practice exam: /exams/sp2/practice
+    Exam: /exams/sp2/exam
 
 DP - L7 (Populations):
     Data Processing - Level 7 (Populations) [graded assignment]:
