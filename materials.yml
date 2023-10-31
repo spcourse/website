@@ -55,6 +55,11 @@ pandas:
     remote: https://github.com/spcourse/pandas.git
     branch: main
 
+# Bonus
+news:
+    remote: https://github.com/spcourse/news.git
+    branch: main
+
 #### Data
 
 # M7

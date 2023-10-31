@@ -238,6 +238,24 @@ SP2 - L6 (Survival):
         Mushrooms [assignment]: /pandas/survival-sp
     Submit your solutions: /submit/survival
 
+SP2 - BONUS (News):
+    Scientific Programming 2 - BONUS (News):
+    Introduction: /news/
+    "Part 1: Functional Programming":
+        Functional programming (reading): /python/en/functional-programming
+        Functional programming (assignment): /news/functional
+    "Part 2: Create a new Python package":
+        Packages (reading): /python/en/packages
+        Packages (assignment): /news/package
+    "Part 3: File I/O":
+        File I/O (reading): /python/en/file-io
+        The OS library (reading): /python/en/os
+    "Part 4: Natural language processing":
+        Tokenize (assignment): /news/tokenize
+        Unigrams (assignment): /news/unigrams
+        Bigrams (assignment): /news/bigrams
+    Submit your solutions: /submit/news
+
 SP2 - Practice exam:
     Practice exam: /exams/sp2/practice
 
