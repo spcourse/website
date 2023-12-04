@@ -200,8 +200,8 @@ SP2 - L4 (Monopoly):
     Submit:
         Submit your solutions: /submit/monopoly
 
-SP2 - L5 (Complexity):
-    Scientific Programming 2 - Level 5 (Complexity):
+SP2 - L5 (Word Index):
+    Scientific Programming 2 - Level 5 (Word Index):
     Introduction: /complexity
     "Part 1: Computational complexity":
         Complexity [theory]: /python/en/efficiency
@@ -223,6 +223,35 @@ SP2 - L5 (Complexity):
     "Part 4: Indexing":
         Indexing words [assignment]: /complexity/word-index
     Submit your solutions: /submit/complexity
+
+SP2 - L5 (Shakespeare):
+    Scientific Programming 2 - Level 5 (Shakespeare - experimental release):
+    Introduction: /shakespeare/intro
+    "Part 1: Computational complexity":
+        Complexity [theory]: /python/en/efficiency
+        Complexity questions 1 [assignment]: /complexity/questions1
+    "Part 2: Data structures":
+        Dictionaries [theory]: /python/en/dictionaries/use
+        Dictionaries [practice]: /python/en/dictionaries/use/practice
+        Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
+        Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
+        Tuples [theory]: /python/en/tuples
+        Sets [theory]: /python/en/sets
+        Sets [practice]: /python/en/sets/practice
+        # List slicing and indexing [theory]: /python/en/slicing
+    "Part 3: Optimizing code":
+        Applying big O in your code [theory]: /python/en/big-o
+        Improving count_occurrence [theory]: /python/en/big-o-example
+        Complexity questions 2 [assignment]: /complexity/questions2
+    "Part 4: Unique word classifier":
+        Optimize [assignment]: /shakespeare/optimize-unique-words
+        Extend [assignment]: /shakespeare/extend-unique-words
+    "Part 5: TF-IDF classifier":
+        Create a TF-IDF classifier [assignment]: /shakespeare/tf-idf-classifier
+    "Part 6: Generate shakspeare data (BONUS)":
+        Generate your own word lists: /shakespeare/generate-word-list
+
+    Submit your solutions: /submit/shakespeare
 
 SP2 - L6 (Survival):
     Scientific Programming 2 - Level 6 (Survival):
