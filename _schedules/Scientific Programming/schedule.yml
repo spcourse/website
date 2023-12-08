@@ -338,6 +338,8 @@ DP - L8 (Acquisition):
         Visualizing the data: "/acquisition/visualizing"
     Crawling:
         Get even more data: "/acquisition/crawling"
+        Visualize the actors: "/acquisition/crawling2"
+        Visualize languages: "/acquisition/crawling3"
     Submit: "/acquisition/submit"
 
 DP - L9 (Transformation):
