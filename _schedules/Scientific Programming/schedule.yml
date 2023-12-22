@@ -2,12 +2,11 @@ Welcome:
     Read the syllabus to get started: /syllabus
     Install python:
       Intro: /python/en/installing/intro
-      Step 1, install Miniconda (MAC): /python/en/installing/miniconda-mac
-      Step 1, install Miniconda (WINDOWS): /python/en/installing/miniconda-win
+      Step 1, [MacOS] install Miniconda: /python/en/installing/miniconda-mac
+      Step 1, [Windows] install Miniconda: /python/en/installing/miniconda-win
       Step 2, install Pulsar: /python/en/installing/pulsar
-      Step 3, command line interface:
-        MAC: /python/en/installing/cli-mac
-        Windows: /python/en/installing/cli-win
+      Step 3, command line interface (MacOS): /python/en/installing/cli-mac
+      Step 3, command line interface (Windows): /python/en/installing/cli-win
       Step 4, Conda environment: /python/en/installing/conda-env-sp
       Step 5, checkpy: /python/en/installing/checkpy
 
