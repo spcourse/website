@@ -49,6 +49,7 @@ Level 1 - Algorithms:
         Learn about lists [theory]: /python/en/lists
         Practice with lists [practice]: /python/en/lists/practice
         For loop strategies [theory]: /python/en/loops/element-vs-index
+        For-loops with indexing [theory]: /python/en/loops/element-vs-index
         Learn how to use modules [theory]: /python/en/modules
         Learn about plotting in Python [theory]: /python/en/plotting
         Visualize data with plots [assignment]: /plot/en/
@@ -95,6 +96,7 @@ Level 1 - Number theory:
     Plotting graphs:
         Learn how to use modules [theory]: /python/en/modules
         Learn about plotting in Python [theory]: /python/en/plotting
+        For-loops with indexing [theory]: /python/en/loops/element-vs-index
         Visualize data with plots [assignment]: /plot/en/
 
     Submit:
