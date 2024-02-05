@@ -16,8 +16,11 @@ Welcome:
       Step 5 checkpy: /python/en/installing/checkpy
 
 
-Level 1 - Algorithms:
-    Introduction: /algorithms/en/intro2
+SP1 - L1 (Algorithms):
+
+    Scientific Programming 1 - Level 1 (Algorithms):
+
+    Intro: /algorithms/en/intro2
 
     Getting started:
         Basic elements of Python [theory]: /python/en/basics
@@ -56,7 +59,9 @@ Level 1 - Algorithms:
     Submit:
         Submit your solutions: /submit/algorithms
 
-Level 1 - Number theory:
+SP1 - L1 (Number theory):
+    Scientific Programming 1 - Level 1 (Number Theory):
+
     Introduction: /numbers/en/intro2
 
     Getting started:
@@ -100,7 +105,8 @@ Level 1 - Number theory:
     Submit:
         Submit your solutions: /submit/numbers
 
-Level 2 - Numerical integration:
+SP1 - L2 (Numerical integration):
+    Scientific Programming 1 - Level 2 (Numerical Integration):
     Introduction: /integrals/en/intro2
     Roots:
         Learn about functions in Python [theory]: /python/en/functions
@@ -126,7 +132,9 @@ Level 2 - Numerical integration:
     Submit:
         Submit your solutions: /submit/integrals
 
-Level 2 - Text processing:
+SP1 - L2 (Text Processing):
+    Scientific Programming 1 - Level 2 (Text Processing):
+
     Introduction: /text/en/intro2
 
     Text statistics:
@@ -149,7 +157,9 @@ Level 2 - Text processing:
     Submit:
         Submit your solutions: /submit/text
 
-Level 3 - Big data:
+SP1 - L3 (Big Data):
+    Scientific Programming 1 - Level 3 (Big Data):
+
     Introduction: /bigdata/en/
 
     Big data:
@@ -162,7 +172,9 @@ Level 3 - Big data:
     Submit:
         Submit your solutions: /submit/bigdata
 
-BONUS - Physics of movement:
+SP1 - BONUS (Physics of Movement):
+    Scientific Programming 1 - Bonus (Physics of Movement):
+
     Animating in Python:
         Learn how to create animated graphics [theory]: /animation/en/explanation
         A spiraling dot [assignment]: /animation/en/dot
@@ -179,8 +191,116 @@ BONUS - Physics of movement:
     Submit:
         Submit your solutions: /submit/movement
 
-Practice exam:
+SP1 - Practice exam:
     Practice exam: /exams/sp1/practice
 
-Exam:
+SP1 - Exam:
     Exam: /exams/sp1/exam
+
+SP2 - L4 (Monopoly):
+    Scientific Programming 2 - Level 4 (Monopoly):
+    Animating in Python:
+        Learn how to create animated graphics [theory]: /animation/en/explanation
+        A spiraling dot [assignment]: /animation/en/dot
+        Explore the movements of a buzzed student [assignment]: /animation/en/student
+    Monopoly:
+        Introduction: /monopoly/en/
+        Learn about debugging simulations [theory]: /python/en/debugging
+        Main function [theory]: /python/en/main_function
+        Moving around the board [assignment]: /monopoly/en/moving-around
+        "Design: default arguments [theory]": /python/en/default-arguments
+        Using starting funds and buying stuff [assignment]: /monopoly/en/money
+        Add a player and restore the balance [assignment]: /monopoly/en/two-player
+    Submit:
+        Submit your solutions: /submit/monopoly
+
+SP2 - L5 (Word Index):
+    Scientific Programming 2 - Level 5 (Word Index):
+    Introduction: /complexity
+    "Part 1: Computational complexity":
+        Complexity [theory]: /python/en/efficiency
+        Complexity questions 1 [assignment]: /complexity/questions1
+    "Part 2: Data structures":
+        Dictionaries [theory]: /python/en/dictionaries/use
+        Dictionaries [practice]: /python/en/dictionaries/use/practice
+        Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
+        Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
+        Tuples [theory]: /python/en/tuples
+        Sets [theory]: /python/en/sets
+        Sets [practice]: /python/en/sets/practice
+        List slicing and indexing [theory]: /python/en/slicing
+    "Part 3: Optimizing code":
+        Applying big O in your code [theory]: /python/en/big-o
+        Improving count_occurrence [theory]: /python/en/big-o-example
+        Complexity questions 2 [assignment]: /complexity/questions2
+        Jaccard [assignment]: /complexity/jaccard
+    "Part 4: Indexing":
+        Indexing words [assignment]: /complexity/word-index
+    Submit your solutions: /submit/complexity
+
+SP2 - L5 (Shakespeare):
+    Scientific Programming 2 - Level 5 (Shakespeare - experimental release):
+    Introduction: /shakespeare/intro
+    "Part 1: Computational complexity":
+        Complexity [theory]: /python/en/efficiency
+        Complexity questions 1 [assignment]: /complexity/questions1
+    "Part 2: Data structures":
+        Dictionaries [theory]: /python/en/dictionaries/use
+        Dictionaries [practice]: /python/en/dictionaries/use/practice
+        Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
+        Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
+        Tuples [theory]: /python/en/tuples
+        Sets [theory]: /python/en/sets
+        Sets [practice]: /python/en/sets/practice
+        # List slicing and indexing [theory]: /python/en/slicing
+    "Part 3: Optimizing code":
+        Applying big O in your code [theory]: /python/en/big-o
+        Improving count_occurrence [theory]: /python/en/big-o-example
+        Complexity questions 2 [assignment]: /complexity/questions2
+    "Part 4: Unique word classifier":
+        Optimize [assignment]: /shakespeare/optimize-unique-words
+        Extend [assignment]: /shakespeare/extend-unique-words
+    "Part 5: TF-IDF classifier":
+        Create a TF-IDF classifier [assignment]: /shakespeare/tf-idf-classifier
+    "Part 6: Generate shakspeare data (BONUS)":
+        Generate your own word lists: /shakespeare/generate-word-list
+
+    Submit your solutions: /submit/shakespeare
+
+SP2 - L6 (Survival):
+    Scientific Programming 2 - Level 6 (Survival):
+    Introduction: /survival/
+    Function arguments:
+        Default arguments [theory]: /python/en/default-arguments
+        Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
+    Pandas:
+        Pandas [practice]: /pandas/pandas-sp
+    Seaborn:
+        Seaborn [practice]: /pandas/seaborn
+    Survival:
+        Mushrooms [assignment]: /pandas/survival-sp
+    Submit your solutions: /submit/survival
+
+SP2 - BONUS (News):
+    Scientific Programming 2 - BONUS (News):
+    Introduction: /news/
+    "Part 1: Functional Programming":
+        Functional programming (reading): /python/en/functional-programming
+        Functional programming (assignment): /news/functional
+    "Part 2: Create a new Python package":
+        Packages (reading): /python/en/packages
+        Packages (assignment): /news/package
+    "Part 3: File I/O":
+        File I/O (reading): /python/en/file-io
+        The OS library (reading): /python/en/os
+    "Part 4: Natural language processing":
+        Tokenize (assignment): /news/tokenize
+        Unigrams (assignment): /news/unigrams
+        Bigrams (assignment): /news/bigrams
+    Submit your solutions: /submit/news
+
+SP2 - Practice exam:
+    Practice exam: /exams/sp2/practice
+
+SP2 - Exam:
+    Exam: /exams/sp2/exam

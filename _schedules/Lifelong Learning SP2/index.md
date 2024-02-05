@@ -1,4 +1,4 @@
-# Syllabus Scientific Programming 1
+# Syllabus Scientific Programming 2
 
 **Spring 2023/2024**
 
@@ -94,31 +94,11 @@ Here below is an overview of all modules for all courses.
 
 <table>
   <tr>
-    <td> Level 0 </td><td colspan="3"> Python Installation </td>
+    <td> <b>Level 4</b> </td><td colspan="3"> <b>MONOPOLY</b>. When playing Monopoly, a starting player's advantage seems unfair. To verify, you could play many (millions) real games, but this would take way too much time. Instead, you'll write a computer simulation. This also allows you to experiment with game adjustments to make it fair. You're doing all this for a board game, but this simulation principle applies to various scientific fields (economy, chemistry, biology...).</td>
   </tr><tr>
-    <td>
-      <b>Level 1</b> (choose one of the modules)
-    </td><td>
-      <b>ALGORITHMS</b>. Learn to think like a computer. Things that we intuitively know how to do, like drawing a pyramid or computing change for a payment, is hard to get a computer to do right. In this module you’ll learn how to break down such intuitive problems into steps that even a computer can understand.
-    </td><td>
-      <b>or</b>
-    </td><td>
-      <b>NUMBERS</b>. How do you know if a number is a prime number? Number theory is the science about properties of numbers. In this mathematically oriented module you create a series of programs that compute this and other properties of numbers. No math knowledge required for this module. (You will learn some, though)
-    </td>
+    <td> <b>Level 5</b> </td><td colspan="3"> <b>COMPLEXITY</b>. What is an efficient algorithm? When you want to run large simulations, analyze large dataset, or any other computationally intensive task, writing efficient algorithms could in some cases mean the difference between a run time of a couple of minutes or of weeks. The theory of computational complexity gives you a way to reason about the efficiency of algorithms and make them run (much) faster.</td>
   </tr><tr>
-    <td>
-      <b>Level 2</b> (choose one of the modules)
-    </td><td>
-      <b>TEXT</b>. Natural language processing is the science of making a computer understand (something about) natural human language. You will learn how you can get a computer to understand the sentiment of tweets. Is the tone of the tweet positive or negative?
-    </td><td>
-      <b>or</b>
-    </td><td>
-      <b>NUMERICAL INTEGRATION</b>. In many scientific fields you need to determine the surface area under a function. Integration is a mathematical tool for doing so. However this tool doesn't always work and in such cases we can use numerical integration techniques to let the computer do the work for us. You will learn two important techniques for numerical integration.
-    </td>
-  </tr><tr>
-    <td> <b>Level 3</b> (no choice)</td><td colspan="3"> <b>BIG-DATA</b>. In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period? </td>
-  </tr><tr></tr><tr>
-    <td> <b>Bonus</b> (this module is optional)</td><td colspan="3"> <b>MOVEMENT</b>. What happens if you dig a tunnel from one side to the other side of the planet and you fall in this tunnel? In this module you’re going to simulate that situation. In physics you often run into problems that are too laborious to compute by hand. In this module you’ll learn how to use your computer instead. </td>
+    <td> <b>Level 6</b> </td><td colspan="3"> <b>SURVIVAL</b>. Python is very popular for analyzing and processing data. And Pandas is an important reason why. Pandas is the most used Python package for handling data. You will learn how to use this package to analyze and visualize geographical data.</td>
   </tr>
 </table>
 
@@ -130,10 +110,10 @@ The deadline schedule:
 
 | Level               |                 |
 |---------------------|-----------------|
-| Level 1             | Fri 16 Feb 2024 |
-| Level 2             | Fri 01 Mar 2024 |
-| Level 3             | Fri 15 Mar 2024 |
-| Exam                | Thu 28 Mar 2024 |
+| Level 4             | Fri 16 Feb 2024 |
+| Level 5             | Fri 01 Mar 2024 |
+| Level 6             | Fri 15 Mar 2024 |
+| Exam                | Wed 27 Mar 2024 |
 |---------------------|-----------------|
 
 
