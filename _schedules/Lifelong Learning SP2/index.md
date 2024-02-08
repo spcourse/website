@@ -70,14 +70,14 @@ There are two ways to get help, the tutorials and the forum:
 
 - Tutorials (on campus): The tutorials are the most classic way of getting help with your programming. You’ll work on campus (together with other students) in a classroom. You can ask us questions while you’re working on your assignments.
   - **We highly recommend to join at least one tutorial a week.**
-  - You can find the tutorial schedule here: [datanose](https://datanose.nl/#course[119429])
+  - You can find the tutorial schedule here: [datanose](https://datanose.nl/#course[111446])
   - This is a good place to work on your assignments and get immediate help.
   - This is the main place where you can meet other students.
-  - If you can not make it to the tutorial you can book an appointment to get online help during the sessions.
+  <!-- - If you can not make it to the tutorial you can book an appointment to get online help during the sessions.
     - Book an appointment here: [book online tutorial slot](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/YkpwFIJMMkqDLSs-Fd-dhw2)
-    - At the moment of your appointment you can join here: [join online tutorial on zoom](https://uva-live.zoom.us/j/87393415014)
+    - At the moment of your appointment you can join here: [join online tutorial on zoom](https://uva-live.zoom.us/j/87393415014) -->
 - Forum (online): We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
-  - Use the forum: [go to Ed](https://edstem.org/eu/courses/676/discussion/)
+  - Use the forum: [go to Ed](https://edstem.org/eu/courses/1144/discussion/)
   - If you are registered for Scientific Programming 1 you should automatically have access to the forum. If not, please send and email to get access.
 
 ### Programming modules {#programming-modules}
