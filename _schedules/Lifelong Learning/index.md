@@ -73,9 +73,6 @@ There are two ways to get help, the tutorials and the forum:
   - You can find the tutorial schedule here: [datanose](https://datanose.nl/#course[119430])
   - This is a good place to work on your assignments and get immediate help.
   - This is the main place where you can meet other students.
-  <!-- - If you can not make it to the tutorial you can book an appointment to get online help during the sessions.
-    - Book an appointment here: [book online tutorial slot](https://outlook.office365.com/owa/calendar/UniversiteitvanAmsterdam1@Amsuni.onmicrosoft.com/bookings/s/YkpwFIJMMkqDLSs-Fd-dhw2)
-    - At the moment of your appointment you can join here: [join online tutorial on zoom](https://uva-live.zoom.us/j/87393415014) -->
 - Forum (online): We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
   - Use the forum: [go to Ed](https://edstem.org/eu/courses/1144/discussion/)
   - If you are registered for Scientific Programming 1 you should automatically have access to the forum. If not, please send and email to get access.
