@@ -254,15 +254,13 @@ SP2 - L5 (Shakespeare):
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
         Sets [practice]: /python/en/sets/practice
-        # List slicing and indexing [theory]: /python/en/slicing
-    "Part 3: Datastructures":
-        Use dictionaries and sets [assignment]: /shakespeare/datastructues
-    "Part 4: Unique word classifier":
+        Use dictionaries and sets [assignment]: /shakespeare/datastructures
+    "Part 3: Unique word classifier":
         Optimize [assignment]: /shakespeare/optimize-unique-words
         Extend [assignment]: /shakespeare/extend-unique-words
-    "Part 5: TF-IDF classifier":
+    "Part 4: TF-IDF classifier":
         Create a TF-IDF classifier [assignment]: /shakespeare/tf-idf-classifier
-    "Part 6: Generate shakspeare data (BONUS)":
+    "Part 5: Generate shakspeare data (BONUS)":
         Generate your own word lists: /shakespeare/generate-word-list
 
     Submit your solutions: /submit/shakespeare
