@@ -163,7 +163,7 @@ Here below is an overview of all modules for all courses.
     <td> <b>Level 4</b> </td><td colspan="3"> <b>MONOPOLY</b>. When playing Monopoly, a starting player's advantage seems unfair. To verify, you could play many (millions) real games, but this would take way too much time. Instead, you'll write a computer simulation. This also allows you to experiment with game adjustments to make it fair. You're doing all this for a board game, but this simulation principle applies to various scientific fields (economy, chemistry, biology...).</td>
   </tr><tr>
     <td> <b>Level 5</b> </td>
-    <td colspan="3">
+    <td>
       <b>COMPLEXITY</b>. What is an efficient algorithm? When you want to run large simulations, analyze large dataset, or any other computationally intensive task, writing efficient algorithms could in some cases mean the difference between a run time of a couple of minutes or of weeks. The theory of computational complexity gives you a way to reason about the efficiency of algorithms and make them run (much) faster.
     </td><td>
       <b>or</b>
