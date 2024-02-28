@@ -104,6 +104,9 @@ Here below is an overview of all modules for all courses.
   </tr><tr>
     <td> <b>Level 6</b> </td><td colspan="3"> <b>SURVIVAL</b>. Python is very popular for analyzing and processing data. And Pandas is an important reason why. Pandas is the most used Python package for handling data. You will learn how to use this package to analyze and visualize geographical data.</td>
   </tr>
+  <tr>
+    <td> <b>BONUS</b> </td><td colspan="3"> <b>POPULATIONS</b>. Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP).</td>
+  </tr><tr>
 </table>
 
 ## Deadlines {#deadlines}
