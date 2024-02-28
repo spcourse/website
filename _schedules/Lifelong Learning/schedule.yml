@@ -140,7 +140,7 @@ Level 2 - Text processing:
 
     Text cleanup:
         Analyze text content word-by-word [assignment]: /text/en/words
-        Reformat a text neatly [assignment]: /text/en/reformatting
+        Align a text [assignment]: /text/en/align
 
     Sentiment analysis:
         Learn how to read text from files [theory]: /python/en/file-io

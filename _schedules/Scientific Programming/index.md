@@ -162,7 +162,14 @@ Here below is an overview of all modules for all courses.
   <tr>
     <td> <b>Level 4</b> </td><td colspan="3"> <b>MONOPOLY</b>. When playing Monopoly, a starting player's advantage seems unfair. To verify, you could play many (millions) real games, but this would take way too much time. Instead, you'll write a computer simulation. This also allows you to experiment with game adjustments to make it fair. You're doing all this for a board game, but this simulation principle applies to various scientific fields (economy, chemistry, biology...).</td>
   </tr><tr>
-    <td> <b>Level 5</b> </td><td colspan="3"> <b>COMPLEXITY</b>. What is an efficient algorithm? When you want to run large simulations, analyze large dataset, or any other computationally intensive task, writing efficient algorithms could in some cases mean the difference between a run time of a couple of minutes or of weeks. The theory of computational complexity gives you a way to reason about the efficiency of algorithms and make them run (much) faster.</td>
+    <td> <b>Level 5</b> </td>
+    <td colspan="3">
+      <b>COMPLEXITY</b>. What is an efficient algorithm? When you want to run large simulations, analyze large dataset, or any other computationally intensive task, writing efficient algorithms could in some cases mean the difference between a run time of a couple of minutes or of weeks. The theory of computational complexity gives you a way to reason about the efficiency of algorithms and make them run (much) faster.
+    </td><td>
+      <b>or</b>
+    </td><td>
+      <b>SHAKESPEARE</b>. Was the play “Arden of Faversham” (1592) written by Shakespeare? A.C. Swinburne thought it was, but T.S. Eliot didn’t. Could we create a computer program that could settle the debate once and for all? It turns out that the answer is: yes… maybe?
+    </td>
   </tr><tr>
     <td> <b>Level 6</b> </td><td colspan="3"> <b>SURVIVAL</b>. Python is very popular for analyzing and processing data. And Pandas is an important reason why. Pandas is the most used Python package for handling data. You will learn how to use this package to analyze and visualize geographical data.</td>
   </tr>

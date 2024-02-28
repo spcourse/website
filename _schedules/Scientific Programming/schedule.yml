@@ -148,7 +148,7 @@ SP1 - L2 (Text Processing):
 
     Text cleanup:
         Analyze text content word-by-word [assignment]: /text/en/words
-        Reformat a text neatly [assignment]: /text/en/reformatting
+        Align a text [assignment]: /text/en/align
 
     Sentiment analysis:
         Learn how to read text from files [theory]: /python/en/file-io
@@ -216,6 +216,33 @@ SP2 - L4 (Monopoly):
     Submit:
         Submit your solutions: /submit/monopoly
 
+
+SP2 - L5 (Shakespeare):
+    Scientific Programming 2 - Level 5 (Shakespeare):
+    Introduction: /shakespeare/intro
+    "Part 1: Computational complexity":
+        Complexity [theory]: /python/en/efficiency
+        Complexity questions [assignment]: /shakespeare/complexity-questions
+    "Part 2: Data structures":
+        Dictionaries [theory]: /python/en/dictionaries/use
+        Dictionaries [practice]: /python/en/dictionaries/use/practice
+        Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
+        Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
+        Tuples [theory]: /python/en/tuples
+        Sets [theory]: /python/en/sets
+        Sets [practice]: /python/en/sets/practice
+        Use dictionaries and sets [assignment]: /shakespeare/datastructures
+    "Part 3: Unique word classifier":
+        Optimize [assignment]: /shakespeare/optimize-unique-words
+        Extend [assignment]: /shakespeare/extend-unique-words
+    "Part 4: TF-IDF classifier":
+        Create a TF-IDF classifier [assignment]: /shakespeare/tf-idf-classifier
+    "Part 5: Generate shakspeare data (BONUS)":
+        Generate your own word lists: /shakespeare/generate-word-list
+
+    Submit your solutions: /submit/shakespeare
+
+
 SP2 - L5 (Word Index):
     Scientific Programming 2 - Level 5 (Word Index):
     Introduction: /complexity
@@ -240,30 +267,6 @@ SP2 - L5 (Word Index):
         Indexing words [assignment]: /complexity/word-index
     Submit your solutions: /submit/complexity
 
-SP2 - L5 (Shakespeare):
-    Scientific Programming 2 - Level 5 (Shakespeare - experimental release):
-    Introduction: /shakespeare/intro
-    "Part 1: Computational complexity":
-        Complexity [theory]: /python/en/efficiency
-        Complexity questions [assignment]: /complexity/questions1
-    "Part 2: Data structures":
-        Dictionaries [theory]: /python/en/dictionaries/use
-        Dictionaries [practice]: /python/en/dictionaries/use/practice
-        Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
-        Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
-        Tuples [theory]: /python/en/tuples
-        Sets [theory]: /python/en/sets
-        Sets [practice]: /python/en/sets/practice
-        Use dictionaries and sets [assignment]: /shakespeare/datastructures
-    "Part 3: Unique word classifier":
-        Optimize [assignment]: /shakespeare/optimize-unique-words
-        Extend [assignment]: /shakespeare/extend-unique-words
-    "Part 4: TF-IDF classifier":
-        Create a TF-IDF classifier [assignment]: /shakespeare/tf-idf-classifier
-    "Part 5: Generate shakspeare data (BONUS)":
-        Generate your own word lists: /shakespeare/generate-word-list
-
-    Submit your solutions: /submit/shakespeare
 
 SP2 - L6 (Survival):
     Scientific Programming 2 - Level 6 (Survival):
