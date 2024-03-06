@@ -65,6 +65,8 @@ grades:
         <<: *check
     complexity_(level5):
         <<: *check-man
+    shakespeare_(level5):
+        <<: *check
     survival_(level6): *check-man
 
     sp2-exam1:
@@ -113,6 +115,7 @@ sp2_modules:
     submits:
         monopoly_(level4): 1
         complexity_(level5): 1
+        shakespeare_(level5): 1
         survival_(level6): 1
     required: true
 
