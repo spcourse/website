@@ -1,8 +1,0 @@
-name: sp2-exam2
-files:
-    required:
-        - sp2_exam11.py
-check:
-    tool: checkpy
-    repo: spcourse/exam-tests
-    args: sp2_exam11

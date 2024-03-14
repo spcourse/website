@@ -194,10 +194,7 @@ SP1 - BONUS (Physics of Movement):
         Submit your solutions: /submit/movement
 
 SP1 - Practice exam:
-    Practice exam: /exams/sp1/practice
-
-SP1 - Exam:
-    Exam: /exams/sp1/exam
+    Practice exam: /practice-exams/sp1/
 
 SP2 - L4 (Monopoly):
     Scientific Programming 2 - Level 4 (Monopoly):
@@ -301,10 +298,7 @@ SP2 - BONUS (News):
     Submit your solutions: /submit/news
 
 SP2 - Practice exam:
-    Practice exam: /exams/sp2/practice
-
-SP2 - Exam:
-    Exam: /exams/sp2/exam
+    Practice exam: /practice-exams/sp2/
 
 DP - L7 (Populations):
     Data Processing - Level 7 (Populations) [graded assignment]:

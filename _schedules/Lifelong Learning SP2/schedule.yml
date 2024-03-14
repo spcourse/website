@@ -191,12 +191,6 @@ SP1 - BONUS (Physics of Movement):
     Submit:
         Submit your solutions: /submit/movement
 
-SP1 - Practice exam:
-    Practice exam: /exams/sp1/practice
-
-SP1 - Exam:
-    Exam: /exams/sp1/exam
-
 SP2 - L4 (Monopoly):
     Scientific Programming 2 - Level 4 (Monopoly):
     Animating in Python:
@@ -310,7 +304,4 @@ SP2 - BONUS (Populations):
     Submit your solutions: /submit/populations
 
 SP2 - Practice exam:
-    Practice exam: /exams/sp2/practice
-
-SP2 - Exam:
-    Exam: /exams/sp2/exam
+    Practice exam: /practice-exams/sp2/
