@@ -196,6 +196,10 @@ SP1 - BONUS (Physics of Movement):
 SP1 - Practice exam:
     Practice exam: /practice-exams/sp1/
 
+SP1 - Exam:
+    Exam: /sp1exam
+
+
 SP2 - L4 (Monopoly):
     Scientific Programming 2 - Level 4 (Monopoly):
     Animating in Python:
@@ -299,6 +303,9 @@ SP2 - BONUS (News):
 
 SP2 - Practice exam:
     Practice exam: /practice-exams/sp2/
+
+SP2 - Exam:
+    Exam: /sp2exam
 
 DP - L7 (Populations):
     Data Processing - Level 7 (Populations) [graded assignment]:
