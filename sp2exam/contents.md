@@ -10,7 +10,7 @@
 
 ## Allowed references
 
-You can use the official Pandas documentation: []pandas docs](https://pandas.pydata.org/pandas-docs/stable/index.html)
+You can use the official Pandas documentation: [pandas docs](https://pandas.pydata.org/pandas-docs/stable/index.html)
 
 Especially the following pages might be helpful:
 
