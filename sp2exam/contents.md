@@ -6,13 +6,14 @@
 
 ## Download data
 
-* [barca.txt](https://raw.githubusercontent.com/spcourse/exam-tests/main/data/films.csv)
+* [films.csv](https://raw.githubusercontent.com/spcourse/exam-tests/main/data/films.csv)
 
 ## Allowed references
 
 You can use the official Pandas documentation: []pandas docs](https://pandas.pydata.org/pandas-docs/stable/index.html)
 
 Especially the following pages might be helpful:
+
 * [groupby](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html)
 * [groupby -> sum](https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.DataFrameGroupBy.sum.html)
 * [groupby -> count](https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.DataFrameGroupBy.count.html#pandas.core.groupby.DataFrameGroupBy.count)
