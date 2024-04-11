@@ -1,6 +1,7 @@
 name: shakespeare_(level5)
 files:
     required:
+        - questions.txt
         - datastructures.py
         - unique-word-classifier.py
         - tf-idf-classifier.py
