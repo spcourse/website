@@ -275,6 +275,8 @@ SP2 - L6 (Survival):
     Function arguments:
         Default arguments [theory]: /python/en/default-arguments
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
+    Jupyter notebook:
+        Jupyter notebook [practice]: /pandas/notebooks-sp
     Pandas:
         Pandas [practice]: /pandas/pandas-sp
     Seaborn:
