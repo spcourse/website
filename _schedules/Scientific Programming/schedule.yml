@@ -366,7 +366,7 @@ DP - L9 (Transformation):
     Transform and visualize climate data: /transformation/climate-change
     Work with structured data in health:
         "Part one: merging the data": /transformation/health-code-violations-1
-        "Part two: processing the data": /transformation/health-code-violations-2
+        "Part two: processing the data": /transformation/health-code-violations-2-no-yelp
     Submit: /transformation/submit
 
 DP - L10 (Databases):
