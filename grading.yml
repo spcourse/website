@@ -132,17 +132,13 @@ data_modules:
     show_progress: true
     submits:
         populations: 25
-        scraping-data: 1
+        scraping-data: 0
         transformation: 25
-        databases: 1
+        databases: 0
         project: 50
     required: true
 
 calculation:
     final_data:
         # opdrachten: 0
-        populations: 25
-        scraping-data: 0
-        transformation: 25
-        databases: 0
-        project: 50
+        data_modules: 1
