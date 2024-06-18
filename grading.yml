@@ -137,3 +137,12 @@ data_modules:
         databases: 1
         project: 50
     required: true
+
+calculation:
+    final_data:
+        # opdrachten: 0
+        populations: 25
+        scraping-data: 0
+        transformation: 25
+        databases: 0
+        project: 50
