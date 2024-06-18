@@ -128,17 +128,22 @@ sp2_exams:
         sp2-exam4: 1
     required: true
 
-data_modules:
+data_grades:
     show_progress: true
     submits:
         populations: 25
-        scraping-data: 0
         transformation: 25
-        databases: 0
         project: 50
+    required: true
+
+data_pass:
+    show_progress: true
+    submits:
+        scraping-data: 1
+        databases: 1
     required: true
 
 calculation:
     final_data:
-        # opdrachten: 0
-        data_modules: 1
+        data_grades: 1
+        data_pass: 0
