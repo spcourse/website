@@ -1,6 +1,6 @@
 # Syllabus Scientific Programming 1
 
-**Spring 2023/2024**
+**Spring 2024/2025**
 
 ## General info {#general}
 

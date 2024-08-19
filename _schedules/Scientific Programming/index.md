@@ -1,5 +1,5 @@
 # Syllabus Scientific Programming / Data Processing {#overview}
-**Spring 2023/2024**
+**Spring 2024/2025**
 
 ## General info {#general}
 
@@ -203,57 +203,25 @@ The proposed schedules are worked out for only the most common cases. If none of
 
 The deadline schedules:
 
-<details markdown="1"><summary  markdown="span">Start Scientific Programming 1 in period 4</summary>
+|--------------------|---------------------|---------------------|---------------------|
+| Level\Pace         | relaxed (SP1 and SP2 in one year) | standard (the whole track in one year) | fast (the whole track in one semester) |
+|--------------------|---------------------|---------------------|---------------------|
+|SP1 - Level 1       | Fri **27 Sep** 2024 | Fri **13 Sep** 2024 | Fri **06 Sep** 2024 |
+|SP1 - Level 2       | Fri **01 Nov** 2024 | Fri **27 Sep** 2024 | Fri **13 Sep** 2024 |
+|SP1 - Level 3       | Fri **29 Nov** 2024 | Fri **11 Oct** 2024 | Fri **20 Sep** 2024 |
+|--------------------|---------------------|---------------------|---------------------|
+|SP2 - Level 4       | Fri **28 Feb** 2025 | Fri **08 Nov** 2024 | Fri **27 Sep** 2024 |
+|SP2 - Level 5       | Fri **04 Apr** 2025 | Fri **22 Nov** 2024 | Fri **04 Oct** 2024 |
+|SP2 - Level 6       | Fri **16 May** 2025 | Fri **06 Dec** 2024 | Fri **11 Oct** 2024 |
+|--------------------|---------------------|---------------------|---------------------|
+|DP - Level 7        |                     | Wed **12 Feb** 2025 | Fri **01 Nov** 2024 |
+|DP - Level 8        |                     | Fri **28 Feb** 2025 | Fri **08 Nov** 2024 |
+|DP - Level 9        |                     | Wed **19 Mar** 2025 | Fri **15 Nov** 2024 |
+|DP - Level 10       |                     | Fri **11 Apr** 2025 | Fri **22 Nov** 2024 |
+|DP - Final Project  |                     | Wed **21 May** 2025 | Fri **06 Dec** 2024 |
+|--------------------|---------------------|---------------------|---------------------|
 
-| Level\Pace          | relaxed         | standard        | fast            |
-|---------------------|-----------------|-----------------|-----------------|
-| SP1 - Level 1       | Fri 01 Mar 2024 | Fri 16 Feb 2024 | Mon 12 Feb 2024 |
-| SP1 - Level 2       | Fri 05 Apr 2024 | Fri 01 Mar 2024 | Mon 19 Feb 2024 |
-| SP1 - Level 3       | Fri 26 Apr 2024 | Fri 15 Mar 2024 | Mon 26 Feb 2024 |
-| SP1 - Exam          | Thu 30 May 2024 | Thu 28 Mar 2024 | Thu 28 Mar 2024 |
-|---------------------|-----------------|-----------------|-----------------|
-| SP2 - Level 4       | Semester 1 2025 | Fri 12 Apr 2024 | Mon 04 Mar 2024 |
-| SP2 - Level 5       | Semester 1 2025 | Fri 26 Apr 2024 | Mon 11 Mar 2024 |
-| SP2 - Level 6       | Semester 1 2025 | Fri 17 May 2024 | Mon 18 Mar 2024 |
-| SP2 - Exam          | Semester 1 2025 | Wed 29 May 2024 | Wed 27 Mar 2024 |
-|---------------------|-----------------|-----------------|-----------------|
-| DP  - Level 7       |                 | Semester 1 2025 | Fri 12 Apr 2024 |
-| DP  - Level 8       |                 | Semester 1 2025 | Wed 24 Apr 2024 |
-| DP  - Level 9       |                 | Semester 1 2025 | Wed 08 May 2024 |
-| DP  - Level 10      |                 | Semester 1 2025 | Wed 15 May 2024 |
-| DP  - Final Project |                 | Semester 1 2025 | Wed 29 May 2024 |
-
-</details>
-
-<details markdown="1"><summary  markdown="span">Start Scientific Programming 2 in period 4</summary>
-
-| Level\Pace          | relaxed         | standard        |
-|---------------------|-----------------|-----------------|
-| SP2 - Level 4       | Fri 01 Mar 2024 | Fri 16 Feb 2024 |
-| SP2 - Level 5       | Fri 05 Apr 2024 | Fri 01 Mar 2024 |
-| SP2 - Level 6       | Fri 26 Apr 2024 | Fri 15 Mar 2024 |
-| SP2 - Exam          | Wed 29 May 2024 | Wed 27 Mar 2024 |
-|---------------------|-----------------|-----------------|
-| DP  - Level 7       | Semester 2      | Semester 2      |
-| DP  - Level 8       | Semester 2      | Semester 2      |
-| DP  - Level 9       | Semester 2      | Semester 2      |
-| DP  - Level 10      | Semester 2      | Semester 2      |
-| DP  - Final Project | Semester 2      | Semester 2      |
-
-</details>
-
-
-<details markdown="1"><summary  markdown="span">Start Data Processing in period 4</summary>
-
-| Level\Pace          | standard        |
-|---------------------|-----------------|
-| DP  - Level 7       | Mon 26 Feb 2024 |
-| DP  - Level 8       | Mon 18 Mar 2024 |
-| DP  - Level 9       | Mon 08 Apr 2024 |
-| DP  - Level 10      | Wed 24 Apr 2024 |
-| DP  - Final Project | Wed 29 May 2024 |
-
-</details>
+If none of these schedules apply, please contact us, to make a personalized plan.
 
 ## Grading {#grading}
 
