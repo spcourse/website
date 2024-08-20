@@ -65,7 +65,7 @@ All the reading and video material is available on this website. You do not need
 
 ### Staff {#staff}
 
-Milena Kapralova, Amir Sahrani, Roan van Blanken, Tim de Groot, Simon Pauw
+Amir Sahrani, Coen van den Elsen, Loes Bijman, Steph Drake, Simon Pauw
 
 Contact: <scientific@proglab.nl>
 
@@ -209,12 +209,14 @@ The deadline schedules:
 |SP1 - Level 1       | Fri **27 Sep** 2024 | Fri **13 Sep** 2024 | Fri **06 Sep** 2024 |
 |SP1 - Level 2       | Fri **01 Nov** 2024 | Fri **27 Sep** 2024 | Fri **13 Sep** 2024 |
 |SP1 - Level 3       | Fri **29 Nov** 2024 | Fri **11 Oct** 2024 | Fri **20 Sep** 2024 |
+|SP1 - Exam          | Mon **16 Dec** 2024 | Mon **21 Oct** 2024 | Mon **21 Oct** 2024 |
 |--------------------|---------------------|---------------------|---------------------|
 |                    |                     |                     |                     |
 |--------------------|---------------------|---------------------|---------------------|
 |SP2 - Level 4       | Fri **28 Feb** 2025 | Fri **08 Nov** 2024 | Fri **27 Sep** 2024 |
 |SP2 - Level 5       | Fri **04 Apr** 2025 | Fri **22 Nov** 2024 | Fri **04 Oct** 2024 |
 |SP2 - Level 6       | Fri **16 May** 2025 | Fri **06 Dec** 2024 | Fri **11 Oct** 2024 |
+|SP2 - Exam          | May 2025            | Tue **17 Dec** 2024 | Tue **22 Oct** 2024 |
 |--------------------|---------------------|---------------------|---------------------|
 |                    |                     |                     |                     |
 |--------------------|---------------------|---------------------|---------------------|

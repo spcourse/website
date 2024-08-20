@@ -44,7 +44,7 @@ All the reading and video material is available on this website. You do not need
 
 ### Staff {#staff}
 
-Milena Kapralova, Amir Sahrani, Roan van Blanken, Tim de Groot, Simon Pauw
+Amir Sahrani, Coen van den Elsen, Loes Bijman, Steph Drake, Simon Pauw
 
 Contact: <scientific@proglab.nl>
 
@@ -115,13 +115,13 @@ Deadlines for each level are listed below. If you follow these deadlines you'll 
 
 The deadline schedule:
 
-| Level               |                 |
-|---------------------|-----------------|
-| Level 4             | Fri 16 Feb 2024 |
-| Level 5             | Fri 01 Mar 2024 |
-| Level 6             | Fri 15 Mar 2024 |
-| Exam                | Wed 27 Mar 2024 |
-|---------------------|-----------------|
+| Level               |                     |
+|---------------------|---------------------|
+| Level 4             | Fri **13 Sep** 2024 |
+| Level 5             | Fri **27 Sep** 2024 |
+| Level 6             | Fri **11 Oct** 2024 |
+| Exam                | Tue **22 Oct** 2024 |
+|---------------------|---------------------|
 
 
 ## Grading {#grading}
