@@ -74,7 +74,7 @@ There are two ways to get help, the tutorials and the forum:
   - This is a good place to work on your assignments and get immediate help.
   - This is the main place where you can meet other students.
 - Forum (online): We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
-  - Use the forum: [go to Ed](https://edstem.org/eu/courses/1144/discussion/)
+  - Use the forum: [go to Ed](TODO)
   - If you are registered for Scientific Programming 1 you should automatically have access to the forum. If not, please send and email to get access.
 
 ### Programming modules {#programming-modules}
