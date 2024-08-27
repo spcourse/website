@@ -360,8 +360,8 @@ DP - L8 (Acquisition):
         Visualize languages: "/acquisition/crawling3"
     Submit: "/acquisition/submit"
 
-DP - L8 (Acquisition):
-    Data Processing - Level 8 (Acquisition) [pass/fail assignment]:
+DP - L8 (Wikipedia):
+    Data Processing - Level 8 (Wikipedia) [pass/fail assignment]:
     Introduction: ""
     HTML:
         What is HTML?: /acquisition/html
