@@ -341,13 +341,13 @@ DP - L8 (Acquisition):
     Data Processing - Level 8 (Acquisition) [pass/fail assignment]:
     Introduction: "/acquisition"
     HTML:
-        What is HTML?: /acquisition/html
-        Make your own website: /acquisition/homepage
+        What is HTML?: /homepage/html
+        Make your own website: /homepage/homepage
     # # no homepage:
     # HTML:
     #     What is a website?: /acquisition/html-short
     More Pandas:
-        Improve your Pandas skills: "/acquisition/pandas"
+        Improve your Pandas skills: "/pandas/advanced"
     Scraping:
         Introduction: "/acquisition/scraping"
         Scraping a single page: "/acquisition/scraping1"
@@ -364,8 +364,8 @@ DP - L8 (Wikipedia):
     Data Processing - Level 8 (Wikipedia) [pass/fail assignment]:
     Introduction: ""
     HTML:
-        What is HTML?: /acquisition/html
-        Make your own website: /acquisition/homepage
+        What is HTML?: /homepage/html
+        Make your own website: /homepage/homepage
     Scraping:
         Scraping a webpage: "/wikipedia/scraping"
 

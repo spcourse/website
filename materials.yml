@@ -80,6 +80,10 @@ wikipedia:
     remote: https://github.com/spcourse/wikipedia
     branch: main
 
+homepage:
+    remote: https://github.com/spcourse/homepage
+    branch: main
+
 # M9
 transformation:
     remote: https://github.com/spcourse/transformation
