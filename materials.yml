@@ -76,7 +76,7 @@ acquisition:
     remote: https://github.com/spcourse/acquisition
     branch: main
 
-acquisition:
+wikipedia:
     remote: https://github.com/spcourse/wikipedia
     branch: main
 
