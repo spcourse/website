@@ -371,7 +371,7 @@ DP - L8 (Wikipedia):
         Plotting the results: "/wikipedia/visualize-gdp"
     Crawling:
         Crawling Wikipedia: "/wikipedia/crawling"
-        Plotting the results: "/wikipedia/visualize-gdp-gini"
+        Plotting the results: "/wikipedia/visualize-gini"
 
 DP - L9 (Transformation):
     Data Processing - Level 9 (Transformation) [graded assignment]:
