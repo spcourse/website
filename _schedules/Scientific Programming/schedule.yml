@@ -367,7 +367,11 @@ DP - L8 (Wikipedia):
         What is HTML?: /homepage/html
         Make your own website: /homepage/homepage
     Scraping:
-        Scraping a webpage: "/wikipedia/scraping"
+        Scraping a Wikipedia page: "/wikipedia/scraping"
+        Plotting the results: "/wikipedia/visualize-gdp"
+    Crawling:
+        Crawling Wikipedia: "/wikipedia/crawling"
+        Plotting the results: "/wikipedia/visualize-gdp-gini"
 
 DP - L9 (Transformation):
     Data Processing - Level 9 (Transformation) [graded assignment]:
