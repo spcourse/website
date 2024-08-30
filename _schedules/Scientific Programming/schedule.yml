@@ -362,7 +362,7 @@ DP - L8 (Acquisition):
 
 DP - L8 (Wikipedia):
     Data Processing - Level 8 (Wikipedia) [pass/fail assignment]:
-    Introduction: ""
+    Introduction: "/wikipedia/intro"
     HTML:
         What is HTML?: /homepage/html
         Make your own website: /homepage/homepage
