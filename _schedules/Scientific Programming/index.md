@@ -102,15 +102,21 @@ The fact that the track is flexible doesn't mean you are on you own. We do provi
 
 There are two ways to get help, the tutorials and the forum:
 
-- Tutorials (on campus): The tutorials are the most classic way of getting help with your programming. You’ll work on campus (together with other students) in a classroom. You can ask us questions while you’re working on your assignments.
-  - **We highly recommend to join at least one tutorial a week.**
-  - The tutorials all take place in the proglab rooms: L0.09 / L0.10
-  - You can find the tutorial schedule here: [datanose](https://datanose.nl/#course[128435])
-  - This is a good place to work on your assignments and get immediate help.
-  - This is the main place where you can meet other students.
-- Forum (online): We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
-  - Use the forum: [go to Ed](https://edstem.org/eu/courses/1508)
-  - If you are registered for Scientific Programming 1 you should automatically have access to the forum. If not, you can sign up using this link: [sign up for Ed](https://edstem.org/eu/join/KdE46r). This only works if you have a uva.nl or auc.nl email. If not, please send me an email to get access.
+#### Tutorials
+
+Tutorials (on campus): The tutorials are the most classic way of getting help with your programming. You’ll work on campus (together with other students) in a classroom. You can ask us questions while you’re working on your assignments.
+
+- You can find the times and locations here: [Tutorial and exam schedules](/datanose)
+- **We highly recommend to join at least one tutorial a week.**
+- This is a good place to work on your assignments and get immediate help.
+- This is the main place where you can meet other students.
+
+#### Forum
+
+Forum (online): We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
+
+- Use the forum: [go to Ed](https://edstem.org/eu/courses/1508)
+- If you are registered for Scientific Programming 1 you should automatically have access to the forum. If not, you can sign up using this link: [sign up for Ed](https://edstem.org/eu/join/KdE46r). This only works if you have a uva.nl or auc.nl email. If not, please send me an email to get access.
 
 ### Programming modules {#programming-modules}
 
