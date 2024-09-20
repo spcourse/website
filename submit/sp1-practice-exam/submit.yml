@@ -1,10 +1,5 @@
 name: sp1_practice_exam
 exam: true
-buttons:
-    "Checkpy": |
-            from checkpy.interactive import testOffline
-            result = testOffline("<filename>", "/home/pyodide", multiprocessing=False, silentMode=True)
-            "\n".join(result.output)
 check:
     tool: checkpy
     repo: spcourse/exam-tests
@@ -132,7 +127,7 @@ files:
             03/05/14,Getafe,draw,2,2,home
             11/05/14,Elche,draw,0,0,away
             17/05/14,Ath Madrid,draw,1,1,home
-            
+
         'barca_short.txt': |
             29/08/11,Villarreal,won,5,0,home
             10/09/11,Sociedad,draw,2,2,away
