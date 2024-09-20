@@ -52,6 +52,8 @@ grades:
     movement_(bonus):
         <<: *check
 
+    sp1-practice-exam:
+        <<: *testt
     sp1-exam1:
         <<: *testt
     sp1-exam2:
@@ -104,6 +106,7 @@ sp1_modules:
 sp1_exams:
     show_progress: true
     submits:
+        sp1-practice-exam: 0
         sp1-exam1: 1
         sp1-exam2: 1
         sp1-exam3: 1
