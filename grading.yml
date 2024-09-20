@@ -54,8 +54,6 @@ grades:
     movement_(bonus):
         <<: *check
 
-    sp1_practice_exam:
-        <<: *testt
     sp1-exam1:
         <<: *testt
     sp1-exam2:
@@ -80,6 +78,12 @@ grades:
     sp2-exam3:
         <<: *testt
     sp2-exam4:
+        <<: *testt
+
+
+    sp1_practice_exam:
+        <<: *testt
+    sp2_practice_exam:
         <<: *testt
 
     populations: *graded
@@ -118,7 +122,8 @@ practice:
     show_progress: true
     submits:
         sp1_practice_exam: 1
-        sp2_practice_exam: 1      
+        sp2_practice_exam: 1
+    required: true
 
 sp2_modules:
     show_progress: true
