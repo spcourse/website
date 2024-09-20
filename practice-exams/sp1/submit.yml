@@ -2,7 +2,8 @@ name: sp1-practice-exam
 exam: true
 check:
     tool: checkpy
-    slug: sp1_exam10
+    repo: spcourse/exam-tests
+    args: sp1_exam10
 files:
     required:
         'sp1_exam10.py': |
