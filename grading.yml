@@ -80,7 +80,6 @@ grades:
     sp2-exam4:
         <<: *testt
 
-
     sp1_practice_exam:
         <<: *testt
     sp2_practice_exam:
@@ -123,7 +122,7 @@ practice:
     submits:
         sp1_practice_exam: 1
         sp2_practice_exam: 1
-    required: true
+    required: false
 
 sp2_modules:
     show_progress: true
