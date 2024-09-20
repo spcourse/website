@@ -23,12 +23,13 @@ templates:
     3: &testt
         type: pass
         subgrades:
-            passed: boolean
+            pass: boolean
+            fail: boolean
             done: boolean
             checkpy: integer
         automatic:
             checkpy: correctness_score
-        calculation: passed
+        calculation: (pass == -1 && -1) || (fail == -1 && 0) || -10
         hide_calculated: true
 
     4: &graded
