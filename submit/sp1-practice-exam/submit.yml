@@ -1,5 +1,9 @@
 name: sp1_practice_exam
 exam: true
+buttons:
+    "Checkpy": |
+            from checkpy.interactive import testOffline
+            testOffline("<filename>", "/home/pyodide", multiprocessing=False, silentMode=False)
 check:
     tool: checkpy
     repo: spcourse/exam-tests
@@ -135,6 +139,33 @@ files:
             21/09/11,Valencia,draw,2,2,away
 
         'sp1_exam_practiceTest.py': |
+            # DON'T EDIT THIS FILE
+            # You don't need to read or understand what is going on in this file.
+            #
+            # This file contains the checkpy tests for the exam. If you edit it,
+            # checkpy will not work anymore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             from checkpy import *
             import typing
 
