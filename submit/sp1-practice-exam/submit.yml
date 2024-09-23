@@ -173,8 +173,6 @@ files:
             from checkpy import *
             import typing
 
-            only("sp1_exam_practice.py")
-
             download("barca.txt", "https://raw.githubusercontent.com/spcourse/exam-tests/main/data/barca.txt")
             download("barca_short.txt", "https://raw.githubusercontent.com/spcourse/exam-tests/main/data/barca_short.txt")
 
