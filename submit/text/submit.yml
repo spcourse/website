@@ -5,9 +5,8 @@ files:
         - list_words.py
         - sentiment.py
         - tweets.py
-    optional:
         - align.py
-        - reformatting.py
+        
 check:
     tool: checkpy
     repo: uva-sp/sp1

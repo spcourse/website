@@ -7,7 +7,7 @@ buttons:
 check:
     tool: checkpy
     repo: spcourse/exam-tests
-    args: sp1_exam_practice
+    args: sp1_practice_exam
 files:
     required:
         'sp1_practice_exam.py': |
