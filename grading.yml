@@ -86,8 +86,7 @@ grades:
         <<: *testt
 
     populations: *graded
-    acquisition: *check-man
-    scraping-data: *check-man
+    wikipedia: *check-man
     transformation: *graded
     databases: *check-man
     project:
@@ -153,7 +152,7 @@ data_grades:
 data_pass:
     show_progress: true
     submits:
-        scraping-data: 1
+        wikipedia: 1
         databases: 1
     required: true
 

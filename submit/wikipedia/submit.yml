@@ -1,0 +1,9 @@
+name: wikipedia
+files:
+    required:
+        - homepage.zip
+        - scraper.py
+        - visualize_gdp.py
+        - scraper2.py
+        - crawler.py
+        - visualize_gini.py
