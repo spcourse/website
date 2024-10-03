@@ -16,6 +16,11 @@ files:
 
             print("Welcome to the practice exam!")
 
+        'temp.py': |
+            # This file will be ignored by us. You can use this as a canvas
+            # for drafts and test out code fragments.
+
+
         'barca.txt': |
             29/08/11,Villarreal,won,5,0,home
             10/09/11,Sociedad,draw,2,2,away
@@ -173,8 +178,15 @@ files:
             from checkpy import *
             import typing
 
-            download("barca.txt", "https://raw.githubusercontent.com/spcourse/exam-tests/main/data/barca.txt")
-            download("barca_short.txt", "https://raw.githubusercontent.com/spcourse/exam-tests/main/data/barca_short.txt")
+            ######## Q1a ########
+
+            fun1a_def = (declarative
+                .function("collatz")
+                .params("number")
+                .returnType(typing.List[float])
+            )
+
+            test1a_1 = test()(fun1a_def.call(3).returns([10, 5, 16, 8, 4, 2, 1]))
 
             ######## Q1 ########
 
