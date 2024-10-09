@@ -1,5 +1,9 @@
 name: sp2_practice_exam
 exam: true
+buttons:
+    "Checkpy": |
+            from checkpy.interactive import testOffline
+            testOffline("sp1_practice_exam", "/home/pyodide", multiprocessing=False, silentMode=False)
 check:
     tool: checkpy
     repo: spcourse/exam-tests
@@ -7,7 +11,215 @@ check:
 files:
     required:
         'sp2_exam_practice.py': |
-            # Scientific Programming 1, practice exam
+            # Scientific Programming 2, practice exam
             # Name: ...
 
             print("Welcome to the practice exam!")
+
+        'temp.py': |
+            # This file will be ignored by us. You can use this as a canvas
+            # for drafts and test out code fragments.
+
+
+        'films.csv': |
+            Year,Length,Title,Subject,Actor,Actress,Director,Popularity,Awards
+            1991,113.0,High Heels,Comedy,"Bos, Miguel","Abril, Victoria","Almodvar, Pedro",68.0,No
+            1988,108.0,Miles from Home,Drama,"Anderson, Kevin","Anderson, Jo","Sinise, Gary",53.0,No
+            1989,88.0,Final Notice,Mystery,"Gerard, Gil","Anderson, Melody","Stern, Steven Hilliard",88.0,No
+            1979,110.0,Quintet,Drama,"Newman, Paul","Andersson, Bibi","Altman, Robert",19.0,No
+            1960,90.0,"Devil's Eye, The",Drama,"Kulle, Jarl","Andersson, Bibi","Bergman, Ingmar",20.0,No
+            1957,91.0,Wild Strawberries,Drama,"Sjstrm, Victor","Andersson, Bibi","Bergman, Ingmar",42.0,Yes
+            1956,96.0,"Seventh Seal, The",Drama,"Sydow, Max von","Andersson, Bibi","Bergman, Ingmar",62.0,No
+            1955,86.0,Dreams,Drama,"Bjrnstrand, Gunnar","Andersson, Harriet","Bergman, Ingmar",14.0,No
+            1955,95.0,"Naked Night, The",Drama,"Bjrnstrand, Gunnar","Andersson, Harriet","Bergman, Ingmar",38.0,No
+            1962,91.0,Through a Glass Darkly,Drama,"Bjrnstrand, Gunnar","Andersson, Harriet","Bergman, Ingmar",64.0,Yes
+            1972,91.0,Cries & Whispers,Drama,"Josephson, Erland","Andersson, Harriet","Bergman, Ingmar",18.0,Yes
+            1958,104.0,"Barbarian & the Geisha, The",Action,"Wayne, John","Ando, Eiko","Huston, John",52.0,No
+            1967,130.0,Casino Royale,Comedy,"Niven, David","Andress, Ursula","Hughes, Ken",11.0,No
+            1979,121.0,Ten,Comedy,"Moore, Dudley","Andrews, Julie","Edwards, Blake",60.0,No
+            1983,118.0,"Man Who Loved Women, The",Comedy,"Reynolds, Burt","Andrews, Julie","Edwards, Blake",67.0,No
+            1966,190.0,Hawaii,Drama,"Sydow, Max von","Andrews, Julie","Hill, George Roy",8.0,No
+            1966,125.0,Torn Curtain,Mystery,"Newman, Paul","Andrews, Julie","Hitchcock, Alfred",35.0,No
+            1986,107.0,Duet for One,Drama,"Bates, Alan","Andrews, Julie","Konchalovsky, Andrei",82.0,No
+            1965,172.0,"Sound of Music, The",Music,"Plummer, Christopher","Andrews, Julie","Wise, Robert",59.0,Yes
+            1984,140.0,Tartuffe,Comedy,"Depardieu, Grard","Annen, Paule","Depardieu, Grard",67.0,No
+            1988,104.0,A New Life,Comedy,"Alda, Alan","Margret, Ann","Alda, Alan",53.0,No
+            1978,106.0,Magic,Mystery,"Hopkins, Anthony","Margret, Ann","Attenborough, Richard",85.0,No
+            1992,286.0,Tommy,Music,"Daltry, Roger","Margret, Ann","Russell, Ken",5.0,No
+            1978,108.0,"Big Fix, The",Mystery,"Dreyfuss, Richard","Anspach, Susan","Kagan, Jeremy Paul",19.0,No
+            1992,95.0,Alan & Naomi,Drama,"Haas, Lukas","Aquino, Vanessa","Vanwagenen, Sterling",3.0,No
+            1987,120.0,Fatal Attraction,Mystery,"Douglas, Michael","Archer, Anne","Lyne, Adrian",61.0,No
+            1992,117.0,Patriot Games,Action,"Ford, Harrison","Archer, Anne","Noyce, Phillip",28.0,No
+            1981,106.0,"Woman Next Door, The",Drama,"Depardieu, Grard","Ardant, Fanny","Truffaut, Franois",82.0,No
+            1992,97.0,Hunting,Mystery,"Savage, John","Armstrong, Kerry","Howson, Frank",68.0,No
+            1924,110.0,"Siegfried, The Nibelungenlied",Drama,"Richter, Paul","Arnold, Gertrud","Lang, Fritz",79.0,No
+            1988,118.0,"Big Blue, The",Drama,"Barr, Jean-Marc","Arquette, Rosanna","Besson, Luc",7.0,No
+            1991,115.0,Flight of the Intruder,Drama,"Glover, Danny","Arquette, Rosanna","Milius, John",51.0,No
+            1986,108.0,Nobody's Fool,Comedy,"Roberts, Eric","Arquette, Rosanna","Purcell, Evelyn",52.0,No
+            1985,97.0,After Hours,Comedy,"Dunne, Griffin","Arquette, Rosanna","Scorsese, Martin",81.0,No
+            1985,104.0,Desperately Seeking Susan,Comedy,"Quinn, Aidan","Arquette, Rosanna","Seidelman, Susan",41.0,No
+            1971,102.0,A New Leaf,Comedy,"Matthau, Walter","Arrick, Rose","May, Elaine",83.0,No
+            1959,91.0,Killers of Kilimanjaro,Action,"Taylor, Robert","Aslan, Gregoire","Thorpe, Richard",11.0,No
+            1926,126.0,Don Juan,Action,"Barrymore, John","Astor, Mary","Crosland, Alan",55.0,No
+            1987,102.0,Babette's Feast,Drama,"LaFont, Jean-Philippe","Audran, Stphane","Axel, Gabriel",79.0,Yes
+            1988,141.0,Thunderball,Action,"Connery, Sean","Auger, Claudine","Young, Terrence",8.0,No
+            1926,66.0,Lodger (Story of the London Fog),Mystery,"Chesney, Arthur","Ault, Marie","Hitchcock, Alfred",76.0,No
+            1988,103.0,Appointment with Death,Mystery,"Ustinov, Peter","Bacall, Lauren","Donaggio, Michael Winner",75.0,No
+            1974,128.0,Murder on the Orient Express,Mystery,"Balsam, Martin","Bacall, Lauren","Lumet, Sidney",8.0,Yes
+            1955,115.0,Blood Alley,War,"Wayne, John","Bacall, Lauren","Wellman, William",15.0,No
+            1977,136.0,"Spy Who Loved Me, The",Action,"Moore, Roger","Bach, Barbara","Gilbert, Lewis",27.0,No
+            1988,100.0,Storm,Action,"Palfy, David","Bahtia, Stacy Christensen","Winning, David",61.0,No
+            1989,103.0,Miami Cops,Action,"Roundtree, Richard","Baker, Dawn","Bradley, Al",40.0,No
+            1996,96.0,"Island of Dr. Moreau, The",Horror,"Thewlis, David","Balk, Fairuza","Frankenheimer, John",39.0,No
+            1992,100.0,Eighty-Four Charing Cross Road,Drama,"Hopkins, Anthony","Bancroft, Anne","Jones, David",9.0,No
+            1980,124.0,"Elephant Man, The",Drama,"Hopkins, Anthony","Bancroft, Anne","Lynch, David",3.0,Yes
+            1988,90.0,Dr Alien,Science Fiction,"Jacoby, Billy","Barash, Olivia","DeCoteau, David",70.0,No
+            1982,120.0,Creepshow,Horror,"Holbrook, Hal","Barbeau, Adrienne","Romero, George A.",70.0,No
+            1987,100.0,Sammy & Rosie Get Laid,Drama,"Din, Ayub Khan","Barber, Frances","Frears, Stephen",6.0,No
+            1971,101.0,"Goalie's Anxiety at the Penalty Kick, The",Drama,"Brauss, Arthur","Bardischewski, Maria","Wenders, Wim",62.0,No
+            1957,99.0,Mademoiselle Striptease,Comedy,"Gelin, Daniel","Bardot, Brigitte","Allegret, Marc",25.0,No
+            1969,86.0,"Women, The",Drama,"Ronet, Maurice","Bardot, Brigitte","Aurel, Jean",66.0,No
+            1958,77.0,That Naughty Girl,Comedy,"Bretonniere, Jean","Bardot, Brigitte","Boisrond, Michel",37.0,No
+            1959,90.0,Voulez-Vous Danser Avec Moi?,Comedy,"Vidal, Henri","Bardot, Brigitte","Boisrond, Michel",16.0,No
+            1967,100.0,"A Coeur Joie, (Head Over Heels)",Action,"Terzieff, Laurent","Bardot, Brigitte","Bourguignon, Serge",54.0,No
+            1968,113.0,Shalako,Westerns,"Connery, Sean","Bardot, Brigitte","Dmytryk, Edward",0.0,No
+            1964,102.0,Contempt,Drama,"Palance, Jack","Bardot, Brigitte","Godard, Jean-Luc",81.0,No
+            1982,115.0,E. T. The Extra-Terrestrial,Science Fiction,"Wallace, Dee","Barrymore, Drew","Spielberg, Steven",8.0,Yes
+            1992,101.0,Cool World,Drama,"Byrne, Gabriel","Basinger, Kim","Bakshi, Ralph",44.0,No
+            1988,83.0,Nadine,Comedy,"Bridges, Jeff","Basinger, Kim","Benton, Robert",47.0,No
+            1989,126.0,Batman,Action,"Nicholson, Jack","Basinger, Kim","Burton, Tim",14.0,No
+            1987,95.0,Blind Date,Comedy,"Willis, Bruce","Basinger, Kim","Edwards, Blake",7.0,No
+            1982,101.0,Mother Lode,Action,"Heston, Charlton","Basinger, Kim","Heston, Charlton",40.0,No
+            1992,125.0,Final Analysis,Drama,"Gere, Richard","Basinger, Kim","Joanou, Phil",50.0,No
+            1983,134.0,Never Say Never Again,Action,"Connery, Sean","Basinger, Kim","Kershner, Irvin",8.0,No
+            1986,117.0,Nine & a Half Weeks,Drama,"Rourke, Mickey","Basinger, Kim","Lyne, Adrian",7.0,No
+            1986,108.0,No Mercy,Drama,"Gere, Richard","Basinger, Kim","Pearce, Richard",11.0,No
+            1991,116.0,"Marrying Man, The",Comedy,"Baldwin, Alec","Basinger, Kim","Rees, Jerry",84.0,No
+            1990,123.0,Misery,Horror,"Caan, James","Bates, Kathy","Reiner, Rob",48.0,Yes
+            1946,93.0,Crisis,Drama,"Andersson, Wiktor","Baude, Anna-Lisa","Bergman, Ingmar",66.0,No
+            1984,95.0,Samson & Delilah,Drama,"Hamilton, Antony","Bauer, Belinda","Philips, Lee",36.0,No
+            1988,96.0,Split Decisions,Drama,"Hackman, Gene","Beals, Jennifer","Drury, David",52.0,No
+            1988,96.0,Nightmare at Noon,Action,"Hauser, Wings","Beck, Kimberly","Mastorakis, Nico",0.0,No
+            1990,127.0,Presumed Innocent,Mystery,"Ford, Harrison","Bedelia, Bonnie","Pakula, Alan J.",69.0,No
+            1942,123.0,Reap the Wild Wind,Drama,"Wayne, John","Beecher, Janet","DeMille, Cecil B.",59.0,No
+            1972,100.0,Pocket Money,Comedy,"Newman, Paul","Belford, Christine","Rosenberg, Stuart",55.0,No
+            1977,102.0,Mary White,Drama,"Flanders, Ed","Beller, Kathleen","Taylor, Jud",2.0,No
+            1990,105.0,Guilty by Suspicion,Drama,"De Niro, Robert","Bening, Annette","Winkler, Irwin",88.0,No
+            1948,99.0,Secret Beyond the Door,Mystery,"Redgrave, Michael","Bennett, Joan","Lang, Fritz",31.0,No
+            1945,103.0,Scarlet Street,Drama,"Robinson, Edward G.","Bennett, Joan","Lang, Fritz",80.0,No
+            1988,76.0,Daffy Duck's Quackbusters,Action,"Blanc, Mel","Bennett, Julie","Ford, Greg",68.0,No
+            1982,188.0,Gandhi,Drama,"Kingsley, Ben","Bergen, Candice","Attenborough, Richard",7.0,Yes
+            1975,120.0,"Wind & the Lion, The",Action,"Connery, Sean","Bergen, Candice","Milius, John",2.0,No
+            1971,96.0,Carnal Knowledge,Drama,"Nicholson, Jack","Bergen, Candice","Nichols, Mike",10.0,No
+            1970,126.0,Getting Straight,Comedy,"Gould, Elliott","Bergen, Candice","Rush, Richard",83.0,No
+            1972,90.0,"Scarlet Letter, The",Drama,"Albaicn, Rafael","Berger, Senta","Wenders, Wim",55.0,No
+            1935,75.0,"Count of Old Town, The",Comedy,"Adolphson, Edvin","Bergman, Ingrid","Adolphson, Edvin",72.0,No
+            1978,97.0,Autumn Sonata,Drama,"Bjrk, Halvar","Bergman, Ingrid","Bergman, Ingmar",49.0,Yes
+            1944,114.0,Gaslight,Drama,"Boyer, Charles","Bergman, Ingrid","Cukor, George",25.0,Yes
+            1958,100.0,Indiscreet,Drama,"Grant, Cary","Bergman, Ingrid","Donen, Stanley",1.0,No
+            1941,75.0,Walpurgis Night,Drama,"Sjstrm, Victor","Bergman, Ingrid","Edgren, Gustaf",32.0,No
+            1948,100.0,Joan of Arc,Drama,"Ferrer, Jose","Bergman, Ingrid","Fleming, Victor",7.0,No
+            1982,195.0,A Woman Called Golda,Drama,"Beatty, Ned","Bergman, Ingrid","Gibson, Alan",15.0,Yes
+            1969,98.0,A Walk in the Spring Rain,Drama,"Quinn, Anthony","Bergman, Ingrid","Green, Guy",2.0,No
+            1949,117.0,Under Capricorn,Drama,"Cotten, Joseph","Bergman, Ingrid","Hitchcock, Alfred",74.0,No
+            1946,101.0,Notorious,Mystery,"Grant, Cary","Bergman, Ingrid","Hitchcock, Alfred",42.0,No
+            1940,90.0,June Night,Drama,"Widgren, Olof","Bergman, Ingrid","Lindberg, Per",14.0,No
+            1961,120.0,Goodbye Again,Drama,"Perkins, Anthony","Bergman, Ingrid","Litvak, Anatole",6.0,No
+            1956,106.0,Anastasia,Drama,"Tamiroff, Akim","Bergman, Ingrid","Litvak, Anatole",24.0,Yes
+            1945,126.0,"Bells of St. Mary's, The",Drama,"Crosby, Bing","Bergman, Ingrid","McCarey, Leo",31.0,No
+            1937,91.0,Intermezzo,Drama,"Ekman, Gsta","Bergman, Ingrid","Molander, Gustaf",32.0,No
+            1938,104.0,A Woman's Face,Drama,"Svennberg, Tore","Bergman, Ingrid","Molander, Gustaf",49.0,No
+            1935,90.0,Swedenhielms,Drama,"Westergren, Hkan","Bergman, Ingrid","Molander, Gustaf",88.0,No
+            1939,87.0,Only One Night,Drama,"Adolphson, Edvin","Bergman, Ingrid","Molander, Gustav",26.0,No
+            1973,101.0,White Lightning,Action,"Reynolds, Burt","Billingsley, Jennifer","Sargent, Joseph",54.0,No
+            1988,172.0,"Unbearable Lightness of Being, The",Drama,"Day-Lewis, Daniel","Binoche, Juliette","Kaufman, Philip",5.0,Yes
+            1972,124.0,"Life & Times of Judge Roy Bean, The",Western,"Newman, Paul","Bisset, Jacqueline","Huston, John",65.0,No
+            1970,137.0,Airport,Drama,"Lancaster, Burt","Bisset, Jacqueline","Seaton, George",0.0,Yes
+            1973,116.0,Day for Night,Drama,"Aumont, Jean-Pierre","Bisset, Jacqueline","Truffaut, Franois",10.0,Yes
+            1952,107.0,Secrets of Women,Comedy,"Malmsten, Birger","Bjrk, Anita","Bergman, Ingmar",66.0,No
+            1976,116.0,Burnt Offerings,Horror,"Reed, Oliver","Black, Karen","Curtis, Dan",35.0,No
+            1969,94.0,Easy Rider,Drama,"Fonda, Peter","Black, Karen","Hopper, Dennis",36.0,No
+            1991,98.0,Five Easy Pieces,Drama,"Nicholson, Jack","Black, Karen","Rafelson, Bob",2.0,No
+            1974,144.0,"Day of the Locust, The",Drama,"Sutherland, Donald","Black, Karen","Schlesinger, John",81.0,No
+            1964,112.0,Goldfinger,Action,"Connery, Sean","Blackman, Honor","Hamilton, Guy",77.0,No
+            1977,117.0,"Exorcist II, The Heretic",Horror,"Burton, Richard","Blair, Linda","Boorman, John",29.0,No
+            1942,88.0,Lady for a Night,Drama,"Wayne, John","Blondell, Joan","Leigh, Jason",12.0,No
+            1968,103.0,Charly,Drama,"Robertson, Cliff","Bloom, Claire","Nelson, Ralph",38.0,Yes
+            1973,105.0,High Plains Drifter,Western,"Eastwood, Clint","Bloom, Verna","Eastwood, Clint",57.0,No
+
+        'sp2_practice_examTest.py': |
+            # 🚫 Please Do Not Edit This File
+            # Feel free to take a look, but you don't need to understand it.
+            #
+            # This file contains the checkpy tests for the exam.
+            # Modifying it may cause checkpy to stop working correctly.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            from checkpy import *
+            import typing
+
+            ######## Q1 ########
+
+            fun1_def = (declarative
+                .function("after_is")
+                .params("text")
+                .returnType(dict)
+            )
+
+            text = """It was a place where up is down, and down is up; where nothing is
+            quite what it seems. Why is a raven like a writing desk?
+            """
+
+            test1_1 = test()(fun1_def.call(text).returns({'a': 2, 'down': 1, 'up': 1}))
+
+
+            ######## Q2 ########
+
+            fun2_def = (declarative
+                .function("combine_dicts")
+                .params("dict1", "dict2")
+                .returnType(dict)
+            )
+
+            english_to_french = {'banana': 'banane', 'apple': 'pomme', 'almond': 'amande', 'cat': 'chat', 'fine': 'amande'}
+            french_to_spanish = {'pomme': 'manzana', 'car': 'coche', 'banane': 'plátano', 'amande': 'almendra'}
+            english_to_spanish = {'banana': 'plátano', 'apple': 'manzana', 'almond': 'almendra', 'fine': 'almendra'}
+
+            test2_1 = test()(fun2_def.call(english_to_french, french_to_spanish).returns(english_to_spanish))
+
+            ######## Q3 ########
+
+            fun3_def = (declarative
+                .function("most_frequent_actress")
+                .params("filename")
+                .returnType(tuple[str, list])
+            )
+
+            actress = "Bergman, Ingrid"
+            films = ['Count of Old Town, The', 'Autumn Sonata', 'Gaslight', 'Indiscreet', 'Walpurgis Night', 'Joan of Arc', 'A Woman Called Golda', 'A Walk in the Spring Rain', 'Under Capricorn', 'Notorious', 'June Night', 'Goodbye Again', 'Anastasia', "Bells of St. Mary's, The", 'Intermezzo', "A Woman's Face", 'Swedenhielms', 'Only One Night']
+
+            test3_1 = test()(fun3_def.call("films.csv").returns((actress, films)))
