@@ -3,14 +3,15 @@ exam: true
 buttons:
     "Checkpy": |
             from checkpy.interactive import testOffline
-            testOffline("sp1_practice_exam", "/home/pyodide", multiprocessing=False, silentMode=False)
+            testOffline("sp2_practice_exam", "/home/pyodide", multiprocessing=False, silentMode=False)
+            print("\nend tests!")
 check:
     tool: checkpy
     repo: spcourse/exam-tests
     args: sp2_exam_practice
 files:
     required:
-        'sp2_exam_practice.py': |
+        'sp2_practice_exam.py': |
             # Scientific Programming 2, practice exam
             # Name: ...
 
