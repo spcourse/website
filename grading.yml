@@ -54,13 +54,13 @@ grades:
     movement_(bonus):
         <<: *check
 
-    sp1-exam1:
+    sp1_exam1:
         <<: *testt
-    sp1-exam2:
+    sp1_exam2:
         <<: *testt
-    sp1-exam3:
+    sp1_exam3:
         <<: *testt
-    sp1-exam4:
+    sp1_exam4:
         <<: *testt
 
     monopoly_(level4):
@@ -71,13 +71,13 @@ grades:
         <<: *check
     survival_(level6): *check-man
 
-    sp2-exam1:
+    sp2_exam1:
         <<: *testt
-    sp2-exam2:
+    sp2_exam2:
         <<: *testt
-    sp2-exam3:
+    sp2_exam3:
         <<: *testt
-    sp2-exam4:
+    sp2_exam4:
         <<: *testt
 
     sp1_practice_exam:
@@ -110,10 +110,10 @@ sp1_modules:
 sp1_exams:
     show_progress: true
     submits:
-        sp1-exam1: 1
-        sp1-exam2: 1
-        sp1-exam3: 1
-        sp1-exam4: 1
+        sp1_exam1: 1
+        sp1_exam2: 1
+        sp1_exam3: 1
+        sp1_exam4: 1
     required: true
 
 practice:
@@ -135,10 +135,10 @@ sp2_modules:
 sp2_exams:
     show_progress: true
     submits:
-        sp2-exam1: 1
-        sp2-exam2: 1
-        sp2-exam3: 1
-        sp2-exam4: 1
+        sp2_exam1: 1
+        sp2_exam2: 1
+        sp2_exam3: 1
+        sp2_exam4: 1
     required: true
 
 data_grades:
