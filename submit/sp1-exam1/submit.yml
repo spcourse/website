@@ -3,7 +3,7 @@ exam: true
 buttons:
     "Checkpy": |
             from checkpy.interactive import testOffline
-            testOffline("sp1_practice_exam", "/home/pyodide", multiprocessing=False, silentMode=False)
+            testOffline("sp1_exam1", "/home/pyodide", multiprocessing=False, silentMode=False)
             print("\nend tests!")
 check:
     tool: checkpy
