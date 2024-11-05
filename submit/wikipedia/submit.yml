@@ -7,3 +7,5 @@ files:
         - scraper2.py
         - crawler.py
         - visualize_gini.py
+        - gdp_barplot.png
+        - gini_gdp_scatterplot.png
