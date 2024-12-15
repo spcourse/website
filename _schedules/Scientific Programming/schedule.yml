@@ -89,7 +89,7 @@ SP1 - L1 (Number theory):
     Prime numbers:
         Looking for trouble [theory]: /python/en/debugging-basics
         Check if numbers are prime [assignment]: /numbers/en/check-prime
-        1001 primes [assignment]: /numbers/en/1001-primes
+        1001 primes [assignment]: /numbers/en/n-primes
         Learn about lists [theory]: /python/en/lists
         Practice with lists [practice]: /python/en/lists/practice
         For loop strategies [theory]: /python/en/loops/element-vs-index
