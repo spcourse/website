@@ -1,0 +1,44 @@
+templates:
+    1: &auto
+        type: float
+        subgrades:
+            points: integer
+        calculation: points
+        automatic:
+            points: (correctness_score * 10).floor
+        auto_publish: true
+        hide_calculated: true
+        hide_subgrades: false
+
+grades:
+    1_1-hello: *auto
+    1_2-input-and_calculating: *auto
+    1_3-if_then: *auto
+    1_4-loops_1: *auto
+    1_5-loops_2: *auto
+    1_6-lists: *auto
+    c11-goldbach: *auto
+    c12-amicable: *auto
+    c13-eratosthenes: *auto
+
+    2_1-fun: *auto
+
+
+sp1_level_1_numbers :
+    show_progress: true
+    submits:
+        1_1-hello: 10
+        1_2-input-and_calculating: 10
+        1_3-if_then: 10
+        1_4-loops_1: 10
+        1_5-loops_2: 10
+        1_6-lists: 10
+        c11-goldbach: 10
+        c12-amicable: 10
+        c13-eratosthenes: 10
+
+
+sp1_level_1_text :
+    show_progress: true
+    submits:
+        2_1-fun: 10
