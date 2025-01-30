@@ -1,3 +1,13 @@
+#### General
+
+python:
+    remote: https://github.com/spcourse/python.git
+    branch: main
+    
+shorts:
+    remote: https://github.com/spcourse/shorts.git
+    branch: main
+
 #### SP1
 
 # M1
@@ -102,11 +112,7 @@ project:
     remote: https://github.com/spcourse/dataproject.git
     branch: main
 
-#### General
 
-python:
-    remote: https://github.com/spcourse/python.git
-    branch: main
 
 
 

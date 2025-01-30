@@ -45,7 +45,7 @@ SP1 - L1 (Number theory):
         Count Leap Years [individual]: /shorts/count_leap_years
         Newton [pair]: /shorts/newton
         Check Prime [individual]: /numbers/en/check-prime
-        Submit (8 jan) [submit]: /submit/m1-4
+        Submit (8 jan) [submit]: /submit/m1n-4
     1.5 Loops 2 (While):
         While Loops [theory]: /python/en/loops/while
         Loops examples [theory]: /python/en/loops/practical-uses
@@ -54,7 +54,7 @@ SP1 - L1 (Number theory):
         Sum Until [pair]: /shorts/sum_until
         Birthday [pair]: /numbers/en/birthday
         1001 Primes [individual]: /numbers/en/n-primes
-        Submit [submit]: /submit/m1-5
+        Submit [submit]: /submit/m1n-5
     1.6 Lists:
         Debugging [theory]: /python/en/debugging-basics
         Code in Style [theory]: /python/en/style
@@ -64,7 +64,7 @@ SP1 - L1 (Number theory):
         Average [pair]: /shorts/average
         Squares [individual]: /shorts/squares
         Prime List [individual & discuss in person]: /numbers/en/primelist
-        Submit [submit]: /submit/m1-6
+        Submit [submit]: /submit/m1n-6
     1.7 Challenges:
         Goldbach [individual]: /numbers/en/goldbach
         Submit Goldbach: /submit/c11-goldbach
@@ -73,45 +73,45 @@ SP1 - L1 (Number theory):
         Eratosthenes [individual]: /numbers/en/eratosthenes
         Submit Eratosthenes: /submit/c13-eratosthenes
 
-Text Processing (Module 2):
-    2.1 Functions - 10pt.:
-        Functions [theorie]: /python/en/functions
-        Squared [samen]: /shorts/squared
-        Min [samen]: /shorts/min
-        Fun Sum [individueel]: /shorts/fun_sum
-        Max [Individueel]: /shorts/max
-        Max Index [Individueel]: /shorts/max_index
-        Arange [Individueel]*: /shorts/arange
-        Submit (15 jan) [submit]: /submit/m2-1
-    2.2 Strings 1 - 10pt.:
-        Strings [theorie]: /python/en/strings
-        Vowels [samen]: /shorts/vowels
-        Vowel Words [samen]: /shorts/vowel_words
-        Text Statistics [individueel]*: /text/en/statistics
-        Submit (15 jan) [submit]: /submit/m2-2
-    2.3 Strings 2 - 10pt.:
-        Longest Word [samen]: /shorts/longest_word
-        Word-by-Word [samen]: /text/en/words
-        Resplit [samen]: /shorts/resplit
-        Snake Case [individueel]: /shorts/snake_case
-        Align [individueel]*: /text/en/align
-        Submit (20 jan) [submit]: /submit/m2-3
-    2.4 Files - 10pt.:
-        Read Files [theorie]: /python/en/file-io
-        Practice to read files [practice]: /python/en/files
-        Alice [samen]: /shorts/alice
-        Sentiment [individueel]*: /text/en/sentiment
-        Submit (20 jan) [submit]: /submit/m2-4
-    2.5 Plot - 10pt.:
-        Import [theorie]: /python/en/modules
-        Plot [theorie]: /python/en/plotting
-        Plot [samen]: /plot/en/plot1
-        Plot Min [individueel & aftekenen]*: /plot/en/plot2
-        Submit (21 jan) [submit]: /submit/m2-5
-    2.6 Style - 10pt.:
-        Style [individueel & nakijken]*: /m2-style
-        Submit (21 jan) [submit]: /submit/m2-6
-    2.7 Challenges - 10pt. per challenge:
+SP1 - L2 (Text Processing):
+    2.1 Functions:
+        Functions [theory]: /python/en/functions
+        Squared [pair]: /shorts/squared
+        Min [pair]: /shorts/min
+        Fun Sum [individual]: /shorts/fun_sum
+        Max [individual]: /shorts/max
+        Max Index [individual]: /shorts/max_index
+        Arange [individual]: /shorts/arange
+        Submit [submit]: /submit/m2-1
+    2.2 Strings 1:
+        Strings [theory]: /python/en/strings
+        Vowels [pair]: /shorts/vowels
+        Vowel Words [pair]: /shorts/vowel_words
+        Text Statistics [individual]: /text/en/statistics
+        Submit [submit]: /submit/m2-2
+    2.3 Strings 2:
+        Longest Word [pair]: /shorts/longest_word
+        Word-by-Word [pair]: /text/en/words
+        Resplit [pair]: /shorts/resplit
+        Snake Case [individual]: /shorts/snake_case
+        Align [individual]: /text/en/align
+        Submit [submit]: /submit/m2-3
+    2.4 Files:
+        Read Files [theory]: /python/en/file-io
+        Practice with files [practice]: /python/en/files
+        Alice [pair]: /shorts/alice
+        Sentiment [individual]: /text/en/sentiment
+        Submit [submit]: /submit/m2-4
+    2.5 Plot:
+        Import [theory]: /python/en/modules
+        Plot [theory]: /python/en/plotting
+        Plot [pair]: /plot/en/plot1
+        Plot Min [individual]: /plot/en/plot2
+        Submit [submit]: /submit/m2-5
+    2.6 Style:
+        Style [pair]: /m2-style
+        Submit [submit]: /submit/m2-6
+    2.7 Challenges:
         Twitter [individueel]: /text/en/tweets
         Submit Twitter (21 jan): /submit/c21-twitter
         Reformat [individueel]: /text/en/reformatting

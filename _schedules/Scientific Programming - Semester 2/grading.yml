@@ -10,6 +10,15 @@ templates:
         hide_calculated: true
         hide_subgrades: false
 
+    2: &check
+        type: boolean
+        subgrades:
+            finished: boolean
+        calculation: finished
+        auto_publish: false
+        hide_calculated: true
+        hide_subgrades: false
+
 grades:
     1_1-hello: *auto
     1_2-input-and_calculating: *auto
@@ -19,9 +28,9 @@ grades:
     1_5n-loops_2: *auto
     1_6n-lists: *auto
 
-    1_4a-loops_1: 10
-    1_5a-loops_2: 10
-    1_6a-lists: 10
+    1_4a-loops_1: *auto
+    1_5a-loops_2: *auto
+    1_6a-lists: *auto
 
     c11-goldbach: *auto
     c11-pyramid: *auto
@@ -38,6 +47,10 @@ grades:
     c21-twitter: *auto
     c22-reformatting: *auto
     c22-plot-min-max: *auto
+
+    m1-passed: *check
+    m2-passed: *check
+    m3-passed: *check
 
 
 sp1_level_1_numbers :
@@ -64,6 +77,13 @@ sp1_level_1_algorithms :
         1_6a-lists: 10
         c11-pyramid: 10
         c12-amicable: 10
+
+sp1_modules_discussed_and_passed:
+    show_progress: true
+    submits:
+        m1-passed: 1
+        m2-passed: 1
+        m3-passed: 1
 
 sp1_level_2_text :
     show_progress: true
