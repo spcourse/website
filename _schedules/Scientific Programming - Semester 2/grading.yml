@@ -39,15 +39,26 @@ sp1_level_1_numbers :
         1_1-hello: 10
         1_2-input-and_calculating: 10
         1_3-if_then: 10
-        1_4-loops_1: 10
-        1_5-loops_2: 10
-        1_6-lists: 10
+        1_4n-loops_1: 10
+        1_5n-loops_2: 10
+        1_6n-lists: 10
         c11-goldbach: 10
         c12-amicable: 10
         c13-eratosthenes: 10
 
+sp1_level_1_algorithms :
+    show_progress: true
+    submits:
+        1_1-hello: 10
+        1_2-input-and_calculating: 10
+        1_3-if_then: 10
+        1_4a-loops_1: 10
+        1_5a-loops_2: 10
+        1_6a-lists: 10
+        c11-pyramid: 10
+        c12-amicable: 10
 
-sp1_level_1_text :
+sp1_level_2_text :
     show_progress: true
     submits:
         2_1-fun: 10
