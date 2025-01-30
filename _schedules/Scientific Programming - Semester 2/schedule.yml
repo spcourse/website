@@ -186,25 +186,25 @@ SP1 - L2 (Numerical Integration):
         Plot [theory]: /python/en/plotting
         Plot [pair]: /plot/en/plot1
         Plot Min [individual]: /plot/en/plot2
-        Submit [submit]: /submit/mod2n-2
+        Submit [submit]: /submit/mod2i-2
     2.3 Riemann:
         Riemann Sum [theory]: /integrals/en/riemann/explanation
         Riemann Sum [individual]: /integrals/en/riemann/integrals
-        Submit [submit]: /submit/mod2n-3
+        Submit [submit]: /submit/mod2i-3
     2.4 Strings:
         Strings [theory]: /python/en/strings
         Vowels [pair]: /shorts/vowels
         Longest Word [individual]: /shorts/longest_word
-        Submit [submit]: /submit/mod2n-4
+        Submit [submit]: /submit/mod2i-4
     2.5 Random:
         Random Numbers [theory]: /python/en/random
         Random Fact [pair]: /integrals/en/random/fact
         Random Distance [individual]: /integrals/en/random/distance
         Random Histogram [individual]: /integrals/en/random/histogram
-        Submit [submit]: /submit/mod2n-5
+        Submit [submit]: /submit/mod2i-5
     2.6 Style:
         Style [individual & discuss]: /m2n-style
-        Submit [submit]: /submit/mod2n-6
+        Submit [submit]: /submit/mod2i-6
     2.7.1 Challenge 1 (not required to pass, but recommended):
         Learn about functions as arguments of other functions [theory]: /python/en/functions2
         Learn more about the Monte-Carlo method [theory]: /integrals/en/monte-carlo/explanation

@@ -1,10 +1,9 @@
-name: 2_6t-style
+name: 2_3i-riemann
 files:
     required:
-        - align.py
-        - plot2.py
+        - riemann.py
 
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: align
+    args: riemann

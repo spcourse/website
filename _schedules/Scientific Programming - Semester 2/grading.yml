@@ -51,11 +51,11 @@ grades:
     c-reformatting: *auto
     c-plot_min_max: *auto
 
-    2_2n-plot: *auto
-    2_3n-riemann: *auto
-    2_4n-strings: *auto
-    2_5n-random: *auto
-    2_6n-style: *auto
+    2_2i-plot: *auto
+    2_3i-riemann: *auto
+    2_4i-strings: *auto
+    2_5i-random: *auto
+    2_6i-style: *auto
 
     c-montecarlo: *auto
     c-egg: *auto
@@ -114,11 +114,11 @@ sp1_level_2_integration:
     show_progress: true
     submits:
         2_1-fun: 10
-        2_2n-plot: 10
-        2_3n-riemann: 10
-        2_4n-strings: 10
-        2_5n-random: 10
-        2_6n-style: 10
+        2_2i-plot: 10
+        2_3i-riemann: 10
+        2_4i-strings: 10
+        2_5i-random: 10
+        2_6i-style: 10
         c-montecarlo: 10
         c-egg: 10
 
