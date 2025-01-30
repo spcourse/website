@@ -24,29 +24,42 @@ grades:
     1_2-input-and_calculating: *auto
     1_3-if_then: *auto
 
-    1_4n-loops_1: *auto
-    1_5n-loops_2: *auto
-    1_6n-lists: *auto
-
     1_4a-loops_1: *auto
     1_5a-loops_2: *auto
     1_6a-lists: *auto
 
-    c11-goldbach: *auto
-    c11-pyramid: *auto
-    c12-amicable: *auto
-    c13-eratosthenes: *auto
+    c-pyramid: *auto
+    c-calendar: *auto
+
+    1_4n-loops_1: *auto
+    1_5n-loops_2: *auto
+    1_6n-lists: *auto
+
+    c-goldbach: *auto
+    c-amicable: *auto
+    c-eratosthenes: *auto
+
 
     2_1-fun: *auto
-    2_1-fun: *auto
-    2_2-strings-1: *auto
-    2_3-strings-2: *auto
-    2_4-files: *auto
-    2_5-plot: *auto
-    2_6-style: *auto
-    c21-twitter: *auto
-    c22-reformatting: *auto
-    c22-plot-min-max: *auto
+
+    2_2t-strings-1: *auto
+    2_3t-strings-2: *auto
+    2_4t-files: *auto
+    2_5t-plot: *auto
+    2_6t-style: *auto
+
+    c-twitter: *auto
+    c-reformatting: *auto
+    c-plot-min-max: *auto
+
+    2_2n-plot: *auto
+    2_3n-riemann: *auto
+    2_4n-strings: *auto
+    2_5n-random: *auto
+    2_6n-style: *auto
+
+    c-montecarlo: 10
+    c-egg: 10
 
     m1-passed: *check
     m2-passed: *check
@@ -62,9 +75,9 @@ sp1_level_1_numbers :
         1_4n-loops_1: 10
         1_5n-loops_2: 10
         1_6n-lists: 10
-        c11-goldbach: 10
-        c12-amicable: 10
-        c13-eratosthenes: 10
+        c-goldbach: 10
+        c-amicable: 10
+        c-eratosthenes: 10
 
 sp1_level_1_algorithms :
     show_progress: true
@@ -75,21 +88,33 @@ sp1_level_1_algorithms :
         1_4a-loops_1: 10
         1_5a-loops_2: 10
         1_6a-lists: 10
-        c11-pyramid: 10
-        c12-amicable: 10
+        c-pyramid: 10
+        c-calendar: 10
 
 sp1_level_2_text :
     show_progress: true
     submits:
         2_1-fun: 10
-        2_2-strings-1: 10
-        2_3-strings-2: 10
-        2_4-files: 10
-        2_5-plot: 10
-        2_6-style: 10
-        c21-twitter: 10
-        c22-reformatting: 10
-        c22-plot-min-max: 10
+        2_2t-strings-1: 10
+        2_3t-strings-2: 10
+        2_4t-files: 10
+        2_5t-plot: 10
+        2_6t-style: 10
+        c-twitter: 10
+        c-reformatting: 10
+        c-plot-min-max: 10
+
+sp1_level_2_integration:
+    show_progress: true
+    submits:
+        2_1-fun: 10
+        2_2n-plot: 10
+        2_3n-riemann: 10
+        2_4n-strings: 10
+        2_5n-random: 10
+        2_6n-style: 10
+        c-montecarlo: 10
+        c-egg: 10
 
 sp1_checks:
     show_progress: true
