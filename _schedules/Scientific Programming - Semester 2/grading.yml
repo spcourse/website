@@ -60,6 +60,13 @@ grades:
     c-montecarlo: *auto
     c-egg: *auto
 
+    3_1-car: *auto
+    3_1-temperature: *auto
+
+    c-datastructures: *auto
+    c-shakespeare: *auto
+
+
     m1-passed: *check
     m2-passed: *check
     m3-passed: *check
@@ -114,6 +121,14 @@ sp1_level_2_integration:
         2_6n-style: 10
         c-montecarlo: 10
         c-egg: 10
+
+sp1-level_2_big_data:
+    show_progress: true
+    submits:
+        3_1-car: 10
+        3_1-temperature: 10
+        c-datastructures: 10
+        c-shakespeare: 10
 
 sp1_checks:
     show_progress: true
