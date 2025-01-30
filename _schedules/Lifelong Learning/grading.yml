@@ -63,39 +63,6 @@ grades:
     sp1_exam4:
         <<: *testt
 
-    monopoly_(level4):
-        <<: *check
-    complexity_(level5):
-        <<: *check-man
-    shakespeare_(level5):
-        <<: *check
-    survival_(level6): *check-man
-
-    sp2_exam1:
-        <<: *testt
-    sp2_exam2:
-        <<: *testt
-    sp2_exam3:
-        <<: *testt
-    sp2_exam4:
-        <<: *testt
-
-    sp1_practice_exam:
-        <<: *testt
-    sp2_practice_exam:
-        <<: *testt
-
-    populations: *graded
-    wikipedia: *check-man
-    transformation: *graded
-    databases: *check-man
-    project:
-        type: float
-        subgrades:
-            novelty: integer
-            quality: integer
-        calculation: "(1.0 + 9.0 * (novelty * 7.0 + quality * 3.0 - 10.0) / 40.0).round(1)"
-
 sp1_modules:
     show_progress: true
     submits:
@@ -120,43 +87,4 @@ practice:
     show_progress: true
     submits:
         sp1_practice_exam: 1
-        sp2_practice_exam: 1
     required: false
-
-sp2_modules:
-    show_progress: true
-    submits:
-        monopoly_(level4): 1
-        complexity_(level5): 1
-        shakespeare_(level5): 1
-        survival_(level6): 1
-    required: true
-
-sp2_exams:
-    show_progress: true
-    submits:
-        sp2_exam1: 1
-        sp2_exam2: 1
-        sp2_exam3: 1
-        sp2_exam4: 1
-    required: true
-
-data_grades:
-    show_progress: true
-    submits:
-        populations: 25
-        transformation: 25
-        project: 50
-    required: true
-
-data_pass:
-    show_progress: true
-    submits:
-        wikipedia: 1
-        databases: 1
-    required: true
-
-calculation:
-    final_data:
-        data_grades: 1
-        data_pass: 0
