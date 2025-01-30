@@ -1,0 +1,162 @@
+templates:
+    1: &check
+        hide_calculated: true
+        type: integer
+        subgrades:
+            completely_correct: boolean
+            mostly_correct: boolean
+            insufficient: boolean
+            checkpy: float
+        automatic:
+            checkpy: correctness_score
+        calculation: "[insufficient == -1 && 0 || -10, mostly_correct == -1 && 2 || -10, completely_correct == -1 && 3 || -10].max"
+
+    2: &check-man
+        hide_calculated: true
+        type: integer
+        subgrades:
+            completely_correct: boolean
+            mostly_correct: boolean
+            insufficient: boolean
+        calculation: "[insufficient == -1 && 0 || -10, mostly_correct == -1 && 2 || -10, completely_correct == -1 && 3 || -10].max"
+
+    3: &testt
+        type: pass
+        subgrades:
+            pass: boolean
+            fail: boolean
+            done: boolean
+            checkpy: float
+        automatic:
+            checkpy: correctness_score
+        calculation: (pass == -1 && -1) || (fail == -1 && 0) || -10
+        hide_calculated: true
+
+    4: &graded
+        hide_calculated: true
+        type: float
+        subgrades:
+            code_quality: integer
+            correctness: integer
+        calculation: "1.0 + 9.0 * (3.0 * correctness + 2.0 * code_quality - 5.0) / 20.0"
+
+grades:
+    algorithms_(level1):
+        <<: *check
+    numbers_(level1):
+        <<: *check
+    text_(level2):
+        <<: *check
+    integrals_(level2):
+        <<: *check
+    bigdata_(level3):
+        <<: *check
+    movement_(bonus):
+        <<: *check
+
+    sp1_exam1:
+        <<: *testt
+    sp1_exam2:
+        <<: *testt
+    sp1_exam3:
+        <<: *testt
+    sp1_exam4:
+        <<: *testt
+
+    monopoly_(level4):
+        <<: *check
+    complexity_(level5):
+        <<: *check-man
+    shakespeare_(level5):
+        <<: *check
+    survival_(level6): *check-man
+
+    sp2_exam1:
+        <<: *testt
+    sp2_exam2:
+        <<: *testt
+    sp2_exam3:
+        <<: *testt
+    sp2_exam4:
+        <<: *testt
+
+    sp1_practice_exam:
+        <<: *testt
+    sp2_practice_exam:
+        <<: *testt
+
+    populations: *graded
+    wikipedia: *check-man
+    transformation: *graded
+    databases: *check-man
+    project:
+        type: float
+        subgrades:
+            novelty: integer
+            quality: integer
+        calculation: "(1.0 + 9.0 * (novelty * 7.0 + quality * 3.0 - 10.0) / 40.0).round(1)"
+
+sp1_modules:
+    show_progress: true
+    submits:
+        algorithms_(level1): 1
+        numbers_(level1): 1
+        text_(level2): 1
+        integrals_(level2): 1
+        bigdata_(level3): 1
+        movement_(bonus): 1
+    required: true
+
+sp1_exams:
+    show_progress: true
+    submits:
+        sp1_exam1: 1
+        sp1_exam2: 1
+        sp1_exam3: 1
+        sp1_exam4: 1
+    required: true
+
+practice:
+    show_progress: true
+    submits:
+        sp1_practice_exam: 1
+        sp2_practice_exam: 1
+    required: false
+
+sp2_modules:
+    show_progress: true
+    submits:
+        monopoly_(level4): 1
+        complexity_(level5): 1
+        shakespeare_(level5): 1
+        survival_(level6): 1
+    required: true
+
+sp2_exams:
+    show_progress: true
+    submits:
+        sp2_exam1: 1
+        sp2_exam2: 1
+        sp2_exam3: 1
+        sp2_exam4: 1
+    required: true
+
+data_grades:
+    show_progress: true
+    submits:
+        populations: 25
+        transformation: 25
+        project: 50
+    required: true
+
+data_pass:
+    show_progress: true
+    submits:
+        wikipedia: 1
+        databases: 1
+    required: true
+
+calculation:
+    final_data:
+        data_grades: 1
+        data_pass: 0
