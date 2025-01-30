@@ -21,7 +21,7 @@ templates:
 
 grades:
     1_1-hello: *auto
-    1_2-input-and_calculating: *auto
+    1_2-input_and_calculating: *auto
     1_3-if_then: *auto
 
     1_4a-loops_1: *auto
@@ -39,11 +39,10 @@ grades:
     c-amicable: *auto
     c-eratosthenes: *auto
 
-
     2_1-fun: *auto
 
-    2_2t-strings-1: *auto
-    2_3t-strings-2: *auto
+    2_2t-strings_1: *auto
+    2_3t-strings_2: *auto
     2_4t-files: *auto
     2_5t-plot: *auto
     2_6t-style: *auto
@@ -58,8 +57,8 @@ grades:
     2_5n-random: *auto
     2_6n-style: *auto
 
-    c-montecarlo: 10
-    c-egg: 10
+    c-montecarlo: *auto
+    c-egg: *auto
 
     m1-passed: *check
     m2-passed: *check
@@ -70,7 +69,7 @@ sp1_level_1_numbers :
     show_progress: true
     submits:
         1_1-hello: 10
-        1_2-input-and_calculating: 10
+        1_2-input_and_calculating: 10
         1_3-if_then: 10
         1_4n-loops_1: 10
         1_5n-loops_2: 10
@@ -83,7 +82,7 @@ sp1_level_1_algorithms :
     show_progress: true
     submits:
         1_1-hello: 10
-        1_2-input-and_calculating: 10
+        1_2-input_and_calculating: 10
         1_3-if_then: 10
         1_4a-loops_1: 10
         1_5a-loops_2: 10
@@ -95,14 +94,14 @@ sp1_level_2_text :
     show_progress: true
     submits:
         2_1-fun: 10
-        2_2t-strings-1: 10
-        2_3t-strings-2: 10
+        2_2t-strings_1: 10
+        2_3t-strings_2: 10
         2_4t-files: 10
         2_5t-plot: 10
         2_6t-style: 10
         c-twitter: 10
         c-reformatting: 10
-        c-plot-min-max: 10
+        c-plot_min_max: 10
 
 sp1_level_2_integration:
     show_progress: true
