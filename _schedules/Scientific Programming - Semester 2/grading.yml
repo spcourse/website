@@ -19,6 +19,18 @@ templates:
         hide_calculated: true
         hide_subgrades: false
 
+    3: &testt
+        type: pass
+        subgrades:
+            pass: boolean
+            fail: boolean
+            done: boolean
+            checkpy: float
+        automatic:
+            checkpy: correctness_score
+        calculation: (pass == -1 && -1) || (fail == -1 && 0) || -10
+        hide_calculated: true
+
 grades:
     1_1-hello: *auto
     1_2-input_and_calculating: *auto
@@ -70,6 +82,9 @@ grades:
     m1-passed: *check
     m2-passed: *check
     m3-passed: *check
+
+    sp1_exam3: *testt
+    sp1_exam4: *testt
 
 
 sp1_level_1_numbers :
@@ -136,3 +151,5 @@ sp1_checks:
         m1-passed: 1
         m2-passed: 1
         m3-passed: 1
+        sp1_exam3: 1
+        sp1_exam4: 1
