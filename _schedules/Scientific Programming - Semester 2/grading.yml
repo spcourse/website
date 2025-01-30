@@ -14,10 +14,17 @@ grades:
     1_1-hello: *auto
     1_2-input-and_calculating: *auto
     1_3-if_then: *auto
-    1_4-loops_1: *auto
-    1_5-loops_2: *auto
-    1_6-lists: *auto
+
+    1_4n-loops_1: *auto
+    1_5n-loops_2: *auto
+    1_6n-lists: *auto
+
+    1_4a-loops_1: 10
+    1_5a-loops_2: 10
+    1_6a-lists: 10
+
     c11-goldbach: *auto
+    c11-pyramid: *auto
     c12-amicable: *auto
     c13-eratosthenes: *auto
 
