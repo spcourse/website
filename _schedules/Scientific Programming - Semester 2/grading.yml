@@ -49,7 +49,7 @@ grades:
 
     c-twitter: *auto
     c-reformatting: *auto
-    c-plot-min-max: *auto
+    c-plot_min_max: *auto
 
     2_2n-plot: *auto
     2_3n-riemann: *auto
