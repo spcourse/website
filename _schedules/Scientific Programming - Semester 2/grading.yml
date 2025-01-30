@@ -78,13 +78,6 @@ sp1_level_1_algorithms :
         c11-pyramid: 10
         c12-amicable: 10
 
-sp1_modules_discussed_and_passed:
-    show_progress: true
-    submits:
-        m1-passed: 1
-        m2-passed: 1
-        m3-passed: 1
-
 sp1_level_2_text :
     show_progress: true
     submits:
@@ -97,3 +90,10 @@ sp1_level_2_text :
         c21-twitter: 10
         c22-reformatting: 10
         c22-plot-min-max: 10
+
+sp1_checks:
+    show_progress: true
+    submits:
+        m1-passed: 1
+        m2-passed: 1
+        m3-passed: 1
