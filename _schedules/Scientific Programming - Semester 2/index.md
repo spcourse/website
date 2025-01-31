@@ -276,25 +276,22 @@ The course's final result will be "pass" or "fail", which means that no grades a
 - passing the final exam
 
 #### Coursework (modules)
-For each module you will one of the following grades:
 
-* completely correct
-* mostly correct
-* insufficient
+- Each module consists of several submits (between 5 and 9), those will be mostly auto-graded. That means you can track you own progress instantly.
+- Normal submits are compulsory, you need to have all of them mostly correct in order to get a pass for the module.
+- Challenges are not compulsory, but we highly recommend that you do at least one per module if you want to be fully prepared for the exam and/or future courses.
+- Once you submitted all parts of a module they will be evaluated manually by us. Depending on the module this is either done by discussing the work in person or by being graded. At this stage it might get a **pass** or **fail** for the module, if you get a fail for a module, you can always fix the issue and resubmit.
+- All your modules need to be grade by us and be *correct*.
+- If it is required for a module to discuss it in person, you need to come and do this during one of the tutorials. **Please do not wait too long with discussing your module after finalizing** (ideally within a few days).
 
-In principle we expect that everything you hand in is *completely correct*. However, it happens easily to miss a detail, so to relax the requirements a bit:
-
-- All your modules need to be at least *mostly correct*.
-- At least one module needs to be *completely correct*
-
-You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
+> You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
 
 #### Final exam
 The final exam is (on campus) programming exam in a controlled setting. This will take about 3 hours. It contains a couple of small programming assignments. You'll pass the exam when your answers are sufficiently correct.
 
 You can participate in the final exam if you're done with the coursework, meaning:
 
-* The first two modules are *graded* and at least *mostly correct*.
+* The first two modules are *graded* and *correct*.
 * The last module is handed in (with reasonable expectation to be correct).
 
 If you do not meet these requirements (for example when you still have an insufficient or one of the first two modules isn't graded yet) you cannot participate with the exam yet. You will have to finish the coursework first and do the exam at a later date.
@@ -324,7 +321,7 @@ Note that, even though level 8 and 10 do not contribute to the grade, you still 
 
 Some of the assignments are graded (level 7, level 9 and the final project) and some are pass fail (level 8 and level 10).
 
-* For the pass/fail assignments the grading works the same as for Scientific Programming 1 and 2. You can get one three possible marks: completely correct, mostly correct, or insufficient. You need to get these assignments at least mostly correct.
+* For the pass/fail assignments the grading works the same as for Scientific Programming 1 and 2: they are graded **pass/fail**
 * For the graded assignments you get a note based on the code quality (how well written is the code?) and the correctness (does it meet the specifications) of your assignment. Both are graded on a scale from 1 to 5. Where the correctness weighs more than code quality: $$\textrm{points} =  \textrm{correctness} \times 3 + \textrm{design} \times 2$$. So you can get at most 25 and at least 5 points.
 * The final project is graded based on novelty and quality. For both you get points on a scale from 1 to 5.
     * Novelty: As a independent programmer you need to often learn a new skill, library or concept by yourself. The main purpose of the final project is to practice with this. This is reflected in the novelty part: to what extend did you do/learn something new (not yet discussed during the course)?
