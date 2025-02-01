@@ -39,7 +39,7 @@ SP1 - L1 (Algorithms):
         Sum [individual]: /shorts/sum
         Leap Years [pair]: /shorts/leap_years
         Newton [pair]: /shorts/newton
-        Repeat String [individual] *TODO*: /shorts/repeat
+        Repeat String [individual]: /shorts/repeat
         Submit [submit]: /submit/mod1a-4
     1.5 Loops 2 (While):
         While Loops [theory]: /python/en/loops/while
@@ -47,7 +47,7 @@ SP1 - L1 (Algorithms):
         Elmo [pair]: /shorts/elmo
         Positive [individual]: /shorts/positive
         Sum Until [pair]: /shorts/sum_until
-        Max Until [pair] *TODO*: /shorts/max_while
+        Max Until [pair]: /shorts/max_while
         Calculate Change [assignment]: /algorithms/en/greedy
         Submit [submit]: /submit/mod1a-5
     1.6 Lists:
