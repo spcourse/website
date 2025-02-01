@@ -170,7 +170,7 @@ Here below is an overview of all modules for all courses.
   <tr>
     <td> <b>Level 4</b> </td><td colspan="3"> <b>MONOPOLY</b>. When playing Monopoly, a starting player's advantage seems unfair. To verify, you could play many (millions) real games, but this would take way too much time. Instead, you'll write a computer simulation. This also allows you to experiment with game adjustments to make it fair. You're doing all this for a board game, but this simulation principle applies to various scientific fields (economy, chemistry, biology...).</td>
   </tr><tr>
-    <td> <b>Level 5</b> </td>
+    <td> <b>Level 5</b> (choose one of the modules)</td>
     <td>
       <b>COMPLEXITY</b>. What is an efficient algorithm? When you want to run large simulations, analyze large dataset, or any other computationally intensive task, writing efficient algorithms could in some cases mean the difference between a run time of a couple of minutes or of weeks. The theory of computational complexity gives you a way to reason about the efficiency of algorithms and make them run (much) faster.
     </td><td>
@@ -214,22 +214,22 @@ The deadline schedules:
 |--------------------|---------------------|---------------------|---------------------|
 | Level\Pace         | relaxed (SP1 and SP2 in one year) | standard (the whole track in one year) | fast (the whole track in one semester) |
 |--------------------|---------------------|---------------------|---------------------|
-| SP1 - Level 1      | Fri **28 Feb** 2025 | Fri **14 Feb** 2025 | Fri **07 Feb** 2025 |
-| SP1 - Level 2      | Fri **04 Apr** 2025 | Fri **28 Feb** 2025 | Fri **14 Feb** 2025 |
+| SP1 - Level 1*     | Fri **28 Feb** 2025 | Fri **14 Feb** 2025 | Fri **07 Feb** 2025 |
+| SP1 - Level 2*     | Fri **04 Apr** 2025 | Fri **28 Feb** 2025 | Fri **14 Feb** 2025 |
 | SP1 - Level 3      | Wed **14 May** 2025 | Fri **14 Mar** 2025 | Fri **21 Feb** 2025 |
 |--------------------|---------------------|---------------------|---------------------|
 |                    |                     |                     |                     |
 |--------------------|---------------------|---------------------|---------------------|
-| SP2 - Level 4      | SP2 next year?      | Fri **11 Apr** 2025 | Fri **28 Feb** 2025 |
+| SP2 - Level 4*     | SP2 next year?      | Fri **11 Apr** 2025 | Fri **28 Feb** 2025 |
 | SP2 - Level 5      |                     | Wed **07 May** 2025 | Fri **07 Mar** 2025 |
 | SP2 - Level 6      |                     | Wed **21 May** 2025 | Fri **14 Mar** 2025 |
 |--------------------|---------------------|---------------------|---------------------|
 |                    |                     |                     |                     |
 |--------------------|---------------------|---------------------|---------------------|
 | DP - Level 7       |                     | DP next year?       | Fri **04 Apr** 2025 |
-| DP - Level 8       |                     |                     | Fri **11 Apr** 2025 |
+| DP - Level 8*      |                     |                     | Fri **11 Apr** 2025 |
 | DP - Level 9       |                     |                     | Tue **22 Apr** 2025 |
-| DP - Level 10      |                     |                     | Wed **07 May** 2025 |
+| DP - Level 10*     |                     |                     | Wed **07 May** 2025 |
 | DP - Final Project |                     |                     | Wed **21 May** 2025 |
 |--------------------|---------------------|---------------------|---------------------|
 
@@ -238,8 +238,8 @@ If you already started last semester one of the following schedules might apply:
 |---------------------|---------------------|
 | Level\Pace          | relaxed (SP2 in one semester) |
 |---------------------|---------------------|
-| SP2 - Level 4       | Fri **28 Feb** 2025 |
-| SP2 - Level 5       | Fri **04 Apr** 2025 |
+| SP2 - Level 4*      | Fri **28 Feb** 2025 |
+| SP2 - Level 5*      | Fri **04 Apr** 2025 |
 | SP2 - Level 6       | Fri **16 May** 2025 |
 |                     | Wed **21 May** 2025 |
 |---------------------|---------------------|
@@ -248,13 +248,15 @@ If you already started last semester one of the following schedules might apply:
 | Level\Pace          | standard (Data Processing in one semester) |
 |---------------------|---------------------|
 | DP - Level 7        | Fri **14 Feb** 2025 |
-| DP - Level 8        | Fri **28 Feb** 2025 |
+| DP - Level 8*       | Fri **28 Feb** 2025 |
 | DP - Level 9        | Wed **19 Mar** 2025 |
-| DP - Level 10       | Fri **11 Apr** 2025 |
+| DP - Level 10*      | Fri **11 Apr** 2025 |
 | DP - Final Project  | Wed **21 May** 2025 |
 |---------------------|---------------------|
 
 If none of these schedules apply, please contact us, to make a personalized plan.
+
+\* These modules need to discussed in person after finalizing.
 
 ## Grading {#grading}
 
@@ -277,26 +279,25 @@ The course's final result will be "pass" or "fail", which means that no grades a
 
 #### Coursework (modules)
 
-- Each module consists of several submits (between 5 and 9), those will be mostly auto-graded. That means you can track you own progress instantly.
-- Normal submits are compulsory, you need to have all of them mostly correct in order to get a pass for the module.
-- Challenges are not compulsory, but we highly recommend that you do at least one per module if you want to be fully prepared for the exam and/or future courses.
-- Once you submitted all parts of a module they will be evaluated manually by us. Depending on the module this is either done by discussing the work in person or by being graded. At this stage it might get a **pass** or **fail** for the module, if you get a fail for a module, you can always fix the issue and resubmit.
-- All your modules need to be grade by us and be *correct*.
-- If it is required for a module to discuss it in person, you need to come and do this during one of the tutorials. **Please do not wait too long with discussing your module after finalizing** (ideally within a few days).
+- Each module consists of several submissions (between 5 and 9), most of which are auto-graded. This allows you to track your progress instantly.
 
-> You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
+  - **Normal submissions** are compulsory; you must complete all of them with correct results to pass the module.  
+  - **Challenges** are not compulsory, but we highly recommend completing at least one per module to be fully prepared for the exam and/or future courses.
+
+- After you have submitted all parts of a module, we will evaluate them manually. Depending on the module, this involves either discussing the work in person or assigning a grade. At this stage, you may receive a **pass** or **fail** for the module. If you receive a fail, you can revise the work and resubmit.
+- All modules must be graded by us and deemed *correct*. If a module requires an in-person discussion, you should attend one of the tutorials. **Please do not wait too long to discuss your module after finalizing**—ideally, join the tutorial for a discussion within a few days after submitting.
+- You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
 
 #### Final exam
-The final exam is (on campus) programming exam in a controlled setting. This will take about 3 hours. It contains a couple of small programming assignments. You'll pass the exam when your answers are sufficiently correct.
 
-You can participate in the final exam if you're done with the coursework, meaning:
+- The final exam is (on campus) programming exam in a controlled setting. This will take about 3 hours. It contains a couple of small programming assignments. You'll pass the exam when your answers are sufficiently correct.
+- You can participate in the final exam if you're done with the coursework, meaning:
 
-* The first two modules are *graded* and *correct*.
-* The last module is handed in (with reasonable expectation to be correct).
+  - The first two modules are *graded* and *correct*.
+  - The last module is handed in (with reasonable expectation to be correct).
 
-If you do not meet these requirements (for example when you still have an insufficient or one of the first two modules isn't graded yet) you cannot participate with the exam yet. You will have to finish the coursework first and do the exam at a later date.
-
-You need to make sure that you leave enough time for grading for the first two modules before the exam. So, **hand in the *first two modules* no later that two weeks before the exam**. If you hand in everything last minute you risk not being able to participate in the exam
+- If you do not meet these requirements (for example when you still have an insufficient or one of the first two modules isn't graded yet) you cannot participate with the exam yet. You will have to finish the coursework first and do the exam at a later date.
+- You need to make sure that you leave enough time for grading for the first two modules before the exam. So, **hand in the *first two modules* no later that two weeks before the exam**. If you hand in everything last minute you risk not being able to participate in the exam
 </details>
 
 ### Grading Data Processing {#dp-grading}
