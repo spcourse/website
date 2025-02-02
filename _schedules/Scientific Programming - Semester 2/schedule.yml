@@ -61,10 +61,12 @@ SP1 - L1 (Algorithms):
         Collect Change [individual & discuss]: /algorithms/en/collect
         Submit [submit]: /submit/mod1a-6
     1.7 Challenges (not required to pass, but recommended to do at least one):
-        Mario Pyramid [individual]: /algorithms/en/pyramid
-        Submit Pyramid: /submit/pyramid
-        Calendar [individual] *TODO*: /algotihms/en/calendar
-        Submit Calendar: submit/calendar
+        Mario Pyramid [pair]: /algorithms/en/pyramid
+        Submit Pyramid: /submit/c-pyramid
+        Conway’s Game of Life [pair] *TODO*: /algorithms/en/conway
+        Submit Conway *TODO*: submit/c-conway
+        # Calendar [individual] *TODO*: /algotihms/en/calendar
+        # Submit Calendar: submit/calendar
         # Game of Fifteen [individual] *TODO*: /numbers/en/fifteen
         # Submit Game of Fifteen: /submit/fifteen
 
@@ -115,11 +117,11 @@ SP1 - L1 (Number Theory):
         Prime List [individual & discuss]: /numbers/en/primelist
         Submit [submit]: /submit/mod1n-6
     1.7 Challenges (not required to pass, but recommended to do at least one):
-        Goldbach [individual]: /numbers/en/c-goldbach
-        Submit Goldbach: /submit/goldbach
-        Amicable [individual]: /numbers/en/c-amicable
-        Submit Amicable: /submit/amicable
-        Eratosthenes [individual]: /numbers/en/eratosthenes
+        Goldbach [pair]: /numbers/en/goldbach
+        Submit Goldbach: /submit/c-goldbach
+        Amicable [pair]: /numbers/en/amicable
+        Submit Amicable: /submit/c-amicable
+        Eratosthenes [pair]: /numbers/en/eratosthenes
         Submit Eratosthenes: /submit/c-eratosthenes
 
 SP1 - L2 (Text Processing):
@@ -161,11 +163,11 @@ SP1 - L2 (Text Processing):
         Style [individual & discuss]: /m2t-style
         Submit [submit]: /submit/mod2t-6
     2.7 Challenges (not required to pass, but recommended to do at least one):
-        Twitter [individueel]: /text/en/tweets
+        Twitter [pair]: /text/en/tweets
         Submit Twitter (21 jan): /submit/c-twitter
-        Reformat [individueel]: /text/en/reformatting
+        Reformat [pair]: /text/en/reformatting
         Submit Reformat (21 jan): /submit/c-reformatting
-        Plot Min Max [individueel]: /plot/en/plot_mm
+        Plot Min Max [pair]: /plot/en/plot_mm
         Submit Plot Min Max (21 jan): /submit/c-plot-min-max
 
 
@@ -206,12 +208,12 @@ SP1 - L2 (Numerical Integration):
         Style [individual & discuss]: /m2n-style
         Submit [submit]: /submit/mod2i-6
     2.7.1 Challenge 1 (not required to pass, but recommended):
-        Learn about functions as arguments of other functions [theory]: /python/en/functions2
-        Learn more about the Monte-Carlo method [theory]: /integrals/en/monte-carlo/explanation
-        Calculate integrals with the Monte Carlo method [assignment]: /integrals/en/monte-carlo/integrals
+        More Function [theory]: /python/en/functions2
+        Monte Carlo [theory]: /integrals/en/monte-carlo/explanation
+        Monte Carlo [pair]: /integrals/en/monte-carlo/integrals
         Submit [submit]: /submit/c-montecarlo
-    2.7.2 Challenge 2:
-        Egg [assignment]: /integrals/en/monte-carlo/egg
+    2.7.2 Challenge 2 (not required to pass):
+        Egg [pair]: /integrals/en/monte-carlo/egg
         Submit [submit]: /submit/c-egg
 
 SP1 - L3 (Big Data):
@@ -227,10 +229,10 @@ SP1 - L3 (Big Data):
         Dictionaries [theory]: /python/en/dictionaries/use
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
-        Datastructures [individual]: /shakespeare/c-datastructures
+        Datastructures [pair]: /shakespeare/c-datastructures
         Submit [submit]: /submit/datastructures
     3.3.2 Challenge 2 (not required to pass, sneak peak of SP2):
-        Shakespeare [individual]: /shakespeare/shakespeare-short
+        Shakespeare [pair]: /shakespeare/shakespeare-short
         Submit [submit]: /submit/c-shakespeare
 
 

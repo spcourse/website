@@ -284,6 +284,7 @@ The course's final result will be "pass" or "fail", which means that no grades a
   - **Normal submissions** are compulsory; you must complete all of them with correct results to pass the module.  
   - **Challenges** are not compulsory, but we highly recommend completing at least one per module to be fully prepared for the exam and/or future courses.
 
+- Some assignments are marked as *pair* assignments. For those you can (we even encourage you to) work together, so you can learn from other students. For *individual* assignments, however, we expect them to be entirely your own work. 
 - After you have submitted all parts of a module, we will evaluate them manually. Depending on the module, this involves either discussing the work in person or assigning a grade. At this stage, you may receive a **pass** or **fail** for the module. If you receive a fail, you can revise the work and resubmit.
 - All modules must be graded by us and deemed *correct*. If a module requires an in-person discussion, you should attend one of the tutorials. **Please do not wait too long to discuss your module after finalizing**—ideally, join the tutorial for a discussion within a few days after submitting.
 - You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
