@@ -2,6 +2,20 @@
 
 **Spring 2024/2025**
 
+
+## Team
+
+<table>
+  <tr><td width = "25%"><img src = "https://github.com/spcourse/website/raw/2024/team/amir.jpg" style="max-width:90px"><br>Amir </td><td> Amir is pursuing a Master’s in Computational Science, where he focuses on simulating complex systems. He has been teaching courses such as Introduction to Programming and Scientific Programming for some time.</td></tr>
+  <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/melanie.jpg" style="max-width:90px" width = "150"><br>Melanie </td><td> Melanie is currently pursuing a Master’s in Chemistry at the University of Amsterdam and VU Amsterdam. During her Bachelor’s, she completed a minor in Artificial Intelligence, where she gained extensive programming experience. She looks forward to introducing students to programming and assisting them throughout this course.
+  </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/puck.jpg" style="max-width:90px" width = "150"><br>Puck </td><td> Puck has a Bachelor’s degree in Physics and then completed a Master’s degree in Mathematics at Utrecht University. She is currently a Junior Lecturer for the Scientific Programming minor at the University of Amsterdam. Puck loves puzzles and tough questions. If you have a fun challenge to think about, she’ll happily join in—even if it’s not related to programming.
+  </td></tr>
+  <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon </td><td> Simon studied Computer Science and then the Master of Logic at the University of Amsterdam (UvA). He conducted research in computational linguistics and robotics at Sony, Aldebaran (now Softbank), the Universitat Autònoma de Barcelona, and the UvA. He now works as a lecturer at the UvA and teaches programming in various programs.</td></tr>
+</table>
+
+
+
 ## General info {#general}
 
 Welcome to this programming track! In the weeks ahead, you’ll use the Python programming language while learning to solve scientific problems from several fields of science. This track is intended for students who have no experience in programming at all. It comprises three courses, Scientific Programming 1, Scientific Programming 2 and Data Processing wherein you learn about the Python language by working on programming problems from several scientific areas. The three courses from this track are designed to be taken together, but you can choose to only follow one or two of the courses.
@@ -25,6 +39,7 @@ Welcome to this programming track! In the weeks ahead, you’ll use the Python p
   - [Grading Data Processing](#dp-grading)
 - [Doing your own work](#plagiarism)
 - [Acknowledgements](#acknowledgements)
+
 
 ### Prerequisites {#prerequisites}
 
@@ -123,8 +138,8 @@ Forum (online): We use Ed as an online discussion platform. Here you can discuss
 You're going to learn programming through a number of programming modules. Each module consist of:
 
 - Theory: Explanations both written and in the form of video's.
-- Practice: Exercises to test your understanding of the theory.
-- Assignments: Bigger programming problems that require combining multiple programming concepts.
+- Pair: Assignments that you can do together with other students.
+- Individual: Assignments that you should do individually (but with our help, of course).
 
 The modules are grouped into levels, you have to make one module per level. For some levels you have the choice between two different modules. When there is such a choice, you will learn the same programming concepts, but often in different thematic context (i.e. different scientific fields).
 
@@ -284,7 +299,7 @@ The course's final result will be "pass" or "fail", which means that no grades a
   - **Normal submissions** are compulsory; you must complete all of them with correct results to pass the module.  
   - **Challenges** are not compulsory, but we highly recommend completing at least one per module to be fully prepared for the exam and/or future courses.
 
-- Some assignments are marked as *pair* assignments. For those you can (we even encourage you to) work together, so you can learn from other students. For *individual* assignments, however, we expect them to be entirely your own work. 
+- Some assignments are marked as *pair* assignments. For those you can (we even encourage you to) work together, so you can learn from other students. For *individual* assignments, however, we expect them to be entirely your own work.
 - After you have submitted all parts of a module, we will evaluate them manually. Depending on the module, this involves either discussing the work in person or assigning a grade. At this stage, you may receive a **pass** or **fail** for the module. If you receive a fail, you can revise the work and resubmit.
 - All modules must be graded by us and deemed *correct*. If a module requires an in-person discussion, you should attend one of the tutorials. **Please do not wait too long to discuss your module after finalizing**—ideally, join the tutorial for a discussion within a few days after submitting.
 - You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.

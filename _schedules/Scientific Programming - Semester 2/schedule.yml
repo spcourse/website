@@ -48,7 +48,7 @@ SP1 - L1 (Algorithms):
         Positive [individual]: /shorts/positive
         Sum Until [pair]: /shorts/sum_until
         Max Until [pair]: /shorts/max_until
-        Calculate Change [assignment]: /algorithms/en/greedy
+        Calculate Change [individual]: /algorithms/en/greedy
         Submit [submit]: /submit/mod1a-5
     1.6 Lists:
         Debugging [theory]: /python/en/debugging-basics
@@ -181,7 +181,7 @@ SP1 - L2 (Numerical Integration):
         Max [individual]: /shorts/max
         Max Index [individual]: /shorts/max_index
         Arange [individual]: /shorts/arange
-        Determine the roots of a polynomial [assignment]: /integrals/en/roots
+        Determine the roots of a polynomial [individual]: /integrals/en/roots
         Submit [submit]: /submit/mod2-1
     2.2 Plot:
         Import [theory]: /python/en/modules
@@ -245,7 +245,7 @@ SP2 - L5 (Shakespeare):
     Introduction: /shakespeare/intro
     5.1 Computational complexity:
         Complexity [theory]: /python/en/efficiency
-        Complexity questions [assignment]: /shakespeare/complexity-questions
+        Complexity questions [individual]: /shakespeare/complexity-questions
         Submit [submit]: /
     5.2 Data structures:
         Dictionaries [theory]: /python/en/dictionaries/use
@@ -255,14 +255,14 @@ SP2 - L5 (Shakespeare):
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
         Sets [practice]: /python/en/sets/practice
-        Use dictionaries and sets [assignment]: /shakespeare/datastructures
+        Use dictionaries and sets [individual]: /shakespeare/datastructures
         Submit [submit]: /
     5.3 Unique word classifier:
-        Optimize [assignment]: /shakespeare/optimize-unique-words
-        Extend [assignment]: /shakespeare/extend-unique-words
+        Optimize [individual]: /shakespeare/optimize-unique-words
+        Extend [individual]: /shakespeare/extend-unique-words
         Submit [submit]: /
     5.4 Challenge 1 (not required to pass):
-        Create a TF-IDF classifier [assignment]: /shakespeare/tf-idf-classifier
+        Create a TF-IDF classifier [individual]: /shakespeare/tf-idf-classifier
     5.5 Challenge 2 (not required to pass):
         Generate your own word lists: /shakespeare/generate-word-list
         Submit [submit]: /
@@ -274,7 +274,7 @@ SP2 - L5 (Word Index):
     Introduction: /complexity
     5.1 Computational complexity:
         Complexity [theory]: /python/en/efficiency
-        Complexity questions 1 [assignment]: /complexity/questions1
+        Complexity questions 1 [individual]: /complexity/questions1
     5.2 Data structures:
         Dictionaries [theory]: /python/en/dictionaries/use
         Dictionaries [practice]: /python/en/dictionaries/use/practice
@@ -288,11 +288,11 @@ SP2 - L5 (Word Index):
     5.3 Jaccard:
         Applying big O in your code [theory]: /python/en/big-o
         Improving count_occurrence [theory]: /python/en/big-o-example
-        Complexity questions 2 [assignment]: /complexity/questions2
-        Jaccard [assignment]: /complexity/jaccard
+        Complexity questions 2 [individual]: /complexity/questions2
+        Jaccard [individual]: /complexity/jaccard
         Submit [submit]: /
     5.5 Indexing:
-        Indexing words [assignment]: /complexity/word-index
+        Indexing words [individual]: /complexity/word-index
         Submit [submit]: /
     # Submit your solutions: /submit/complexity
 
@@ -313,7 +313,7 @@ SP2 - L6 (Survival):
         Seaborn [practice]: /pandas/seaborn
         Submit [submit]: /
     6.5 Survival:
-        Mushrooms [assignment]: /pandas/survival-sp
+        Mushrooms [individual]: /pandas/survival-sp
         Submit [submit]: /
     # Submit your solutions: /submit/survival
 
@@ -321,23 +321,23 @@ SP2 - BONUS (News):
     Scientific Programming 2 - BONUS (News):
     Introduction: /news/
     B.1 Functional Programming":
-        Functional programming [thoery]: /python/en/functional-programming
-        Functional programming [assignment]: /news/functional
+        Functional programming [theory]: /python/en/functional-programming
+        Functional programming [individual]: /news/functional
         Submit [submit]: /
     B.2 Create a new Python package:
-        Packages (reading): /python/en/packages
-        Packages (assignment): /news/package
+        Packages [theory]: /python/en/packages
+        Packages [individual]: /news/package
         Submit [submit]: /
     B.3 File I/O:
-        File I/O (reading): /python/en/file-io
-        The OS library (reading): /python/en/os
+        File I/O [theory]: /python/en/file-io
+        The OS library [theory]: /python/en/os
         Submit [submit]: /
     B.4 Natural language processing:
-        Tokenize (assignment): /news/tokenize
-        Unigrams (assignment): /news/unigrams
+        Tokenize [theory]: /news/tokenize
+        Unigrams [theory]: /news/unigrams
         Submit [submit]: /
     B.5 Bigrams:
-        Bigrams (assignment): /news/bigrams
+        Bigrams [theory]: /news/bigrams
         Submit [submit]: /
     # Submit your solutions: /submit/news
 
@@ -351,7 +351,7 @@ SP2 - BONUS (News):
 
 
 DP - L7 (Populations):
-    Data Processing - Level 7 (Populations) [graded assignment]:
+    Data Processing - Level 7 (Populations) [graded, individual]:
     Introduction: /populations-oo
     7.1 Classes:
         Learn about using classes in Python [theory]: /python/en/classes
@@ -380,7 +380,7 @@ DP - L7 (Populations):
     # Submit your solutions: /submit/populations
 
 # DP - L8 (Acquisition):
-#     Data Processing - Level 8 (Acquisition) [pass/fail assignment]:
+#     Data Processing - Level 8 (Acquisition) [pass/fail individual]:
 #     Introduction: "/acquisition"
 #     8.1 HTML:
 #         What is HTML?: /homepage/html
@@ -403,7 +403,7 @@ DP - L7 (Populations):
     # Submit: "/acquisition/submit"
 
 DP - L8 (Wikipedia):
-    Data Processing - Level 8 (Wikipedia) [pass/fail assignment]:
+    Data Processing - Level 8 (Wikipedia) [pass/fail, individual]:
     Introduction: "/wikipedia/intro"
     8.1 HTML:
         What is HTML?: /homepage/html
@@ -417,7 +417,7 @@ DP - L8 (Wikipedia):
     # Submit your solutions: /submit/wikipedia
 
 DP - L9 (Transformation):
-    Data Processing - Level 9 (Transformation) [graded assignment]:
+    Data Processing - Level 9 (Transformation) [graded, individual]:
     Introduction: /transformation/
     9.1 Transform and visualize climate data:
         Climate: /transformation/climate-change
@@ -427,7 +427,7 @@ DP - L9 (Transformation):
     # Submit: /transformation/submit
 
 DP - L10 (Databases):
-    Data Processing - Level 10 (Databases) [pass/fail assignment]:
+    Data Processing - Level 10 (Databases) [pass/fail, individual]:
     Introduction: /sql/intro
     10.1 Learn SQL:
         Learn about Databases: /sql/lecture
@@ -437,7 +437,7 @@ DP - L10 (Databases):
     # Submit: /sql/submit
 
 DP - Final project:
-    Data Processing - Final Project [graded assignment]:
+    Data Processing - Final Project [graded, individual]:
     Learn to use git: /basics/git
     Project: /project
     # Submit: /project/submit
