@@ -240,6 +240,27 @@ SP1 - L3 (Big Data):
 ##################################### SP 2 #####################################
 ################################################################################
 
+SP2 - L4 (Monopoly):
+    Scientific Programming 2 - Level 4 (Monopoly):
+    Animating in Python:
+        Learn how to create animated graphics [theory]: /animation/en/explanation
+        Spiral [pair]: /animation/en/dot
+        Buzzed student [pair]: /animation/en/student
+        Submit [submit]: /
+    Monopoly 1:
+        Introduction: /monopoly/en/
+        Debugging [theory]: /python/en/debugging
+        Main function [theory]: /python/en/main_function
+        Moving around [pair]: /monopoly/en/moving-around
+        Submit [submit]: /
+    Monopoly 2:
+        Default arguments [theory]: /python/en/default-arguments
+        Money [individual]: /monopoly/en/money
+        Submit [submit]: /
+    Monopoly 3:
+        Two players [individual]: /monopoly/en/two-player
+        Submit [submit]: /
+
 SP2 - L5 (Shakespeare):
     Scientific Programming 2 - Level 5 (Shakespeare):
     Introduction: /shakespeare/intro

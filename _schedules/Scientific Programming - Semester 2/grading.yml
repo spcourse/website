@@ -14,7 +14,7 @@ templates:
         type: boolean
         subgrades:
             passed: boolean
-        calculation: finished
+        calculation: passed
         auto_publish: false
         hide_calculated: true
         hide_subgrades: false
