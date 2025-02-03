@@ -3,33 +3,33 @@ templates:
         type: float
         subgrades:
             points: integer
-        calculation: points
+        calculation: points < 9 && points || 0
         automatic:
             points: (correctness_score * 10).floor
         auto_publish: true
-        hide_calculated: true
+        hide_calculated: false
         hide_subgrades: false
 
     2: &check
         type: boolean
         subgrades:
-            finished: boolean
+            passed: boolean
         calculation: finished
         auto_publish: false
         hide_calculated: true
         hide_subgrades: false
 
     3: &testt
-        type: pass
+        type: boolean
         subgrades:
-            pass: boolean
-            fail: boolean
-            done: boolean
+            passed: boolean
             checkpy: float
         automatic:
-            checkpy: correctness_score
-        calculation: (pass == -1 && -1) || (fail == -1 && 0) || -10
+            checkpy: correctness_score * 10
+        calculation: passed
+        auto_publish: false
         hide_calculated: true
+        hide_subgrades: false
 
 grades:
     1_1-hello: *auto
