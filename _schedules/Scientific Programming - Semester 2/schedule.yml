@@ -160,7 +160,7 @@ SP1 - L2 (Text Processing):
         Plot Min [individual]: /plot/en/plot2
         Submit [submit]: /submit/mod2t-5
     2.6 Style:
-        Style [individual & discuss]: /m2t-style
+        Style [individual & discuss]: /style/text
         Submit [submit]: /submit/mod2t-6
     2.7 Challenges (not required to pass, but recommended to do at least one):
         Twitter [pair]: /text/en/tweets
@@ -205,7 +205,7 @@ SP1 - L2 (Numerical Integration):
         Random Histogram [individual]: /integrals/en/random/histogram
         Submit [submit]: /submit/mod2i-5
     2.6 Style:
-        Style [individual & discuss]: /m2n-style
+        Style [individual & discuss]: /style/riemann
         Submit [submit]: /submit/mod2i-6
     2.7.1 Challenge 1 (not required to pass, but recommended):
         More Function [theory]: /python/en/functions2
