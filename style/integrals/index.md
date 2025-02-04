@@ -16,8 +16,8 @@ Ensure your code fully complies with our [style guide](/python/en/style). Pay sp
 
 ## Design
 
-Structure both programs thoughtfully and use functions to keep your code organized. The `align.py` assignment already required a `right_align(text)` function, but consider adding more helper functions to further improve the code structure.
+Structure both programs thoughtfully and use functions (in **both** programs) to keep your code organized.
 
 ## Evaluation
 
-Your assignment will be manually graded. You can earn up to **5 points for style** and **5 points for design**.
+Your should discuss this with one of the staff members during the tutorial.
