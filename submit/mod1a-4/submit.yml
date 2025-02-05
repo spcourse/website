@@ -10,4 +10,4 @@ files:
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: between buzz sum leap_years count_leap_years newton repeat
+    args: between buzz sum leap_years newton repeat
