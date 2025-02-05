@@ -1,4 +1,4 @@
-# Syllabus Scientific Programming 1
+# Syllabus Scientific Programming 2
 
 **Spring 2024/2025**
 
@@ -43,17 +43,18 @@ Some modules assume high school mathematics or physics, but in those case you ca
 
 ### Learning goals {#goals}
 
-Scientific Programming 1 is a beginner's course. We will teach you the basics of Python programming as well as several different ways of solving computational problems. After this course, we envision that you:
+After **Scientific Programming 2** you should be able to independently tackle typical programming challenges that you might encounter in your field of studies/research. We will teach you more intermediate Python concepts. And some more advanced concepts pertaining to data analysis. After this course, we envision that you:
 
-- can transform the description of a simple algorithm into working code by combining basic program elements
-- can apply several scientific programming techniques from different areas of study
-- can use a couple of libraries in your program and know how to find and read documentation on other libraries
-- can make your programs simpler and easier to read by employing a few standard tactics
-- can trace and fix several common programming errors
+- can use native python data structures (like sets, dictionaries, and tuples);
+- analyze the complexity of an algorithm;
+- quickly learn to use new python packages and know how to find documentation for them;
+- import and analyze data;
+- create advanced plots.
 
 ### Course materials {#materials}
 
 All the reading and video material is available on this website. You do not need to purchase any books or software. Every module consists of short explanations (written and in the form of videos) and assignments. _You do need to bring your own laptop._
+
 
 ### Getting started {#start}
 
@@ -105,31 +106,21 @@ Here below is an overview of all modules for all courses.
 
 <table>
   <tr>
-    <td> Level 0 </td><td colspan="3"> Python Installation </td>
+    <td> <b>Level 4</b> </td><td colspan="3"> <b>MONOPOLY</b>. When playing Monopoly, a starting player's advantage seems unfair. To verify, you could play many (millions) real games, but this would take way too much time. Instead, you'll write a computer simulation. This also allows you to experiment with game adjustments to make it fair. You're doing all this for a board game, but this simulation principle applies to various scientific fields (economy, chemistry, biology...).</td>
   </tr><tr>
+    <td> <b>Level 5</b> </td>
     <td>
-      <b>Level 1</b> (choose one of the modules)
-    </td><td>
-      <b>ALGORITHMS</b>. Learn to think like a computer. Things that we intuitively know how to do, like drawing a pyramid or computing change for a payment, is hard to get a computer to do right. In this module you’ll learn how to break down such intuitive problems into steps that even a computer can understand.
+      <b>COMPLEXITY</b>. What is an efficient algorithm? When you want to run large simulations, analyze large dataset, or any other computationally intensive task, writing efficient algorithms could in some cases mean the difference between a run time of a couple of minutes or of weeks. The theory of computational complexity gives you a way to reason about the efficiency of algorithms and make them run (much) faster.
     </td><td>
       <b>or</b>
     </td><td>
-      <b>NUMBERS</b>. How do you know if a number is a prime number? Number theory is the science about properties of numbers. In this mathematically oriented module you create a series of programs that compute this and other properties of numbers. No math knowledge required for this module. (You will learn some, though)
+      <b>SHAKESPEARE</b>. Was the play “Arden of Faversham” (1592) written by Shakespeare? A.C. Swinburne thought it was, but T.S. Eliot didn’t. Could we create a computer program that could settle the debate once and for all? It turns out that the answer is: yes… maybe?
     </td>
   </tr><tr>
-    <td>
-      <b>Level 2</b> (choose one of the modules)
-    </td><td>
-      <b>TEXT</b>. Natural language processing is the science of making a computer understand (something about) natural human language. You will learn how you can get a computer to understand the sentiment of tweets. Is the tone of the tweet positive or negative?
-    </td><td>
-      <b>or</b>
-    </td><td>
-      <b>NUMERICAL INTEGRATION</b>. In many scientific fields you need to determine the surface area under a function. Integration is a mathematical tool for doing so. However this tool doesn't always work and in such cases we can use numerical integration techniques to let the computer do the work for us. You will learn two important techniques for numerical integration.
-    </td>
-  </tr><tr>
-    <td> <b>Level 3</b> (no choice)</td><td colspan="3"> <b>BIG-DATA</b>. In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period? </td>
-  </tr><tr></tr><tr>
-    <td> <b>Bonus</b> (this module is optional)</td><td colspan="3"> <b>MOVEMENT</b>. What happens if you dig a tunnel from one side to the other side of the planet and you fall in this tunnel? In this module you’re going to simulate that situation. In physics you often run into problems that are too laborious to compute by hand. In this module you’ll learn how to use your computer instead. </td>
+    <td> <b>Level 6</b> </td><td colspan="3"> <b>SURVIVAL</b>. Python is very popular for analyzing and processing data. And Pandas is an important reason why. Pandas is the most used Python package for handling data. You will learn how to use this package to analyze and visualize geographical data.</td>
+  </tr>
+  <tr>
+    <td> <b>BONUS</b> </td><td colspan="3"> <b>POPULATIONS</b>. Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP).</td>
   </tr>
 </table>
 
@@ -141,10 +132,10 @@ The deadline schedule:
 
 | Level               |                     |
 |---------------------|---------------------|
-| Level 1             | Fri **14 Feb** 2025 |
-| Level 2             | Fri **28 Feb** 2025 |
-| Level 3             | Fri **14 Mar** 2025 |
-| Exam                | Mon **27 Mar** 2025 |
+| Level 4             | Fri **14 Feb** 2025 |
+| Level 5             | Fri **28 Feb** 2025 |
+| Level 6             | Fri **14 Mar** 2025 |
+| Exam                | Mon **26 Mar** 2025 |
 |---------------------|---------------------|
 
 

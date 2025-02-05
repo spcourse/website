@@ -1,0 +1,139 @@
+Welcome:
+    Read the syllabus to get started: /syllabus
+    Install python:
+      Intro: /python/en/installing/intro
+    Install Python on Windows:
+      Step 1 install Miniconda: /python/en/installing/miniconda-win
+      Step 2 install Pulsar: /python/en/installing/pulsar
+      Step 3 command line interface: /python/en/installing/cli-win
+      Step 4 install Conda environment: /python/en/installing/conda-env-sp
+      Step 5 checkpy: /python/en/installing/checkpy-sp
+    Install Python on MacOS:
+      Step 1 install Miniconda: /python/en/installing/miniconda-mac
+      Step 2 install Pulsar: /python/en/installing/pulsar
+      Step 3 command line interface: /python/en/installing/cli-mac
+      Step 4 install Conda environment: /python/en/installing/conda-env-sp-mac
+      Step 5 checkpy: /python/en/installing/checkpy-sp
+
+
+################################################################################
+##################################### SP 2 #####################################
+################################################################################
+
+SP2 - L4 (Monopoly):
+    Scientific Programming 2 - Level 4 (Monopoly):
+    Animating in Python:
+        Learn how to create animated graphics [theory]: /animation/en/explanation
+        Spiral [pair]: /animation/en/dot
+        Buzzed student [pair]: /animation/en/student
+        Submit [submit]: /
+    Monopoly 1:
+        Introduction: /monopoly/en/
+        Debugging [theory]: /python/en/debugging
+        Main function [theory]: /python/en/main_function
+        Moving around [pair]: /monopoly/en/moving-around
+        Submit [submit]: /
+    Monopoly 2:
+        Default arguments [theory]: /python/en/default-arguments
+        Money [individual]: /monopoly/en/money
+        Submit [submit]: /
+    Monopoly 3:
+        Two players [individual]: /monopoly/en/two-player
+        Submit [submit]: /
+
+SP2 - L5 (Shakespeare):
+    Scientific Programming 2 - Level 5 (Shakespeare):
+    Introduction: /shakespeare/intro
+    5.1 Computational complexity:
+        Complexity [theory]: /python/en/efficiency
+        Complexity questions [individual]: /shakespeare/complexity-questions
+        Submit [submit]: /
+    5.2 Data structures:
+        Dictionaries [theory]: /python/en/dictionaries/use
+        Dictionaries [practice]: /python/en/dictionaries/use/practice
+        Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
+        Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
+        Tuples [theory]: /python/en/tuples
+        Sets [theory]: /python/en/sets
+        Sets [practice]: /python/en/sets/practice
+        Use dictionaries and sets [individual]: /shakespeare/datastructures
+        Submit [submit]: /
+    5.3 Unique word classifier:
+        Optimize [individual]: /shakespeare/optimize-unique-words
+        Extend [individual]: /shakespeare/extend-unique-words
+        Submit [submit]: /
+    5.4 Challenge 1 (not required to pass):
+        Create a TF-IDF classifier [individual]: /shakespeare/tf-idf-classifier
+    5.5 Challenge 2 (not required to pass):
+        Generate your own word lists: /shakespeare/generate-word-list
+        Submit [submit]: /
+
+
+SP2 - L5 (Word Index):
+    Scientific Programming 2 - Level 5 (Word Index):
+    Introduction: /complexity
+    5.1 Computational complexity:
+        Complexity [theory]: /python/en/efficiency
+        Complexity questions 1 [individual]: /complexity/questions1
+    5.2 Data structures:
+        Dictionaries [theory]: /python/en/dictionaries/use
+        Dictionaries [practice]: /python/en/dictionaries/use/practice
+        Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
+        Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
+        Tuples [theory]: /python/en/tuples
+        Sets [theory]: /python/en/sets
+        Sets [practice]: /python/en/sets/practice
+        List slicing and indexing [theory]: /python/en/slicing
+        Submit [submit]: /
+    5.3 Jaccard:
+        Applying big O in your code [theory]: /python/en/big-o
+        Improving count_occurrence [theory]: /python/en/big-o-example
+        Complexity questions 2 [individual]: /complexity/questions2
+        Jaccard [individual]: /complexity/jaccard
+        Submit [submit]: /
+    5.5 Indexing:
+        Indexing words [individual]: /complexity/word-index
+        Submit [submit]: /
+
+
+SP2 - L6 (Survival):
+    Scientific Programming 2 - Level 6 (Survival):
+    Introduction: /survival/
+    6.1 Function arguments:
+        Default arguments [theory]: /python/en/default-arguments
+        Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
+    6.2 Jupyter notebook:
+        Jupyter notebook [practice]: /pandas/notebooks-sp
+        Submit [submit]: /
+    6.3 Pandas:
+        Pandas [practice]: /pandas/pandas-sp
+        Submit [submit]: /
+    6.4 Seaborn:
+        Seaborn [practice]: /pandas/seaborn
+        Submit [submit]: /
+    6.5 Survival:
+        Mushrooms [individual]: /pandas/survival-sp
+        Submit [submit]: /
+
+SP2 - BONUS (News):
+    Scientific Programming 2 - BONUS (News):
+    Introduction: /news/
+    B.1 Functional Programming":
+        Functional programming [theory]: /python/en/functional-programming
+        Functional programming [individual]: /news/functional
+        Submit [submit]: /
+    B.2 Create a new Python package:
+        Packages [theory]: /python/en/packages
+        Packages [individual]: /news/package
+        Submit [submit]: /
+    B.3 File I/O:
+        File I/O [theory]: /python/en/file-io
+        The OS library [theory]: /python/en/os
+        Submit [submit]: /
+    B.4 Natural language processing:
+        Tokenize [theory]: /news/tokenize
+        Unigrams [theory]: /news/unigrams
+        Submit [submit]: /
+    B.5 Bigrams:
+        Bigrams [theory]: /news/bigrams
+        Submit [submit]: /

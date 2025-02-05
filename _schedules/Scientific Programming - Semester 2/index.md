@@ -14,7 +14,7 @@
   <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon </td><td> Simon studied Computer Science and then the Master of Logic at the University of Amsterdam (UvA). He conducted research in computational linguistics and robotics at Sony, Aldebaran (now Softbank), the Universitat Autònoma de Barcelona, and the UvA. He now works as a lecturer at the UvA and teaches programming in various programs.</td></tr>
 </table>
 
-
+Contact: <scientific@proglab.nl>
 
 ## General info {#general}
 
@@ -78,12 +78,6 @@ For **Data Processing** you'll build your own toolkit of useful programs with wh
 ### Course materials {#materials}
 
 All the reading and video material is available on this website. You do not need to purchase any books or software. Every module consists of short explanations (written and in the form of videos) and assignments. _You do need to bring your own laptop._
-
-### Staff {#staff}
-
-Amir Sahrani, Melanie Messih, Puck te Rietmoln, Simon Pauw
-
-Contact: <scientific@proglab.nl>
 
 ### Getting started {#start}
 
