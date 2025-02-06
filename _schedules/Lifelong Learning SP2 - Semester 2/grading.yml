@@ -39,6 +39,12 @@ grades:
     4_4-monopoly-3: *auto
 
     5_1-datastructures: *auto
+    5_2-complexity: *auto
+    5_3s-optimize: *auto
+    5_4s-extend: *auto
+
+    c-tf-idf-classifier: *auto
+    c-word-list: *auto
 
     m4-passed: *check
     m5-passed: *check
@@ -61,7 +67,11 @@ sp1_level_5_shakespeare:
     show_progress: true
     submits:
         5_1-datastructures: 10
-
+        5_2-complexity: 10
+        5_3s-optimize: 10
+        5_4s-extend: 10
+        c-tf-idf-classifier: 10
+        c-word-list: 10
 
 sp2_checks:
     show_progress: true
