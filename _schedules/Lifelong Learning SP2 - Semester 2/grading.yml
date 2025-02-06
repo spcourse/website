@@ -32,6 +32,7 @@ templates:
         hide_subgrades: false
 
 grades:
+    4_0-hello: *auto
     4_1-animation: *auto
 
     m4-passed: *check
