@@ -46,6 +46,7 @@ grades:
 sp1_level_4_monopoly:
     show_progress: true
     submits:
+        4_0-hello: 10
         4_1-animation: 10
 
 
