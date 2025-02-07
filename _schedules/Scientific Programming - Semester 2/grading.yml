@@ -110,8 +110,8 @@ grades:
     m5-passed: *check
     m6-passed: *check
 
-    sp2_exam3: *test
-    sp2_exam4: *test
+    sp2_exam3: *testt
+    sp2_exam4: *testt
 
 
 sp1_level_1_numbers :
