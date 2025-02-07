@@ -163,15 +163,23 @@ sp1_level_3_big_data:
         c-datastructures: 10
         c-shakespeare: 10
 
-sp1_level_4_monopoly:
+sp1_checks:
+    show_progress: true
+    submits:
+        m1-passed: 1
+        m2-passed: 1
+        m3-passed: 1
+        sp1_exam3: 1
+        sp1_exam4: 1
+
+sp2_level_4_monopoly:
     show_progress: true
     submits:
         4_1-animation: 10
-        4_2-monopoly-1: 10
         4_3-monopoly-2: 10
         4_4-monopoly-3: 10
 
-sp1_level_5_shakespeare:
+sp2_level_5_shakespeare:
     show_progress: true
     submits:
         5_1-datastructures: 10
@@ -188,12 +196,11 @@ sp2_level_6_survival:
         6_4-seaborn: 10
         6_5-survival: 10
 
-
-sp1_checks:
+sp2_checks:
     show_progress: true
     submits:
-        m1-passed: 1
-        m2-passed: 1
-        m3-passed: 1
-        sp1_exam3: 1
-        sp1_exam4: 1
+        m4-passed: 1
+        m5-passed: 1
+        m6-passed: 1
+        sp2_exam3: 1
+        sp2_exam4: 1
