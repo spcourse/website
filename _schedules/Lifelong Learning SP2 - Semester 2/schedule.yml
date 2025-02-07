@@ -65,38 +65,38 @@ SP2 - L5 (Shakespeare):
         Optimize [individual]: /shakespeare/optimize-unique-words
         Extend [individual]: /shakespeare/extend-unique-words
         Submit [submit]: /
-    5.4 Challenge 1 (not required to pass):
+    5.4.1 Challenge 1 (not required to pass):
         Create a TF-IDF classifier [individual]: /shakespeare/tf-idf-classifier
-    5.5 Challenge 2 (not required to pass):
+    5.4.2 Challenge 2 (not required to pass):
         Generate your own word lists: /shakespeare/generate-word-list
         Submit [submit]: /
 
-
-SP2 - L5 (Word Index):
-    Scientific Programming 2 - Level 5 (Word Index):
-    Introduction: /complexity
-    5.1 Computational complexity:
-        Complexity [theory]: /python/en/efficiency
-        Complexity questions 1 [individual]: /complexity/questions1
-    5.2 Data structures:
-        Dictionaries [theory]: /python/en/dictionaries/use
-        Dictionaries [practice]: /python/en/dictionaries/use/practice
-        Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
-        Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
-        Tuples [theory]: /python/en/tuples
-        Sets [theory]: /python/en/sets
-        Sets [practice]: /python/en/sets/practice
-        List slicing and indexing [theory]: /python/en/slicing
-        Submit [submit]: /
-    5.3 Jaccard:
-        Applying big O in your code [theory]: /python/en/big-o
-        Improving count_occurrence [theory]: /python/en/big-o-example
-        Complexity questions 2 [individual]: /complexity/questions2
-        Jaccard [individual]: /complexity/jaccard
-        Submit [submit]: /
-    5.5 Indexing:
-        Indexing words [individual]: /complexity/word-index
-        Submit [submit]: /
+#
+# SP2 - L5 (Word Index):
+#     Scientific Programming 2 - Level 5 (Word Index):
+#     Introduction: /complexity
+#     5.1 Computational complexity:
+#         Complexity [theory]: /python/en/efficiency
+#         Complexity questions 1 [individual]: /complexity/questions1
+#     5.2 Data structures:
+#         Dictionaries [theory]: /python/en/dictionaries/use
+#         Dictionaries [practice]: /python/en/dictionaries/use/practice
+#         Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
+#         Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
+#         Tuples [theory]: /python/en/tuples
+#         Sets [theory]: /python/en/sets
+#         Sets [practice]: /python/en/sets/practice
+#         List slicing and indexing [theory]: /python/en/slicing
+#         Submit [submit]: /
+#     5.3 Jaccard:
+#         Applying big O in your code [theory]: /python/en/big-o
+#         Improving count_occurrence [theory]: /python/en/big-o-example
+#         Complexity questions 2 [individual]: /complexity/questions2
+#         Jaccard [individual]: /complexity/jaccard
+#         Submit [submit]: /
+#     5.5 Indexing:
+#         Indexing words [individual]: /complexity/word-index
+#         Submit [submit]: /
 
 
 SP2 - L6 (Survival):

@@ -31,6 +31,7 @@ templates:
         hide_calculated: true
         hide_subgrades: false
 
+
 grades:
     1_1-hello: *auto
     1_2-input_and_calculating: *auto
@@ -57,7 +58,7 @@ grades:
     2_3t-strings_2: *auto
     2_4t-files: *auto
     2_5t-plot: *auto
-    2_6t-style: *auto
+    2_6t-style: *check
 
     c-twitter: *auto
     c-reformatting: *auto
@@ -67,7 +68,7 @@ grades:
     2_3i-riemann: *auto
     2_4i-strings: *auto
     2_5i-random: *auto
-    2_6i-style: *auto
+    2_6i-style: *check
 
     c-montecarlo: *auto
     c-egg: *auto
@@ -77,6 +78,23 @@ grades:
 
     c-datastructures: *auto
     c-shakespeare: *auto
+
+    4_1-animation: *auto
+    4_3-monopoly-2: *auto
+    4_4-monopoly-3: *auto
+
+    5_1-datastructures: *auto
+    5_2-complexity: *auto
+    5_3-unique-word: *check
+
+    c-tf-idf: *check
+    c-generate-word-list: *check
+
+    6_2-notebook: *check
+    6_3-pandas: *check
+    6_4-seaborn: *check
+    6_5-survival: *check
+
 
 
     m1-passed: *check
@@ -144,6 +162,32 @@ sp1_level_3_big_data:
         3_1-temperature: 10
         c-datastructures: 10
         c-shakespeare: 10
+
+sp1_level_4_monopoly:
+    show_progress: true
+    submits:
+        4_1-animation: 10
+        4_2-monopoly-1: 10
+        4_3-monopoly-2: 10
+        4_4-monopoly-3: 10
+
+sp1_level_5_shakespeare:
+    show_progress: true
+    submits:
+        5_1-datastructures: 10
+        5_2-complexity: 10
+        5_3-unique-word: 10
+        c-tf-idf: 10
+        c-generate-word-list: 10
+
+sp2_level_6_survival:
+    show_progress: true
+    submits:
+        6_2-notebook: 10
+        6_3-pandas: 10
+        6_4-seaborn: 10
+        6_5-survival: 10
+
 
 sp1_checks:
     show_progress: true

@@ -1,0 +1,4 @@
+name: 5_3-unique-word
+files:
+    required:
+        - unique-word-classifier.py

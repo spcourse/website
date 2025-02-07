@@ -1,0 +1,4 @@
+name: 6_2-notebook
+files:
+    required:
+        - notebook.ipynb
