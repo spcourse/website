@@ -79,6 +79,16 @@ grades:
     c-datastructures: *auto
     c-shakespeare: *auto
 
+
+    m1-passed: *check
+    m2-passed: *check
+    m3-passed: *check
+
+    sp1_exam3: *testt
+    sp1_exam4: *testt
+
+
+
     4_1-animation: *auto
     4_3-monopoly-2: *auto
     4_4-monopoly-3: *auto
@@ -96,13 +106,12 @@ grades:
     6_5-survival: *check
 
 
+    m4-passed: *check
+    m5-passed: *check
+    m6-passed: *check
 
-    m1-passed: *check
-    m2-passed: *check
-    m3-passed: *check
-
-    sp1_exam3: *testt
-    sp1_exam4: *testt
+    sp2_exam3: *test
+    sp2_exam4: *test
 
 
 sp1_level_1_numbers :
