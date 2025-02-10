@@ -229,8 +229,8 @@ SP1 - L3 (Big Data):
         Dictionaries [theory]: /python/en/dictionaries/use
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
-        Datastructures [pair]: /shakespeare/c-datastructures
-        Submit [submit]: /submit/datastructures
+        Datastructures [pair]: /shakespeare/datastructures
+        Submit [submit]: /submit/c-datastructures
     3.3.2 Challenge 2 (not required to pass, sneak peak of SP2):
         Shakespeare [pair]: /shakespeare/shakespeare-short
         Submit [submit]: /submit/c-shakespeare
@@ -284,7 +284,7 @@ SP2 - L5 (Shakespeare):
         Submit [submit]: /submit/mod5-3
     5.4.1 Challenge 1 (not required to pass):
         Create a TF-IDF classifier [individual]: /shakespeare/tf-idf-classifier
-        Submit [submit]: /submit/tf-idf
+        Submit [submit]: /submit/c-tf-idf
     5.4.2 Challenge 2 (not required to pass):
         Generate your own word lists: /shakespeare/generate-word-list
         Submit [submit]: /submit/c-generate-word-list
