@@ -64,12 +64,10 @@ SP2 - L5 (Shakespeare):
         Submit [submit]: /submit/mod5-3
     5.4.1 Challenge 1 (not required to pass):
         Create a TF-IDF classifier [individual]: /shakespeare/tf-idf-classifier
-        Submit [submit]: /submit/tf-idf
+        Submit [submit]: /submit/c-tf-idf
     5.4.2 Challenge 2 (not required to pass):
         Generate your own word lists: /shakespeare/generate-word-list
         Submit [submit]: /submit/c-generate-word-list
-
-
 
 SP2 - L6 (Survival):
     Scientific Programming 2 - Level 6 (Survival):
@@ -89,6 +87,7 @@ SP2 - L6 (Survival):
     6.5 Survival:
         Mushrooms [individual]: /pandas/survival-sp
         Submit [submit]: /submit/mod6-5
+    # Submit your solutions: /submit/survival
 
 SP2 - BONUS (News):
     Scientific Programming 2 - BONUS (News):
