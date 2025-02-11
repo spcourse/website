@@ -31,6 +31,14 @@ templates:
         hide_calculated: true
         hide_subgrades: false
 
+    5: &graded
+        hide_calculated: true
+        type: float
+        subgrades:
+            code_quality: integer
+            correctness: integer
+        calculation: "1.0 + 9.0 * (3.0 * correctness + 2.0 * code_quality - 5.0) / 20.0"
+
 
 grades:
     1_1-hello: *auto
@@ -42,7 +50,7 @@ grades:
     1_6a-lists: *auto
 
     c-pyramid: *auto
-    c-calendar: *auto
+    c-conway: *auto
 
     1_4n-loops_1: *auto
     1_5n-loops_2: *auto
@@ -114,6 +122,19 @@ grades:
     sp2_exam4: *testt
 
 
+    populations: *graded
+    wikipedia: *check
+    transformation: *graded
+    databases: *check
+
+    project:
+        type: float
+        subgrades:
+            novelty: integer
+            quality: integer
+        calculation: "(1.0 + 9.0 * (novelty * 7.0 + quality * 3.0 - 10.0) / 40.0).round(1)"
+
+
 sp1_level_1_numbers :
     show_progress: true
     submits:
@@ -137,7 +158,7 @@ sp1_level_1_algorithms :
         1_5a-loops_2: 10
         1_6a-lists: 10
         c-pyramid: 10
-        c-calendar: 10
+        c-conway: 10
 
 sp1_level_2_text :
     show_progress: true
@@ -213,3 +234,23 @@ sp2_checks:
         m6-passed: 1
         sp2_exam3: 1
         sp2_exam4: 1
+
+data_grades:
+    show_progress: true
+    submits:
+        populations: 25
+        transformation: 25
+        project: 50
+    required: true
+
+data_pass:
+    show_progress: true
+    submits:
+        wikipedia: 1
+        databases: 1
+    required: true
+
+calculation:
+    final_data:
+        data_grades: 1
+        data_pass: 0

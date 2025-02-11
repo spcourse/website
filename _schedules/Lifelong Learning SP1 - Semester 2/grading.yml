@@ -41,7 +41,7 @@ grades:
     1_6a-lists: *auto
 
     c-pyramid: *auto
-    c-calendar: *auto
+    c-conway: *check
 
     1_4n-loops_1: *auto
     1_5n-loops_2: *auto
@@ -110,7 +110,7 @@ sp1_level_1_algorithms :
         1_5a-loops_2: 10
         1_6a-lists: 10
         c-pyramid: 10
-        c-calendar: 10
+        c-conway: 10
 
 sp1_level_2_text :
     show_progress: true

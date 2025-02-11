@@ -63,8 +63,8 @@ SP1 - L1 (Algorithms):
     1.7 Challenges (not required to pass, but recommended to do at least one):
         Mario Pyramid [pair]: /algorithms/en/pyramid
         Submit Pyramid: /submit/c-pyramid
-        Conway’s Game of Life [pair] *TODO*: /algorithms/en/conway
-        Submit Conway *TODO*: submit/c-conway
+        Conway’s Game of Life [pair]: /algorithms/en/conway
+        Submit Conway: submit/c-conway
         # Calendar [individual] *TODO*: /algotihms/en/calendar
         # Submit Calendar: submit/calendar
         # Game of Fifteen [individual] *TODO*: /numbers/en/fifteen
@@ -378,7 +378,6 @@ DP - L7 (Populations):
     7.1 Classes:
         Learn about using classes in Python [theory]: /python/en/classes
         Practice with classes [practice]: /objects/cards
-        Submit [submit]: /
     7.2 Default arguments:
         Default arguments [theory]: /python/en/default-arguments
     7.3 Populations (part 1):
@@ -399,30 +398,7 @@ DP - L7 (Populations):
         Sampling methods [theory]: /populations-oo/sampling
         Experiment: /populations-oo/experimenting
         Visualize: /populations-oo/visualizing
-    # Submit your solutions: /submit/populations
-
-# DP - L8 (Acquisition):
-#     Data Processing - Level 8 (Acquisition) [pass/fail individual]:
-#     Introduction: "/acquisition"
-#     8.1 HTML:
-#         What is HTML?: /homepage/html
-#         Make your own website: /homepage/homepage
-#     # # no homepage:
-#     # HTML:
-#     #     What is a website?: /acquisition/html-short
-#     8.2 More Pandas:
-#         Improve your Pandas skills: "/pandas/advanced"
-#     8.3 Scraping:
-#         Introduction: "/acquisition/scraping"
-#         Scraping a single page: "/acquisition/scraping1"
-#         Scrape more pages: "/acquisition/scraping2"
-#         Transforming data to be more usable: "/acquisition/transforming"
-#         Visualizing the data: "/acquisition/visualizing"
-#     8.4 Crawling:
-#         Get even more data: "/acquisition/crawling"
-#         Visualize the actors: "/acquisition/crawling2"
-#         Visualize languages: "/acquisition/crawling3"
-    # Submit: "/acquisition/submit"
+    Submit your solutions: /submit/populations
 
 DP - L8 (Wikipedia):
     Data Processing - Level 8 (Wikipedia) [pass/fail, individual]:
@@ -436,7 +412,7 @@ DP - L8 (Wikipedia):
     8.3 Crawling:
         Crawling Wikipedia: "/wikipedia/crawling"
         Plotting the results: "/wikipedia/visualize-gini"
-    # Submit your solutions: /submit/wikipedia
+    Submit your solutions: /submit/wikipedia
 
 DP - L9 (Transformation):
     Data Processing - Level 9 (Transformation) [graded, individual]:
@@ -446,7 +422,7 @@ DP - L9 (Transformation):
     9.2 Work with structured data in health:
         "Part one: merging the data": /transformation/health-code-violations-1
         "Part two: processing the data": /transformation/health-code-violations-2-no-yelp
-    # Submit: /transformation/submit
+    Submit: /transformation/submit
 
 DP - L10 (Databases):
     Data Processing - Level 10 (Databases) [pass/fail, individual]:
@@ -456,10 +432,10 @@ DP - L10 (Databases):
         Store movie information using sqlite: /sql/movies
     10.2 Fiftyville:
         Solve a mistery using sqlite: /sql/fiftyville
-    # Submit: /sql/submit
+    Submit: /sql/submit
 
 DP - Final project:
     Data Processing - Final Project [graded, individual]:
     Learn to use git: /basics/git
     Project: /project
-    # Submit: /project/submit
+    Submit: /project/submit

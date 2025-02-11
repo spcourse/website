@@ -63,8 +63,8 @@ SP1 - L1 (Algorithms):
     1.7 Challenges (not required to pass, but recommended to do at least one):
         Mario Pyramid [pair]: /algorithms/en/pyramid
         Submit Pyramid: /submit/c-pyramid
-        Conway’s Game of Life [pair] *TODO*: /algorithms/en/conway
-        Submit Conway *TODO*: submit/c-conway
+        Conway’s Game of Life [pair]: /algorithms/en/conway
+        Submit Conway: submit/c-conway
         # Calendar [individual] *TODO*: /algotihms/en/calendar
         # Submit Calendar: submit/calendar
         # Game of Fifteen [individual] *TODO*: /numbers/en/fifteen
