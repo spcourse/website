@@ -1,4 +1,4 @@
-# Submit Goldbach
+# Submit
 
 
 - Make sure that everything works correctly with checkpy before submitting.
