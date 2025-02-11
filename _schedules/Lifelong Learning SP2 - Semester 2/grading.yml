@@ -32,19 +32,22 @@ templates:
         hide_subgrades: false
 
 grades:
-    4_0-hello: *auto
     4_1-animation: *auto
-    4_2-monopoly-1: *auto
     4_3-monopoly-2: *auto
     4_4-monopoly-3: *auto
 
     5_1-datastructures: *auto
     5_2-complexity: *auto
-    5_3s-optimize: *auto
-    5_4s-extend: *auto
+    5_3-unique-word: *check
 
-    c-tf-idf-classifier: *auto
-    c-word-list: *auto
+    c-tf-idf: *check
+    c-generate-word-list: *check
+
+    6_2-notebook: *check
+    6_3-pandas: *check
+    6_4-seaborn: *check
+    6_5-survival: *check
+
 
     m4-passed: *check
     m5-passed: *check
@@ -53,25 +56,29 @@ grades:
     sp2_exam3: *testt
     sp2_exam4: *testt
 
-
-sp1_level_4_monopoly:
+sp2_level_4_monopoly:
     show_progress: true
     submits:
-        4_0-hello: 10
         4_1-animation: 10
-        4_2-monopoly-1: 10
         4_3-monopoly-2: 10
         4_4-monopoly-3: 10
 
-sp1_level_5_shakespeare:
+sp2_level_5_shakespeare:
     show_progress: true
     submits:
         5_1-datastructures: 10
         5_2-complexity: 10
-        5_3s-optimize: 10
-        5_4s-extend: 10
-        c-tf-idf-classifier: 10
-        c-word-list: 10
+        5_3-unique-word: 10
+        c-tf-idf: 10
+        c-generate-word-list: 10
+
+sp2_level_6_survival:
+    show_progress: true
+    submits:
+        6_2-notebook: 10
+        6_3-pandas: 10
+        6_4-seaborn: 10
+        6_5-survival: 10
 
 sp2_checks:
     show_progress: true
