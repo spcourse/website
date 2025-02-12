@@ -11,4 +11,4 @@ files:
 check:
     tool: checkpy
     repo: uva-sp/sp1
-    args: datastructures
+    args: datastructures unique-word-classifier
