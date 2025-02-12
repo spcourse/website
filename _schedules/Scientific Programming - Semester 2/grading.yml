@@ -85,7 +85,7 @@ grades:
     3_1-temperature: *auto
 
     c-datastructures: *auto
-    c-shakespeare: *auto
+    c-shakespeare: *check
 
 
     m1-passed: *check
@@ -102,8 +102,8 @@ grades:
     4_4-monopoly-3: *auto
 
     5_1-datastructures: *auto
-    5_2-complexity: *auto
-    5_3-unique-word: *check
+    5_2-complexity: *check
+    5_3-unique-word: *auto
 
     c-tf-idf: *check
     c-generate-word-list: *check
