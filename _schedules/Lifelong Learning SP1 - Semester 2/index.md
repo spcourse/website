@@ -237,6 +237,7 @@ It is partially based on many great programming resources that have been publish
 We have had lots of help from students as well as teaching assistants who tried the course or added ideas of their own. We especially thank:
 
 - Jelle van Assema (assignments and checkpy)
+- Puck te Rietmolen (revisions)
 - Roan van Blanken (checkpy tests)
 - Natasja Wezel (videos, revisions)
 - Iris Luden (video)

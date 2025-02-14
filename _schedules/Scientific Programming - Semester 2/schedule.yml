@@ -269,7 +269,7 @@ SP2 - L5 (Shakespeare):
         Use dictionaries and sets [individual]: /shakespeare/datastructures
         Submit [submit]: /submit/mod5-1
     5.2 Computational complexity:
-        Complexity [theory]: /python/en/efficiency
+        Complexity [theory]: /python/en/complexity
         Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
         Efficiency of dictionaries [practice]: /python/en/dictionaries/complexity/practice
         Complexity questions [individual]: /shakespeare/complexity-questions
