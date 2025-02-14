@@ -157,7 +157,7 @@ SP1 - L2 (Text Processing):
         Submit [submit]: /submit/mod2t-5
     2.6 Style:
         Style [individual & discuss]: /style/text
-        Submit [submit]: /submit/mod2t-6
+        Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /submit/mod2t-6
     2.7 Challenges (not required to pass, but recommended to do at least one):
         Twitter [pair]: /text/en/tweets
         Submit Twitter (21 jan): /submit/c-twitter
@@ -202,7 +202,7 @@ SP1 - L2 (Numerical Integration):
         Submit [submit]: /submit/mod2i-5
     2.6 Style:
         Style [individual & discuss]: /style/integrals
-        Submit [submit]: /submit/mod2i-6
+        Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /submit/mod2i-6
     2.7.1 Challenge 1 (not required to pass, but recommended):
         More Function [theory]: /python/en/functions2
         Monte Carlo [theory]: /integrals/en/monte-carlo/explanation
@@ -251,7 +251,7 @@ SP2 - L4 (Monopoly):
     4.3 Monopoly 2:
         Default arguments [theory]: /python/en/default-arguments
         Money [individual]: /monopoly/en/money
-        Submit [submit]: /submit/mod4-3
+        Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /submit/mod4-3
     4.4 Monopoly 3:
         Two players [individual]: /monopoly/en/two-player
         Submit [submit]: /submit/mod4-4
@@ -278,7 +278,7 @@ SP2 - L5 (Shakespeare):
     5.3 Unique word classifier:
         Optimize [individual]: /shakespeare/optimize-unique-words
         Extend [individual]: /shakespeare/extend-unique-words
-        Submit [submit]: /submit/mod5-3
+        Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /submit/mod5-3
     5.4.1 Challenge 1 (not required to pass):
         Create a TF-IDF classifier [individual]: /shakespeare/tf-idf-classifier
         Submit [submit]: /submit/c-tf-idf
@@ -333,7 +333,7 @@ SP2 - L6 (Survival):
         Submit [submit]: /submit/mod6-4
     6.5 Survival:
         Mushrooms [individual]: /pandas/survival-sp
-        Submit [submit]: /submit/mod6-5
+        Submit (will be graded by us) [submit]: /submit/mod6-5
     # Submit your solutions: /submit/survival
 
 # SP2 - BONUS (News):
@@ -395,7 +395,7 @@ DP - L7 (Populations):
         Sampling methods [theory]: /populations-oo/sampling
         Experiment: /populations-oo/experimenting
         Visualize: /populations-oo/visualizing
-    Submit your solutions: /submit/populations
+    Submit (will be graded by us) [submit]: /submit/populations
 
 DP - L8 (Wikipedia):
     Data Processing - Level 8 (Wikipedia) [pass/fail, individual]:
@@ -409,7 +409,7 @@ DP - L8 (Wikipedia):
     8.3 Crawling:
         Crawling Wikipedia: "/wikipedia/crawling"
         Plotting the results: "/wikipedia/visualize-gini"
-    Submit your solutions: /submit/wikipedia
+    Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /submit/wikipedia
 
 DP - L9 (Transformation):
     Data Processing - Level 9 (Transformation) [graded, individual]:
@@ -419,7 +419,7 @@ DP - L9 (Transformation):
     9.2 Work with structured data in health:
         "Part one: merging the data": /transformation/health-code-violations-1
         "Part two: processing the data": /transformation/health-code-violations-2-no-yelp
-    Submit: /transformation/submit
+    Submit (will be graded by us) [submit]: /transformation/submit
 
 DP - L10 (Databases):
     Data Processing - Level 10 (Databases) [pass/fail, individual]:
@@ -429,7 +429,7 @@ DP - L10 (Databases):
         Store movie information using sqlite: /sql/movies
     10.2 Fiftyville:
         Solve a mistery using sqlite: /sql/fiftyville
-    Submit: /sql/submit
+    Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /sql/submit
 
 DP - Final project:
     Data Processing - Final Project [graded, individual]:
