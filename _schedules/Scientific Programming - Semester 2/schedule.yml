@@ -383,21 +383,21 @@ DP - L7 (Populations):
         Phase 2: /populations-oo/phase2
         Phase 3: /populations-oo/phase3
         Phase 4: /populations-oo/phase4
-    Submit [submit]: /submit/mod7-1
+        Submit [submit]: /submit/mod7-1
     7.4 Populations (part 2):
         Phase 5: /populations-oo/phase5
         Phase 6: /populations-oo/phase6
         Phase 7: /populations-oo/phase7
         Phase 8: /populations-oo/phase8
         Phase 9: /populations-oo/phase9
-    Submit [submit]: /submit/mod7-2
+        Submit [submit]: /submit/mod7-2
     7.5 Challenge (not required to pass):
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
         Args and kwargs [theory]: /python/en/keyword-arguments/starstar
         Sampling methods [theory]: /populations-oo/sampling
         Experiment: /populations-oo/experimenting
         Visualize: /populations-oo/visualizing
-    Submit (will be graded by us) [submit]: /submit/populations
+        Submit (will be graded by us) [submit]: /submit/populations
 
 DP - L8 (Wikipedia):
     Data Processing - Level 8 (Wikipedia) [pass/fail, individual]:
