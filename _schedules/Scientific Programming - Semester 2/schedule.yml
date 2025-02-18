@@ -411,7 +411,7 @@ DP - L8 (Wikipedia):
     8.3 Crawling:
         Crawling Wikipedia: "/wikipedia/crawling"
         Plotting the results: "/wikipedia/visualize-gini"
-    Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /submit/wikipedia
+        Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /submit/wikipedia
 
 DP - L9 (Transformation):
     Data Processing - Level 9 (Transformation) [graded, individual]:
@@ -421,7 +421,7 @@ DP - L9 (Transformation):
     9.2 Work with structured data in health:
         "Part one: merging the data": /transformation/health-code-violations-1
         "Part two: processing the data": /transformation/health-code-violations-2-no-yelp
-    Submit (will be graded by us) [submit]: /transformation/submit
+        Submit (will be graded by us) [submit]: /transformation/submit
 
 DP - L10 (Databases):
     Data Processing - Level 10 (Databases) [pass/fail, individual]:
@@ -431,7 +431,7 @@ DP - L10 (Databases):
         Store movie information using sqlite: /sql/movies
     10.2 Fiftyville:
         Solve a mistery using sqlite: /sql/fiftyville
-    Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /sql/submit
+        Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /sql/submit
 
 DP - Final project:
     Data Processing - Final Project [graded, individual]:
