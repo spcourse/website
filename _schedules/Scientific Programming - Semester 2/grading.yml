@@ -121,8 +121,8 @@ grades:
     sp2_exam3: *testt
     sp2_exam4: *testt
 
-    7_1-populations1: *check
-    7_2-populations2: *check
+    7_1-populations1: *auto
+    7_2-populations2: *auto
     populations: *graded
     wikipedia: *check
     transformation: *graded

@@ -6,3 +6,7 @@ files:
         - phase7.py
         - phase8.py
         - phase9.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: phase5
