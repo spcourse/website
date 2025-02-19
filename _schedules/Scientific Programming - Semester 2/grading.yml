@@ -121,7 +121,8 @@ grades:
     sp2_exam3: *testt
     sp2_exam4: *testt
 
-
+    7_1-populations1: *check
+    7_2-populations2: *check
     populations: *graded
     wikipedia: *check
     transformation: *graded
@@ -133,6 +134,26 @@ grades:
             novelty: integer
             quality: integer
         calculation: "(1.0 + 9.0 * (novelty * 7.0 + quality * 3.0 - 10.0) / 40.0).round(1)"
+
+sp1_checks:
+    show_progress: true
+    submits:
+        m1-passed: 1
+        m2-passed: 1
+        m3-passed: 1
+        sp1_exam3: 1
+        sp1_exam4: 1
+
+sp2_checks:
+    show_progress: true
+    submits:
+        m4-passed: 1
+        m5-passed: 1
+        m6-passed: 1
+        sp2_exam3: 1
+        sp2_exam4: 1
+
+
 
 
 sp1_level_1_numbers :
@@ -193,14 +214,7 @@ sp1_level_3_big_data:
         c-datastructures: 10
         c-shakespeare: 10
 
-sp1_checks:
-    show_progress: true
-    submits:
-        m1-passed: 1
-        m2-passed: 1
-        m3-passed: 1
-        sp1_exam3: 1
-        sp1_exam4: 1
+
 
 sp2_level_4_monopoly:
     show_progress: true
@@ -226,18 +240,12 @@ sp2_level_6_survival:
         6_4-seaborn: 10
         6_5-survival: 10
 
-sp2_checks:
-    show_progress: true
-    submits:
-        m4-passed: 1
-        m5-passed: 1
-        m6-passed: 1
-        sp2_exam3: 1
-        sp2_exam4: 1
 
 data_grades:
     show_progress: true
     submits:
+        7_1-populations1: 0
+        7_2-populations2: 0
         populations: 25
         transformation: 25
         project: 50
