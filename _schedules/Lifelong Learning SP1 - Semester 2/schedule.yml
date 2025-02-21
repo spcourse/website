@@ -177,12 +177,12 @@ SP1 - L2 (Numerical Integration):
         Max [individual]: /shorts/max
         Max Index [individual]: /shorts/max_index
         Arange [individual]: /shorts/arange
-        Determine the roots of a polynomial [individual]: /integrals/en/roots
         Submit [submit]: /submit/mod2-1
     2.2 Plot:
         Import [theory]: /python/en/modules
         Plot [theory]: /python/en/plotting
         Plot [pair]: /plot/en/plot1
+        Roots [pair]: /integrals/en/roots
         Plot Min [individual]: /plot/en/plot2
         Submit [submit]: /submit/mod2i-2
     2.3 Riemann:

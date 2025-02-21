@@ -1,6 +1,7 @@
 name: 2_2i-plot
 files:
     required:
+        - roots.py
         - plot1.py
         - plot2.py
 

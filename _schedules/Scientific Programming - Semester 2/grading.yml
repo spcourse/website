@@ -126,6 +126,8 @@ grades:
     populations: *graded
     wikipedia: *check
     transformation: *graded
+    10_1-movies: *auto
+    10_2-fiftyville: *auto
     databases: *check
 
     project:
@@ -255,6 +257,8 @@ data_pass:
     show_progress: true
     submits:
         wikipedia: 1
+        10_1-movies: 0
+        10_2-fiftyville: 0
         databases: 1
     required: true
 
