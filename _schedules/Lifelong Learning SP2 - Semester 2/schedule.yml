@@ -37,8 +37,9 @@ SP2 - L4 (Monopoly):
         Money [individual]: /monopoly/en/money
         Submit [submit]: /submit/mod4-3
     4.4 Monopoly 3:
+        Discuss this part with a teacher after submitting:
         Two players [individual]: /monopoly/en/two-player
-        Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /submit/mod4-4
+        Submit [submit]: /submit/mod4-4
 
 
 SP2 - L5 (Shakespeare):
@@ -59,15 +60,18 @@ SP2 - L5 (Shakespeare):
         Complexity questions [individual]: /shakespeare/complexity-questions
         Submit [submit]: /submit/mod5-2
     5.3 Unique word classifier:
+        Discuss this part with a teacher after submitting:
         Optimize [individual]: /shakespeare/optimize-unique-words
         Extend [individual]: /shakespeare/extend-unique-words
         Submit [submit]: /submit/mod5-3
-    5.4.1 Challenge 1 (not required to pass):
+    5.4.1 Challenge 1:
+        Not required to pass:
         Create a TF-IDF classifier [individual]: /shakespeare/tf-idf-classifier
         Submit [submit]: /submit/c-tf-idf
-    5.4.2 Challenge 2 (not required to pass):
+    5.4.2 Challenge 2:
+        Not required to pass:
         Generate your own word lists: /shakespeare/generate-word-list
-        Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /submit/c-generate-word-list
+        Submit [submit]: /submit/c-generate-word-list
 
 SP2 - L6 (Survival):
     Scientific Programming 2 - Level 6 (Survival):
