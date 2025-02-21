@@ -51,6 +51,7 @@ SP1 - L1 (Algorithms):
         Calculate Change [individual]: /algorithms/en/greedy
         Submit [submit]: /submit/mod1a-5
     1.6 Lists:
+        Discuss this part with a teacher after submitting:
         Debugging [theory]: /python/en/debugging-basics
         Code in Style [theory]: /python/en/style
         Lists [theory]: /python/en/lists
@@ -59,8 +60,9 @@ SP1 - L1 (Algorithms):
         Average [pair]: /shorts/average
         Squares [individual]: /shorts/squares
         Collect Change [individual & discuss]: /algorithms/en/collect
-        Submit (DICUSS IN PERSON AFTER SUBMITTING)[submit]: /submit/mod1a-6
-    1.7 Challenges (not required to pass, but recommended to do at least one):
+        Submit [submit]: /submit/mod1a-6
+    1.7 Challenge:
+        Not required to pass, but recommended to do at least one:
         Mario Pyramid [pair]: /algorithms/en/pyramid
         Submit Pyramid: /submit/c-pyramid
         Conway’s Game of Life [pair]: /algorithms/en/conway
@@ -103,6 +105,7 @@ SP1 - L1 (Number Theory):
         1001 Primes [individual]: /numbers/en/n-primes
         Submit [submit]: /submit/mod1n-5
     1.6 Lists:
+        Discuss this part with a teacher after submitting:
         Debugging [theory]: /python/en/debugging-basics
         Code in Style [theory]: /python/en/style
         Lists [theory]: /python/en/lists
@@ -111,8 +114,9 @@ SP1 - L1 (Number Theory):
         Average [pair]: /shorts/average
         Squares [individual]: /shorts/squares
         Prime List [individual & discuss]: /numbers/en/primelist
-        Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /submit/mod1n-6
-    1.7 Challenges (not required to pass, but recommended to do at least one):
+        Submit [submit]: /submit/mod1n-6
+    1.7 Challenges:
+        Not required to pass, but recommended to do at least one:
         Goldbach [pair]: /numbers/en/goldbach
         Submit Goldbach: /submit/c-goldbach
         Amicable [pair]: /numbers/en/amicable
@@ -156,9 +160,11 @@ SP1 - L2 (Text Processing):
         Plot Min [individual]: /plot/en/plot2
         Submit [submit]: /submit/mod2t-5
     2.6 Style:
+        Discuss this part with a teacher after submitting:
         Style [individual & discuss]: /style/text
-        Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /submit/mod2t-6
-    2.7 Challenges (not required to pass, but recommended to do at least one):
+        Submit [submit]: /submit/mod2t-6
+    2.7 Challenges:
+        Not required to pass, but recommended to do at least one:
         Twitter [pair]: /text/en/tweets
         Submit Twitter (21 jan): /submit/c-twitter
         Reformat [pair]: /text/en/reformatting
@@ -201,14 +207,17 @@ SP1 - L2 (Numerical Integration):
         Random Histogram [individual]: /integrals/en/random/histogram
         Submit [submit]: /submit/mod2i-5
     2.6 Style:
+        Discuss this part with a teacher after submitting:
         Style [individual & discuss]: /style/integrals
-        Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /submit/mod2i-6
-    2.7.1 Challenge 1 (not required to pass, but recommended):
+        Submit [submit]: /submit/mod2i-6
+    2.7.1 Challenge 1:
+        Not required to pass, but recommended to try:
         More Function [theory]: /python/en/functions2
         Monte Carlo [theory]: /integrals/en/monte-carlo/explanation
         Monte Carlo [pair]: /integrals/en/monte-carlo/integrals
         Submit [submit]: /submit/c-montecarlo
-    2.7.2 Challenge 2 (not required to pass):
+    2.7.2 Challenge 2:
+        Not required to pass:
         Egg [pair]: /integrals/en/monte-carlo/egg
         Submit [submit]: /submit/c-egg
 
@@ -221,13 +230,15 @@ SP1 - L3 (Big Data):
         More about Functions [theory]: /python/en/functions3
         Temperature [individual & discuss]: /bigdata/en/temperatures
         Submit [submit]: /submit/mod3-2
-    3.3.1 Challenge 1 (not required to pass, sneak peak of SP2):
+    3.3.1 Challenge 1:
+        Not required to pass, sneak-peak of SP2:
         Dictionaries [theory]: /python/en/dictionaries/use
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
         Datastructures [pair]: /shakespeare/datastructures
         Submit [submit]: /submit/c-datastructures
-    3.3.2 Challenge 2 (not required to pass, sneak peak of SP2):
+    3.3.2 Challenge 2:
+        Not required to pass, sneak-peak of SP2:
         Shakespeare [pair]: /shakespeare/shakespeare-short
         Submit [submit]: /submit/c-shakespeare
 
@@ -249,9 +260,10 @@ SP2 - L4 (Monopoly):
         Main function [theory]: /python/en/main_function
         Moving around [pair]: /monopoly/en/moving-around
     4.3 Monopoly 2:
+        Discuss this part with a teacher after submitting:
         Default arguments [theory]: /python/en/default-arguments
         Money [individual]: /monopoly/en/money
-        Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /submit/mod4-3
+        Submit [submit]: /submit/mod4-3
     4.4 Monopoly 3:
         Two players [individual]: /monopoly/en/two-player
         Submit [submit]: /submit/mod4-4
@@ -276,13 +288,16 @@ SP2 - L5 (Shakespeare):
         Complexity questions [individual]: /shakespeare/complexity-questions
         Submit [submit]: /submit/mod5-2
     5.3 Unique word classifier:
+        Discuss this part with a teacher after submitting:
         Optimize [individual]: /shakespeare/optimize-unique-words
         Extend [individual]: /shakespeare/extend-unique-words
-        Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /submit/mod5-3
-    5.4.1 Challenge 1 (not required to pass):
+        Submit [submit]: /submit/mod5-3
+    5.4.1 Challenge 1:
+        Not required to pass:
         Create a TF-IDF classifier [individual]: /shakespeare/tf-idf-classifier
         Submit [submit]: /submit/c-tf-idf
-    5.4.2 Challenge 2 (not required to pass):
+    5.4.2 Challenge 2:
+        Not required to pass:
         Generate your own word lists: /shakespeare/generate-word-list
         Submit [submit]: /submit/c-generate-word-list
 
@@ -324,7 +339,7 @@ SP2 - L6 (Survival):
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
     6.2 Jupyter notebook:
         Jupyter notebook [practice]: /pandas/notebooks-sp
-        Submit [submit]: /submit/mod6-2
+        # Submit [submit]: /submit/mod6-2
     6.3 Pandas:
         Pandas [practice]: /pandas/pandas-sp
         Submit [submit]: /submit/mod6-3
@@ -391,7 +406,8 @@ DP - L7 (Populations):
         Phase 8: /populations-oo/phase8
         Phase 9: /populations-oo/phase9
         Submit [submit]: /submit/mod7-2
-    7.5 Challenge (not required to pass):
+    7.5 Challenge:
+        Not required to pass:
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
         Args and kwargs [theory]: /python/en/keyword-arguments/starstar
         Sampling methods [theory]: /populations-oo/sampling
@@ -409,9 +425,10 @@ DP - L8 (Wikipedia):
         Scraping a Wikipedia page: "/wikipedia/scraping"
         Plotting the results: "/wikipedia/visualize-gdp"
     8.3 Crawling:
+        Discuss this part with a teacher after submitting:
         Crawling Wikipedia: "/wikipedia/crawling"
         Plotting the results: "/wikipedia/visualize-gini"
-        Submit (DICUSS IN PERSON AFTER SUBMITTING) [submit]: /submit/wikipedia
+        Submit [submit]: /submit/wikipedia
 
 DP - L9 (Transformation):
     Data Processing - Level 9 (Transformation) [graded, individual]:
@@ -431,6 +448,7 @@ DP - L10 (Databases):
         Store movie information using sqlite: /sql/movies
         Submit [submit]: /submit/mod10-1
     10.2 Fiftyville:
+        Discuss this part with a teacher after submitting:
         Solve a mistery using sqlite: /sql/fiftyville
         Submit [submit]: /submit/mod10-2
 
