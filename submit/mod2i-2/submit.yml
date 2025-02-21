@@ -8,4 +8,4 @@ files:
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: plot1 plot2
+    args: roots plot1 plot2
