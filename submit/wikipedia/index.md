@@ -1,4 +1,4 @@
-# Submit Survival
+# Submit
 
 Here you can submit your solutions to the problems in your module. Take note:
 
