@@ -223,7 +223,7 @@ SP2 - L5 (Shakespeare):
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
         Sets [practice]: /python/en/sets/practice
-        Use dictionaries and sets [assignment]: /shakespeare/datastructures
+        Use dictionaries and sets [assignment]: /python/en/datastructures-practice
     "Part 3: Unique word classifier":
         Optimize [assignment]: /shakespeare/optimize-unique-words
         Extend [assignment]: /shakespeare/extend-unique-words
