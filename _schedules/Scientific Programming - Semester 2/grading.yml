@@ -102,16 +102,7 @@ grades:
 
     5_1-datastructures: *auto
     5_2-complexity: *check
-    5_3-unique-word:
-        type: float
-        subgrades:
-            points: integer
-        calculation: (points >= 8) && points || 0
-        automatic:
-            points: (correctness_score * 10).floor
-        auto_publish: true
-        hide_calculated: false
-        hide_subgrades: false
+    5_3-unique-word: *auto
 
     c-tf-idf: *check
     c-generate-word-list: *check
