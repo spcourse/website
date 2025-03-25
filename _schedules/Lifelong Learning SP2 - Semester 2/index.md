@@ -135,7 +135,7 @@ The deadline schedule:
 | Level 4             | Fri **14 Feb** 2025 |
 | Level 5             | Fri **28 Feb** 2025 |
 | Level 6             | Fri **14 Mar** 2025 |
-| Exam                | Mon **26 Mar** 2025 |
+| Exam                | Wed **26 Mar** 2025 |
 |---------------------|---------------------|
 
 

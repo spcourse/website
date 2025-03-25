@@ -250,7 +250,6 @@ If you already started last semester one of the following schedules might apply:
 | SP2 - Level 4*      | Fri **28 Feb** 2025 |
 | SP2 - Level 5*      | Fri **04 Apr** 2025 |
 | SP2 - Level 6       | Fri **16 May** 2025 |
-|                     | Wed **21 May** 2025 |
 |---------------------|---------------------|
 
 |---------------------|---------------------|
