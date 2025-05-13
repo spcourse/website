@@ -259,7 +259,7 @@ If you already started last semester one of the following schedules might apply:
 | DP - Level 8*       | Fri **28 Feb** 2025 |
 | DP - Level 9        | Wed **19 Mar** 2025 |
 | DP - Level 10*      | Fri **11 Apr** 2025 |
-| DP - Final Project  | Wed **21 May** 2025 |
+| DP - Final Project  | Wed **21 May** 2025 (presentation 27 May) |
 |---------------------|---------------------|
 
 If none of these schedules apply, please contact us, to make a personalized plan.
