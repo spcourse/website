@@ -1,177 +1,28 @@
-name: sp2_exam3
+name: sp2_exam4
 exam: true
 buttons:
     "Checkpy": |
             from checkpy.interactive import testOffline
-            testOffline("sp2_exam3", "/home/pyodide", multiprocessing=False, silentMode=False)
+            testOffline("sp2_exam", "/home/pyodide", multiprocessing=False, silentMode=False)
             print("\nend tests!")
 check:
     tool: checkpy
     repo: spcourse/exam-tests
-    args: sp2_exam3
+    args: sp2_exam
 files:
     required:
-        'sp2_exam3.py': |
+        'sp2_exam.py': |
             # Exam Scientific Programming 2
             # Name: ...
 
-            print("Welcome to the practice exam!")
+            print("Welcome to the exam!")
 
             ### Assignment 1
-            student_grades = {
-                "Pierina": {"grade":5.2, "corrector_name": "Mr. Dawson"},
-                "Ottarr": {"grade":9.4, "corrector_name": "Ms. Jacksley"},
-                "Donnchadh": {"grade":8.3, "corrector_name": "Ms. Jacksley"},
-                "Juozas": {"grade":4.8, "corrector_name": "Mr. Dawson"},
-                "Zdenko": {"grade":1.2, "corrector_name": "Mr. Dawson"},
-                "Ilona": {"grade":7.4, "corrector_name": "Ms. Jacksley"},
-                "Vilma": {"grade":6.0, "corrector_name": "Mr. Dawson"},
-                "Blagoj": {"grade":6.6, "corrector_name": "Ms. Jacksley"},
-                "Sirpa": {"grade":6.3, "corrector_name": "Ms. Jacksley"},
-                "Midori": {"grade":8.8, "corrector_name": "Ms. Jacksley"},
-                "Tamara": {"grade":9.9, "corrector_name": "Ms. Jacksley"},
-                "Amit": {"grade":7.2, "corrector_name": "Ms. Jacksley"},
-                "Oskar": {"grade":4.4, "corrector_name": "Mr. Dawson"}
-            }
-
 
             ### Assignment 2
-            input_text = """Oh, solemn Sphinx of black Quartz! Heed my words, judge my vow.
-            I implore you! Pack my box with five dozen liquor jugs! And make it quick!"""
 
             ### Assignment 3
 
         'temp.py': |
             # This file will be ignored by us. You can use this as a canvas
             # for drafts and test out code fragments.
-
-
-        'election_amsterdam_2022.csv': |
-            party,candidate_number,candidate_name,votes
-            2 D66,1,"van Dantzig, R.H.",15537
-            2 D66,2,"de Jager, D.O.C.",12294
-            2 D66,3,"Rooderkerk, I.",1857
-            2 D66,4,"Moeskops, E.D.M.",1545
-            2 D66,5,"Aslami, A.S.",642
-            2 D66,6,"Hofland, R.P.",277
-            2 D66,7,"El Ksaihi, Y.",2873
-            2 D66,8,"Lust, M.J.",1142
-            2 D66,9,"Schmit, E.W.",186
-            2 D66,10,"Wehkamp, J.",989
-            2 D66,11,"TÃ¼rkkol, N",708
-            2 D66,12,"Norbruis, K.F.O.",1304
-            1 GROENLINKS,1,"Groot Wassink, B.R.",12162
-            1 GROENLINKS,2,"Nadif, I.",12435
-            1 GROENLINKS,3,"Ernsting, Z.D.",694
-            1 GROENLINKS,4,"Bentoumya, Y.E.",4313
-            1 GROENLINKS,5,"van der Veen, K.S.N.",560
-            1 GROENLINKS,6,"van Renssen, N.A.",2313
-            1 GROENLINKS,7,"van Pijpen, J.F.",1031
-            1 GROENLINKS,8,"Yemane, M.",3115
-            1 GROENLINKS,9,"IJmker, E.C.",628
-            1 GROENLINKS,10,"van Keulen, S.",1297
-            1 GROENLINKS,11,"Taj, A.",298
-            1 GROENLINKS,12,"van Munster, C.A.D.",142
-            1 GROENLINKS,13,"Peters, E.A.",1094
-            1 GROENLINKS,14,"Doppen, M.",747
-            3 VVD,1,"Martens, C.",25012
-            3 VVD,2,"Burgers, H.C.",1414
-            3 VVD,3,"von Gerhardt, M.S.",427
-            3 VVD,4,"Hoogtanders, Y.F.W.",1115
-            3 VVD,5,"Wijts, D.P.B.",473
-            3 VVD,6,"Staartjes, L.",327
-            3 VVD,7,"Nijssen, S.C.",244
-            3 VVD,8,"van der Kamp, W.T.M.",178
-            3 VVD,9,"Kleene, M.J.T.",754
-            3 VVD,10,"Hijlkema, S.N.",166
-            3 VVD,11,"Meijer, D.E.T.",186
-            3 VVD,12,"van Vliet, F.J.",214
-            4 Partij van de Arbeid (P.v.d.A.),1,"Moorman, M.",42778
-            4 Partij van de Arbeid (P.v.d.A.),2,"Mbarki, S.",1526
-            4 Partij van de Arbeid (P.v.d.A.),3,"Abdi, F.",2741
-            4 Partij van de Arbeid (P.v.d.A.),4,"Heinhuis, L.E.",924
-            4 Partij van de Arbeid (P.v.d.A.),5,"Asruf, M.F.",557
-            4 Partij van de Arbeid (P.v.d.A.),6,"Namane, F.A.",988
-            4 Partij van de Arbeid (P.v.d.A.),7,"Minderhoud, B.M.H.",361
-            4 Partij van de Arbeid (P.v.d.A.),8,"Doevendans, S.S.",1112
-            4 Partij van de Arbeid (P.v.d.A.),9,"Belkasmi, M.",358
-            4 Partij van de Arbeid (P.v.d.A.),10,"Bouhassani, A.",994
-            4 Partij van de Arbeid (P.v.d.A.),11,"Noordzij, G.",256
-            5 SP (Socialistische Partij),1,"Alberts-Oosterbaan, R.",9465
-            5 SP (Socialistische Partij),2,"Bobeldijk, E.",548
-            5 SP (Socialistische Partij),3,"Haijen, J.A.",192
-            5 SP (Socialistische Partij),4,"Berends, E.",1319
-            5 SP (Socialistische Partij),5,"Wedemeijer, J.J.",275
-            5 SP (Socialistische Partij),6,"van Dongen, M.M.M.",152
-            5 SP (Socialistische Partij),7,"Kamstra, H.J.",84
-            6 Partij voor de Dieren,1,"van Lammeren, J.F.W.",9351
-            6 Partij voor de Dieren,2,"Bakker, A.L.",5589
-            6 Partij voor de Dieren,3,"Bloemberg - Issa, J.F.",1721
-            6 Partij voor de Dieren,4,"Krom, J.M.",1014
-            6 Partij voor de Dieren,5,"Emmerik, M.J.",128
-            6 Partij voor de Dieren,6,"Jonk, C.A.M.",581
-            7 DENK,1,"Khan, S.Y.",2524
-            7 DENK,2,"Koyuncu, S.",3376
-            7 DENK,3,"El Johari, A.",1301
-            8 Forum voor Democratie,1,"van Schijndel, A.H.J.W.",3057
-            8 Forum voor Democratie,2,"de Keijzer, R.A.",443
-            9 CDA,1,"Boomsma, D.T.",5620
-            9 CDA,2,"Havelaar, R.B.",264
-            9 CDA,3,"Wijmenga, R.P.",731
-            10 Partij van de Ouderen (P.v.d.O.),1,"van Soest, W.",4070
-            10 Partij van de Ouderen (P.v.d.O.),2,"van de Kamp, L.",364
-            10 Partij van de Ouderen (P.v.d.O.),3,"Overweg, D.W.",209
-            10 Partij van de Ouderen (P.v.d.O.),4,"Kerklingh, H.K.",29
-            10 Partij van de Ouderen (P.v.d.O.),5,"van Meetelen, F.",77
-            11 ChristenUnie,1,"van den Heuvel, G.J.J.",1690
-            11 ChristenUnie,2,"Da Costa, G.J.",269
-            11 ChristenUnie,3,"de Bruine, H.M.",552
-            12 Amsterdam BIJ1,1,"Veldhuyzen, J. A.",4992
-            12 Amsterdam BIJ1,2,"Kabamba, C.K.E.",5008
-            13 JA21,1,"Nanninga, A.",11821
-            13 JA21,2,"Kreuger, K.M.",987
-            14 Hart voor Vrijheid Amsterdam,1,"Gietelink, A.C.",1095
-            14 Hart voor Vrijheid Amsterdam,2,"de Haan, S.",413
-            15 De Groenen Basis Piraten,1,"Pontier, M.A.",1835
-            15 De Groenen Basis Piraten,2,"van Zwoll, R.M.E.",1131
-            16 GO,1,"Otten, H.",179
-            25 Volt,1,"Broersen, J.",9018
-            25 Volt,2,"Garmy, I.",772
-            25 Volt,3,"Vesseur, E.",1118
-            26 LEF - Voor de Nieuwe Generatie,1,"van Duijn, D.C.",375
-
-        'sp2_exam3Test.py': |
-            # 🚫 Please Do Not Edit This File
-            # Feel free to take a look, but you don't need to understand it.
-            #
-            # This file contains the checkpy tests for the exam.
-            # Modifying it may cause checkpy to stop working correctly.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            ### Tests
