@@ -245,6 +245,8 @@ sp2_level_6_survival:
 data_grades:
     show_progress: true
     submits:
+        7_1-populations1: 0
+        7_2-populations2: 0
         populations: 25
         transformation: 25
         project: 50
