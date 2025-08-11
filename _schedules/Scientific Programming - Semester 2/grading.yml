@@ -159,6 +159,7 @@ sp2_checks:
 
 sp1_level_1_numbers :
     show_progress: true
+    small_block_overview: true
     submits:
         1_1-hello: 10
         1_2-input_and_calculating: 10
@@ -172,6 +173,7 @@ sp1_level_1_numbers :
 
 sp1_level_1_algorithms :
     show_progress: true
+    small_block_overview: true
     submits:
         1_1-hello: 10
         1_2-input_and_calculating: 10
@@ -184,6 +186,7 @@ sp1_level_1_algorithms :
 
 sp1_level_2_text :
     show_progress: true
+    small_block_overview: true
     submits:
         2_1-fun: 10
         2_2t-strings_1: 10
@@ -197,6 +200,7 @@ sp1_level_2_text :
 
 sp1_level_2_integration:
     show_progress: true
+    small_block_overview: true
     submits:
         2_1-fun: 10
         2_2i-plot: 10
@@ -209,6 +213,7 @@ sp1_level_2_integration:
 
 sp1_level_3_big_data:
     show_progress: true
+    small_block_overview: true
     submits:
         3_1-car: 10
         3_1-temperature: 10
@@ -219,6 +224,7 @@ sp1_level_3_big_data:
 
 sp2_level_4_monopoly:
     show_progress: true
+    small_block_overview: true
     submits:
         4_1-animation: 10
         4_3-monopoly-2: 10
@@ -226,6 +232,7 @@ sp2_level_4_monopoly:
 
 sp2_level_5_shakespeare:
     show_progress: true
+    small_block_overview: true
     submits:
         5_1-datastructures: 10
         5_2-complexity: 10
@@ -235,6 +242,7 @@ sp2_level_5_shakespeare:
 
 sp2_level_6_survival:
     show_progress: true
+    small_block_overview: true
     submits:
         6_2-notebook: 10
         6_3-pandas: 10
@@ -244,6 +252,7 @@ sp2_level_6_survival:
 
 data_grades:
     show_progress: true
+    small_block_overview: true
     submits:
         7_1-populations1: 0
         7_2-populations2: 0
@@ -254,6 +263,7 @@ data_grades:
 
 data_pass:
     show_progress: true
+    small_block_overview: true
     submits:
         wikipedia: 1
         10_1-movies: 0
