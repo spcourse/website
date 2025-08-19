@@ -83,12 +83,12 @@ grades:
     c-montecarlo: *auto
     c-egg: *auto
 
-    3_1: *auto
-    3_2: *auto
+    3_1b: *auto
+    3_2b: *auto
     c-datastructures: *auto
     c-shakespeare: *auto
 
-    
+
 sp1_checks:
     show_progress: true
     submits:
@@ -166,5 +166,5 @@ sp1_level_3_big_data:
     show_progress: true
     small_block_overview: true
     submits:
-        3_1: 1
-        3_2: 1
+        3_1b: 1
+        3_2b: 1
