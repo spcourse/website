@@ -54,7 +54,16 @@ grades:
     c-pyramid: *auto
     c-conway: *auto
 
-    
+    1_1n: *auto
+    1_2n: *auto
+    1_3n: *auto
+    1_4n: *auto
+    1_5n: *auto
+    1_6n: *auto
+    c-goldbach: *auto
+    c-amicable: *auto
+    c-eratosthenes: *auto
+
 sp1_checks:
     show_progress: true
     submits:
@@ -81,4 +90,7 @@ sp1_level_1_challenges:
     submits:
         c-pyramid: 1
         c-conway: 1
+        c-goldbach: 1
+        c-amicable: 1
+        c-eratosthenes: 1
 
