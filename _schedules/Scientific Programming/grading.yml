@@ -166,6 +166,7 @@ sp1_checks:
 sp1_exams:
     show_progress: true
     small_block_overview: true
+    submits:
         sp1_exam1: 1
         sp1_exam2: 1
         sp1_exam3: 1
@@ -262,6 +263,7 @@ sp2_checks:
 sp2_exams:
     show_progress: true
     small_block_overview: true
+    submits:
         sp2_exam1: 1
         sp2_exam2: 1
         sp2_exam3: 1
