@@ -83,6 +83,16 @@ sp1_level_1_algorithms :
         1_5a: 1
         1_6a: 1
 
+sp1_level_1_numbers:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        1_1n: 1
+        1_2n: 1
+        1_3n: 1
+        1_4n: 1
+        1_5n: 1
+        1_6n: 1
 
 sp1_level_1_challenges:
     show_progress: true
