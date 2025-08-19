@@ -97,6 +97,19 @@ grades:
     m5-passed: *check
     m6-passed: *check
 
+
+
+
+    final_sp1_1: *check
+    final_sp1_2: *check
+    final_sp1_3: *check
+    final_sp1_4: *check
+
+    final_sp2_1: *check
+    final_sp2_2: *check
+    final_sp2_3: *check
+    final_sp2_4: *check
+
 sp1_checks:
     show_progress: true
     submits:
@@ -187,7 +200,7 @@ sp1_exams:
         sp1_exam3: 1
         sp1_exam4: 1
 
-final_sp_1:
+final_sp1:
     show_progress: true
     small_block_overview: true
     submits:
