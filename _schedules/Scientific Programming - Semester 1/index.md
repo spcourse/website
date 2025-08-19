@@ -1,16 +1,18 @@
 # Syllabus Scientific Programming / Data Processing {#overview}
 
-**Spring 2024/2025**
+**Spring 2025/2026**
 
 
 ## Team
 
 <table>
-  <tr><td width = "25%"><img src = "https://github.com/spcourse/website/raw/2024/team/amir.jpg" style="max-width:90px"><br>Amir </td><td> Amir is pursuing a Master’s in Computational Science, where he focuses on simulating complex systems. He has been teaching courses such as Introduction to Programming and Scientific Programming for some time.</td></tr>
-  <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/melanie.jpg" style="max-width:90px" width = "150"><br>Melanie </td><td> Melanie is currently pursuing a Master’s in Chemistry at the University of Amsterdam and VU Amsterdam. During her Bachelor’s, she completed a minor in Artificial Intelligence, where she gained extensive programming experience. She looks forward to introducing students to programming and assisting them throughout this course.
-  </td></tr>
   <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/puck.jpg" style="max-width:90px" width = "150"><br>Puck </td><td> Puck has a Bachelor’s degree in Physics and then completed a Master’s degree in Mathematics at Utrecht University. She is currently a Junior Lecturer for the Scientific Programming minor at the University of Amsterdam. Puck loves puzzles and tough questions. If you have a fun challenge to think about, she’ll happily join in—even if it’s not related to programming.
   </td></tr>
+  <tr><td width = "25%"><img src = "" style="max-width:90px"><br>Marit </td><td> 
+  </td></tr>
+  <tr><td><img src = "" style="max-width:90px" width = "150"><br>Loes </td><td> 
+  </td></tr>
+
   <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon </td><td> Simon studied Computer Science and then the Master of Logic at the University of Amsterdam (UvA). He conducted research in computational linguistics and robotics at Sony, Aldebaran (now Softbank), the Universitat Autònoma de Barcelona, and the UvA. He now works as a lecturer at the UvA and teaches programming in various programs.</td></tr>
 </table>
 
@@ -105,27 +107,16 @@ Course specific information can be found further down.
 
 The track is designed to be very flexible. So, there are no compulsory sessions. There are no lectures (except for a kick-off meeting at the start of Scientific Programming 1) and the tutorials are optional. And, you can follow the courses at any pace that fits your schedule.
 
-### Help {#help}
+### Tutorials {#help}
 
 The fact that the track is flexible doesn't mean you are on you own. We do provide a lot of help throughout the course with the programming assignments. It is up to you to seek out this help.
 
-There are two ways to get help, the tutorials and the forum:
-
-#### Tutorials
-
-Tutorials (on campus): The tutorials are the most classic way of getting help with your programming. You’ll work on campus (together with other students) in a classroom. You can ask us questions while you’re working on your assignments.
+Tutorials are the way of getting help with your programming. You’ll work on campus (together with other students) in a classroom. You can ask us questions while you’re working on your assignments.
 
 - You can find the times and locations here: [Tutorial and exam schedules](/datanose)
-- **We highly recommend to join at least one tutorial a week.**
-- This is a good place to work on your assignments and get immediate help.
-- This is the main place where you can meet other students.
-
-#### Forum
-
-Forum (online): We use Ed as an online discussion platform. Here you can discuss the assignments with other students and also the staff.
-
-- Use the forum: [go to Ed](https://edstem.org/eu/courses/1508)
-- If you are registered for Scientific Programming 1 you should automatically have access to the forum. If not, you can sign up using this link: [sign up for Ed](https://edstem.org/eu/join/KdE46r). This only works if you have a uva.nl or auc.nl email. If not, please send me an email to get access.
+- **We expect all students to join at least one tutorial a week.**
+- You can select your tuttorial through the intake form.
+- This is the main place where you talk with us and meet other students.
 
 ### Programming modules {#programming-modules}
 
@@ -134,6 +125,7 @@ You're going to learn programming through a number of programming modules. Each 
 - Theory: Explanations both written and in the form of video's.
 - Pair: Assignments that you can do together with other students.
 - Individual: Assignments that you should do individually (but with our help, of course).
+- Challenges: Assignments that are marked as *challenges* are not compulsory, we do recommend to try at least one for each module. (Keep in mind that for Data Processing you do need to finish challenge assignments if you want to get a grade above a 7.)
 
 The modules are grouped into levels, you have to make one module per level. For some levels you have the choice between two different modules. When there is such a choice, you will learn the same programming concepts, but often in different thematic context (i.e. different scientific fields).
 
@@ -181,7 +173,7 @@ Here below is an overview of all modules for all courses.
   </tr><tr>
     <td> <b>Level 5</b> (choose one of the modules)</td>
     <td>
-      <b>COMPLEXITY</b>. What is an efficient algorithm? When you want to run large simulations, analyze large dataset, or any other computationally intensive task, writing efficient algorithms could in some cases mean the difference between a run time of a couple of minutes or of weeks. The theory of computational complexity gives you a way to reason about the efficiency of algorithms and make them run (much) faster.
+      <b>MONOPOLY 2</b>. TBA
     </td><td>
       <b>or</b>
     </td><td>
@@ -198,7 +190,7 @@ Here below is an overview of all modules for all courses.
   <tr>
     <td> <b>Level 7</b> </td><td colspan="3"> <b>POPULATIONS</b>. Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP).</td>
   </tr><tr>
-    <td> <b>Level 8</b> </td><td colspan="3"> <b>ACQUISITION</b>. What was the best year for movies? This is often debated on the internet, for example <a href = "https://www.washingtonpost.com/news/style/wp/2018/12/28/feature/what-was-the-best-year-in-movie-history/">here</a>, <a href = "https://www.independent.co.uk/arts-entertainment/films/features/film-history-best-year-1999-star-wars-matrix-fight-club-sixth-sense-a9036911.html">here</a>, <a href = "https://www.reddit.com/r/movies/comments/5m6jrp/best_year_for_movies/">here</a> and <a href = "https://www.maxim.com/entertainment/10-movies-prove-1994-was-best-year-film-history">here</a>. You're going to write a bot that extracts information from websites to find an answer to this question. This process is called web-scraping. When you're doing research it's often the case that the data is out there on the internet, but no-one went through the effort to collect for you in way that you can directly use it. In that case you will need to know how to acquire this data yourself. </td>
+    <td> <b>Level 8</b> </td><td colspan="3"> <b>WIKIPEDIA</b>. TBA </td>
   </tr><tr>
     <td> <b>Level 9</b> </td><td colspan="3"> <b>TRANSFORMATION</b>. Does a restaurant pass health code inspections? Could you gauge this by analyzing reviews of this restaurant? You will use information from two different data sources (Yelp and the Washington State Department of Health) to answer these questions. The problem is (as you will see quite often when analyzing data), there is no straightforward way to combine the two data sources. They were never made to be used together, so you will need to transform the datasets to be used together.</td>
   </tr><tr>
@@ -212,59 +204,11 @@ Here below is an overview of all modules for all courses.
 
 ### Deadlines {#level-deadlines}
 
-Deadlines for each level are listed below. The deadlines are our recommendation. If you follow these deadlines you'll have all the assignments finished in time for the corresponding examination moment. You can occasionally diverge a bit from the deadlines, but if you notice that you're structurally behind please contact us.
+Deadlines for each level are listed below. The deadlines depend on the course you're starting this period and on the pace you decided to do the course at: *relaxed*, *standard*, or *fast*. Most students tend to follow the *standard* schedule. The standard schedule corresponds to an investment of about 10 hours per week, but this varies a lot per student and educational background.
 
-The deadlines depend on the course you're starting this period and on the pace you decided to do the course at: *relaxed* (finish SP1 and SP2 in one year), *standard* (finish all courses in one year), and *fast* (finish all courses in one semester). Most students tend to follow the standard schedule. The standard schedule corresponds to an investment of about 10 hours per week, but this varies a lot per student and educational background.
+**TBA**
 
-The proposed schedules are worked out for only the most common cases. If none of those seems to apply to you, please contact us.
-
-The deadline schedules:
-
-|--------------------|---------------------|---------------------|---------------------|
-| Level\Pace         | relaxed (SP1 and SP2 in one year) | standard (the whole track in one year) | fast (the whole track in one semester) |
-|--------------------|---------------------|---------------------|---------------------|
-| SP1 - Level 1*     | Fri **28 Feb** 2025 | Fri **14 Feb** 2025 | Fri **07 Feb** 2025 |
-| SP1 - Level 2*     | Fri **04 Apr** 2025 | Fri **28 Feb** 2025 | Fri **14 Feb** 2025 |
-| SP1 - Level 3      | Wed **14 May** 2025 | Fri **14 Mar** 2025 | Fri **21 Feb** 2025 |
-|--------------------|---------------------|---------------------|---------------------|
-|                    |                     |                     |                     |
-|--------------------|---------------------|---------------------|---------------------|
-| SP2 - Level 4*     | SP2 next year?      | Fri **11 Apr** 2025 | Fri **28 Feb** 2025 |
-| SP2 - Level 5      |                     | Wed **07 May** 2025 | Fri **07 Mar** 2025 |
-| SP2 - Level 6      |                     | Wed **21 May** 2025 | Fri **14 Mar** 2025 |
-|--------------------|---------------------|---------------------|---------------------|
-|                    |                     |                     |                     |
-|--------------------|---------------------|---------------------|---------------------|
-| DP - Level 7       |                     | DP next year?       | Fri **04 Apr** 2025 |
-| DP - Level 8*      |                     |                     | Fri **11 Apr** 2025 |
-| DP - Level 9       |                     |                     | Tue **22 Apr** 2025 |
-| DP - Level 10*     |                     |                     | Wed **07 May** 2025 |
-| DP - Final Project |                     |                     | Wed **21 May** 2025 <br> (presentation: 27 May)|
-|--------------------|---------------------|---------------------|---------------------|
-
-If you already started last semester one of the following schedules might apply:
-
-|---------------------|---------------------|
-| Level\Pace          | relaxed (SP2 in one semester) |
-|---------------------|---------------------|
-| SP2 - Level 4*      | Fri **28 Feb** 2025 |
-| SP2 - Level 5*      | Fri **04 Apr** 2025 |
-| SP2 - Level 6       | Fri **16 May** 2025 |
-|---------------------|---------------------|
-
-|---------------------|---------------------|
-| Level\Pace          | standard (Data Processing in one semester) |
-|---------------------|---------------------|
-| DP - Level 7        | Fri **14 Feb** 2025 |
-| DP - Level 8*       | Fri **28 Feb** 2025 |
-| DP - Level 9        | Wed **19 Mar** 2025 |
-| DP - Level 10*      | Fri **11 Apr** 2025 |
-| DP - Final Project  | Wed **21 May** 2025 <br> (presentation: 27 May) |
-|---------------------|---------------------|
-
-If none of these schedules apply, please contact us, to make a personalized plan.
-
-\* These modules need to discussed in person after finalizing.
+If none of these schedules apply, please contact us.
 
 ## Grading {#grading}
 
@@ -293,20 +237,15 @@ The course's final result will be "pass" or "fail", which means that no grades a
   - **Challenges** are not compulsory, but we highly recommend completing at least one per module to be fully prepared for the exam and/or future courses.
 
 - Some assignments are marked as *pair* assignments. For those you can (we even encourage you to) work together, so you can learn from other students. For *individual* assignments, however, we expect them to be entirely your own work.
-- After you have submitted all parts of a module, we will evaluate them manually. Depending on the module, this involves either discussing the work in person or assigning a grade. At this stage, you may receive a **pass** or **fail** for the module. If you receive a fail, you can revise the work and resubmit.
-- All modules must be graded by us and deemed *correct*. If a module requires an in-person discussion, you should attend one of the tutorials. **Please do not wait too long to discuss your module after finalizing**—ideally, join the tutorial for a discussion within a few days after submitting.
+- After you have submitted all parts of a module, **you need to come to the tutorial and discuss your code in person**. At this stage, you may receive a **pass** or **fail** for the module.
+- You must have **discussed** and **passed** all modules, before the final exam.
 - You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
 
 #### Final exam
 
 - The final exam is (on campus) programming exam in a controlled setting. This will take about 3 hours. It contains a couple of small programming assignments. You'll pass the exam when your answers are sufficiently correct.
-- You can participate in the final exam if you're done with the coursework, meaning:
-
-  - The first two modules are *graded* and *correct*.
-  - The last module is handed in (with reasonable expectation to be correct).
-
-- If you do not meet these requirements (for example when you still have an insufficient or one of the first two modules isn't graded yet) you cannot participate with the exam yet. You will have to finish the coursework first and do the exam at a later date.
-- You need to make sure that you leave enough time for grading for the first two modules before the exam. So, **hand in the *first two modules* no later that two weeks before the exam**. If you hand in everything last minute you risk not being able to participate in the exam
+- You can participate in the final exam if you're done with the coursework, meaning: all modules are *finished*, *discussed*, and marked as *pass*.
+- If you do not meet these requirements (for example when you still have an insufficient or one of the first two modules isn't graded yet) you cannot participate with the exam yet. You will have to finish the coursework first and do an exam at a later date.
 </details>
 
 ### Grading Data Processing {#dp-grading}
@@ -322,31 +261,23 @@ Your final grade will be determined by the grades for Level 7, 9 and your final 
 | Module                  | Weight |
 |-------------------------|--------|
 | Level 7                 | 25%    |
-| Level 9                 | 25%    |
+| Level 8                 | 25%    |
 | Final Project           | 50%    |
 
-Note that, even though level 8 and 10 do not contribute to the grade, you still need to hand them in correctly in order to pass the course.
+Note that, even though level 9 and 10 do not contribute to the grade, you still need to hand them in correctly in order to pass the course.
 
 #### Coursework (modules)
 
 Some of the assignments are graded (level 7, level 9 and the final project) and some are pass fail (level 8 and level 10).
 
+* All modules have to be discussed in person after submitting in order to get a grade.
 * For the pass/fail assignments the grading works the same as for Scientific Programming 1 and 2: they are graded **pass/fail**
-* For the graded assignments you get a note based on the code quality (how well written is the code?) and the correctness (does it meet the specifications) of your assignment. Both are graded on a scale from 1 to 5. Where the correctness weighs more than code quality: $$\textrm{points} =  \textrm{correctness} \times 3 + \textrm{design} \times 2$$. So you can get at most 25 and at least 5 points.
-* The final project is graded based on novelty and quality. For both you get points on a scale from 1 to 5.
-    * Novelty: As a independent programmer you need to often learn a new skill, library or concept by yourself. The main purpose of the final project is to practice with this. This is reflected in the novelty part: to what extend did you do/learn something new (not yet discussed during the course)?
-    * Quality: Just like the other graded assignments. How well structured/written is your code?
+* For the graded assignments you get a grade based on how many of the challenges you have finished. For correctly handing in the base assignments you get a 7, and you get additional points for the challenges.
+* The final project is graded based on research-question, complexity, novelty and quality. For both you get points on a scale from 1 to 5.
 
 #### Final project grade
 
-The final project is graded on four aspects:
-
-| aspect       | weight | notes |
-|--------------|--------|-------|
-| final_result | 30%    |       |
-| complexity   | 30%    | How complex is your project? How many data sources? Do you need to transform the data? |
-| code_quality | 20%    | Is your code well designed? Is it easy to understand? |
-| process      | 20%    | How well did you document the process of the project? |
+TBA: project rubric
 
 </details>
 
