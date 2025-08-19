@@ -88,6 +88,8 @@ grades:
     c-datastructures: *auto
     c-shakespeare: *auto
 
+    sp1_exam1: *testt
+    sp1_exam2: *testt
     sp1_exam3: *testt
     sp1_exam4: *testt
 
@@ -109,6 +111,8 @@ grades:
     6_2: *check
     6_3: *check
 
+    sp2_exam1: *testt
+    sp2_exam2: *testt
     sp2_exam3: *testt
     sp2_exam4: *testt
 
