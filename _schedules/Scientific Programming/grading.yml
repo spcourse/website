@@ -349,18 +349,6 @@ dp_project:
         p_3: 1
         p_4: 1
 
-data_grades:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        7_1-populations1: 0
-        7_2-populations2: 0
-        populations: 25
-        transformation: 25
-        project: 50
-    required: true
-
-
 
 final_sp_1:
     show_progress: true
