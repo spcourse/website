@@ -119,7 +119,7 @@ sp1_level_1_numbers_l1num:
         1_5n: 1
         1_6n: 1
 
-sp1_level_1_challenges:
+sp1_level_1_challenges_l1cha:
     show_progress: true
     small_block_overview: true
     submits:
