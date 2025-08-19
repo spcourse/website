@@ -1,4 +1,4 @@
-name: 8_3
+name: 8_3c-crawler
 files:
     required:
         - scraper2.py
