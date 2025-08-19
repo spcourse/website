@@ -337,7 +337,7 @@ dp_level_8_wikipedia_L8wik:
         8_2w: 1
         c-crawler: 1
 
-dp_level_9_transformation_L9:
+dp_level_9_transformation_L9tra:
     show_progress: true
     small_block_overview: true
     submits:
@@ -378,3 +378,9 @@ final_sp2:
         final_sp1_2: 1
         final_sp1_3: 1
         final_sp1_4: 1
+
+calculation:
+    final_data_semester_1:
+        dp_grades: 1
+    final_data_semester_2:
+        dp_grades: 1
