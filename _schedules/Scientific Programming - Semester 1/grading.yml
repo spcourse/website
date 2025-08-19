@@ -41,6 +41,7 @@ templates:
 
 
 grades:
+    #### SP 1 ####
     m1-passed: *check
     m2-passed: *check
     m3-passed: *check
@@ -93,13 +94,34 @@ grades:
     sp1_exam3: *testt
     sp1_exam4: *testt
 
+    #### SP 2 ####
     m4-passed: *check
     m5-passed: *check
     m6-passed: *check
 
+    4_1m: *auto
+    4_3m: *auto
+    4_4m: *auto
+
+    5_1s: *auto
+    5_2s: *check
+    5_3s: *auto
+    c-tf-idf: *check
+    c-generate-word-list: *check
+
+    6_1s: *check
+    6_2s: *check
+    6_3s: *check
+
+    sp2_exam1: *testt
+    sp2_exam2: *testt
+    sp2_exam3: *testt
+    sp2_exam4: *testt
+
+    #### DP ####
 
 
-
+    #### FINAL GRADES ####
     final_sp1_1: *check
     final_sp1_2: *check
     final_sp1_3: *check
@@ -109,6 +131,10 @@ grades:
     final_sp2_2: *check
     final_sp2_3: *check
     final_sp2_4: *check
+
+
+
+########### SP 1 ###########
 
 sp1_checks:
     show_progress: true
@@ -199,6 +225,65 @@ sp1_exams:
         sp1_exam2: 1
         sp1_exam3: 1
         sp1_exam4: 1
+
+
+########### SP 2 ###########
+
+
+sp2_checks:
+    show_progress: true
+    submits:
+        m4-passed: 1
+        m5-passed: 1
+        m6-passed: 1
+
+sp2_exams:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        sp2_exam1: 1
+        sp2_exam2: 1
+        sp2_exam3: 1
+        sp2_exam4: 1
+
+sp2_level_4_monopoly:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        4_1m: 1
+        4_3m: 1
+        4_4m: 1
+
+sp2_level_5_shakespeare:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        5_1s: 1
+        5_2s: 1
+        5_3s: 1
+
+sp2_level_5_challenges:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        c-tf-idf: 1
+        c-generate-word-list: 1
+
+sp2_level_6_survival:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        6_1s: 1
+        6_2s: 1
+        6_3s: 1
+
+
+
+
+
+
+
+
 
 final_sp1:
     show_progress: true
