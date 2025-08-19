@@ -97,7 +97,7 @@ sp1_checks:
         m3-passed: 1
 
 
-sp1_level_1_algorithms :
+sp1_level_1_algorithms_sp1_l1a:
     show_progress: true
     small_block_overview: true
     submits:
