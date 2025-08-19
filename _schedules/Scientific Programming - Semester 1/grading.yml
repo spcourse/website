@@ -237,6 +237,37 @@ sp2_checks:
         m5-passed: 1
         m6-passed: 1
 
+sp2_level_4_monopoly_L4mon:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        4_1m: 1
+        4_3m: 1
+        4_4m: 1
+
+sp2_level_5_shakespeare_L5sha:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        5_1s: 1
+        5_2s: 1
+        5_3s: 1
+
+sp2_level_5_challenges_L5cha:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        c-tf-idf: 1
+        c-generate-word-list: 1
+
+sp2_level_6_survival_L6sur:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        6_1s: 1
+        6_2s: 1
+        6_3s: 1
+
 sp2_exams:
     show_progress: true
     small_block_overview: true
@@ -245,39 +276,6 @@ sp2_exams:
         sp2_exam2: 1
         sp2_exam3: 1
         sp2_exam4: 1
-
-sp2_level_4_monopoly:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        4_1m: 1
-        4_3m: 1
-        4_4m: 1
-
-sp2_level_5_shakespeare:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        5_1s: 1
-        5_2s: 1
-        5_3s: 1
-
-sp2_level_5_challenges:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        c-tf-idf: 1
-        c-generate-word-list: 1
-
-sp2_level_6_survival:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        6_1s: 1
-        6_2s: 1
-        6_3s: 1
-
-
 
 
 
