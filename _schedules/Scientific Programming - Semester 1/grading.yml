@@ -337,7 +337,7 @@ dp_level_8_wikipedia_L8wik:
         8_2w: 1
         c-crawler: 1
 
-dp_level_9_transformation_L9tra:
+dp_level_9_transformation_L9:
     show_progress: true
     small_block_overview: true
     submits:
