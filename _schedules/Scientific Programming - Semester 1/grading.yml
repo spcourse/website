@@ -64,6 +64,31 @@ grades:
     c-amicable: *auto
     c-eratosthenes: *auto
 
+    2_1t: *auto
+    2_2t: *auto
+    2_3t: *auto
+    2_4t: *auto
+    2_5t: *auto
+    2_6t: *check
+    c-twitter: *auto
+    c-reformatting: *auto
+    c-plot_min_max: *auto
+
+    2_1i: *auto
+    2_2i: *auto
+    2_3i: *auto
+    2_4i: *auto
+    2_5i: *auto
+    2_6i: *check
+    c-montecarlo: *auto
+    c-egg: *auto
+
+    3_1: *auto
+    3_2: *auto
+    c-datastructures: *auto
+    c-shakespeare: *auto
+
+    
 sp1_checks:
     show_progress: true
     submits:
@@ -104,3 +129,42 @@ sp1_level_1_challenges:
         c-amicable: 1
         c-eratosthenes: 1
 
+sp1_level_2_text :
+    show_progress: true
+    small_block_overview: true
+    submits:
+        2_1t: 1
+        2_2t: 1
+        2_3t: 1
+        2_4t: 1
+        2_5t: 1
+        2_6t: 1
+
+sp1_level_2_integration:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        2_1i: 1
+        2_2i: 1
+        2_3i: 1
+        2_4i: 1
+        2_5i: 1
+        2_6i: 1
+
+sp1_level_2_challenges:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        c-twitter: 1
+        c-reformatting: 1
+        c-plot_min_max: 1
+        c-montecarlo: 1
+        c-egg: 1
+
+
+sp1_level_3_big_data:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        3_1: 1
+        3_2: 1
