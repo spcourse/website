@@ -1,0 +1,7 @@
+name: 8_3
+files:
+    required:
+        - scraper2.py
+        - crawler.py
+        - visualize_gini.py
+        - gini_gdp_scatterplot.png

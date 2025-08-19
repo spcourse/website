@@ -1,0 +1,6 @@
+name: 8_2
+files:
+    required:
+        - scraper.py
+        - visualize_gdp.py
+        - gdp_barplot.png

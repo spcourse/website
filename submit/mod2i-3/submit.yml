@@ -1,9 +1,0 @@
-name: 2_3i-riemann
-files:
-    required:
-        - riemann.py
-
-check:
-    tool: checkpy
-    repo: spcourse/tests
-    args: riemann
