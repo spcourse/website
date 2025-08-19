@@ -88,6 +88,14 @@ grades:
     c-datastructures: *auto
     c-shakespeare: *auto
 
+    sp1_exam1: *testt
+    sp1_exam2: *testt
+    sp1_exam3: *testt
+    sp1_exam4: *testt
+
+    m4-passed: *check
+    m5-passed: *check
+    m6-passed: *check
 
 sp1_checks:
     show_progress: true
@@ -129,7 +137,7 @@ sp1_level_1_challenges_l1cha:
         c-amicable: 1
         c-eratosthenes: 1
 
-sp1_level_2_text :
+sp1_level_2_text_l2tex:
     show_progress: true
     small_block_overview: true
     submits:
@@ -140,7 +148,7 @@ sp1_level_2_text :
         2_5t: 1
         2_6t: 1
 
-sp1_level_2_integration:
+sp1_level_2_integration_l2int:
     show_progress: true
     small_block_overview: true
     submits:
@@ -151,7 +159,7 @@ sp1_level_2_integration:
         2_5i: 1
         2_6i: 1
 
-sp1_level_2_challenges:
+sp1_level_2_challenges_l2cha:
     show_progress: true
     small_block_overview: true
     submits:
@@ -162,9 +170,28 @@ sp1_level_2_challenges:
         c-egg: 1
 
 
-sp1_level_3_big_data:
+sp1_level_3_big_data_l3big:
     show_progress: true
     small_block_overview: true
     submits:
         3_1b: 1
         3_2b: 1
+
+
+sp1_exams:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        sp1_exam1: 1
+        sp1_exam2: 1
+        sp1_exam3: 1
+        sp1_exam4: 1
+
+final_sp_1:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        final_sp1_1: 1
+        final_sp1_2: 1
+        final_sp1_3: 1
+        final_sp1_4: 1
