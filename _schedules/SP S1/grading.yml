@@ -253,8 +253,6 @@ sp1_exams:
     submits:
         sp1_exam1: 1
         sp1_exam2: 1
-        sp1_exam3: 1
-        sp1_exam4: 1
 
 
 ########### SP 2 ###########
@@ -304,8 +302,6 @@ sp2_exams:
     submits:
         sp2_exam1: 1
         sp2_exam2: 1
-        sp2_exam3: 1
-        sp2_exam4: 1
 
 
 
@@ -368,19 +364,13 @@ final_sp1:
     submits:
         final_sp1_1: 1
         final_sp1_2: 1
-        final_sp1_3: 1
-        final_sp1_4: 1
 
 final_sp2:
     show_progress: true
     submits:
         final_sp1_1: 1
         final_sp1_2: 1
-        final_sp1_3: 1
-        final_sp1_4: 1
 
 calculation:
     final_data_semester_1:
-        dp_grades: 1
-    final_data_semester_2:
         dp_grades: 1
