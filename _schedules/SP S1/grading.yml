@@ -86,7 +86,8 @@ grades:
 
     3_1b: *auto
     3_2b: *auto
-    c-datastructures: *auto
+    c-datastructures1: *auto
+    c-datastructures2: *auto
     c-shakespeare: *auto
 
     sp1_exam1: *testt
@@ -246,6 +247,13 @@ sp1_level_3_big_data_l3big:
         3_1b: 1
         3_2b: 1
 
+sp1_level_3_challenges_l3cha:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        c-datastructures1: 1
+        c-datastructures2: 1
+        c-shakespeare: 1
 
 sp1_exams:
     show_progress: true
