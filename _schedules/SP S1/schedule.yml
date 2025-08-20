@@ -320,7 +320,7 @@ SP2 - L6 (Survival):
     6.5 Survival:
         Mushrooms [individual]: /pandas/survival-sp
         Submit [submit]: /submit/mod6/s3
-    Make sure to [discuss] your solutions in person after completing this level!:
+    
 
 SP2 - Practice exam:
     Practice exam: /practice-exams/sp2/
@@ -353,7 +353,6 @@ DP - L7 (Populations):
         Phase 8: /populations-oo/phase8
         Phase 9: /populations-oo/phase9
         Submit [submit]: /submit/mod7/s2
-    Make sure to [discuss] your solutions in person after completing this level!:
     7.5 Challenge:
         Not required to pass:
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
@@ -374,7 +373,6 @@ DP - L8 (Wikipedia):
         Scraping a Wikipedia page: "/wikipedia/scraping"
         Plotting the results: "/wikipedia/visualize-gdp"
         Submit [submit]: /submit/mod8/s1
-    Make sure to [discuss] your solutions in person after completing this level!:
     8.3 Challenge - Crawling:
         Not required to pass:
         Crawling Wikipedia: "/wikipedia/crawling"
@@ -391,7 +389,6 @@ DP - L9 (Transformation):
         "Part one: merging the data": /transformation/health-code-violations-1
         "Part two: processing the data": /transformation/health-code-violations-2-no-yelp
         Submit [submit]: /submit/mod9/s2
-    Make sure to [discuss] your solutions in person after completing this level!:
 
 DP - L10 (Databases):
     Data Processing - Level 10 (Databases) [pass/fail]:
@@ -403,14 +400,12 @@ DP - L10 (Databases):
     10.2 Fiftyville:
         Solve a mistery using sqlite: /sql/fiftyville
         Submit [submit]: /submit/mod10/s2
-    Make sure to [discuss] your solutions in person after completing this level!:
 
 DP - Final project:
     Data Processing - Final Project [graded, individual]:
     Learn to use git: /basics/git
     Project outline: /project
     Submit first proposal: /submit/project/s1
-    Make sure to [discuss] your proposal in person before starting the project!:
     Submit second proposal: /submit/project/s2
     Submit proof of concept: /submit/project/s3
     Submit final project: /submit/project/s4
