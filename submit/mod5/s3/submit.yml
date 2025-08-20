@@ -1,8 +1,4 @@
-name: 5_3-unique-word
+name: 5_2-complexity
 files:
     required:
-        - unique-word-classifier.py
-check:
-    tool: checkpy
-    repo: uva-sp/sp1
-    args: unique-word-classifier
+        - complexity.txt
