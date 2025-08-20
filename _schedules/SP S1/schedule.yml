@@ -137,7 +137,7 @@ SP1 - L2 (Text Processing):
         Max [individual]: /shorts/max
         Max Index [individual]: /shorts/max_index
         Arange [individual]: /shorts/arange
-        Submit [submit]: /submit/mod2/s1
+        Submit [submit]: /submit/mod2t/s1
     2.2 Strings 1:
         Strings [theory]: /python/en/strings
         Vowels [pair]: /shorts/vowels
@@ -190,7 +190,7 @@ SP1 - L2 (Numerical Integration):
         Max [individual]: /shorts/max
         Max Index [individual]: /shorts/max_index
         Arange [individual]: /shorts/arange
-        Submit [submit]: /submit/mod2/s1
+        Submit [submit]: /submit/mod2i/s1
     2.2 Plot:
         Import [theory]: /python/en/modules
         Plot [theory]: /python/en/plotting
