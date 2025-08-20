@@ -51,7 +51,6 @@ SP1 - L1 (Algorithms):
         Calculate Change [individual]: /algorithms/en/greedy
         Submit [submit]: /submit/mod1a/s5
     1.6 Lists:
-        Discuss this part with a teacher after submitting:
         Debugging [theory]: /python/en/debugging-basics
         Code in Style [theory]: /python/en/style
         Lists [theory]: /python/en/lists
@@ -59,14 +58,16 @@ SP1 - L1 (Algorithms):
         Odd [pair]: /shorts/odd
         Average [pair]: /shorts/average
         Squares [individual]: /shorts/squares
-        Collect Change [individual & discuss]: /algorithms/en/collect
+        Collect Change [individual]: /algorithms/en/collect
         Submit [submit]: /submit/mod1a/s6
-    1.7 Challenge:
-        Not required to pass, but recommended to do at least one:
+    1.7 Challenge 1:
+        Not required to pass, but recommended to at least try:
         Mario Pyramid [pair]: /algorithms/en/pyramid
-        Submit Pyramid: /submit/c-pyramid
+        Submit Pyramid: /submit/mod1a/c-pyramid
+    1.8 Challenge 2:
+        Not required to pass:
         Conway’s Game of Life [pair]: /algorithms/en/conway
-        Submit Conway: /submit/c-conway
+        Submit Conway: /submit/mod1a/c-conway
 
 
 SP1 - L1 (Number Theory):
@@ -105,7 +106,6 @@ SP1 - L1 (Number Theory):
         1001 Primes [individual]: /numbers/en/n-primes
         Submit [submit]: /submit/mod1n/s5
     1.6 Lists:
-        Discuss this part with a teacher after submitting:
         Debugging [theory]: /python/en/debugging-basics
         Code in Style [theory]: /python/en/style
         Lists [theory]: /python/en/lists
@@ -113,16 +113,20 @@ SP1 - L1 (Number Theory):
         Odd [samen]: /shorts/odd
         Average [pair]: /shorts/average
         Squares [individual]: /shorts/squares
-        Prime List [individual & discuss]: /numbers/en/primelist
+        Prime List [individual]: /numbers/en/primelist
         Submit [submit]: /submit/mod1n/s6
-    1.7 Challenges:
-        Not required to pass, but recommended to do at least one:
+    1.7 Challenge 1:
+        Not required to pass, but recommended to at least try:
         Goldbach [pair]: /numbers/en/goldbach
-        Submit Goldbach: /submit/c-goldbach
+        Submit Goldbach: /submit/mod1n/c-goldbach
+    1.8 Challenge 2:
+        Not required to pass:
         Amicable [pair]: /numbers/en/amicable
-        Submit Amicable: /submit/c-amicable
+        Submit Amicable: /submit/mod1n/c-amicable
+    1.9 Challenge 3:
+        Not required to pass:
         Eratosthenes [pair]: /numbers/en/eratosthenes
-        Submit Eratosthenes: /submit/c-eratosthenes
+        Submit Eratosthenes: /submit/mod1n/c-eratosthenes
 
 SP1 - L2 (Text Processing):
     2.1 Functions:
@@ -160,17 +164,20 @@ SP1 - L2 (Text Processing):
         Plot Min [individual]: /plot/en/plot2
         Submit [submit]: /submit/mod2t/s5
     2.6 Style:
-        Discuss this part with a teacher after submitting:
-        Style [individual & discuss]: /style/text
+        Style [individual]: /style/text
         Submit [submit]: /submit/mod2t/s6
-    2.7 Challenges:
-        Not required to pass, but recommended to do at least one:
+    2.7 Challenge 1:
+        Not required to pass, but recommended to at least try:
         Twitter [pair]: /text/en/tweets
-        Submit Twitter (21 jan): /submit/c-twitter
+        Submit Twitter (21 jan): /submit/mod2t/c-twitter
+    2.8 Challenge 2:
+        Not required to pass:
         Reformat [pair]: /text/en/reformatting
-        Submit Reformat (21 jan): /submit/c-reformatting
+        Submit Reformat (21 jan): /submit/mod2t/c-reformatting
+    2.9 Challenge 3:
+        Not required to pass:
         Plot Min Max [pair]: /plot/en/plot_mm
-        Submit Plot Min Max (21 jan): /submit/c-plot-min-max
+        Submit Plot Min Max (21 jan): /submit/mod2t/c-plot-min-max
 
 
 SP1 - L2 (Numerical Integration):
@@ -207,19 +214,18 @@ SP1 - L2 (Numerical Integration):
         Random Histogram [individual]: /integrals/en/random/histogram
         Submit [submit]: /submit/mod2i/s5
     2.6 Style:
-        Discuss this part with a teacher after submitting:
-        Style [individual & discuss]: /style/integrals
+        Style [individual]: /style/integrals
         Submit [submit]: /submit/mod2i/s6
-    2.7.1 Challenge 1:
+    2.7 Challenge 1:
         Not required to pass, but recommended to try:
         More Function [theory]: /python/en/functions2
         Monte Carlo [theory]: /integrals/en/monte-carlo/explanation
         Monte Carlo [pair]: /integrals/en/monte-carlo/integrals
-        Submit [submit]: /submit/c-montecarlo
-    2.7.2 Challenge 2:
+        Submit [submit]: /submit/mod2i/c-montecarlo
+    2.8 Challenge 2:
         Not required to pass:
         Egg [pair]: /integrals/en/monte-carlo/egg
-        Submit [submit]: /submit/c-egg
+        Submit [submit]: /submit/mod2i/c-egg
 
 SP1 - L3 (Big Data):
     3.1 Car:
@@ -228,7 +234,7 @@ SP1 - L3 (Big Data):
         Submit [submit]: /submit/mod3/s1
     3.2 Temperature:
         More about Functions [theory]: /python/en/functions3
-        Temperature [individual & discuss]: /bigdata/en/temperatures
+        Temperature [individual]: /bigdata/en/temperatures
         Submit [submit]: /submit/mod3/s2
     3.3.1 Challenge 1:
         Not required to pass, sneak-peak of SP2:
@@ -272,7 +278,6 @@ SP2 - L4 (Monopoly):
         Money [individual]: /monopoly/en/money
         Submit [submit]: /submit/mod4/s3
     4.4 Monopoly 3:
-        Discuss this part with a teacher after submitting:
         Two players [individual]: /monopoly/en/two-player
         Submit [submit]: /submit/mod4/s4
 
@@ -319,7 +324,7 @@ SP2 - Practice exam:
 
 
 DP - L7 (Populations):
-    Data Processing - Level 7 (Populations) [graded, individual]:
+    Data Processing - Level 7 (Populations) [graded]:
     Introduction: /populations-oo
     7.1 Classes:
         Learn about using classes in Python [theory]: /python/en/classes
@@ -334,7 +339,6 @@ DP - L7 (Populations):
         Phase 4: /populations-oo/phase4
         Submit [submit]: /submit/mod7/s1
     7.4 Populations (part 2):
-        Discuss this part with a teacher after submitting:
         Phase 5: /populations-oo/phase5
         Phase 6: /populations-oo/phase6
         Phase 7: /populations-oo/phase7
@@ -343,7 +347,6 @@ DP - L7 (Populations):
         Submit [submit]: /submit/mod7/s2
     7.5 Challenge:
         Not required to pass:
-        Discuss this part with a teacher after submitting:
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
         Args and kwargs [theory]: /python/en/keyword-arguments/starstar
         Sampling methods [theory]: /populations-oo/sampling
@@ -352,24 +355,22 @@ DP - L7 (Populations):
         Submit (will be graded by us) [submit]: /submit/s2/c-experiment
 
 DP - L8 (Wikipedia):
-    Data Processing - Level 8 (Wikipedia) [pass/fail, individual]:
+    Data Processing - Level 8 (Wikipedia) [graded]:
     Introduction: "/wikipedia/intro"
     8.1 HTML:
         What is HTML?: /homepage/html
         Make your own website: /homepage/homepage
     8.2 Scraping:
-        Discuss this part with a teacher after submitting:
         Scraping a Wikipedia page: "/wikipedia/scraping"
         Plotting the results: "/wikipedia/visualize-gdp"
     8.3 Challenge - Crawling:
         Not required to pass:
-        Discuss this part with a teacher after submitting:
         Crawling Wikipedia: "/wikipedia/crawling"
         Plotting the results: "/wikipedia/visualize-gini"
         Submit [submit]: /submit/wikipedia
 
 DP - L9 (Transformation):
-    Data Processing - Level 9 (Transformation) [graded, individual]:
+    Data Processing - Level 9 (Transformation) [pass/fail]:
     Introduction: /transformation/
     9.1 Transform and visualize climate data:
         Climate: /transformation/climate-change
@@ -380,14 +381,13 @@ DP - L9 (Transformation):
         Submit (will be graded by us) [submit]: /mod9/s2
 
 DP - L10 (Databases):
-    Data Processing - Level 10 (Databases) [pass/fail, individual]:
+    Data Processing - Level 10 (Databases) [pass/fail]:
     Introduction: /sql/intro
     10.1 Learn SQL:
         Learn about Databases: /sql/lecture
         Store movie information using sqlite: /sql/movies
         Submit [submit]: /submit/mod10/s1
     10.2 Fiftyville:
-        Discuss this part with a teacher after submitting:
         Solve a mistery using sqlite: /sql/fiftyville
         Submit [submit]: /submit/mod10/s2
 
