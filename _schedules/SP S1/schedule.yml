@@ -352,7 +352,7 @@ DP - L7 (Populations):
         Sampling methods [theory]: /populations-oo/sampling
         Experiment: /populations-oo/experimenting
         Visualize: /populations-oo/visualizing
-        Submit [submit]: /submit/s2/c-experiment
+        Submit [submit]: /submit/mod7/c-experiment
 
 DP - L8 (Wikipedia):
     Data Processing - Level 8 (Wikipedia) [graded]:
@@ -360,14 +360,16 @@ DP - L8 (Wikipedia):
     8.1 HTML:
         What is HTML?: /homepage/html
         Make your own website: /homepage/homepage
+        Submit [submit]: /submit/mod8/s1
     8.2 Scraping:
         Scraping a Wikipedia page: "/wikipedia/scraping"
         Plotting the results: "/wikipedia/visualize-gdp"
+        Submit [submit]: /submit/mod8/s1
     8.3 Challenge - Crawling:
         Not required to pass:
         Crawling Wikipedia: "/wikipedia/crawling"
         Plotting the results: "/wikipedia/visualize-gini"
-        Submit [submit]: /submit/wikipedia
+        Submit [submit]: /submit/mod8/c-crawling
 
 DP - L9 (Transformation):
     Data Processing - Level 9 (Transformation) [pass/fail]:

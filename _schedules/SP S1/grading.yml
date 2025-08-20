@@ -139,7 +139,7 @@ grades:
 
     8_1w: *check
     8_2w: *check
-    c-crawler: *check
+    c-crawling: *check
 
     9_1t: *check
     9_2t: *check
@@ -339,7 +339,7 @@ dp_level_8_wikipedia_L8wik:
     submits:
         8_1w: 1
         8_2w: 1
-        c-crawler: 1
+        c-crawling: 1
 
 dp_level_9_transformation_L9tra:
     show_progress: true

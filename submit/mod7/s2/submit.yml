@@ -1,4 +1,4 @@
-name: 7_2-populations2
+name: 7_2p
 files:
     required:
         - phase5.py

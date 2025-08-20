@@ -1,4 +1,4 @@
-name: 10_1-movies
+name: 10_1d
 files:
   required:
     - 1.sql
