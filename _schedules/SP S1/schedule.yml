@@ -241,7 +241,7 @@ SP1 - L3 (Big Data):
         Temperature [individual]: /bigdata/en/temperatures
         Submit [submit]: /submit/mod3/s2
     Make sure to [discuss] your solutions in person after completing this level!:
-    3.3.1 Challenge 1:
+    3.3 Challenge 1:
         Not required to pass, sneak-peak of SP2:
         Dictionaries [theory]: /python/en/dictionaries/use
         Tuples [theory]: /python/en/tuples
@@ -249,11 +249,11 @@ SP1 - L3 (Big Data):
         List slicing and indexing [theory]: /python/en/slicing
         Datastructures 1 [pair]: /python/en/datastructures-practice/part1
         Submit [submit]: /submit/mod3/c-datastructures1
-    3.3.1 Challenge 2:
+    3.4 Challenge 2:
         Not required to pass, sneak-peak of SP2:
         Datastructures 2 [pair]: /python/en/datastructures-practice/part2
         Submit [submit]: /submit/mod3/c-datastructures2
-    3.3.2 Challenge 2:
+    3.5 Challenge 3å:
         Not required to pass:
         Shakespeare [pair]: /shakespeare/shakespeare-short
         Submit [submit]: /submit/mod3/c-shakespeare
@@ -301,7 +301,7 @@ SP2 - L5 (Monopoly 2):
     5.2 Data structures - part 2:
         Use dictionaries and sets - part 2 [individual]: /pymonopoly2/datastructures-practice/part2
         Submit [submit]: /submit/mod5/s2
-   
+    Make sure to [discuss] your solutions in person after completing this level!:
 
 SP2 - L6 (Survival):
     Scientific Programming 2 - Level 6 (Survival):
@@ -320,7 +320,7 @@ SP2 - L6 (Survival):
     6.5 Survival:
         Mushrooms [individual]: /pandas/survival-sp
         Submit [submit]: /submit/mod6/s3
-    
+    Make sure to [discuss] your solutions in person after completing this level!:
 
 SP2 - Practice exam:
     Practice exam: /practice-exams/sp2/
@@ -353,6 +353,7 @@ DP - L7 (Populations):
         Phase 8: /populations-oo/phase8
         Phase 9: /populations-oo/phase9
         Submit [submit]: /submit/mod7/s2
+    Make sure to [discuss] your solutions in person after completing this level!:
     7.5 Challenge:
         Not required to pass:
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
@@ -373,6 +374,7 @@ DP - L8 (Wikipedia):
         Scraping a Wikipedia page: "/wikipedia/scraping"
         Plotting the results: "/wikipedia/visualize-gdp"
         Submit [submit]: /submit/mod8/s1
+    Make sure to [discuss] your solutions in person after completing this level!:
     8.3 Challenge - Crawling:
         Not required to pass:
         Crawling Wikipedia: "/wikipedia/crawling"
@@ -389,6 +391,7 @@ DP - L9 (Transformation):
         "Part one: merging the data": /transformation/health-code-violations-1
         "Part two: processing the data": /transformation/health-code-violations-2-no-yelp
         Submit [submit]: /submit/mod9/s2
+    Make sure to [discuss] your solutions in person after completing this level!:
 
 DP - L10 (Databases):
     Data Processing - Level 10 (Databases) [pass/fail]:
@@ -400,6 +403,7 @@ DP - L10 (Databases):
     10.2 Fiftyville:
         Solve a mistery using sqlite: /sql/fiftyville
         Submit [submit]: /submit/mod10/s2
+    Make sure to [discuss] your solutions in person after completing this level!:
 
 DP - Final project:
     Data Processing - Final Project [graded, individual]:
