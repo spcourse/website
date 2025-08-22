@@ -6,11 +6,11 @@
 ## Team
 
 <table>
-  <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/puck.jpg" style="max-width:90px" width = "150"><br>Puck </td><td> Puck has a Bachelor’s degree in Physics and then completed a Master’s degree in Mathematics at Utrecht University. She is currently a Junior Lecturer for the Scientific Programming minor at the University of Amsterdam. Puck loves puzzles and tough questions. If you have a fun challenge to think about, she’ll happily join in—even if it’s not related to programming.
+  <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/puck.jpg" style="max-width:90px" width = "150"><br>Puck </td><td> Puck completed a Bachelor’s degree in Physics and a Master’s degree in Mathematics at Utrecht University. She is currently a Junior Lecturer for the Scientific Programming minor at the University of Amsterdam. Puck loves puzzles and tough questions. If you have a fun challenge to think about, she’ll happily join in—even if it’s not related to programming.
   </td></tr>
-  <tr><td width = "25%"><img src = "" style="max-width:90px"><br>Marit </td><td> 
+  <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/marit.jpg" style="max-width:90px"><br>Marit </td><td> Marit is currently studying for her Master’s degree in Data Science. Outside of studying she enjoys running, fitness and making her own clothes. You will often spot her with a hand knit sweater (like the one in the foto!) or a self sewn skirt.
   </td></tr>
-  <tr><td><img src = "" style="max-width:90px" width = "150"><br>Loes </td><td> 
+  <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/loes.jpg" style="max-width:90px" width = "150"><br>Loes</td><td> Loes is doing her Master's in Computational Science, where she enjoys writing interesting programs on her computer. Furhermore, she likes to read, take walks and go to the movies. She is very excited to share the joy of programming with you!
   </td></tr>
 
   <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon </td><td> Simon studied Computer Science and then the Master of Logic at the University of Amsterdam (UvA). He conducted research in computational linguistics and robotics at Sony, Aldebaran (now Softbank), the Universitat Autònoma de Barcelona, and the UvA. He now works as a lecturer at the UvA and teaches programming in various programs.</td></tr>
