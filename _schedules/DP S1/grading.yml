@@ -169,7 +169,7 @@ calculation:
 
 ########### SP 1 ###########
 
-sp1_summary:
+sp1summary:
     show_progress: true
     small_block_overview: true
     submits:
@@ -185,7 +185,7 @@ sp1_summary:
         final_sp1_3: 1
         final_sp1_4: 1
 
-sp2_summary:
+sp2summary:
     show_progress: true
     small_block_overview: true
     submits:
