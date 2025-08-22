@@ -42,14 +42,26 @@ templates:
 
 grades:
     #### DP ####
-    m7-passed: *graded
-    m8-passed: *graded
+    m7-passed: 
+        type: float
+        subrades:
+            base_correct: boolean
+            experiment_1: boolean
+            experiment_2: boolean
+        calculation: "1.0 + base_correct * -6.0 + experiment_1 * -2.0 + experiment_2 * - 1.0"
+    m8-passed:
+        type: float
+        subrades:
+            base_correct: boolean
+            crawling: boolean
+            bbc: boolean
+        calculation: "1.0 + base_correct * -6.0 + crawling * -2.0 + bbc * - 1.0"
     m9-passed: *check
     m10-passed: *check
     project:
         type: float
         subgrades:
-            research-question: integer
+            research_question: integer
             complexity: integer
             novelty: integer
             quality: integer
@@ -135,6 +147,7 @@ dp_level_8_wikipedia_L8wik:
         8_1w: 1
         8_2w: 1
         c-crawling: 1
+        c-bbc: 1
 
 dp_level_9_transformation_L9tra:
     show_progress: true

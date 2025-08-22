@@ -3,7 +3,3 @@ files:
     required:
         - spiral.py
         - student.py
-check:
-    tool: checkpy
-    repo: spcourse/tests
-    args: spiral student
