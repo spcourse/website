@@ -120,37 +120,11 @@ grades:
     sp2_exam4: *testt
 
     #### DP ####
-    m7-passed: *graded
-    m8-passed: *graded
-    m9-passed: *check
-    m10-passed: *check
-    project:
-        type: float
-        subgrades:
-            research-question: integer
-            complexity: integer
-            novelty: integer
-            quality: integer
-        calculation: "(9.0/12.0 * (novelty + quality + complexity + research-question) + 1).round(1)"
-
     7_1p: *auto
     7_2p: *auto
     c-experiment: *check
 
-    8_1w: *check
-    8_2w: *check
-    c-crawling: *check
 
-    9_1t: *check
-    9_2t: *check
-
-    10_1d: *auto
-    10_2d: *auto
-
-    p_1p: *check
-    p_2p: *check
-    p_3p: *check
-    p_4p: *check
 
     #### FINAL GRADES ####
     final_sp1_1: *check
@@ -279,6 +253,11 @@ sp2_level_4_monopoly_L4mon:
     submits:
         4_1m: 1
         4_2m: 1
+
+sp2_level_4_challenges_L4cha:
+    show_progress: true
+    small_block_overview: true
+    submits:
         c_animation: 1
 
 sp2_level_5_shakespeare_L5sha:
@@ -311,60 +290,6 @@ sp2_exams:
         sp2_exam1: 1
         sp2_exam2: 1
 
-
-
-########### DP ###########
-
-dp_grades:
-    show_progress: true
-    submits:
-        m7-passed: 1
-        m8-passed: 1
-        m9-passed: 0
-        m10-passed: 0
-        project: 2
-
-
-dp_level_7_population_L7pop:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        7_1p: 1
-        7_2p: 1
-        c-experiment: 1
-
-dp_level_8_wikipedia_L8wik:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        8_1w: 1
-        8_2w: 1
-        c-crawling: 1
-
-dp_level_9_transformation_L9tra:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        9_1t: 1
-        9_2t: 1
-
-p2_level_10_databases_L10da:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        10_1d: 1
-        10_2d: 1
-
-dp_project_proje:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        p_1p: 1
-        p_2p: 1 
-        p_3p: 1
-        p_4p: 1
-
-
 ########### FINAL GRADES ###########
 
 final_sp1:
@@ -379,6 +304,15 @@ final_sp2:
         final_sp1_1: 1
         final_sp1_2: 1
 
-calculation:
-    final_data_semester_1:
-        dp_grades: 1
+########### DP ###########
+
+dp_level_7_population_L7pop:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        7_1p: 1
+        7_2p: 1
+        c-experiment: 1
+
+
+
