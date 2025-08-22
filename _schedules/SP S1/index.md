@@ -99,7 +99,7 @@ The Scientific Programming track consists of three courses:
 - Scientific Programming 2 (3 EC, not graded but pass/fail).
 - Data Processing (6 EC, graded).
 
-You can follow each course at different paces to fit your schedule. You don't have to follow the entire track, you can also follow a single course. If you already have some programming experience and would like to skip the first (two) course(s), please contact us.
+You can follow each course at different paces to fit your schedule. You don't have to follow the entire Scientific Programming track, you can also follow a single course. If you already have some programming experience and would like to skip the first (two) course(s), please contact us.
 
 Course specific information can be found further down.
 
@@ -206,7 +206,98 @@ Here below is an overview of all modules for all courses.
 
 Deadlines for each level are listed below. The deadlines depend on the course you're starting this period and on the pace you decided to do the course at: *relaxed*, *standard*, or *fast*. Most students tend to follow the *standard* schedule. The standard schedule corresponds to an investment of about 10 hours per week, but this varies a lot per student and educational background.
 
-**TBA**
+Select your track and course below to see the schedule for semester 1 of 2025.
+
+<details markdown="1"><summary  markdown="span">Fast Track Fall 2025 - All courses in one semester, study load 20 hours/week</summary>
+
+| Date | Deadline
+|-|-
+|Friday 5 Sep | Module 1
+|Friday 12 Sep | Module 2
+|Friday 19 Sep | Module 3
+|Friday 26 Sep | Module 4
+|Friday 3 Oct | Module 5
+|Friday 10 Oct | Module 6
+|Friday 17 Oct | Practice Exams SP1 and SP1
+|Monday 20 Oct | Exam SP1
+|Tuesday 21 Oct | Exam SP2
+|Friday 31 Oct | Module 7
+|Friday 7 Nov | Module 8
+|Friday 14 Nov | Module 9
+|Friday 21 Nov | Module 10 & Project proposal discussion
+|Tuesday 25 Nov | Amended project proposal (only if initial proposal was insufficient)
+|Friday 5 Dec | Project proof of concept discussion
+|Friday 12 Dec | Final deadline project
+|TBD 15-19 Dec | Project presentations
+
+</details>
+
+<details markdown="1"><summary  markdown="span">Standard Track Fall 2025 - Half the courses in one semester, study load 10 hours/week</summary>
+
+<details markdown="1"><summary  markdown="span">SP1 & SP2</summary>
+
+| Date | Deadline
+|-|-
+|Friday 12 Sep | Module 1
+|Friday 26 Sep | Module 2
+|Friday 10 Oct | Module 3
+|Friday 17 Oct | Practice Exam SP1
+|Monday 20 Oct | Exam SP1
+|Friday 7 Nov | Module 4
+|Friday 21 Nov | Module 5
+|Friday 5 Dec | Module 6
+|Friday 12 Dec | Practice Exam SP2
+|Monday 16 Dec | Exam SP2
+
+</details>
+
+<details markdown="1"><summary  markdown="span">Data Processing</summary>
+
+| Date | Deadline
+|-|-
+|Friday 12 Sep | Module 7
+|Friday 26 Sep | Module 8
+|Friday 10 Oct | Module 9
+|Friday 31 Oct | Module 10 & Project proposal discussion
+|Tuesday 4 Nov | Amended project proposal (only if initial proposal was insufficient)
+|Friday 21 Nov | Project proof of concept discussion
+|Friday 12 Dec | Final deadline project
+|TBD 15-19 Dec | Project presentations
+
+
+</details>
+
+</details>
+
+<details markdown="1"><summary  markdown="span">Relaxed Track Fall 2025 - One course in a semester, study load 5 hours/week</summary>
+
+<details markdown="1"><summary  markdown="span">SP1</summary>
+
+| Date | Deadline
+|-|-
+|Friday 26 Sep | Module 1
+|Friday 31 Oct | Module 2
+|Friday 21 Nov | Module 3
+|Friday 12 Dec | Practice exam SP1
+|Monday 15 Dec | Exam SP1
+
+
+</details>
+
+<details markdown="1"><summary  markdown="span">SP2</summary>
+
+| Date | Deadline
+|-|-
+|Friday 26 Sep | Module 4
+|Friday 31 Oct | Module 5
+|Friday 21 Nov | Module 6
+|Friday 12 Dec | Practice exam SP2
+|Tuesday 16 Dec | Exam SP2
+
+
+</details>
+
+</details>
 
 If none of these schedules apply, please contact us.
 
