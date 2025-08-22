@@ -44,14 +44,14 @@ grades:
     #### DP ####
     m7-passed: 
         type: float
-        subrades:
+        subgrades:
             base_correct: boolean
             experiment_1: boolean
             experiment_2: boolean
         calculation: "1.0 + base_correct * -6.0 + experiment_1 * -2.0 + experiment_2 * - 1.0"
     m8-passed:
         type: float
-        subrades:
+        subgrades:
             base_correct: boolean
             crawling: boolean
             bbc: boolean
