@@ -278,8 +278,8 @@ sp2_level_4_monopoly_L4mon:
     small_block_overview: true
     submits:
         4_1m: 1
-        4_3m: 1
-        4_4m: 1
+        4_2m: 1
+        c_animation: 1
 
 sp2_level_5_shakespeare_L5sha:
     show_progress: true
