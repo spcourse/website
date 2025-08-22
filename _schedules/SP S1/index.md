@@ -10,7 +10,7 @@
   </td></tr>
   <tr><td><img src = "https://github.com/spcourse/website/raw/2025/team/marit.jpg" style="max-width:90px"><br>Marit </td><td> Marit is currently studying for her Master’s degree in Data Science. Outside of studying she enjoys running, fitness and making her own clothes. You will often spot her with a hand knit sweater (like the one in the foto!) or a self sewn skirt.
   </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/website/raw/2025/team/loes.jpg" style="max-width:90px" width = "150"><br>Loes</td><td> Loes is doing her Master's in Computational Science, where she enjoys writing interesting programs on her computer. Furhermore, she likes to read, take walks and go to the movies. She is very excited to share the joy of programming with you!
+  <tr><td><img src = "https://github.com/spcourse/website/raw/2025/team/loes.jpg" style="max-width:90px" width = "150"><br>Loes</td><td> Loes is doing her Master's in Computational Science, where she enjoys writing interesting programs on her computer. Furthermore, she likes to read, take walks and go to the movies. She is very excited to share the joy of programming with you!
   </td></tr>
 
   <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon </td><td> Simon studied Computer Science and then the Master of Logic at the University of Amsterdam (UvA). He conducted research in computational linguistics and robotics at Sony, Aldebaran (now Softbank), the Universitat Autònoma de Barcelona, and the UvA. He now works as a lecturer at the UvA and teaches programming in various programs.</td></tr>
