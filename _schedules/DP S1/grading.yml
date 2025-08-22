@@ -46,8 +46,9 @@ grades:
         type: float
         subgrades:
             base_correct: boolean
-            experiment_1: boolean
-            experiment_2: boolean
+            creative: boolean
+            experiment: boolean
+            visualize: boolean
         calculation: "1.0 + base_correct * -6.0 + experiment_1 * -2.0 + experiment_2 * - 1.0"
     m8-passed:
         type: float
@@ -139,7 +140,9 @@ dp_level_7_population_L7pop:
     submits:
         7_1p: 1
         7_2p: 1
+        c-creative: 1
         c-experiment: 1
+        c-visualize: 1
 
 dp_level_8_wikipedia_L8wik:
     show_progress: true
