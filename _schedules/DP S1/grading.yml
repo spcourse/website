@@ -74,6 +74,7 @@ grades:
     8_1w: *check
     8_2w: *check
     c-crawling: *check
+    c-bbc: *check
 
     9_1t: *check
     9_2t: *check
