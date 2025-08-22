@@ -53,7 +53,7 @@ grades:
     1_5a: *auto
     1_6a: *auto
     c-pyramid: *auto
-    c-conway: *auto
+    c-conway: *check
 
     1_1n: *auto
     1_2n: *auto
@@ -70,17 +70,17 @@ grades:
     2_3t: *auto
     2_4t: *auto
     2_5t: *auto
-    2_6t: *check
+    2_6t: *auto
     c-twitter: *auto
     c-reformatting: *auto
-    c-plot_min_max: *auto
+    c-plot_min_max: *check
 
     2_1i: *auto
     2_2i: *auto
     2_3i: *auto
     2_4i: *auto
     2_5i: *auto
-    2_6i: *check
+    2_6i: *auto
     c-montecarlo: *auto
     c-egg: *auto
 
@@ -101,8 +101,8 @@ grades:
     m6-passed: *check
 
     4_1m: *auto
-    4_3m: *auto
-    4_4m: *auto
+    4_2m: *auto
+    c_animation: *check
 
     5_1s: *auto
     5_2s: *check

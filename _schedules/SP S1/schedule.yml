@@ -253,7 +253,7 @@ SP1 - L3 (Big Data):
         Not required to pass, sneak-peak of SP2:
         Datastructures 2 [pair]: /python/en/datastructures-practice/part2
         Submit [submit]: /submit/mod3/c-datastructures2
-    3.5 Challenge 3å:
+    3.5 Challenge 3:
         Not required to pass:
         Shakespeare [pair]: /shakespeare/shakespeare-short
         Submit [submit]: /submit/mod3/c-shakespeare
@@ -268,25 +268,25 @@ SP1 - Practice exam:
 
 SP2 - L4 (Monopoly):
     Scientific Programming 2 - Level 4 (Monopoly):
-    4.1 Animating in Python:
-        Learn how to create animated graphics [theory]: /animation/en/explanation
-        Spiral [pair]: /animation/en/dot
-        Buzzed student [pair]: /animation/en/student
-        Submit [submit]: /submit/mod4/s1
-    4.2 Monopoly 1:
+    4.1 Monopoly 1:
         Introduction: /monopoly/en/
         Debugging [theory]: /python/en/debugging
         Main function [theory]: /python/en/main_function
         Moving around [pair]: /monopoly/en/moving-around
-    4.3 Monopoly 2:
+    4.2 Monopoly 2:
         Default arguments [theory]: /python/en/default-arguments
         Money [individual]: /monopoly/en/money
         Submit [submit]: /submit/mod4/s3
-    4.4 Monopoly 3:
+    4.3 Monopoly 3:
         Two players [individual]: /monopoly/en/two-player
         Submit [submit]: /submit/mod4/s4
     Make sure to [discuss] your solutions in person after completing this level!:
-
+    4.4 Animating in Python:
+        Not required to pass, but recommended to at least try:
+        Learn how to create animated graphics [theory]: /animation/en/explanation
+        Spiral [pair]: /animation/en/dot
+        Buzzed student [pair]: /animation/en/student
+        Submit [submit]: /submit/mod4/s1
 
 SP2 - L5 (Monopoly 2):
     Scientific Programming 2 - Level 5 (Monopoly 2):
