@@ -1,0 +1,4 @@
+name: c-bbc
+files:
+    required:
+        - bbc.zip

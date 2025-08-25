@@ -1,0 +1,4 @@
+name: p_1p
+git_repo:
+    placeholder: https://github.com/spcourse-students/final-project-[year]-[name]/commit/[commit-hash]
+    pattern: "https://github\\.com/spcourse-students/[A-Za-z0-9_.-]+/commit/[A-Za-z0-9_.-]+"
