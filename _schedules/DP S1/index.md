@@ -234,6 +234,7 @@ Select your track and course below to see the schedule for semester 1 of 2025.
 
 <details markdown="1"><summary  markdown="span">Standard Track Fall 2025 - Half the courses in one semester, study load 10 hours/week</summary>
 
+<div style="margin-left: 2em;">
 <details markdown="1"><summary  markdown="span">SP1 & SP2</summary>
 
 | Date | Deadline
@@ -250,6 +251,7 @@ Select your track and course below to see the schedule for semester 1 of 2025.
 |Monday 16 Dec | Exam SP2
 
 </details>
+</div>
 
 <details markdown="1"><summary  markdown="span">Data Processing</summary>
 
