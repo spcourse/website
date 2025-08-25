@@ -354,14 +354,21 @@ DP - L7 (Populations):
         Phase 9: /populations-oo/phase9
         Submit [submit]: /submit/mod7/s2
     Make sure to [discuss] your solutions in person after completing this level!:
-    7.5 Challenge:
-        Not required to pass:
+    7.5 Challenge 1 - Creative:
+        Not required to pass (but needed for higher grade):
+        Experiment: /populations-oo/creative
+        Submit [submit]: /submit/mod7/c-creative
+    7.6 Challenge 2 - Experiment:
+        Not required to pass (but needed for higher grade):
         Keyword arguments [theory]: /python/en/keyword-arguments/kwargs
         Args and kwargs [theory]: /python/en/keyword-arguments/starstar
         Sampling methods [theory]: /populations-oo/sampling
         Experiment: /populations-oo/experimenting
-        Visualize: /populations-oo/visualizing
         Submit [submit]: /submit/mod7/c-experiment
+    7.7 Challenge 3 - Visualize:
+        Not required to pass (but needed for higher grade):
+        Visualize: /populations-oo/visualizing
+        Submit [submit]: /submit/mod7/c-vsiualize
 
 DP - L8 (Wikipedia):
     Data Processing - Level 8 (Wikipedia) [graded]:
@@ -376,12 +383,12 @@ DP - L8 (Wikipedia):
         Submit [submit]: /submit/mod8/s1
     Make sure to [discuss] your solutions in person after completing this level!:
     8.3 Challenge 1 - Crawling:
-        Not required to pass:
+        Not required to pass (but needed for higher grade):
         Crawling Wikipedia: /wikipedia/crawling
         Plotting the results: /wikipedia/visualize-gini
         Submit [submit]: /submit/mod8/c-crawling
     8.3 Challenge 2 - BBC:
-        Not required to pass:
+        Not required to pass (but needed for higher grade):
         Crawling Wikipedia: /wikipedia/bbc
         Submit [submit]: /submit/mod8/c-crawling
 
