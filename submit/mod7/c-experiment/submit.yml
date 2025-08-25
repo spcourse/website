@@ -2,4 +2,3 @@ name: c-experiment
 files:
     required:
         - experiment.py
-        - visualize.ipynb
