@@ -115,7 +115,7 @@ Tutorials are the way of getting help with your programming. You’ll work on ca
 
 - You can find the times and locations here: [Tutorial and exam schedules](/datanose)
 - **We expect all students to join at least one tutorial a week.**
-- You can select your tuttorial through the intake form.
+- You can select your tutorial through the intake form.
 - This is the main place where you talk with us and meet other students.
 
 ### Programming modules {#programming-modules}
