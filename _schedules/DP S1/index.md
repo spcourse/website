@@ -1,6 +1,6 @@
 # Syllabus Scientific Programming / Data Processing {#overview}
 
-**Spring 2025/2026**
+**Fall 2025/2026**
 
 
 ## Team
@@ -436,6 +436,7 @@ We have had lots of help from students as well as teaching assistants who tried 
 - Jelle van Assema (assignments and checkpy)
 - Puck te Rietmolen (revisions)
 - Roan van Blanken (checkpy tests)
+- Amir Sahrani (assignments)
 - Natasja Wezel (videos, revisions)
 - Iris Luden (video)
 - Marianne de Heer Kloots (revisions and testing)

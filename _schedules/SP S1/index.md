@@ -1,6 +1,6 @@
 # Syllabus Scientific Programming / Data Processing {#overview}
 
-**Spring 2025/2026**
+**Fall 2025/2026**
 
 
 ## Team
@@ -206,9 +206,9 @@ Here below is an overview of all modules for all courses.
 
 Deadlines for each level are listed below. The deadlines depend on the course you're starting this period and on the pace you decided to do the course at: *relaxed*, *standard*, or *fast*. Most students tend to follow the *standard* schedule. The standard schedule corresponds to an investment of about 10 hours per week, but this varies a lot per student and educational background.
 
-Select your track and course below to see the schedule for semester 1 of 2025.
+Select your track and course below to see the schedule for semester 1 of 2025 (Fall 2025).
 
-<details markdown="1"><summary  markdown="span">Fast Track Fall 2025 - All courses in one semester, study load 20 hours/week</summary>
+<details markdown="1"><summary  markdown="span">Fast Track - All courses in one semester, study load 20 hours/week</summary>
 
 | Date | Deadline
 |-|-
@@ -232,8 +232,9 @@ Select your track and course below to see the schedule for semester 1 of 2025.
 
 </details>
 
-<details markdown="1"><summary  markdown="span">Standard Track Fall 2025 - Half the courses in one semester, study load 10 hours/week</summary>
+<details markdown="1"><summary  markdown="span">Standard Track - Half the courses in one semester, study load 10 hours/week</summary>
 
+<div style="margin-left: 2em;">
 <details markdown="1"><summary  markdown="span">SP1 & SP2</summary>
 
 | Date | Deadline
@@ -250,7 +251,9 @@ Select your track and course below to see the schedule for semester 1 of 2025.
 |Monday 16 Dec | Exam SP2
 
 </details>
+</div>
 
+<div style="margin-left: 2em;">
 <details markdown="1"><summary  markdown="span">Data Processing</summary>
 
 | Date | Deadline
@@ -264,13 +267,14 @@ Select your track and course below to see the schedule for semester 1 of 2025.
 |Friday 12 Dec | Final deadline project
 |TBD 15-19 Dec | Project presentations
 
+</details>
+</div>
 
 </details>
 
-</details>
+<details markdown="1"><summary  markdown="span">Relaxed Track - One course in a semester, study load 5 hours/week</summary>
 
-<details markdown="1"><summary  markdown="span">Relaxed Track Fall 2025 - One course in a semester, study load 5 hours/week</summary>
-
+<div style="margin-left: 2em;">
 <details markdown="1"><summary  markdown="span">SP1</summary>
 
 | Date | Deadline
@@ -283,7 +287,9 @@ Select your track and course below to see the schedule for semester 1 of 2025.
 
 
 </details>
+</div>
 
+<div style="margin-left: 2em;">
 <details markdown="1"><summary  markdown="span">SP2</summary>
 
 | Date | Deadline
@@ -294,8 +300,8 @@ Select your track and course below to see the schedule for semester 1 of 2025.
 |Friday 12 Dec | Practice exam SP2
 |Tuesday 16 Dec | Exam SP2
 
-
 </details>
+</div>
 
 </details>
 
@@ -430,6 +436,7 @@ We have had lots of help from students as well as teaching assistants who tried 
 - Jelle van Assema (assignments and checkpy)
 - Puck te Rietmolen (revisions)
 - Roan van Blanken (checkpy tests)
+- Amir Sahrani (assignments)
 - Natasja Wezel (videos, revisions)
 - Iris Luden (video)
 - Marianne de Heer Kloots (revisions and testing)
