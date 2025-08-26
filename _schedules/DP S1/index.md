@@ -17,6 +17,7 @@
 </table>
 
 Contact: <scientific@proglab.nl>
+Offical tutorial schedules: [Tutorial schedules](/datanose)
 
 ## General info {#general}
 
@@ -32,7 +33,7 @@ Welcome to this programming track! In the weeks ahead, you’ll use the Python p
   - [Getting started](#start)
   - [About the Scientific Programming track](#track)
   - [Structure of the courses](#structure)
-  - [Help](#help)
+  - [Tutorials](#help)
   - [Programming modules](#programming-modules)
 - [Dates and deadlines](#deadlines)
   - [Deadlines](#level-deadlines)
@@ -117,6 +118,8 @@ Tutorials are the way of getting help with your programming. You’ll work on ca
 - **We expect all students to join at least one tutorial a week.**
 - You can select your tuttorial through the intake form.
 - This is the main place where you talk with us and meet other students.
+
+Offical tutorial schedules: [Tutorial schedules](/datanose)
 
 ### Programming modules {#programming-modules}
 
