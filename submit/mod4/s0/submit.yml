@@ -1,4 +1,4 @@
-name: 4_0
+name: 4_0m
 files:
     required:
         - hello.py
