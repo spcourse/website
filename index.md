@@ -221,7 +221,7 @@ Select your track and course below to see the schedule for semester 1 of 2025 (F
 |Friday 17 Oct | Practice Exams SP1 and SP1
 |Monday 20 Oct | Exam SP1
 |Tuesday 21 Oct | Exam SP2
-|Friday 31 Oct | Module 7
+|**Thursday** 30 Oct | Module 7
 |Friday 7 Nov | Module 8
 |Friday 14 Nov | Module 9
 |Friday 21 Nov | Module 10 & Project proposal discussion
@@ -261,7 +261,7 @@ Select your track and course below to see the schedule for semester 1 of 2025 (F
 |Friday 12 Sep | Module 7
 |Friday 26 Sep | Module 8
 |Friday 10 Oct | Module 9
-|Friday 31 Oct | Module 10 & Project proposal discussion
+|**Thursday** 30 Oct | Module 10 & Project proposal discussion
 |Tuesday 4 Nov | Amended project proposal (only if initial proposal was insufficient)
 |Friday 21 Nov | Project proof of concept discussion
 |Friday 12 Dec | Final deadline project
@@ -280,7 +280,7 @@ Select your track and course below to see the schedule for semester 1 of 2025 (F
 | Date | Deadline
 |-|-
 |Friday 26 Sep | Module 1
-|Friday 31 Oct | Module 2
+|**Thursday** 30 Oct | Module 2
 |Friday 21 Nov | Module 3
 |Friday 12 Dec | Practice exam SP1
 |Monday 15 Dec | Exam SP1
@@ -295,7 +295,7 @@ Select your track and course below to see the schedule for semester 1 of 2025 (F
 | Date | Deadline
 |-|-
 |Friday 26 Sep | Module 4
-|Friday 31 Oct | Module 5
+|**Thursday** 30 Oct | Module 5
 |Friday 21 Nov | Module 6
 |Friday 12 Dec | Practice exam SP2
 |Tuesday 16 Dec | Exam SP2
