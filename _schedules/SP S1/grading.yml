@@ -86,9 +86,12 @@ grades:
 
     3_1b: *auto
     3_2b: *auto
-    c-datastructures1: *auto
-    c-datastructures2: *auto
-    c-shakespeare: *auto
+    3_3b: *auto
+    3_4b: *auto
+    3_5b: *auto
+    c-weather5: *auto
+    c-weather6: *check
+    c-weather7: *check
 
     sp1_exam1: *testt
     sp1_exam2: *testt
@@ -102,13 +105,14 @@ grades:
 
     4_1m: *auto
     4_2m: *auto
-    c_animation: *check
+    c-animation: *check
+    c-monopoly-n-player: *check
 
-    5_1s: *auto
-    5_2s: *check
-    5_3s: *auto
-    c-tf-idf: *check
-    c-generate-word-list: *check
+    5_1m: *auto
+    5_2m: *auto
+    5_3m: *check
+    c-datastructures2: *auto
+    c-monopoly2-n-player: *check
 
     6_1s: *check
     6_2s: *check
@@ -220,14 +224,17 @@ sp1_level_3_big_data_l3big:
     submits:
         3_1b: 1
         3_2b: 1
+        3_3b: 1
+        3_4b: 1
+        3_5b: 1
 
 sp1_level_3_challenges_l3cha:
     show_progress: true
     small_block_overview: true
     submits:
-        c-datastructures1: 1
-        c-datastructures2: 1
-        c-shakespeare: 1
+        c-weather5: 1
+        c-weather6: 1
+        c-weather7: 1
 
 sp1_exams:
     show_progress: true
@@ -258,22 +265,23 @@ sp2_level_4_challenges_L4cha:
     show_progress: true
     small_block_overview: true
     submits:
-        c_animation: 1
+        c-animation: 1
+        c-monopoly-n-player: 1
 
-sp2_level_5_shakespeare_L5sha:
+sp2_level_5_monopoly2_L5m2:
     show_progress: true
     small_block_overview: true
     submits:
-        5_1s: 1
-        5_2s: 1
-        5_3s: 1
+        5_1m: 1
+        5_2m: 1
+        5_3m: 1
 
 sp2_level_5_challenges_L5cha:
     show_progress: true
     small_block_overview: true
     submits:
-        c-tf-idf: 1
-        c-generate-word-list: 1
+        c-datastructures2: 1
+        c-monopoly2-n-player: 1
 
 sp2_level_6_survival_L6sur:
     show_progress: true

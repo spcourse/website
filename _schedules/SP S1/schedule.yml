@@ -241,22 +241,18 @@ SP1 - L3 (Big Data):
         Temperature [individual]: /bigdata/en/temperatures
         Submit [submit]: /submit/mod3/s2
     Make sure to [discuss] your solutions in person after completing this level!:
-    3.3 Challenge 1:
-        Not required to pass, sneak-peak of SP2:
-        Dictionaries [theory]: /python/en/dictionaries/use
-        Tuples [theory]: /python/en/tuples
-        Sets [theory]: /python/en/sets
-        List slicing and indexing [theory]: /python/en/slicing
-        Datastructures 1 [pair]: /python/en/datastructures-practice/part1
-        Submit [submit]: /submit/mod3/c-datastructures1
-    3.4 Challenge 2:
-        Not required to pass, sneak-peak of SP2:
-        Datastructures 2 [pair]: /python/en/datastructures-practice/part2
-        Submit [submit]: /submit/mod3/c-datastructures2
-    3.5 Challenge 3:
+    3.6 Challenge 1:
+        Not required to pass, but recommended:
+        Heat wave [assignment]: /bigdata/en/weather5
+        Submit [submit]: /submit/mod3/c-weather5
+    3.6 Challenge 2:
         Not required to pass:
-        Shakespeare [pair]: /shakespeare/shakespeare-short
-        Submit [submit]: /submit/mod3/c-shakespeare
+        Decade trends, temperature and freezing [assignment]: /bigdata/en/weather6
+        Submit [submit]: /submit/mod3/c-weather6
+    3.6 Challenge 3:
+        Not required to pass:
+        Decade trends, heat waves [assignment]: /bigdata/en/weather7
+        Submit [submit]: /submit/mod3/c-weather7
 
 
 SP1 - Practice exam:
@@ -281,31 +277,45 @@ SP2 - L4 (Monopoly):
         Two players [individual]: /monopoly/en/two-player
         Submit [submit]: /submit/mod4/s2
     Make sure to [discuss] your solutions in person after completing this level!:
-    4.4 Animating in Python:
-        Not required to pass, but recommended to at least try:
-        Learn how to create animated graphics [theory]: /animation/en/explanation
-        Spiral [pair]: /animation/en/dot
-        Buzzed student [pair]: /animation/en/student
+    4.4 Challenge 1:
+        Not required to pass, but recommended:
+        Learn how to create animated graphics [theory]: /animation/en/explanation-gif
+        Spiral [assignment]: /animation/en/dot
+        Buzzed student [assignment]: /animation/en/student
         Submit [submit]: /submit/mod4/c-animation
+    4.5 Challenge 2:
+        Not required to pass:
+        Improve monopoly design and extend to many players: /monopoly/en/n-player
+        Submit [submit]: /submit/mod4/c-monopoly-n-player
 
 SP2 - L5 (Monopoly 2):
-    Scientific Programming 2 - Level 5 (Monopoly 2):
     Introduction: /monopoly2/intro
     5.1 Data structures - part 1:
         Dictionaries [theory]: /python/en/dictionaries/use
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
         List slicing and indexing [theory]: /python/en/slicing
-        Use dictionaries and sets - part 1 [individual]: /python/en/datastructures-practice/part1
+        Use dictionaries and sets - part 1 [assignment]: /python/en/datastructures-practice/part1
         Submit [submit]: /submit/mod5/s1
-    5.2 Data structures - part 2:
-        Use dictionaries and sets - part 2 [individual]: /python/en/datastructures-practice/part2
+    5.2 Monopoly with dicts:
+        Dictionary examples [theory]: /monopoly2/using_dicts_theory
+        Use dicts and sets to imporove Monopoly [theory]: /monopoly2/monopoly_config
         Submit [submit]: /submit/mod5/s2
-    5.3 Monopoly 2:
-        TBA:
-    5.5 Challenge 1:
-        TBA:
+    5.3 Computational complexity:
+        Complexity 1 [theory]: /python/en/complexity-intro
+        Complexity 2 [theory]: /python/en/complexity-calculation
+        Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
+        Complexity questions [individual]: /shakespeare/complexity-questions
+        Submit [submit]: /submit/mod5/s3
     Make sure to [discuss] your solutions in person after completing this level!:
+    5.4 Challenge 1:
+        Not required to pass:
+        Use dictionaries and sets - part 2 [assignment]: /python/en/datastructures-practice/part2
+        Submit [submit]: /submit/mod5/c-datastructures2
+    5.5 Challenge 2:
+        Not required to pass:
+        Improve monopoly design and extend to many players: /monopoly2/n-player
+        Submit [submit]: /submit/mod5/c-monopoly2-n-player
 
 SP2 - L6 (Survival):
     Scientific Programming 2 - Level 6 (Survival):
