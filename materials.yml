@@ -48,6 +48,9 @@ movement:
 monopoly:
     remote: https://github.com/spcourse/monopoly.git
     branch: main
+monopoly2:
+    remote: https://github.com/spcourse/monopoly_dict.git
+    branch: main
 
 # M5
 complexity:
