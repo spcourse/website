@@ -356,7 +356,7 @@ The course's final result will be "pass" or "fail", which means that no grades a
 
 For Data Processing you will receive a regular grade (1-10).
 
-Your final grade will be determined by the grades for Level 7, 9 and your final project as follows:
+Your final grade will be determined by the grades for Level 7, 8 and your final project as follows:
 
 | Module                  | Weight |
 |-------------------------|--------|
