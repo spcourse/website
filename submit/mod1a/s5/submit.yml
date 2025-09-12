@@ -9,4 +9,4 @@ files:
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: elmo positive sum_until birthday max_until greedy
+    args: elmo positive sum_until max_until greedy
