@@ -289,8 +289,7 @@ SP2 - L4 (Monopoly):
         Submit [submit]: /submit/mod4/c-monopoly-n-player
 
 SP2 - L5 (Monopoly 2):
-    Introduction: /monopoly2/intro
-    5.1 Data structures - part 1:
+    5.1 Data structures:
         Dictionaries [theory]: /python/en/dictionaries/use
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
@@ -298,8 +297,8 @@ SP2 - L5 (Monopoly 2):
         Use dictionaries and sets - part 1 [assignment]: /python/en/datastructures-practice/part1
         Submit [submit]: /submit/mod5/s1
     5.2 Monopoly with dicts:
-        Dictionary examples [theory]: /monopoly2/using_dicts_theory
-        Use dicts and sets to imporove Monopoly [theory]: /monopoly2/monopoly_config
+        Dictionaries practical examples [theory]: /monopoly_dict/using_dicts_theory
+        Use dicts and sets to imporove Monopoly [theory]: /monopoly_dict/monopoly_config
         Submit [submit]: /submit/mod5/s2
     5.3 Computational complexity:
         Complexity 1 [theory]: /python/en/complexity-intro
@@ -310,9 +309,13 @@ SP2 - L5 (Monopoly 2):
     Make sure to [discuss] your solutions in person after completing this level!:
     5.4 Challenge 1:
         Not required to pass:
+        Annalyzing the board: /monopoly_dict/counting_visits
+        Submit [submit]: /submit/mod5/c-counting-visits
+    5.5 Challenge 2:
+        Not required to pass:
         Use dictionaries and sets - part 2 [assignment]: /python/en/datastructures-practice/part2
         Submit [submit]: /submit/mod5/c-datastructures2
-    5.5 Challenge 2:
+    5.6 Challenge 3:
         Not required to pass:
         Improve monopoly design and extend to many players: /monopoly2/n-player
         Submit [submit]: /submit/mod5/c-monopoly2-n-player
