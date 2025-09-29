@@ -111,6 +111,7 @@ grades:
     5_1m: *auto
     5_2m: *auto
     5_3m: *check
+    c-counting-visits: *check
     c-datastructures2: *auto
     c-monopoly2-n-player: *check
 
@@ -224,9 +225,9 @@ sp1_level_3_big_data_l3big:
     submits:
         3_1b: 1
         3_2b: 1
-        3_3b: 1
-        3_4b: 1
-        3_5b: 1
+        # 3_3b: 1
+        # 3_4b: 1
+        # 3_5b: 1
 
 sp1_level_3_challenges_l3cha:
     show_progress: true
