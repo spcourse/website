@@ -281,6 +281,7 @@ sp2_level_5_challenges_L5cha:
     show_progress: true
     small_block_overview: true
     submits:
+        c-counting-visits: 1
         c-datastructures2: 1
         c-monopoly2-n-player: 1
 
