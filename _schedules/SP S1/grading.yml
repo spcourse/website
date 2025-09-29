@@ -233,7 +233,7 @@ sp1_level_3_challenges_l3cha:
     show_progress: true
     small_block_overview: true
     submits:
-        c-weather5: 1
+        # c-weather5: 1
         c-weather6: 1
         c-weather7: 1
 
