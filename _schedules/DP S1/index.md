@@ -2,7 +2,6 @@
 
 **Fall 2025/2026**
 
-
 ## Team
 
 <table>
@@ -32,7 +31,6 @@ Welcome to this programming track! In the weeks ahead, you’ll use the Python p
   - [Staff](#staff)
   - [Getting started](#start)
   - [About the Scientific Programming track](#track)
-  - [Structure of the courses](#structure)
   - [Tutorials](#help)
   - [Programming modules](#programming-modules)
 - [Dates and deadlines](#deadlines)
@@ -104,10 +102,6 @@ You can follow each course at different paces to fit your schedule. You don't ha
 
 Course specific information can be found further down.
 
-### Structure {#structure}
-
-The track is designed to be very flexible. So, there are no compulsory sessions. There are no lectures (except for a kick-off meeting at the start of Scientific Programming 1) and the tutorials are optional. And, you can follow the courses at any pace that fits your schedule.
-
 ### Tutorials {#help}
 
 The fact that the track is flexible doesn't mean you are on you own. We do provide a lot of help throughout the course with the programming assignments. It is up to you to seek out this help.
@@ -116,7 +110,7 @@ Tutorials are the way of getting help with your programming. You’ll work on ca
 
 - You can find the times and locations here: [Tutorial and exam schedules](/datanose)
 - **We expect all students to join at least one tutorial a week.**
-- You can select your tuttorial through the intake form.
+- You can select your tutorial through the intake form.
 - This is the main place where you talk with us and meet other students.
 
 Offical tutorial schedules: [Tutorial schedules](/datanose)

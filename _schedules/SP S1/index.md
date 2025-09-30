@@ -32,7 +32,6 @@ Welcome to this programming track! In the weeks ahead, you’ll use the Python p
   - [Staff](#staff)
   - [Getting started](#start)
   - [About the Scientific Programming track](#track)
-  - [Structure of the courses](#structure)
   - [Tutorials](#help)
   - [Programming modules](#programming-modules)
 - [Dates and deadlines](#deadlines)
@@ -103,10 +102,6 @@ The Scientific Programming track consists of three courses:
 You can follow each course at different paces to fit your schedule. You don't have to follow the entire Scientific Programming track, you can also follow a single course. If you already have some programming experience and would like to skip the first (two) course(s), please contact us.
 
 Course specific information can be found further down.
-
-### Structure {#structure}
-
-The track is designed to be very flexible. So, there are no compulsory sessions. There are no lectures (except for a kick-off meeting at the start of Scientific Programming 1) and the tutorials are optional. And, you can follow the courses at any pace that fits your schedule.
 
 ### Tutorials {#help}
 
