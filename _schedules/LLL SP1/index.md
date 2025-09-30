@@ -149,10 +149,6 @@ Select your track and course below to see the schedule for semester 1 of 2025 (F
 |Monday 15 Dec | Exam SP1
 
 
-</details>
-
-If none of these schedules apply, please contact us.
-
 ## Grading {#grading}
 
 The course's final result will be "pass" or "fail", which means that no grades are assigned. You pass by:
