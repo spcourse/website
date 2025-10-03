@@ -1,4 +1,4 @@
-nname: c-generate-word-list
+name: c-generate-word-list
 files:
     optional:
         - generate-word-list.py
