@@ -332,6 +332,6 @@ dp_level_7_population_L7pop:
 
 practice:
     show_progress: true
-    submit:
+    submits:
         sp1_practice_exam: 1
         sp2_practice_exam: 1
