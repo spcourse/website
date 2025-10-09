@@ -93,6 +93,8 @@ grades:
     c-weather6: *check
     c-weather7: *check
 
+    sp1_practice_exam: *auto
+
     sp1_exam1: *testt
     sp1_exam2: *testt
     sp1_exam3: *testt
@@ -118,6 +120,8 @@ grades:
     6_1s: *check
     6_2s: *check
     6_3s: *check
+
+    sp2_practice_exam: *auto
 
     sp2_exam1: *testt
     sp2_exam2: *testt
@@ -326,3 +330,8 @@ dp_level_7_population_L7pop:
 
 
 
+practice:
+    show_progress: true
+    submit:
+        sp1_practice_exam: 1
+        sp2_practice_exam: 1
