@@ -1,0 +1,28 @@
+name: sp2_exam1
+exam: true
+buttons:
+    "Checkpy": |
+            from checkpy.interactive import testOffline
+            testOffline("sp2_exam", "/home/pyodide", multiprocessing=False, silentMode=False)
+            print("\nend tests!")
+check:
+    tool: checkpy
+    repo: spcourse/exam-tests
+    args: sp2_exam
+files:
+    required:
+        'sp2_exam.py': |
+            # Exam Scientific Programming 2
+            # Name: ...
+
+            print("Welcome to the exam!")
+
+            ### Assignment 1
+
+            ### Assignment 2
+
+            ### Assignment 3
+
+        'temp.py': |
+            # This file will be ignored by us. You can use this as a canvas
+            # for drafts and test out code fragments.
