@@ -243,7 +243,7 @@ sp1_level_3_challenges_l3cha:
 
 sp1_exams:
     show_progress: true
-    small_block_overview: true
+    small_block_overview: false
     submits:
         sp1_exam1: 1
         sp1_exam2: 1
@@ -299,7 +299,7 @@ sp2_level_6_survival_L6sur:
 
 sp2_exams:
     show_progress: true
-    small_block_overview: true
+    small_block_overview: false
     submits:
         sp2_exam1: 1
         sp2_exam2: 1
