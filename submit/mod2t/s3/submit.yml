@@ -1,6 +1,7 @@
 name: 2_3t
 files:
     required:
+        - longest_word.py
         - list_words.py
         - resplit.py
         - snake_case.py
@@ -9,4 +10,4 @@ files:
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: list_words resplit snake_case align
+    args: longest_word list_words resplit snake_case align
