@@ -371,7 +371,75 @@ Some of the assignments are graded (level 7, level 9 and the final project) and 
 
 #### Final project grade
 
-TBA: project rubric
+Your project will be evaluated on 4 criteria: Research Question/Project Goal, Complexity, Novelty/Learning, Quality. For each you can get between 0 and 3 points. And they all contribute equally to the final grade. I.e, $$\frac{grade = question + complexity + novelty + quality}{12} \times 9 + 1$$
+
+# **Rubric (0–3 points per category)**
+
+* **Research Question / Project Goal**: Is the goal of your project clear? Does it answer a clear question? Points:
+    3. **Clear purpose of project**
+        * The project states a **clear, focused goal *or* research question** (so it doesn't have to be formulated as a question, as long as it has a clear objective).
+        * The question can be answered (or goal can be acheived) with available data and methods.
+        * The goal logically guides the data processing, analysis, and final outputs.
+    2. **Mostly clear**
+        * A goal or question is present but somewhat **broad or loosely framed**.
+        * Connection between goal and chosen methods is visible but not clearly defined.
+    1. **Vague or weak**
+        * A general subject is mentioned, but no clear goal defined.
+        * The project is exploratory or lacks direction.
+    0. **No goal**
+        * No clear question, goal, or problem description.
+* **Complexity**: How difficult was the project? Points:
+    3. **High**
+        * Complex data sourcing:
+            * Uses **multiple data sources**,
+            * and/or uses **multiple formats** (CSV, JSON, APIs, scraping),
+            * and/or includes **non-trivial data transformations** (merging, cleaning, feature creation).
+        * Complex data use:
+            * Implements interactive visualisation, advanced analysis, or custom tools,
+            * and/or does a thorough in depth analyses of the data. 
+    2. **Moderate**
+        * Uses one dataset with **several transformation/processing** steps.
+        * Produces multiple meaningful visualisations or summary statistics.
+        * Some design choices require elaborate reasoning.
+    1. **Low**
+        * Uses a simple dataset with only basic operations.
+        * One or two straightforward plots or analyses.
+        * Very similar to work done in the modules.
+    0. **Minimal**
+        * Simply reads data and produces one basic plot or output.
+        * No real processing, transformation, or design choices.
+        * Identical to solutions from modules.
+* **Novelty / Learning**
+    3. **Significant new learning**
+        * Student explores a **new method, library, *or* concept** not covered in the modules.
+        * Demonstrates understanding by **implementing *or* adapting** it independently.
+    2. **Some new learning**
+        * Student uses **slightly unfamiliar** methods or libraries, but *largely from tutorials*.
+        * Some adaptation beyond simple copy-paste.
+    1. **Minimal new learning**
+        * Uses only concepts from the modules or that are trivial.
+        * New elements are limited to calling a simple function from an imported package.
+    0. **None**
+        * No new skills/concepts.
+* **Quality**
+    3. **Strong**
+        * Code runs and is well-organised. It is clear how to reproduce the results and elaborate on them.
+        * Reporting is clear, structured, and interprets results meaningfully.
+        * Visualisations and outputs support the stated goal.
+        * The project feels coherent from question to conclusion.
+    2. **Good**
+        * Correct runs.
+        * The code is mostly well readable.
+        * Reporting is understandable but may lack clarity or structure in places.
+        * Results mostly align with the goal.
+    1. **Weak**
+        * Code has inconsistencies or errors but still produces some results. It doesn't run as intended or it is not clear how to run the code.
+        * Reporting is incomplete, unclear, or superficial.
+        * The project feels disjointed.
+    0. **Poor**
+        * Code does not run at all or parts are missing.
+        * Reporting is missing or extremely minimal.
+
 
 </details>
 

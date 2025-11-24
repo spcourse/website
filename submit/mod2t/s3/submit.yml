@@ -10,4 +10,4 @@ files:
 check:
     tool: checkpy
     repo: spcourse/tests
-    args: longest_word list_words resplit snake_case align
+    args: longest_word, list_words resplit snake_case align
