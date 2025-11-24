@@ -373,8 +373,6 @@ Some of the assignments are graded (level 7, level 9 and the final project) and 
 
 Your project will be evaluated on 4 criteria: Research Question/Project Goal, Complexity, Novelty/Learning, Quality. For each you can get between 0 and 3 points. And they all contribute equally to the final grade. I.e, $$\frac{grade = question + complexity + novelty + quality}{12} \times 9 + 1$$
 
-# **Rubric (0–3 points per category)**
-
 * **Research Question / Project Goal**: Is the goal of your project clear? Does it answer a clear question? Points:
     3. **Clear purpose of project**
         * The project states a **clear, focused goal *or* research question** (so it doesn't have to be formulated as a question, as long as it has a clear objective).
