@@ -372,7 +372,8 @@ Some of the assignments are graded (level 7, level 9 and the final project) and 
 
 #### Final project grade
 
-TBA: project rubric
+Your project will be evaluated on 4 criteria: Research Question/Project Goal, Complexity, Novelty/Learning, Quality. For each you can get between 0 and 3 points. And they all contribute equally to the final grade. I.e, $$grade = \frac{question + complexity + novelty + quality}{12} \times 9 + 1$$
+
 
 </details>
 

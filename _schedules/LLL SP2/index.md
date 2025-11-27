@@ -132,7 +132,7 @@ Select your track and course below to see the schedule for semester 1 of 2025 (F
 |Friday 24 Oct | Module 4
 |Friday 7 Nov | Module 5
 |Friday 21 Nov | Module 6
-|Monday 15 Dec | Exam SP1
+|Monday 16 Dec | Exam SP2
 
 
 ## Grading {#grading}
