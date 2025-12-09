@@ -441,6 +441,20 @@ Your project will be evaluated on 4 criteria: Research Question/Project Goal, Co
 
 </details>
 
+#### Final project presentation
+
+There is a presentation for the final project. This presentation is compulsory but **not graded**. The goal is to show your fellow Data Processing students what you’ve been working on. Please keep the following in mind:
+
+* The presentation can be informal. You may use slides, but you can also present directly from your notebook.
+* The presentation may **not exceed 10 minutes**. This means you won’t have time to go into extensive technical detail.
+* Remember that you’re presenting to your fellow students. They have the same programming background as you, but they may not know much about the topic of your project.
+
+Make sure we understand:
+
+* what your research question or topic is,
+* which new concepts you had to learn,
+* and what the main results of your project are.
+
 ## Doing your own work {#plagiarism}
 
 This course's philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course's material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
