@@ -197,7 +197,7 @@ sp1_level_3_challenges_l3cha:
 
 sp1_exams:
     show_progress: true
-    small_block_overview: true
+    # small_block_overview: true
     submits:
         sp1_exam1: 1
         sp1_exam2: 1

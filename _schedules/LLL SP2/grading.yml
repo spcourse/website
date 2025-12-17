@@ -135,7 +135,7 @@ sp2_level_6_survival_L6sur:
 
 sp2_exams:
     show_progress: true
-    small_block_overview: true
+    # small_block_overview: true
     submits:
         sp2_exam1: 1
         sp2_exam2: 1
