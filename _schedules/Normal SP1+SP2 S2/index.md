@@ -207,108 +207,23 @@ Here below is an overview of all modules for all courses.
 
 ### Deadlines {#level-deadlines}
 
-Deadlines for each level are listed below. The deadlines depend on the course you're starting this period and on the pace you decided to do the course at: *relaxed*, *standard*, or *fast*. Most students tend to follow the *standard* schedule. The standard schedule corresponds to an investment of about 10 hours per week, but this varies a lot per student and educational background.
+Deadlines for each level are listed below. These deadlines depend on the pace you decided to do the course at: *relaxed*, *standard*, or *fast*.
 
-Select your track and course below to see the schedule for semester 1 of 2025 (Fall 2025).
-
-<details markdown="1"><summary  markdown="span">Fast Track - All courses in one semester, study load 20 hours/week</summary>
+The schedule for semester 2 of 2025/2026 (Spring 2025/2026) - normal track - only SP1 ans SP2:
 
 | Date | Deadline
 |-|-
-|Friday 5 Sep | Module 1
-|Friday 12 Sep | Module 2
-|Friday 19 Sep | Module 3
-|Friday 26 Sep | Module 4
-|Friday 3 Oct | Module 5
-|Friday 10 Oct | Module 6
-|Friday 17 Oct | Practice Exams SP1 and SP1
-|Monday 20 Oct | Exam SP1
-|Tuesday 21 Oct | Exam SP2
-|Friday 31 Oct | Module 7
-|Friday 7 Nov | Module 8
-|Friday 14 Nov | Module 9
-|Friday 21 Nov | Module 10 & Project proposal discussion
-|Tuesday 25 Nov | Amended project proposal (only if initial proposal was insufficient)
-|Friday 5 Dec | Project proof of concept discussion
-|Friday 12 Dec | Final deadline project
-|TBD 15-19 Dec | Project presentations
-
-</details>
-
-<details markdown="1"><summary  markdown="span">Standard Track - Half the courses in one semester, study load 10 hours/week</summary>
-
-<div style="margin-left: 2em;">
-<details markdown="1"><summary  markdown="span">SP1 & SP2</summary>
-
-| Date | Deadline
-|-|-
-|Friday 12 Sep | Module 1
-|Friday 26 Sep | Module 2
-|Friday 10 Oct | Module 3
-|Friday 17 Oct | Practice Exam SP1
-|Monday 20 Oct | Exam SP1
-|Friday 7 Nov | Module 4
-|Friday 21 Nov | Module 5
-|Friday 5 Dec | Module 6
-|Friday 12 Dec | Practice Exam SP2
-|Monday 16 Dec | Exam SP2
-
-</details>
-</div>
-
-<div style="margin-left: 2em;">
-<details markdown="1"><summary  markdown="span">Data Processing</summary>
-
-| Date | Deadline
-|-|-
-|Friday 12 Sep | Module 7
-|Friday 26 Sep | Module 8
-|Friday 10 Oct | Module 9
-|Friday 31 Oct | Module 10 & Project proposal discussion
-|Tuesday 4 Nov | Amended project proposal (only if initial proposal was insufficient)
-|Friday 21 Nov | Project proof of concept discussion
-|Friday 12 Dec | Final deadline project
-|TBD 15-19 Dec | Project presentations
-
-</details>
-</div>
-
-</details>
-
-<details markdown="1"><summary  markdown="span">Relaxed Track - One course in a semester, study load 5 hours/week</summary>
-
-<div style="margin-left: 2em;">
-<details markdown="1"><summary  markdown="span">SP1</summary>
-
-| Date | Deadline
-|-|-
-|Friday 26 Sep | Module 1
-|Friday 31 Oct | Module 2
-|Friday 21 Nov | Module 3
-|Friday 12 Dec | Practice exam SP1
-|Monday 15 Dec | Exam SP1
+|Friday ... | Module 1
+|Friday ... | Module 2
+|Friday ... | Module 3
+|Friday ... | Module 4
+|Friday ... | Module 5
+|Friday ... | Module 6
+|Friday ... | Practice exam SP2
+| ... | Exam SP2
 
 
-</details>
-</div>
-
-<div style="margin-left: 2em;">
-<details markdown="1"><summary  markdown="span">SP2</summary>
-
-| Date | Deadline
-|-|-
-|Friday 26 Sep | Module 4
-|Friday 31 Oct | Module 5
-|Friday 21 Nov | Module 6
-|Friday 12 Dec | Practice exam SP2
-|Tuesday 16 Dec | Exam SP2
-
-</details>
-</div>
-
-</details>
-
-If none of these schedules apply, please contact us.
+If this schedule doesn't apply, please contact us.
 
 ## Grading {#grading}
 

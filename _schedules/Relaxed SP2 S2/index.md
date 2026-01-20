@@ -133,40 +133,6 @@ The modules are grouped into levels, you have to make one module per level. For 
 
 Here below is an overview of all modules for all courses.
 
-#### Scientific Programming 1 (Level 1 - Level 3) {#sp1-modules}
-
-<table>
-  <tr>
-    <td> Level 0 </td><td colspan="3"> Python Installation </td>
-  </tr><tr>
-    <td>
-      <b>Level 1</b> (choose one of the modules)
-    </td><td>
-      <b>ALGORITHMS</b>. Learn to think like a computer. Things that we intuitively know how to do, like drawing a pyramid or computing change for a payment, is hard to get a computer to do right. In this module you’ll learn how to break down such intuitive problems into steps that even a computer can understand.
-    </td><td>
-      <b>or</b>
-    </td><td>
-      <b>NUMBERS</b>. How do you know if a number is a prime number? Number theory is the science about properties of numbers. In this mathematically oriented module you create a series of programs that compute this and other properties of numbers. No math knowledge required for this module. (You will learn some, though.)
-    </td>
-  </tr><tr>
-    <td>
-      <b>Level 2</b> (choose one of the modules)
-    </td><td>
-      <b>TEXT</b>. Natural language processing is the science of making a computer understand (something about) natural human language. You will learn how you can get a computer to understand the sentiment of tweets. Is the tone of the tweet positive or negative?
-    </td><td>
-      <b>or</b>
-    </td><td>
-      <b>NUMERICAL INTEGRATION</b>. In many scientific fields you need to determine the surface area under a function. Integration is a mathematical tool for doing so. However this tool doesn't always work and in such cases we can use numerical integration techniques to let the computer do the work for us. You will learn two important techniques for numerical integration.
-    </td>
-  </tr><tr>
-    <td> <b>Level 3</b> (no choice)</td><td colspan="3"> <b>BIG-DATA</b>. In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period? </td>
-  </tr><tr>
-
-  </tr><tr>
-    <td> <b>Bonus</b> (this module is optional)</td><td colspan="3"> <b>MOVEMENT</b>. What happens if you dig a tunnel from one side to the other side of the planet and you fall in this tunnel? In this module you’re going to simulate that situation. In physics you often run into problems that are too laborious to compute by hand. In this module you’ll learn how to use your computer instead. </td>
-  </tr>
-</table>
-
 #### Scientific Programming 2 (Level 4 - Level 6) {#sp2-modules}
 
 <table>
@@ -186,128 +152,24 @@ Here below is an overview of all modules for all courses.
   </tr>
 </table>
 
-#### Data Processing (Level 7 - Level 11) {#dp-modules}
-
-<table>
-  <tr>
-    <td> <b>Level 7</b> </td><td colspan="3"> <b>POPULATIONS</b>. Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP).</td>
-  </tr><tr>
-    <td> <b>Level 8</b> </td><td colspan="3"> <b>WIKIPEDIA</b>. TBA </td>
-  </tr><tr>
-    <td> <b>Level 9</b> </td><td colspan="3"> <b>TRANSFORMATION</b>. Does a restaurant pass health code inspections? Could you gauge this by analyzing reviews of this restaurant? You will use information from two different data sources (Yelp and the Washington State Department of Health) to answer these questions. The problem is (as you will see quite often when analyzing data), there is no straightforward way to combine the two data sources. They were never made to be used together, so you will need to transform the datasets to be used together.</td>
-  </tr><tr>
-    <td> <b>Level 10</b> </td><td colspan="3"> <b>DATABASES</b>. When working with really large amounts of data, you typically wont store it in simple (text) files on your computer. You'd use something like a relational database. To get information from a database you'll need a specific language called Structured Query Language (SQL). You're going to practice SQL by solving a mystery... </td>
-  </tr><tr>
-    <td> <b>Level 11</b> </td><td colspan="3"> <b>FINAL PROJECT</b>. Do you have data from your own studies or research that you would like to analyze? Do this with our help for the final project of this course. The goal here is to work on something that you find interesting and care about. </td>
-  </tr>
-</table>
-
 ## Dates and deadlines {#deadlines}
 
 ### Deadlines {#level-deadlines}
 
-Deadlines for each level are listed below. The deadlines depend on the course you're starting this period and on the pace you decided to do the course at: *relaxed*, *standard*, or *fast*. Most students tend to follow the *standard* schedule. The standard schedule corresponds to an investment of about 10 hours per week, but this varies a lot per student and educational background.
+Deadlines for each level are listed below. These deadlines depend on the pace you decided to do the course at: *relaxed*, *standard*, or *fast*.
 
-Select your track and course below to see the schedule for semester 1 of 2025 (Fall 2025).
-
-<details markdown="1"><summary  markdown="span">Fast Track - All courses in one semester, study load 20 hours/week</summary>
+The schedule for semester 2 of 2025/2026 (Spring 2025/2026) - relaxed track - only SP2:
 
 | Date | Deadline
 |-|-
-|Friday 5 Sep | Module 1
-|Friday 12 Sep | Module 2
-|Friday 19 Sep | Module 3
-|Friday 26 Sep | Module 4
-|Friday 3 Oct | Module 5
-|Friday 10 Oct | Module 6
-|Friday 17 Oct | Practice Exams SP1 and SP1
-|Monday 20 Oct | Exam SP1
-|Tuesday 21 Oct | Exam SP2
-|Friday 31 Oct | Module 7
-|Friday 7 Nov | Module 8
-|Friday 14 Nov | Module 9
-|Friday 21 Nov | Module 10 & Project proposal discussion
-|Tuesday 25 Nov | Amended project proposal (only if initial proposal was insufficient)
-|Friday 5 Dec | Project proof of concept discussion
-|Friday 12 Dec | Final deadline project
-|TBD 15-19 Dec | Project presentations
-
-</details>
-
-<details markdown="1"><summary  markdown="span">Standard Track - Half the courses in one semester, study load 10 hours/week</summary>
-
-<div style="margin-left: 2em;">
-<details markdown="1"><summary  markdown="span">SP1 & SP2</summary>
-
-| Date | Deadline
-|-|-
-|Friday 12 Sep | Module 1
-|Friday 26 Sep | Module 2
-|Friday 10 Oct | Module 3
-|Friday 17 Oct | Practice Exam SP1
-|Monday 20 Oct | Exam SP1
-|Friday 7 Nov | Module 4
-|Friday 21 Nov | Module 5
-|Friday 5 Dec | Module 6
-|Friday 12 Dec | Practice Exam SP2
-|Monday 16 Dec | Exam SP2
-
-</details>
-</div>
-
-<div style="margin-left: 2em;">
-<details markdown="1"><summary  markdown="span">Data Processing</summary>
-
-| Date | Deadline
-|-|-
-|Friday 12 Sep | Module 7
-|Friday 26 Sep | Module 8
-|Friday 10 Oct | Module 9
-|Friday 31 Oct | Module 10 & Project proposal discussion
-|Tuesday 4 Nov | Amended project proposal (only if initial proposal was insufficient)
-|Friday 21 Nov | Project proof of concept discussion
-|Friday 12 Dec | Final deadline project
-|TBD 15-19 Dec | Project presentations
-
-</details>
-</div>
-
-</details>
-
-<details markdown="1"><summary  markdown="span">Relaxed Track - One course in a semester, study load 5 hours/week</summary>
-
-<div style="margin-left: 2em;">
-<details markdown="1"><summary  markdown="span">SP1</summary>
-
-| Date | Deadline
-|-|-
-|Friday 26 Sep | Module 1
-|Friday 31 Oct | Module 2
-|Friday 21 Nov | Module 3
-|Friday 12 Dec | Practice exam SP1
-|Monday 15 Dec | Exam SP1
+|Friday ... | Module 4
+|Friday ... | Module 5
+|Friday ... | Module 6
+|Friday ... | Practice exam SP2
+| ... | Exam SP2
 
 
-</details>
-</div>
-
-<div style="margin-left: 2em;">
-<details markdown="1"><summary  markdown="span">SP2</summary>
-
-| Date | Deadline
-|-|-
-|Friday 26 Sep | Module 4
-|Friday 31 Oct | Module 5
-|Friday 21 Nov | Module 6
-|Friday 12 Dec | Practice exam SP2
-|Tuesday 16 Dec | Exam SP2
-
-</details>
-</div>
-
-</details>
-
-If none of these schedules apply, please contact us.
+If this schedule doesn't apply, please contact us.
 
 ## Grading {#grading}
 

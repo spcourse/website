@@ -133,59 +133,6 @@ The modules are grouped into levels, you have to make one module per level. For 
 
 Here below is an overview of all modules for all courses.
 
-#### Scientific Programming 1 (Level 1 - Level 3) {#sp1-modules}
-
-<table>
-  <tr>
-    <td> Level 0 </td><td colspan="3"> Python Installation </td>
-  </tr><tr>
-    <td>
-      <b>Level 1</b> (choose one of the modules)
-    </td><td>
-      <b>ALGORITHMS</b>. Learn to think like a computer. Things that we intuitively know how to do, like drawing a pyramid or computing change for a payment, is hard to get a computer to do right. In this module you’ll learn how to break down such intuitive problems into steps that even a computer can understand.
-    </td><td>
-      <b>or</b>
-    </td><td>
-      <b>NUMBERS</b>. How do you know if a number is a prime number? Number theory is the science about properties of numbers. In this mathematically oriented module you create a series of programs that compute this and other properties of numbers. No math knowledge required for this module. (You will learn some, though.)
-    </td>
-  </tr><tr>
-    <td>
-      <b>Level 2</b> (choose one of the modules)
-    </td><td>
-      <b>TEXT</b>. Natural language processing is the science of making a computer understand (something about) natural human language. You will learn how you can get a computer to understand the sentiment of tweets. Is the tone of the tweet positive or negative?
-    </td><td>
-      <b>or</b>
-    </td><td>
-      <b>NUMERICAL INTEGRATION</b>. In many scientific fields you need to determine the surface area under a function. Integration is a mathematical tool for doing so. However this tool doesn't always work and in such cases we can use numerical integration techniques to let the computer do the work for us. You will learn two important techniques for numerical integration.
-    </td>
-  </tr><tr>
-    <td> <b>Level 3</b> (no choice)</td><td colspan="3"> <b>BIG-DATA</b>. In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period? </td>
-  </tr><tr>
-
-  </tr><tr>
-    <td> <b>Bonus</b> (this module is optional)</td><td colspan="3"> <b>MOVEMENT</b>. What happens if you dig a tunnel from one side to the other side of the planet and you fall in this tunnel? In this module you’re going to simulate that situation. In physics you often run into problems that are too laborious to compute by hand. In this module you’ll learn how to use your computer instead. </td>
-  </tr>
-</table>
-
-#### Scientific Programming 2 (Level 4 - Level 6) {#sp2-modules}
-
-<table>
-  <tr>
-    <td> <b>Level 4</b> </td><td colspan="3"> <b>MONOPOLY</b>. When playing Monopoly, a starting player's advantage seems unfair. To verify, you could play many (millions) real games, but this would take way too much time. Instead, you'll write a computer simulation. This also allows you to experiment with game adjustments to make it fair. You're doing all this for a board game, but this simulation principle applies to various scientific fields (economy, chemistry, biology...).</td>
-  </tr><tr>
-    <td> <b>Level 5</b> (choose one of the modules)</td>
-    <td>
-      <b>MONOPOLY 2</b>. TBA
-    </td><td>
-      <b>or</b>
-    </td><td>
-      <b>SHAKESPEARE</b>. Was the play “Arden of Faversham” (1592) written by Shakespeare? A.C. Swinburne thought it was, but T.S. Eliot didn’t. Could we create a computer program that could settle the debate once and for all? It turns out that the answer is: yes… maybe?
-    </td>
-  </tr><tr>
-    <td> <b>Level 6</b> </td><td colspan="3"> <b>SURVIVAL</b>. Python is very popular for analyzing and processing data. And Pandas is an important reason why. Pandas is the most used Python package for handling data. You will learn how to use this package to analyze and visualize geographical data.</td>
-  </tr>
-</table>
-
 #### Data Processing (Level 7 - Level 11) {#dp-modules}
 
 <table>
@@ -206,108 +153,22 @@ Here below is an overview of all modules for all courses.
 
 ### Deadlines {#level-deadlines}
 
-Deadlines for each level are listed below. The deadlines depend on the course you're starting this period and on the pace you decided to do the course at: *relaxed*, *standard*, or *fast*. Most students tend to follow the *standard* schedule. The standard schedule corresponds to an investment of about 10 hours per week, but this varies a lot per student and educational background.
+Deadlines for each level are listed below. These deadlines depend on the pace you decided to do the course at: *relaxed*, *standard*, or *fast*.
 
-Select your track and course below to see the schedule for semester 1 of 2025 (Fall 2025).
-
-<details markdown="1"><summary  markdown="span">Fast Track - All courses in one semester, study load 20 hours/week</summary>
+The schedule for semester 2 of 2025/2026 (Spring 2025/2026) - normal track - only DP:
 
 | Date | Deadline
 |-|-
-|Friday 5 Sep | Module 1
-|Friday 12 Sep | Module 2
-|Friday 19 Sep | Module 3
-|Friday 26 Sep | Module 4
-|Friday 3 Oct | Module 5
-|Friday 10 Oct | Module 6
-|Friday 17 Oct | Practice Exams SP1 and SP1
-|Monday 20 Oct | Exam SP1
-|Tuesday 21 Oct | Exam SP2
-|Friday 31 Oct | Module 7
-|Friday 7 Nov | Module 8
-|Friday 14 Nov | Module 9
-|Friday 21 Nov | Module 10 & Project proposal discussion
-|Tuesday 25 Nov | Amended project proposal (only if initial proposal was insufficient)
-|Friday 5 Dec | Project proof of concept discussion
-|Friday 12 Dec | Final deadline project
-|TBD 15-19 Dec | Project presentations
+|Friday ... | Module 7
+|Friday ... | Module 8
+|Friday ... | Module 9
+|Friday ... | Module 10 & Project proposal discussion
+|Tuesday ... | Amended project proposal (only if initial proposal was insufficient)
+|Friday ... | Project proof of concept discussion
+|Friday ... | Final deadline project
+|... | Project presentations
 
-</details>
-
-<details markdown="1"><summary  markdown="span">Standard Track - Half the courses in one semester, study load 10 hours/week</summary>
-
-<div style="margin-left: 2em;">
-<details markdown="1"><summary  markdown="span">SP1 & SP2</summary>
-
-| Date | Deadline
-|-|-
-|Friday 12 Sep | Module 1
-|Friday 26 Sep | Module 2
-|Friday 10 Oct | Module 3
-|Friday 17 Oct | Practice Exam SP1
-|Monday 20 Oct | Exam SP1
-|Friday 7 Nov | Module 4
-|Friday 21 Nov | Module 5
-|Friday 5 Dec | Module 6
-|Friday 12 Dec | Practice Exam SP2
-|Monday 16 Dec | Exam SP2
-
-</details>
-</div>
-
-<div style="margin-left: 2em;">
-<details markdown="1"><summary  markdown="span">Data Processing</summary>
-
-| Date | Deadline
-|-|-
-|Friday 12 Sep | Module 7
-|Friday 26 Sep | Module 8
-|Friday 10 Oct | Module 9
-|Friday 31 Oct | Module 10 & Project proposal discussion
-|Tuesday 4 Nov | Amended project proposal (only if initial proposal was insufficient)
-|Friday 21 Nov | Project proof of concept discussion
-|Friday 12 Dec | Final deadline project
-|TBD 15-19 Dec | Project presentations
-
-</details>
-</div>
-
-</details>
-
-<details markdown="1"><summary  markdown="span">Relaxed Track - One course in a semester, study load 5 hours/week</summary>
-
-<div style="margin-left: 2em;">
-<details markdown="1"><summary  markdown="span">SP1</summary>
-
-| Date | Deadline
-|-|-
-|Friday 26 Sep | Module 1
-|Friday 31 Oct | Module 2
-|Friday 21 Nov | Module 3
-|Friday 12 Dec | Practice exam SP1
-|Monday 15 Dec | Exam SP1
-
-
-</details>
-</div>
-
-<div style="margin-left: 2em;">
-<details markdown="1"><summary  markdown="span">SP2</summary>
-
-| Date | Deadline
-|-|-
-|Friday 26 Sep | Module 4
-|Friday 31 Oct | Module 5
-|Friday 21 Nov | Module 6
-|Friday 12 Dec | Practice exam SP2
-|Tuesday 16 Dec | Exam SP2
-
-</details>
-</div>
-
-</details>
-
-If none of these schedules apply, please contact us.
+If this schedule doesn't apply, please contact us.
 
 ## Grading {#grading}
 
