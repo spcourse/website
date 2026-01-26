@@ -2,6 +2,10 @@
 
 **Fall 2025/2026**
 
+> If you read this, you are still on a schedule for **Semester 1**. Please send an email (scientific@proglab.nl) to be moved to the correct schedule:
+> 
+> In your message, clearly specify which course(s) you **intend to complete this semester**.
+
 ## Team
 
 <table>
