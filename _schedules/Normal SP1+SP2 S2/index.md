@@ -211,16 +211,16 @@ Deadlines for each level are listed below. These deadlines depend on the pace yo
 
 The schedule for semester 2 of 2025/2026 (Spring 2025/2026) - normal track - only SP1 ans SP2:
 
-| Date | Deadline
-|-|-
-|Friday ... | Module 1
-|Friday ... | Module 2
-|Friday ... | Module 3
-|Friday ... | Module 4
-|Friday ... | Module 5
-|Friday ... | Module 6
-|Friday ... | Practice exam SP2
-| ... | Exam SP2
+| Date           | Deadline |
+|----------------|----------|
+| Monday 16 Feb  | Module 1 |
+| Monday 2 Mar   | Module 2 |
+| Monday 16 Mar  | Module 3 |
+| Monday 23 Mar  | Exam SP1 |
+| Tue 7 Apr      | Module 4 |
+| Monday 20 Apr  | Module 5 |
+| Monday 18 May  | Module 6 |
+| Tuesday 26 May | Exam SP2 |
 
 
 If this schedule doesn't apply, please contact us.

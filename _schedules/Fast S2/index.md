@@ -210,25 +210,24 @@ Deadlines for each level are listed below. These deadlines depend on the pace yo
 The schedule for semester 2 of 2025/2026 (Spring 2025/2026) - fast track -  SP1 + SP2 + DP:
 
 
-| Date | Deadline
-|-|-
-|Friday ... | Module 1
-|Friday ...| Module 2
-|Friday ... | Module 3
-|Friday ... | Module 4
-|Friday ...| Module 5
-|Friday ... | Module 6
-|Friday ... | Practice Exams SP1 and SP1
-| ... | Exam SP1
-| ... | Exam SP2
-|Friday ... | Module 7
-|Friday ...| Module 8
-|Friday ... | Module 9
-|Friday ... | Module 10 & Project proposal discussion
-|Tuesday ... | Amended project proposal (only if initial proposal was insufficient)
-|Friday ...| Project proof of concept discussion
-|Friday ... | Final deadline project
-|... | Project presentations
+| Date             | Deadline                |
+|------------------|-------------------------|
+| Friday 13 Feb    | Module 1                |
+| Friday 20 Feb    | Module 2                |
+| Friday 27 Feb    | Module 3                |
+| Friday 6 Mar     | Module 4                |
+| Friday 13 Mar    | Module 5                |
+| Friday 20 Mar    | Module 6                |
+| Monday 23 Mar    | Exam SP1                |
+| Tuesday 24 Mar   | Exam SP2                |
+| Wednesday 8 April  | Module 7                |
+| Wednesday 15 April | Module 8                |
+| Friday 24 April  | Module 9                |
+| Friday 8 May     | Module 10 & Project proposal discussion |
+| Monday 11 May    | (Amended project proposal)              |
+| Monday 18 May    | Project proof of concept discussion     |
+| Friday 22 May    | Final deadline project                  |
+| Wednesday 27 May | Project presentations                   |
 
 
 If this schedule doesn't apply, please contact us.

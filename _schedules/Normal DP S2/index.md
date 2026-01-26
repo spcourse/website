@@ -157,16 +157,17 @@ Deadlines for each level are listed below. These deadlines depend on the pace yo
 
 The schedule for semester 2 of 2025/2026 (Spring 2025/2026) - normal track - only DP:
 
-| Date | Deadline
-|-|-
-|Friday ... | Module 7
-|Friday ... | Module 8
-|Friday ... | Module 9
-|Friday ... | Module 10 & Project proposal discussion
-|Tuesday ... | Amended project proposal (only if initial proposal was insufficient)
-|Friday ... | Project proof of concept discussion
-|Friday ... | Final deadline project
-|... | Project presentations
+|  Date              | Deadline                                  |
+|--------------------|-------------------------------------------|
+| Wednesday 18 Feb   | Module 7                                  |
+| Wednesday 4 Mar    | Module 8                                  |
+| Wednesday 18 Mar   | Module 9                                  |
+| Wednesday 8 April  | Module 10 & Project proposal discussion   |
+| Friday 10 April    | (Amended project proposal)                |
+| Wednesday 22 April | Project proof of concept discussion       |
+| Wednesday 13 May   | Final deadline project                    |
+| Wednesday 27 May   | Project presentations                     |
+
 
 If this schedule doesn't apply, please contact us.
 
