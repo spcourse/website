@@ -131,24 +131,6 @@ You're going to learn programming through a number of programming modules. Each 
 
 The modules are grouped into levels, you have to make one module per level. For some levels you have the choice between two different modules. When there is such a choice, you will learn the same programming concepts, but often in different thematic context (i.e. different scientific fields).
 
-Here below is an overview of all modules for all courses.
-
-#### Data Processing (Level 7 - Level 11) {#dp-modules}
-
-<table>
-  <tr>
-    <td> <b>Level 7</b> </td><td colspan="3"> <b>POPULATIONS</b>. Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP).</td>
-  </tr><tr>
-    <td> <b>Level 8</b> </td><td colspan="3"> <b>WIKIPEDIA</b>. TBA </td>
-  </tr><tr>
-    <td> <b>Level 9</b> </td><td colspan="3"> <b>TRANSFORMATION</b>. Does a restaurant pass health code inspections? Could you gauge this by analyzing reviews of this restaurant? You will use information from two different data sources (Yelp and the Washington State Department of Health) to answer these questions. The problem is (as you will see quite often when analyzing data), there is no straightforward way to combine the two data sources. They were never made to be used together, so you will need to transform the datasets to be used together.</td>
-  </tr><tr>
-    <td> <b>Level 10</b> </td><td colspan="3"> <b>DATABASES</b>. When working with really large amounts of data, you typically wont store it in simple (text) files on your computer. You'd use something like a relational database. To get information from a database you'll need a specific language called Structured Query Language (SQL). You're going to practice SQL by solving a mystery... </td>
-  </tr><tr>
-    <td> <b>Level 11</b> </td><td colspan="3"> <b>FINAL PROJECT</b>. Do you have data from your own studies or research that you would like to analyze? Do this with our help for the final project of this course. The goal here is to work on something that you find interesting and care about. </td>
-  </tr>
-</table>
-
 ## Dates and deadlines {#deadlines}
 
 ### Deadlines {#level-deadlines}

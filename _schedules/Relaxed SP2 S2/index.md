@@ -131,27 +131,6 @@ You're going to learn programming through a number of programming modules. Each 
 
 The modules are grouped into levels, you have to make one module per level. For some levels you have the choice between two different modules. When there is such a choice, you will learn the same programming concepts, but often in different thematic context (i.e. different scientific fields).
 
-Here below is an overview of all modules for all courses.
-
-#### Scientific Programming 2 (Level 4 - Level 6) {#sp2-modules}
-
-<table>
-  <tr>
-    <td> <b>Level 4</b> </td><td colspan="3"> <b>MONOPOLY</b>. When playing Monopoly, a starting player's advantage seems unfair. To verify, you could play many (millions) real games, but this would take way too much time. Instead, you'll write a computer simulation. This also allows you to experiment with game adjustments to make it fair. You're doing all this for a board game, but this simulation principle applies to various scientific fields (economy, chemistry, biology...).</td>
-  </tr><tr>
-    <td> <b>Level 5</b> (choose one of the modules)</td>
-    <td>
-      <b>MONOPOLY 2</b>. TBA
-    </td><td>
-      <b>or</b>
-    </td><td>
-      <b>SHAKESPEARE</b>. Was the play “Arden of Faversham” (1592) written by Shakespeare? A.C. Swinburne thought it was, but T.S. Eliot didn’t. Could we create a computer program that could settle the debate once and for all? It turns out that the answer is: yes… maybe?
-    </td>
-  </tr><tr>
-    <td> <b>Level 6</b> </td><td colspan="3"> <b>SURVIVAL</b>. Python is very popular for analyzing and processing data. And Pandas is an important reason why. Pandas is the most used Python package for handling data. You will learn how to use this package to analyze and visualize geographical data.</td>
-  </tr>
-</table>
-
 ## Dates and deadlines {#deadlines}
 
 ### Deadlines {#level-deadlines}
