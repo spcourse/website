@@ -6,6 +6,20 @@
 
 **Expected workload:** ~10 hours/week
 
+## Teaching Team & Contact
+
+**Teaching staff**
+Marit, Anastasia, Jelle, Luka, Simon
+
+**Contact email**
+[scientific@proglab.nl](mailto:scientific@proglab.nl)
+
+**Tutorial schedules & locations**
+[Tutorial schedules (Datanose)](/datanose)
+
+**Deadlines**
+[jump to deadlines](#deadlines)
+
 ## Course Overview
 
 This programming track introduces Python through scientific and data-oriented problems. It is designed for **students with no prior programming experience**, but can also accommodate students that already have some experience, but want to imrpove their programming skills.
@@ -18,18 +32,7 @@ The track consists of **three separate courses**:
 
 These courses are designed to be taken **together**, but you may also take **one or two** of them separately.
 
-## Teaching Team & Contact
-
-**Teaching staff**
-Marit, Anastasia, Jelle, Luka, Simon
-
-**Contact email**
-[scientific@proglab.nl](mailto:scientific@proglab.nl)
-
-**Tutorial schedules & locations**
-[Tutorial schedules (Datanose)](/datanose)
-
-## 3. Prerequisites
+## Prerequisites
 
 ### Scientific Programming 1
 
@@ -89,11 +92,11 @@ Key rules:
 
 * You must complete **one module per level**.
 * Some levels offer **alternative modules** covering the same concepts in different scientific contexts.
-* Challenges are optional for SP1/SP2 (but **required for higher grades in Data Processing**).
+* Challenges are optional for SP1/SP2 (but, required for higher grades in Data Processing).
 
 ### Tutorials and Support
 
-Although the track is flexible, **you are not expected to work independently without support**.
+Although the track is flexible, **you are not on your own**.
 
 * Tutorials are on-campus working sessions.
 * Teaching staff are present to answer questions and discuss solutions.
@@ -111,7 +114,8 @@ To begin:
 2. Install Python (instructions on the website).
 3. Start with **Level 1**, choosing either *Algorithms* or *Numbers*.
 
-## Schedule & Deadlines Spring 2025/2026, (SP1 + SP2, Normal Pace) {#deadlines}
+## Deadlines {#deadlines}
+**Spring 2025/2026, (SP1 + SP2, Normal Pace) **
 
 | Date           | Deadline |
 |----------------|----------|
@@ -124,7 +128,7 @@ To begin:
 | Monday 18 May  | Module 6 |
 | Tuesday 26 May | Exam SP2 |
 
-If this schedule does not apply to you, **contact the course staff immediately**.
+If this schedule does not apply to you, please contact us.
 
 ## Assessment & Grading
 
@@ -164,7 +168,7 @@ This is a pass/fail course. Thay means that you final grade will be one of the f
 * You may use a **printed version** of [these cheatsheets](/python/en/overview) during the exam.
 * You may **not** import external modules such as `numpy`, `csv`, or others, unless the assignment explicitly states that this is allowed.
 
-## Doing your own work {#plagiarism}
+## Doing your own work
 
 This course's philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course's material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
 
