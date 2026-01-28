@@ -151,10 +151,13 @@ Select your track and course below to see the schedule for semester 1 of 2025 (F
 
 ## Grading {#grading}
 
-The course's final result will be "pass" or "fail", which means that no grades are assigned. You pass by:
+This is a pass/fail course. That means that as a final grade you will receive on of the following:
 
-- submitting sufficient coursework (as detailed below)
-- passing the final exam
+- `AVV` (pass): 
+  - each module was discuss and you received a pass
+  - you passed the final exam
+- `NAV` (insufficent): You did actively particpate but did not get a pass for all modules and exam.
+- `NAP` (non attendance): You did not actively participate.
 
 #### Coursework (modules)
 
@@ -169,9 +172,17 @@ The course's final result will be "pass" or "fail", which means that no grades a
 
 #### Final exam
 
-- The final exam is (on campus) programming exam in a controlled setting. This will take about 3 hours. It contains a couple of small programming assignments. You'll pass the exam when your answers are sufficiently correct.
 - You can participate in the final exam if you're done with the coursework, meaning: all modules are *finished*, *discussed*, and marked as *pass*.
 - If you do not meet these requirements (for example when you still have an insufficient or one of the first two modules isn't graded yet) you cannot participate with the exam yet. You will have to finish the coursework first and do an exam at a later date.
+- The final exam is (on campus) programming exam in a controlled setting. (You will make this on a dedivated exam computer, not your won laptop.)
+- This will take about 3 hours. It contains 4 small programming assignments.
+- You need **at least 3 assignments correct** in order to pass the exam.
+- You will be evaluated solely on the correctness of your solutions. Code design, comments, and style are
+not important, so you do not need to worry about them.
+- There is a checkpy during the exam allowing you to verify the correctness of your solutions.
+- You may use the course website as a resource (open sp.proglab.nl again in a new tab after loggin in).
+- You may use a printed version of [these cheetsheats](/python/en/overview) during the exam.
+- You cannot import external modules such as `numpy`, `csv`, or others unless the assignment specifically says you can.
 
 ## Doing your own work {#plagiarism}
 
