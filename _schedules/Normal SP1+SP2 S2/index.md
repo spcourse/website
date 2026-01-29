@@ -160,10 +160,10 @@ This is a pass/fail course. Thay means that you final grade will be one of the f
 * You may participate in the final exam **only if you have completed all coursework**, meaning that all modules are *finished*, *discussed*, and marked as *pass*.
 * If you do not meet these requirements (for example, if you still have an insufficient or a module hos not been discussed), you may not participate in the exam at that time. You must first complete the coursework and take the exam at a later date.
 * The final exam is an **on-campus programming exam** conducted in a controlled setting. You will take the exam on a dedicated exam computer, not on your own laptop.
-* The exam lasts approximately 3 hours and consists of **4 small programming assignments**.
-* To pass the exam, you must solve **at least 3 of the 4 assignments correctly**.
+* The exam lasts approximately 3 hours and consists of 4 small programming assignments.
+* To pass the exam, you must solve at least 3 of the 4 assignments correctly.
 * Your exam will be evaluated solely on the correctness of your solutions. Code design, comments, and style are *not* taken into account.
-* **checkpy** is available during the exam, allowing you to verify the correctness of your solutions.
+* Checkpy is available during the exam, allowing you to verify the correctness of your solutions.
 * You may use the course website as a resource (you may open *sp.proglab.nl* in a new tab after logging in).
 * You may use a **printed version** of [these cheatsheets](/python/en/overview) during the exam.
 * You may **not** import external modules such as `numpy`, `csv`, or others, unless the assignment explicitly states that this is allowed.
