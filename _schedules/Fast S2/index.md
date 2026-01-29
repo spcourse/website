@@ -67,6 +67,7 @@ If at any point you feel unsure whether this track fits your background, please 
 - quickly learn to use new python packages and know how to find documentation for them;
 - import and analyze data;
 - create advanced plots.
+
 ### After Data Processing, you:
 
 - can read data into your programs from several structured standard formats;

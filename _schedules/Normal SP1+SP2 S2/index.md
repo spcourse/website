@@ -67,13 +67,6 @@ If at any point you feel unsure whether this track fits your background, please 
 - quickly learn to use new python packages and know how to find documentation for them;
 - import and analyze data;
 - create advanced plots.
-### After Data Processing, you:
-
-- can read data into your programs from several structured standard formats;
-- can transform data into a form suitable for further analysis by combining basic operators;
-- can build meaningful visualizations of your data;
-- understand how to write programs that are easy to understand for yourself and other programmers;
-- are capable of using advanced programming concepts (like object oriented programming).
 
 ## Course Structure
 
@@ -166,7 +159,7 @@ This is a pass/fail course. Thay means that you final grade will be one of the f
 * Checkpy is available during the exam, allowing you to verify the correctness of your solutions.
 * You may use the course website as a resource (you may open *sp.proglab.nl* in a new tab after logging in).
 * You may use a **printed version** of [these cheatsheets](/python/en/overview) during the exam.
-* You may **not** import external modules such as `numpy`, `csv`, or others, unless the assignment explicitly states that this is allowed.
+* You may *not* import external modules such as `numpy`, `csv`, or others, unless the assignment explicitly states that this is allowed.
 
 ## Doing your own work
 

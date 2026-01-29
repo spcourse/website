@@ -53,14 +53,6 @@ If at any point you feel unsure whether this track fits your background, please 
 
 ## Learning Goals
 
-### After Scientific Programming 1, you:
-
-- can transform the description of a simple algorithm into working code by combining basic program elements;
-- can apply several scientific programming techniques from different areas of study;
-- can use a couple of libraries in your program and know how to find and read documentation on other libraries;
-- can make your programs simpler and easier to read by employing a few standard tactics;
-- can trace and fix several common programming errors.
-
 ### After Scientific Programming 2, you:
 
 - can use native python data structures (like sets, dictionaries, and tuples);
@@ -68,13 +60,6 @@ If at any point you feel unsure whether this track fits your background, please 
 - quickly learn to use new python packages and know how to find documentation for them;
 - import and analyze data;
 - create advanced plots.
-### After Data Processing, you:
-
-- can read data into your programs from several structured standard formats;
-- can transform data into a form suitable for further analysis by combining basic operators;
-- can build meaningful visualizations of your data;
-- understand how to write programs that are easy to understand for yourself and other programmers;
-- are capable of using advanced programming concepts (like object oriented programming).
 
 ## Course Structure
 

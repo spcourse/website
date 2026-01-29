@@ -61,21 +61,6 @@ If at any point you feel unsure whether this track fits your background, please 
 - can make your programs simpler and easier to read by employing a few standard tactics;
 - can trace and fix several common programming errors.
 
-### After Scientific Programming 2, you:
-
-- can use native python data structures (like sets, dictionaries, and tuples);
-- analyze the complexity of an algorithm;
-- quickly learn to use new python packages and know how to find documentation for them;
-- import and analyze data;
-- create advanced plots.
-### After Data Processing, you:
-
-- can read data into your programs from several structured standard formats;
-- can transform data into a form suitable for further analysis by combining basic operators;
-- can build meaningful visualizations of your data;
-- understand how to write programs that are easy to understand for yourself and other programmers;
-- are capable of using advanced programming concepts (like object oriented programming).
-
 ## Course Structure
 
 ### Modules and Levels
