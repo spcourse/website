@@ -93,8 +93,8 @@ grades:
     c-weather6: *check
     c-weather7: *check
 
-    sp1_exam1: *testt
-    sp1_exam2: *testt
+    sp1_exam3: *testt
+    sp1_exam4: *testt
 
     #### FINAL GRADES ####
     final_sp1_3: *check
