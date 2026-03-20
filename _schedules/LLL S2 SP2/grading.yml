@@ -72,8 +72,8 @@ grades:
     sp2_exam1: *testt
     sp2_exam2: *testt
 
-    final_sp2_1: *check
-    final_sp2_2: *check
+    final_sp2_3: *check
+    final_sp2_4: *check
 
 ########### SP 2 ###########
 
@@ -137,13 +137,13 @@ sp2_exams:
     show_progress: true
     # small_block_overview: true
     submits:
-        sp2_exam1: 1
-        sp2_exam2: 1
+        sp2_exam3: 1
+        sp2_exam4: 1
 
 ########### FINAL GRADES ###########
 
 final_sp2:
     show_progress: true
     submits:
-        final_sp2_1: 1
-        final_sp2_2: 1
+        final_sp2_3: 1
+        final_sp2_3: 1

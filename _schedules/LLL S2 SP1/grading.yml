@@ -97,8 +97,8 @@ grades:
     sp1_exam2: *testt
 
     #### FINAL GRADES ####
-    final_sp1_1: *check
-    final_sp1_2: *check
+    final_sp1_3: *check
+    final_sp1_4: *check
 
 
 
@@ -199,5 +199,5 @@ sp1_exams:
     show_progress: true
     # small_block_overview: true
     submits:
-        sp1_exam1: 1
-        sp1_exam2: 1
+        sp1_exam3: 1        
+        sp1_exam4: 1
