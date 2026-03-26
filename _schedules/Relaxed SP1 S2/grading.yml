@@ -206,6 +206,8 @@ sp1_exams:
     show_progress: true
     small_block_overview: false
     submits:
+        sp1_exam1: 1
+        sp1_exam2: 1
         sp1_exam3: 1
         sp1_exam4: 1
 

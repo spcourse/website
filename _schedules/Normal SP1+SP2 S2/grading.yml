@@ -247,7 +247,8 @@ sp1_exams:
     submits:
         sp1_exam1: 1
         sp1_exam2: 1
-
+        sp1_exam3: 1
+        sp1_exam4: 1
 
 ########### SP 2 ###########
 
@@ -301,6 +302,8 @@ sp2_exams:
     show_progress: true
     small_block_overview: false
     submits:
+        sp2_exam1: 1
+        sp2_exam2: 1
         sp2_exam3: 1
         sp2_exam4: 1
 
@@ -328,9 +331,3 @@ dp_level_7_population_L7pop:
         7_2p: 1
         c-experiment: 1
 
-
-practice:
-    show_progress: true
-    submits:
-        sp1_practice_exam: 1
-        sp2_practice_exam: 1

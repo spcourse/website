@@ -139,6 +139,8 @@ sp2_exams:
     submits:
         sp2_exam1: 1
         sp2_exam2: 1
+        sp2_exam3: 1
+        sp2_exam4: 1
 
 ########### FINAL GRADES ###########
 
