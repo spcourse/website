@@ -71,6 +71,8 @@ grades:
 
     sp2_exam1: *testt
     sp2_exam2: *testt
+    sp2_exam3: *testt
+    sp2_exam4: *testt
 
     final_sp2_1: *check
     final_sp2_2: *check
