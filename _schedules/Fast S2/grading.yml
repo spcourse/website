@@ -146,6 +146,54 @@ grades:
     final_sp2_3: *check
     final_sp2_4: *check
 
+    #### DP ####
+    m7-passed: 
+        type: float
+        subgrades:
+            base_correct: boolean
+            creative: boolean
+            experiment: boolean
+            visualize: boolean
+        calculation: "1.0 + base_correct * -6.0 + creative * -1.0 + experiment * - 1.0 + visualize * -1.0"
+    m8-passed:
+        type: float
+        subgrades:
+            base_correct: boolean
+            crawling: boolean
+            bbc: boolean
+        calculation: "1.0 + base_correct * -6.0 + crawling * -2.0 + bbc * - 1.0"
+    m9-passed: *check
+    m10-passed: *check
+    project:
+        type: float
+        subgrades:
+            research_question: integer
+            complexity: integer
+            novelty: integer
+            quality: integer
+        calculation: "(9.0/12.0 * (novelty + quality + complexity + research_question) + 1).round(1)"
+
+    7_1p: *auto
+    7_2p: *auto
+    c-creative: *check
+    c-experiment: *check
+    c-visualize: *check
+
+    8_1w: *check
+    8_2w: *check
+    c-crawling: *check
+    c-bbc: *check
+
+    9_1t: *check
+    9_2t: *check
+
+    10_1d: *auto
+    10_2d: *auto
+
+    p_1p: *check
+    p_2p: *check
+    p_3p: *check
+    p_4p: *check
 
 
 ########### SP 1 ###########
@@ -157,90 +205,6 @@ sp1_checks:
         m2-passed: 1
         m3-passed: 1
 
-
-sp1_level_1_algorithms_l1alg:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        1_1a: 1
-        1_2a: 1
-        1_3a: 1
-        1_4a: 1
-        1_5a: 1
-        1_6a: 1
-
-sp1_level_1_numbers_l1num:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        1_1n: 1
-        1_2n: 1
-        1_3n: 1
-        1_4n: 1
-        1_5n: 1
-        1_6n: 1
-
-sp1_level_1_challenges_l1cha:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        c-pyramid: 1
-        c-conway: 1
-        c-goldbach: 1
-        c-amicable: 1
-        c-eratosthenes: 1
-
-sp1_level_2_text_l2tex:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        2_1t: 1
-        2_2t: 1
-        2_3t: 1
-        2_4t: 1
-        2_5t: 1
-        2_6t: 1
-
-sp1_level_2_integration_l2int:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        2_1i: 1
-        2_2i: 1
-        2_3i: 1
-        2_4i: 1
-        2_5i: 1
-        2_6i: 1
-
-sp1_level_2_challenges_l2cha:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        c-twitter: 1
-        c-reformatting: 1
-        c-plot_min_max: 1
-        c-montecarlo: 1
-        c-egg: 1
-
-
-sp1_level_3_big_data_l3big:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        3_1b: 1
-        3_2b: 1
-        # 3_3b: 1
-        # 3_4b: 1
-        # 3_5b: 1
-
-sp1_level_3_challenges_l3cha:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        # c-weather5: 1
-        c-weather6: 1
-        c-weather7: 1
-
 sp1_exams:
     show_progress: true
     small_block_overview: false
@@ -250,6 +214,11 @@ sp1_exams:
         sp1_exam3: 1
         sp1_exam4: 1
 
+final_sp1:
+    show_progress: true
+    submits:
+        final_sp1_3: 1
+        final_sp1_4: 1
 
 ########### SP 2 ###########
 
@@ -308,14 +277,6 @@ sp2_exams:
         sp2_exam3: 1
         sp2_exam4: 1
 
-########### FINAL GRADES ###########
-
-final_sp1:
-    show_progress: true
-    submits:
-        final_sp1_3: 1
-        final_sp1_4: 1
-
 final_sp2:
     show_progress: true
     submits:
@@ -324,11 +285,62 @@ final_sp2:
 
 ########### DP ###########
 
+dp_grades:
+    show_progress: true
+    submits:
+        m7-passed: 1
+        m8-passed: 1
+        m9-passed: 0
+        m10-passed: 0
+        project: 2
+
+
 dp_level_7_population_L7pop:
     show_progress: true
     small_block_overview: true
     submits:
         7_1p: 1
         7_2p: 1
+        c-creative: 1
         c-experiment: 1
+        c-visualize: 1
+
+dp_level_8_wikipedia_L8wik:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        8_1w: 1
+        8_2w: 1
+        c-crawling: 1
+        c-bbc: 1
+
+dp_level_9_transformation_L9tra:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        9_1t: 1
+        9_2t: 1
+
+p2_level_10_databases_L10da:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        10_1d: 1
+        10_2d: 1
+
+dp_project_proje:
+    show_progress: true
+    small_block_overview: true
+    submits:
+        p_1p: 1
+        p_2p: 1 
+        p_3p: 1
+        p_4p: 1
+
+
+########### FINAL GRADES ###########
+
+calculation:
+    final_data_semester_1:
+        dp_grades: 1
 
