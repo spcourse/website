@@ -301,26 +301,17 @@ sp2_exams:
 
 ########### FINAL GRADES ###########
 
-# final_sp1:
-#   show_progress: true
-#   submits:
-#     final_sp1_3: 1
-#     final_sp1_4: 1
+final_sp1:
+  show_progress: true
+  submits:
+    final_sp1_3: 1
+    final_sp1_4: 1
 
-# final_sp2:
-#   show_progress: true
-#   submits:
-#     final_sp2_3: 1
-#     final_sp2_4: 1
-
-calculation:
-  final_sp1_3:
-    sp1_checks: 1
-    sp1_exam3: 1
-
-  # final_sp2_3:
-  #   sp2_checks: 1
-  #   sp2_exam3: 1
+final_sp2:
+  show_progress: true
+  submits:
+    final_sp2_3: 1
+    final_sp2_4: 1
 
 ########### DP ###########
 
