@@ -1,222 +1,221 @@
 templates:
-    1: &auto
-        type: float
-        subgrades:
-            points: integer
-        calculation: (points >= 9) && points || 0
-        automatic:
-            points: (correctness_score * 10).floor
-        auto_publish: true
-        hide_calculated: false
-        hide_subgrades: false
+  1: &auto
+    type: float
+    subgrades:
+      points: integer
+    calculation: (points >= 9) && points || 0
+    automatic:
+      points: (correctness_score * 10).floor
+    auto_publish: true
+    hide_calculated: false
+    hide_subgrades: false
 
-    2: &check
-        type: pass
-        subgrades:
-            passed: boolean
-        calculation: passed
-        auto_publish: true
-        hide_calculated: true
-        hide_subgrades: false
+  2: &check
+    type: pass
+    subgrades:
+      passed: boolean
+    calculation: passed
+    auto_publish: true
+    hide_calculated: true
+    hide_subgrades: false
 
-    3: &testt
-        type: pass
-        subgrades:
-            passed: boolean
-            checkpy: float
-        automatic:
-            checkpy: correctness_score * 10
-        calculation: passed
-        auto_publish: false
-        hide_calculated: true
-        hide_subgrades: false
+  3: &testt
+    type: pass
+    subgrades:
+      passed: boolean
+      checkpy: float
+    automatic:
+      checkpy: correctness_score * 10
+    calculation: passed
+    auto_publish: false
+    hide_calculated: true
+    hide_subgrades: false
 
-    5: &graded
-        hide_calculated: true
-        type: float
-        subgrades:
-            code_quality: integer
-            correctness: integer
-        calculation: "1.0 + 9.0 * (3.0 * correctness + 2.0 * code_quality - 5.0) / 20.0"
-
+  5: &graded
+    hide_calculated: true
+    type: float
+    subgrades:
+      code_quality: integer
+      correctness: integer
+    calculation: "1.0 + 9.0 * (3.0 * correctness + 2.0 * code_quality - 5.0) / 20.0"
 
 grades:
-    #### SP 1 ####
-    m1-passed: *check
-    m2-passed: *check
-    m3-passed: *check
+  #### SP 1 ####
+  m1-passed: *check
+  m2-passed: *check
+  m3-passed: *check
 
-    1_1a: *auto
-    1_2a: *auto
-    1_3a: *auto
-    1_4a: *auto
-    1_5a: *auto
-    1_6a: *auto
-    c-pyramid: *auto
-    c-conway: *check
+  1_1a: *auto
+  1_2a: *auto
+  1_3a: *auto
+  1_4a: *auto
+  1_5a: *auto
+  1_6a: *auto
+  c-pyramid: *auto
+  c-conway: *check
 
-    1_1n: *auto
-    1_2n: *auto
-    1_3n: *auto
-    1_4n: *auto
-    1_5n: *auto
-    1_6n: *auto
-    c-goldbach: *auto
-    c-amicable: *auto
-    c-eratosthenes: *auto
+  1_1n: *auto
+  1_2n: *auto
+  1_3n: *auto
+  1_4n: *auto
+  1_5n: *auto
+  1_6n: *auto
+  c-goldbach: *auto
+  c-amicable: *auto
+  c-eratosthenes: *auto
 
-    2_1t: *auto
-    2_2t: *auto
-    2_3t: *auto
-    2_4t: *auto
-    2_5t: *auto
-    2_6t: *auto
-    c-twitter: *auto
-    c-reformatting: *auto
-    c-plot_min_max: *check
+  2_1t: *auto
+  2_2t: *auto
+  2_3t: *auto
+  2_4t: *auto
+  2_5t: *auto
+  2_6t: *auto
+  c-twitter: *auto
+  c-reformatting: *auto
+  c-plot_min_max: *check
 
-    2_1i: *auto
-    2_2i: *auto
-    2_3i: *auto
-    2_4i: *auto
-    2_5i: *auto
-    2_6i: *auto
-    c-montecarlo: *auto
-    c-egg: *auto
+  2_1i: *auto
+  2_2i: *auto
+  2_3i: *auto
+  2_4i: *auto
+  2_5i: *auto
+  2_6i: *auto
+  c-montecarlo: *auto
+  c-egg: *auto
 
-    3_1b: *auto
-    3_2b: *auto
-    3_3b: *auto
-    3_4b: *auto
-    3_5b: *auto
-    c-weather5: *auto
-    c-weather6: *check
-    c-weather7: *check
+  3_1b: *auto
+  3_2b: *auto
+  3_3b: *auto
+  3_4b: *auto
+  3_5b: *auto
+  c-weather5: *auto
+  c-weather6: *check
+  c-weather7: *check
 
-    sp1_practice_exam: *auto
+  sp1_practice_exam: *auto
 
-    sp1_exam1: *testt
-    sp1_exam2: *testt
-    sp1_exam3: *testt
-    sp1_exam4: *testt
+  sp1_exam1: *testt
+  sp1_exam2: *testt
+  sp1_exam3: *testt
+  sp1_exam4: *testt
 
-    #### SP 2 ####
-    4_1m: *auto
-    4_2m: *auto
-    c-animation: *check
-    c-monopoly-n-player: *check
-
-
-
+  #### SP 2 ####
+  4_1m: *auto
+  4_2m: *auto
+  c-animation: *check
+  c-monopoly-n-player: *check
 
 ########### SP 1 ###########
 
 sp1_checks:
-    show_progress: true
-    submits:
-        m1-passed: 1
-        m2-passed: 1
-        m3-passed: 1
-
+  show_progress: true
+  submits:
+    m1-passed: 1
+    m2-passed: 1
+    m3-passed: 1
 
 sp1_level_1_algorithms_l1alg:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        1_1a: 1
-        1_2a: 1
-        1_3a: 1
-        1_4a: 1
-        1_5a: 1
-        1_6a: 1
+  show_progress: true
+  small_block_overview: true
+  submits:
+    1_1a: 1
+    1_2a: 1
+    1_3a: 1
+    1_4a: 1
+    1_5a: 1
+    1_6a: 1
 
 sp1_level_1_numbers_l1num:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        1_1n: 1
-        1_2n: 1
-        1_3n: 1
-        1_4n: 1
-        1_5n: 1
-        1_6n: 1
+  show_progress: true
+  small_block_overview: true
+  submits:
+    1_1n: 1
+    1_2n: 1
+    1_3n: 1
+    1_4n: 1
+    1_5n: 1
+    1_6n: 1
 
 sp1_level_1_challenges_l1cha:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        c-pyramid: 1
-        c-conway: 1
-        c-goldbach: 1
-        c-amicable: 1
-        c-eratosthenes: 1
+  show_progress: true
+  small_block_overview: true
+  submits:
+    c-pyramid: 1
+    c-conway: 1
+    c-goldbach: 1
+    c-amicable: 1
+    c-eratosthenes: 1
 
 sp1_level_2_text_l2tex:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        2_1t: 1
-        2_2t: 1
-        2_3t: 1
-        2_4t: 1
-        2_5t: 1
-        2_6t: 1
+  show_progress: true
+  small_block_overview: true
+  submits:
+    2_1t: 1
+    2_2t: 1
+    2_3t: 1
+    2_4t: 1
+    2_5t: 1
+    2_6t: 1
 
 sp1_level_2_integration_l2int:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        2_1i: 1
-        2_2i: 1
-        2_3i: 1
-        2_4i: 1
-        2_5i: 1
-        2_6i: 1
+  show_progress: true
+  small_block_overview: true
+  submits:
+    2_1i: 1
+    2_2i: 1
+    2_3i: 1
+    2_4i: 1
+    2_5i: 1
+    2_6i: 1
 
 sp1_level_2_challenges_l2cha:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        c-twitter: 1
-        c-reformatting: 1
-        c-plot_min_max: 1
-        c-montecarlo: 1
-        c-egg: 1
-
+  show_progress: true
+  small_block_overview: true
+  submits:
+    c-twitter: 1
+    c-reformatting: 1
+    c-plot_min_max: 1
+    c-montecarlo: 1
+    c-egg: 1
 
 sp1_level_3_big_data_l3big:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        3_1b: 1
-        3_2b: 1
-        # 3_3b: 1
-        # 3_4b: 1
-        # 3_5b: 1
+  show_progress: true
+  small_block_overview: true
+  submits:
+    3_1b: 1
+    3_2b: 1
+    # 3_3b: 1
+    # 3_4b: 1
+    # 3_5b: 1
 
 sp1_level_3_challenges_l3cha:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        # c-weather5: 1
-        c-weather6: 1
-        c-weather7: 1
+  show_progress: true
+  small_block_overview: true
+  submits:
+    # c-weather5: 1
+    c-weather6: 1
+    c-weather7: 1
 
 sp1_exams:
-    show_progress: true
-    small_block_overview: false
-    submits:
-        sp1_exam1: 1
-        sp1_exam2: 1
-        sp1_exam3: 1
-        sp1_exam4: 1
+  show_progress: true
+  small_block_overview: false
+  submits:
+    sp1_exam1: 1
+    sp1_exam2: 1
+    sp1_exam3: 1
+    sp1_exam4: 1
 
+final_sp1:
+  show_progress: true
+  submits:
+    final_sp1_3: 1
+    final_sp1_4: 1
 
 ########### SP 2 ###########
 
 sp2_started:
-    show_progress: true
-    small_block_overview: true
-    submits:
-        4_1m: 1
-        4_2m: 1
+  show_progress: true
+  small_block_overview: true
+  submits:
+    4_1m: 1
+    4_2m: 1
