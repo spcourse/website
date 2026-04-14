@@ -73,6 +73,9 @@ grades:
   sp2_exam3: *testt
   sp2_exam4: *testt
 
+  final_sp2_3: *check
+  final_sp2_4: *check
+
   #### DP ####
   7_1p: *auto
   7_2p: *auto

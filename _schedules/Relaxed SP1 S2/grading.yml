@@ -99,6 +99,9 @@ grades:
   sp1_exam3: *testt
   sp1_exam4: *testt
 
+  final_sp1_3: *check
+  final_sp1_4: *check
+
   #### SP 2 ####
   4_1m: *auto
   4_2m: *auto
