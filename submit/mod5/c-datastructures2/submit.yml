@@ -1,8 +1,8 @@
 name: c-datastructures2
 files:
-    requires:
-        - datastructures2.py
+  requires:
+    - datastructures2.py
 check:
-    tool: checkpy
-    repo: spcourse/tests
-    args: datastructures2
+  tool: checkpy
+  repo: spcourse/tests
+  args: datastructures2
