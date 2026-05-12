@@ -135,7 +135,7 @@ To begin:
 | Monday 11 May    | (Amended project proposal)              |
 | Monday 18 May    | Project proof of concept discussion     |
 | Friday 22 May    | Final deadline project                  |
-| Wednesday 27 May | Project presentations                   |
+| Friday 22 May | Project presentations                   |
 
 ## Assessment & Grading
 
@@ -288,10 +288,3 @@ We have used many programming recourses for inspiration:
 - CS50 Introduction to Computer Science I by David Malan at Harvard http://cs50.tv/
 - 6.0001 Introduction to Computer Science and Programming in Python by Ana Bell, Eric Grimson and John Guttag at MIT http://ocw.mit.edu
 - Think Python by Allen B. Downey http://greenteapress.com/wp/think-python/
-
-
-
-
-
-
-
