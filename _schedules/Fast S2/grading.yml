@@ -147,7 +147,7 @@ grades:
     final_sp2_4: *check
 
     #### DP ####
-    m7-passed: 
+    m7-passed:
         type: float
         subgrades:
             base_correct: boolean
@@ -333,7 +333,7 @@ dp_project_proje:
     small_block_overview: true
     submits:
         p_1p: 1
-        p_2p: 1 
+        p_2p: 1
         p_3p: 1
         p_4p: 1
 
@@ -341,6 +341,5 @@ dp_project_proje:
 ########### FINAL GRADES ###########
 
 calculation:
-    final_data_semester_1:
+    final_data_semester_2:
         dp_grades: 1
-
