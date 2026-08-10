@@ -42,9 +42,9 @@ templates:
 
 grades:
     #### SP 1 ####
-    m1-passed: *check
-    m2-passed: *check
-    m3-passed: *check
+    m1_passed: *check
+    m2_passed: *check
+    m3_passed: *check
 
     1_1a: *auto
     1_2a: *auto
@@ -101,9 +101,9 @@ grades:
     sp1_exam4: *testt
 
     #### SP 2 ####
-    m4-passed: *check
-    m5-passed: *check
-    m6-passed: *check
+    m4_passed: *check
+    m5_passed: *check
+    m6_passed: *check
 
     4_1m: *auto
     4_2m: *auto
@@ -173,9 +173,9 @@ sp1_checks:
     type: pass_all
     show_progress: true
     submits:
-        - m1-passed
-        - m2-passed
-        - m3-passed
+        - m1_passed
+        - m2_passed
+        - m3_passed
 
 
 sp1_level_1_algorithms_l1alg:
@@ -288,9 +288,9 @@ sp2_checks:
     type: pass_all
     show_progress: true
     submits:
-        - m4-passed
-        - m5-passed
-        - m6-passed
+        - m4_passed
+        - m5_passed
+        - m6_passed
 
 sp2_level_4_monopoly_L4mon:
     show_progress: true
