@@ -134,28 +134,33 @@ grades:
     c-experiment: *check
 
 
+########### FINAL GRADES ###########
 
-    #### FINAL GRADES ####
-    final_sp1_1: *check
-    final_sp1_2: *check
-    final_sp1_3: *check
-    final_sp1_4: *check
+# sp1 and sp2 are each a single pass/fail grade, calculated from the components
+# below: every check has to be passed, and one of the four exams
+calculation:
+    sp1:
+        type: pass
+        components:
+            - sp1_checks
+            - sp1_exams
 
-    final_sp2_1: *check
-    final_sp2_2: *check
-    final_sp2_3: *check
-    final_sp2_4: *check
-
+    sp2:
+        type: pass
+        components:
+            - sp2_checks
+            - sp2_exams
 
 
 ########### SP 1 ###########
 
 sp1_checks:
+    type: pass_all
     show_progress: true
     submits:
-        m1-passed: 1
-        m2-passed: 1
-        m3-passed: 1
+        - m1-passed
+        - m2-passed
+        - m3-passed
 
 
 sp1_level_1_algorithms_l1alg:
@@ -242,23 +247,25 @@ sp1_level_3_challenges_l3cha:
         c-weather7: 1
 
 sp1_exams:
+    type: pass_any
     show_progress: true
     small_block_overview: false
     submits:
-        sp1_exam1: 1
-        sp1_exam2: 1
-        sp1_exam3: 1
-        sp1_exam4: 1
+        - sp1_exam1
+        - sp1_exam2
+        - sp1_exam3
+        - sp1_exam4
 
 ########### SP 2 ###########
 
 
 sp2_checks:
+    type: pass_all
     show_progress: true
     submits:
-        m4-passed: 1
-        m5-passed: 1
-        m6-passed: 1
+        - m4-passed
+        - m5-passed
+        - m6-passed
 
 sp2_level_4_monopoly_L4mon:
     show_progress: true
@@ -299,27 +306,14 @@ sp2_level_6_survival_L6sur:
         6_3s: 1
 
 sp2_exams:
+    type: pass_any
     show_progress: true
     small_block_overview: false
     submits:
-        sp2_exam1: 1
-        sp2_exam2: 1
-        sp2_exam3: 1
-        sp2_exam4: 1
-
-########### FINAL GRADES ###########
-
-final_sp1:
-    show_progress: true
-    submits:
-        final_sp1_1: 1
-        final_sp1_2: 1
-
-final_sp2:
-    show_progress: true
-    submits:
-        final_sp2_1: 1
-        final_sp2_2: 1
+        - sp2_exam1
+        - sp2_exam2
+        - sp2_exam3
+        - sp2_exam4
 
 ########### DP ###########
 
