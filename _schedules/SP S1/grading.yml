@@ -136,20 +136,35 @@ grades:
 
 ########### FINAL GRADES ###########
 
-# sp1 and sp2 are each a single pass/fail grade, calculated from the components
-# below: every check has to be passed, and one of the four exams
+# SP1 and SP2 each have two pass/fail results to register: a first one and a resit.
+# Both require every check to be passed. Which exam sitting decides which result
+# depends on the student: the first sitting they turned up for decides sp1_final,
+# and any later one decides sp1_resit. A student who sat no exam gets neither, and a
+# student who sat one exam gets a first result and no resit.
 calculation:
-    sp1:
+    sp1_final:
         type: pass
         components:
             - sp1_checks
             - sp1_exams
 
-    sp2:
+    sp1_resit:
+        type: pass
+        components:
+            - sp1_checks
+            - sp1_exams_resit
+
+    sp2_final:
         type: pass
         components:
             - sp2_checks
             - sp2_exams
+
+    sp2_resit:
+        type: pass
+        components:
+            - sp2_checks
+            - sp2_exams_resit
 
 
 ########### SP 1 ###########
@@ -247,9 +262,19 @@ sp1_level_3_challenges_l3cha:
         c-weather7: 1
 
 sp1_exams:
-    type: pass_any
+    type: pass_first
     show_progress: true
     small_block_overview: false
+    submits:
+        - sp1_exam1
+        - sp1_exam2
+        - sp1_exam3
+        - sp1_exam4
+
+# the same four sittings, for the resit result. No show_progress: the overview already
+# has a column per exam above, from the component that shares this list
+sp1_exams_resit:
+    type: pass_last
     submits:
         - sp1_exam1
         - sp1_exam2
@@ -306,9 +331,17 @@ sp2_level_6_survival_L6sur:
         6_3s: 1
 
 sp2_exams:
-    type: pass_any
+    type: pass_first
     show_progress: true
     small_block_overview: false
+    submits:
+        - sp2_exam1
+        - sp2_exam2
+        - sp2_exam3
+        - sp2_exam4
+
+sp2_exams_resit:
+    type: pass_last
     submits:
         - sp2_exam1
         - sp2_exam2
