@@ -1,6 +1,6 @@
 # Syllabus
 
-**Spring 2025–2026**
+**Fall 2026–2027**
  
 **Track:** Full (Scientific Programming 1 + 2 and Data Processing - fast pace)
 
@@ -116,26 +116,7 @@ To begin:
 3. Start with **Level 1**, choosing either *Algorithms* or *Numbers*.
 
 ## Deadlines {#deadlines}
-**Spring 2025/2026, (SP1 + SP2 + DP, Fast Pace) **
-
-| Date             | Deadline                |
-|------------------|-------------------------|
-| Friday 13 Feb    | Module 1                |
-| Friday 20 Feb    | Module 2                |
-| Friday 27 Feb    | Module 3                |
-| Friday 6 Mar     | Module 4                |
-| Friday 13 Mar    | Module 5                |
-| Friday 20 Mar    | Module 6                |
-| Monday 23 Mar    | Exam SP1                |
-| Tuesday 24 Mar   | Exam SP2                |
-| Wednesday 8 April  | Module 7                |
-| Wednesday 15 April | Module 8                |
-| Friday 24 April  | Module 9                |
-| Friday 8 May     | Module 10 & Project proposal discussion |
-| Monday 11 May    | (Amended project proposal)              |
-| Monday 18 May    | Project proof of concept discussion     |
-| Friday 22 May    | Final deadline project                  |
-| Friday 22 May | Project presentations                   |
+**Fall 2026/2027, (SP1 + SP2 + DP, Fast Pace) **
 
 ## Assessment & Grading
 
