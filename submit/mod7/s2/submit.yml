@@ -1,12 +1,4 @@
 name: 7_2p
 files:
     required:
-        - phase5.py
-        - phase6.py
-        - phase7.py
-        - phase8.py
-        - phase9.py
-check:
-    tool: checkpy
-    repo: spcourse/tests
-    args: phase5
+        - notebook-2-cleaning-summarizing.ipynb

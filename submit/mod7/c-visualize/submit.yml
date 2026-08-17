@@ -1,4 +1,0 @@
-name: c-visualize
-files:
-    required:
-        - visualize.ipynb

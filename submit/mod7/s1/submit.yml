@@ -1,11 +1,4 @@
 name: 7_1p
 files:
     required:
-        - phase1.py
-        - phase2.py
-        - phase3.py
-        - phase4.py
-check:
-    tool: checkpy
-    repo: spcourse/tests
-    args: phase1 phase2 phase4
+        - notebook-1-foundations.ipynb

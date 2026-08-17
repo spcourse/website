@@ -1,6 +1,4 @@
-name: 8_2w
+name: 8_2p
 files:
     required:
-        - scraper.py
-        - visualize_gdp.py
-        - gdp_barplot.png
+        - notebook-4-reshaping-aggregation.ipynb

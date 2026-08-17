@@ -2,14 +2,14 @@
 
 **Spring 2025–2026**
  
-**Track:** only Data Processing - normal pace
+**Track:** Full (Scientific Programming 1 + 2 and Data Processing - fast pace)
 
-**Expected workload:** ~10 hours/week
+**Expected workload:** ~20 hours/week
 
 ## Teaching Team & Contact
 
 **Teaching staff**
-Marit, Anastasia, Jelle, Luka, Simon
+Anastasia, Luka
 
 **Contact email**
 [scientific@proglab.nl](mailto:scientific@proglab.nl)
@@ -51,6 +51,22 @@ These courses are designed to be taken **together**, but you may also take **one
 If at any point you feel unsure whether this track fits your background, please contact us.
 
 ## Learning Goals
+
+### After Scientific Programming 1, you:
+
+- can transform the description of a simple algorithm into working code by combining basic program elements;
+- can apply several scientific programming techniques from different areas of study;
+- can use a couple of libraries in your program and know how to find and read documentation on other libraries;
+- can make your programs simpler and easier to read by employing a few standard tactics;
+- can trace and fix several common programming errors.
+
+### After Scientific Programming 2, you:
+
+- can use native python data structures (like sets, dictionaries, and tuples);
+- analyze the complexity of an algorithm;
+- quickly learn to use new python packages and know how to find documentation for them;
+- import and analyze data;
+- create advanced plots.
 
 ### After Data Processing, you:
 
@@ -100,22 +116,64 @@ To begin:
 3. Start with **Level 1**, choosing either *Algorithms* or *Numbers*.
 
 ## Deadlines {#deadlines}
-**Spring 2025/2026, (only DP, Normal Pace) **
+**Spring 2025/2026, (SP1 + SP2 + DP, Fast Pace) **
 
-|  Date              | Deadline                                  |
-|--------------------|-------------------------------------------|
-| Wednesday 18 Feb   | Module 7                                  |
-| Wednesday 4 Mar    | Module 8                                  |
-| Wednesday 18 Mar   | Module 9                                  |
-| Wednesday 8 April  | Module 10 & Project proposal discussion   |
-| Friday 10 April    | (Amended project proposal)                |
-| Wednesday 22 April | Project proof of concept discussion       |
-| Wednesday 13 May   | Final deadline project                    |
-| Friday 22 May   | Project presentations                     |
-
-If this schedule does not apply to you, please contact us.
+| Date             | Deadline                |
+|------------------|-------------------------|
+| Friday 13 Feb    | Module 1                |
+| Friday 20 Feb    | Module 2                |
+| Friday 27 Feb    | Module 3                |
+| Friday 6 Mar     | Module 4                |
+| Friday 13 Mar    | Module 5                |
+| Friday 20 Mar    | Module 6                |
+| Monday 23 Mar    | Exam SP1                |
+| Tuesday 24 Mar   | Exam SP2                |
+| Wednesday 8 April  | Module 7                |
+| Wednesday 15 April | Module 8                |
+| Friday 24 April  | Module 9                |
+| Friday 8 May     | Module 10 & Project proposal discussion |
+| Monday 11 May    | (Amended project proposal)              |
+| Monday 18 May    | Project proof of concept discussion     |
+| Friday 22 May    | Final deadline project                  |
+| Friday 22 May | Project presentations                   |
 
 ## Assessment & Grading
+
+### Scientific Programming 1 & 2 (Pass/Fail)
+
+Scientific Programming 1 & 2 are pass/fail courses. That means that you final grade will be one of the following:
+
+* **AVV (Pass)**
+
+  * All modules completed, discussed, and passed
+  * Final exam passed
+* **NAV (Insufficient)**
+
+  * Active participation but incomplete or insufficient modules/exam
+* **NAP (Non-attendance)**
+
+  * No active participation
+
+#### Coursework (Modules)
+
+* Each module contains 5–9 submissions, mostly auto-graded.
+* **All required submissions must be correct** to pass a module.
+* After completion, you must **discuss your code in person** during a tutorial.
+* A module is only passed after discussion.
+* All modules must be passed **before** you can take the exam.
+
+#### Final Exam
+
+* You may participate in the final exam **only if you have completed all coursework**, meaning that all modules are *finished*, *discussed*, and marked as *pass*.
+* If you do not meet these requirements (for example, if you still have an insufficient or a module hos not been discussed), you may not participate in the exam at that time. You must first complete the coursework and take the exam at a later date.
+* The final exam is an **on-campus programming exam** conducted in a controlled setting. You will take the exam on a dedicated exam computer, not on your own laptop.
+* The exam lasts approximately 3 hours and consists of 4 small programming assignments.
+* To pass the exam, you must solve at least 3 of the 4 assignments correctly.
+* Your exam will be evaluated solely on the correctness of your solutions. Code design, comments, and style are *not* taken into account.
+* Checkpy is available during the exam, allowing you to verify the correctness of your solutions.
+* You may use the course website as a resource (you may open *sp.proglab.nl* in a new tab after logging in).
+* You may use a **printed version** of [these cheatsheets](/python/en/overview) during the exam.
+* You may *not* import external modules such as `numpy`, `csv`, or others, unless the assignment explicitly states that this is allowed.
 
 ### Data Processing (Graded)
 

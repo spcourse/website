@@ -1,4 +1,0 @@
-name: c-experiment
-files:
-    required:
-        - experiment.py

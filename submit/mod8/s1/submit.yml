@@ -1,4 +1,4 @@
-name: 8_1w
+name: 8_1p
 files:
     required:
-        - homepage.zip
+        - notebook-3-quality-combining.ipynb

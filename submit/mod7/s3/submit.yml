@@ -1,0 +1,5 @@
+name: 7_3p
+files:
+    required:
+        # placeholder - assignment page still to be written
+        - weather-pandas.py
