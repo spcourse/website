@@ -151,7 +151,7 @@ SP1 - L2 (Text Processing):
         Submit [submit]: /submit/mod2t/s3
     2.4 Files:
         Read Files [theory]: /python/en/file-io
-        Practice with files [practice]: /python/en/files
+        "[icon:people-fill] Practice with files": /python/en/files
         "[icon:people-fill] Alice": /shorts/alice
         "[icon:person-fill] Sentiment": /text/en/sentiment
         Submit [submit]: /submit/mod2t/s4
@@ -330,20 +330,20 @@ SP2 - L6 (Populations):
     Introduction: /populations-oo
     6.1 Classes:
         Learn about using classes in Python [theory]: /python/en/classes
-        Practice with classes [practice]: /objects/cards
+        "[icon:people-fill] Practice with classes": /objects/cards
     6.2 Populations (part 1):
         Introduction: /populations-oo/introduction
-        Phase 1: /populations-oo/phase1
-        Phase 2: /populations-oo/phase2
-        Phase 3: /populations-oo/phase3
-        Phase 4: /populations-oo/phase4
+        "[icon:people-fill] Phase 1": /populations-oo/phase1
+        "[icon:people-fill] Phase 2": /populations-oo/phase2
+        "[icon:people-fill] Phase 3": /populations-oo/phase3
+        "[icon:person-fill] Phase 4": /populations-oo/phase4
         Submit [submit]: /submit/mod6/s1
     6.3 Populations (part 2):
-        Phase 5: /populations-oo/phase5
-        Phase 6: /populations-oo/phase6
-        Phase 7: /populations-oo/phase7
-        Phase 8: /populations-oo/phase8
-        Phase 9: /populations-oo/phase9
+        "[icon:people-fill] Phase 5": /populations-oo/phase5
+        "[icon:people-fill] Phase 6": /populations-oo/phase6
+        "[icon:people-fill] Phase 7": /populations-oo/phase7
+        "[icon:person-fill] Phase 8": /populations-oo/phase8
+        "[icon:person-fill] Phase 9": /populations-oo/phase9
         Submit [submit]: /submit/mod6/s2
     Make sure to [discuss] your solutions in person after completing this level!:
     6.4 Challenge 1 - Creative:
@@ -362,30 +362,32 @@ SP2 - Practice exam:
 
 # NOTE: the four notebook pages are live (spcourse/pandas, pandas-dp/notebook-N/content.md).
 # Students download only the .ipynb; it fetches its own data and tests.py at run time.
-# The /pandas/assignment-* pages below still do not exist - those two are placeholders.
+# The weather assignment is live too, at pandas-dp/weather/ - that page ships its own two
+# data files and has a checkpy (spcourse/tests, tests/pandas-dp/weather-pandasTest.py).
+# /pandas/assignment-size-and-lifespan below still does not exist - it is a placeholder.
 
 DP - L7 (Pandas 1):
     Data Processing - Level 7 (Pandas 1) [graded]:
     7.1 Jupyter notebook:
-        Jupyter notebook [practice]: /pandas/notebooks-sp
+        "[icon:people-fill] Jupyter notebook": /pandas/notebooks-sp
     7.2 Pandas 1 (foundations):
-        Series, DataFrames, reading files, selecting and plotting [practice]: /pandas/pandas-dp/notebook-1
+        "[icon:people-fill] Series, DataFrames, reading files, selecting and plotting": /pandas/pandas-dp/notebook-1
         Submit [submit]: /submit/mod7/s1
     7.3 Pandas 2 (cleaning and summarizing):
-        Types, missing data, deriving columns, sorting and grouping [practice]: /pandas/pandas-dp/notebook-2
+        "[icon:people-fill] Types, missing data, deriving columns, sorting and grouping": /pandas/pandas-dp/notebook-2
         Submit [submit]: /submit/mod7/s2
     7.4 Assignment:
-        "[icon:person-fill] Weather": /pandas/assignment-weather
+        "[icon:person-fill] Weather": /pandas/pandas-dp/weather
         Submit [submit]: /submit/mod7/s3
     Make sure to [discuss] your solutions in person after completing this level!:
 
 DP - L8 (Pandas 2):
     Data Processing - Level 8 (Pandas 2) [graded]:
     8.1 Pandas 3 (quality and combining):
-        Data quality, concat, joins and the cross join [practice]: /pandas/pandas-dp/notebook-3
+        "[icon:people-fill] Data quality, concat, joins and the cross join": /pandas/pandas-dp/notebook-3
         Submit [submit]: /submit/mod8/s1
     8.2 Pandas 4 (reshaping and windows):
-        Long vs wide, melt and pivot, rolling and diff [practice]: /pandas/pandas-dp/notebook-4
+        "[icon:people-fill] Long vs wide, melt and pivot, rolling and diff": /pandas/pandas-dp/notebook-4
         Submit [submit]: /submit/mod8/s2
     8.3 Assignment:
         "[icon:person-fill] Size and Lifespan": /pandas/assignment-size-and-lifespan
