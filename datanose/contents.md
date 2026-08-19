@@ -7,11 +7,11 @@ exams and the Data Processing presentations are course-specific.
 
 | when | mon | tue | wed | thu | fri |
 |------|-----|-----|-----|-----|-----|
-| **week 1**<br>31 Aug - 4 Sep | | | 13:00 - 16:45<br>SP1 kick-off<br>lecture<br>SP L0.09 | | 15:00 - 18:45<br>tutorial<br>SP L0.09 |
-| **week 2-7**<br>7 Sep - 16 Oct | 13:00 - 16:45<br>tutorial<br>SP L0.09 | | 13:00 - 16:45<br>tutorial<br>SP L0.09 | | 15:00 - 18:45<br>tutorial<br>SP L0.09 |
-| **week 8**<br>19 - 23 Oct<br>*exams* | 9:00 - 12:00<br>exam SP2<br>IWO 4.04C<br>(Blauw) | 9:30 - 11:30<br>exam SP1<br>USC Universum<br>Sporthal 1 | | | |
-| **week 9-15**<br>26 Oct - 11 Dec | 13:00 - 16:45<br>tutorial<br>SP L0.09 | | 13:00 - 16:45<br>tutorial<br>SP L0.09 | | 15:00 - 18:45<br>tutorial<br>SP L0.09 |
-| **week 16**<br>14 - 18 Dec<br>*exams* | 9:00 - 12:00<br>exam SP2<br>IWO 4.04C<br>(Blauw) | 9:00 - 11:00<br>exam SP1<br>REC D4.02<br>(Brug) | 13:00 - 16:45<br>DP final<br>presentations<br>SP L1.07 | | |
+| **week 1**<br>31 Aug<br>4 Sep | | | 13:00 - 16:45<br>SP1 kick-off<br>lecture<br>SP L0.09 | | 15:00 - 18:45<br>tutorial<br>SP L0.09 |
+| **week 2-7**<br>7 Sep<br>16 Oct | 13:00 - 16:45<br>tutorial<br>SP L0.09 | | 13:00 - 16:45<br>tutorial<br>SP L0.09 | | 15:00 - 18:45<br>tutorial<br>SP L0.09 |
+| **week 8**<br>19 Oct<br>23 Oct<br>*exams* | 9:00 - 12:00<br>exam SP2<br>IWO 4.04C<br>(Blauw) | 9:30 - 11:30<br>exam SP1<br>USC Universum<br>Sporthal 1 | | | |
+| **week 9-15**<br>26 Oct<br>11 Dec | 13:00 - 16:45<br>tutorial<br>SP L0.09 | | 13:00 - 16:45<br>tutorial<br>SP L0.09 | | 15:00 - 18:45<br>tutorial<br>SP L0.09 |
+| **week 16**<br>14 Dec<br>18 Dec<br>*exams* | 9:00 - 12:00<br>exam SP2<br>IWO 4.04C<br>(Blauw) | 9:00 - 11:00<br>exam SP1<br>REC D4.02<br>(Brug) | 13:00 - 16:45<br>DP final<br>presentations<br>SP L1.07 | | |
 
 There are no Thursday sessions, and no tutorials during the exam weeks.
 
