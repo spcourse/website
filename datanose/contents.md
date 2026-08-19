@@ -22,8 +22,6 @@ exams and the Data Processing presentations are course-specific.
 }
 </style>
 
-<p class="legend"><span class="tut">tutorial</span><span class="lec">lecture</span><span class="pres">presentation</span><span class="exam">exam</span></p>
-
 | when | mon | tue | wed | thu | fri |
 |------|-----|-----|-----|-----|-----|
 | **week 1**<br>31 Aug<br>4 Sep | | | <span class="lec">13:00 - 16:45<br>SP1 kick-off<br>lecture<br>SP L0.09</span> | | <span class="tut">15:00 - 18:45<br>tutorial<br>SP L0.09</span> |
