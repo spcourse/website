@@ -3,14 +3,16 @@ _description: "Fast - Do the full programme (SP1, SP2 and Data Processing) this 
 
 Welcome:
     Read the syllabus to get started: /syllabus
-    # NOTE: the cli, uv and zed pages do not exist yet. They are placeholders - one page
-    # each, no Windows/Mac/Linux split in the schedule, the split happens inside the page
-    # itself. Installing checkpy is part of the Python/uv page, not a step of its own.
-    Install python:
-      Intro: /python/en/installing/intro
-      Step 1 learn to use the command line: /python/en/installing/cli
-      Step 2 install Python, uv and checkpy: /python/en/installing/uv
-      Step 3 install Zed: /python/en/installing/zed
+    Installation Windows:
+        Command line (Windows): /python/en/installing/uv/cli-win
+        Exercise 1, course folders: /python/en/installing/uv/sp/cli-exercise
+        Python setup with uv (Windows): /python/en/installing/uv/sp/install-win
+        Exercise 2, first files in Zed: /python/en/installing/uv/sp/zed-exercise
+    Installation macOS/Linux:
+        Command line (macOS/Linux): /python/en/installing/uv/cli-mac
+        Exercise 1, course folders: /python/en/installing/uv/sp/cli-exercise
+        Python setup with uv (macOS/Linux): /python/en/installing/uv/sp/install-mac
+        Exercise 2, first files in Zed: /python/en/installing/uv/sp/zed-exercise
 
 SP1 - L1 (Algorithms):
     1.1 Output:
