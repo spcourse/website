@@ -148,12 +148,7 @@ The modules are grouped into levels, you have to make one module per level.
 For some levels you have the choice between two different modules. 
 When there is such a choice, you will learn the same programming concepts, but often in different thematic context (i.e. different scientific fields).
 
-Each module consists of:
-
-- **Theory** — explanations, both written and in the form of videos.
-- **Pair assignments** — assignments you are encouraged to do together with other students.
-- **Individual assignments** — assignments you make on your own (with our help, of course).
-- **Challenges** — optional, more difficult assignments.
+Each module consists of theory sections, assignments, and challenges. The assignments are required to complete the course, the challenges are optional and are intended for those who find the regular assignments too easy.
 
 Here below is an overview of all modules for all courses. Click a module title to read what it is about.
 

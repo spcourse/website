@@ -29,84 +29,188 @@
 **Deadlines**
 [jump to deadlines](#deadlines)
 
-## Course Overview
+- [General info](#general-info)
+  - [Schedule](#schedule)
+  - [Attendance](#attendance)
+- [Getting started](#getting-started)
+- [Programming modules](#programming-modules)
+- [Deadlines](#deadlines)
+- [Grading](#grading)
+- [Prerequisites](#prerequisites)
+- [Learning goals](#learning-goals)
+- [Course materials](#materials)
+- [Doing your own work](#plagiarism)
+- [Acknowledgements](#acknowledgements)
 
-This programming track introduces Python through scientific and data-oriented problems. It is designed for **students with no prior programming experience**, but can also accommodate students that already have some experience, but want to imrpove their programming skills.
+## General info {#general-info}
 
-The track consists of **three separate courses**:
+Welcome to this programming track! Here, you’ll use the Python programming language while learning to solve scientific problems from several fields of science. This track is intended for students who have no experience in programming at all. The Scientific Programming track consists of three courses:
 
-* **Scientific Programming 1 (SP1)** – 3 EC, pass/fail
-* **Scientific Programming 2 (SP2)** – 3 EC, pass/fail
-* **Data Processing (DP)** – 6 EC, graded
+- Scientific Programming 1 (SP1) — 3 EC, not graded but pass/fail.
+- Scientific Programming 2 (SP2) — 3 EC, not graded but pass/fail.
+- Data Processing (DP) — 6 EC, graded.
 
-These courses are designed to be taken **together**, but you may also take **one or two** of them separately.
+You learn about the Python language by working on programming problems from several scientific areas. The three courses from this track are designed to be taken together, but you can choose to only follow one or two of the courses.
 
-## Prerequisites
+### Schedule {#schedule}
 
-### Scientific Programming 1
+You can follow each course at different paces to fit your schedule. This means you could do all three courses in a single semester, or you could do them spread out over several semesters. 
 
-* No prior programming experience required.
-* Some modules assume **high-school level mathematics or physics**, but alternatives are available.
-* If you already have substantial programming experience, this course may not be appropriate—contact staff for advice.
+**You are following the Fast schedule**: Scientific Programming 1 in September,
+Scientific Programming 2 in October, and Data Processing in November and December.
 
-### Scientific Programming 2
+Your schedule is highlighted below. The other schedules are greyed out — they are
+shown in case you would like to switch to a slower pace.
 
-* Requires **Scientific Programming 1** (or equivalent experience).
+<style>
+.tracks {
+  width: 100%; margin-bottom: 2.5em; font-size: 0.9em;
+  border-collapse: separate; border-spacing: 3px 7px;
+}
+.tracks, .tracks thead, .tracks tbody, .tracks tr { background: transparent; }
+.tracks th, .tracks td {
+  border: none; padding: 0.4em 0.5em; text-align: center; background: transparent; font-weight: normal;
+}
+.tracks tbody th { text-align: left; white-space: nowrap;}
+.tracks .sp1, .tracks .sp2, .tracks .dp { border-radius: 5px; }
+.tracks .sp1 { background: #dbe3d1; color: #39492a; }
+.tracks .sp2 { background: #f0e2be; color: #5d4713; }
+.tracks .dp  { background: #d3e0dc; color: #2d4a43; }
+.tracks .next { text-align: left; font-style: italic; color: #6b6455; white-space: nowrap; }
+.tracks .sched { font-weight: bold; }
+.tracks tr.dim td, .tracks tr.dim th { filter: grayscale(100%); opacity: 0.4; }
+</style>
 
-### Data Processing
+<table class="tracks">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Sep</th><th>Oct</th><th>Nov</th><th>Dec</th><th>Jan</th>
+      <th>Feb</th><th>Mar</th><th>Apr</th><th>May</th><th>Jun</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th class="sched">Fast</th>
+      <td class="sp1">SP1</td>
+      <td class="sp2">SP2</td>
+      <td class="dp" colspan="2">DP</td>
+      <td colspan="6"></td>
+      <td></td>
+    </tr>
+    <tr class="dim">
+      <th class="sched">Standard</th>
+      <td class="sp1" colspan="2">SP1</td>
+      <td class="sp2" colspan="2">SP2</td>
+      <td></td>
+      <td class="dp" colspan="4">DP</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr class="dim">
+      <th class="sched">Relaxed</th>
+      <td class="sp1" colspan="4">SP1</td>
+      <td></td>
+      <td class="sp2" colspan="4">SP2</td>
+      <td></td>
+      <td class="next">DP next year?</td>
+    </tr>
+  </tbody>
+</table>
 
-* Requires **Scientific Programming 2** (or equivalent experience).
+And, for reference, the schedules that start in Semester 2:
 
-If at any point you feel unsure whether this track fits your background, please contact us.
+<table class="tracks">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Sep</th><th>Oct</th><th>Nov</th><th>Dec</th><th>Jan</th>
+      <th>Feb</th><th>Mar</th><th>Apr</th><th>May</th><th>Jun</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="dim">
+      <th class="sched">Fast</th>
+      <td colspan="5"></td>
+      <td class="sp1">SP1</td>
+      <td class="sp2">SP2</td>
+      <td class="dp" colspan="2">DP</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr class="dim">
+      <th class="sched">Standard</th>
+      <td colspan="5"></td>
+      <td class="sp1" colspan="2">SP1</td>
+      <td class="sp2" colspan="2">SP2</td>
+      <td></td>
+      <td class="next">DP next year?</td>
+    </tr>
+    <tr class="dim">
+      <th class="sched">Relaxed</th>
+      <td colspan="5"></td>
+      <td class="sp1" colspan="4">SP1</td>
+      <td></td>
+      <td class="next">SP2 next year?</td>
+    </tr>
+  </tbody>
+</table>
 
-## Learning Goals
+The course load is of course dependent on your chosen track. The actual amount of work it takes to complete the course varies a lot for each student. But, as a rough estimate, count at least:
 
-### After Scientific Programming 1, you:
+* 20 hrs per week for the **fast** track,
+* 10 hrs per week for the **standard** track, and
+* 5 hrs per week for the **relaxed** track.
 
-- can transform the description of a simple algorithm into working code by combining basic program elements;
-- can apply several scientific programming techniques from different areas of study;
-- can use a couple of libraries in your program and know how to find and read documentation on other libraries;
-- can make your programs simpler and easier to read by employing a few standard tactics;
-- can trace and fix several common programming errors.
+You don't have to follow the entire Scientific Programming track, **you can also follow a single course**. 
 
-### After Scientific Programming 2, you:
+### Attendance {#attendance}
 
-- can use native python data structures (like sets, dictionaries, and tuples);
-- analyze the complexity of an algorithm;
-- quickly learn to use new python packages and know how to find documentation for them;
-- import and analyze data;
-- create advanced plots.
+There are no lectures (except for a non-compulsory kick-off meeting at the start of Scientific Programming 1) and the tutorials are flexible. 
 
-### After Data Processing, you:
+The fact that the track offers a lot of flexibility doesn't mean you are on your own. In the tutorials, we do provide a lot of help with the programming assignments. You'll work on campus (together with other students) in a classroom. You can ask us questions while you're working on your assignments.
 
-- can read data into your programs from several structured standard formats;
-- can transform data into a form suitable for further analysis by combining basic operators;
-- can build meaningful visualizations of your data;
-- understand how to write programs that are easy to understand for yourself and other programmers;
-- are capable of using advanced programming concepts (like object oriented programming).
+- You can find the times and locations here: [Tutorial and exam schedules](/datanose)
+- **We expect all students to join at least one tutorial a week.** You can pick which one you prefer yourself.
+- This is the main place where you talk with us and meet other students.
 
-## Course Structure
 
-### Modules and Levels
+## Getting started {#getting-started}
 
-You learn programming through **modules**, grouped into **levels**.
+To begin:
 
-Each module consists of:
+1. Read this syllabus carefully.
+2. Install Python (instructions on the website).
+3. Start with **Level 1**, choosing either *Algorithms* or *Numbers*.
 
-* **Theory** (text + videos)
-* **Pair assignments** (collaborative)
-* **Individual assignments**
-* **Challenges** (optional but recommended)
+## Programming modules {#programming-modules}
 
-Key rules:
+You're going to learn programming through a number of programming modules. 
+The modules are grouped into levels, you have to make one module per level. 
+For some levels you have the choice between two different modules. 
+When there is such a choice, you will learn the same programming concepts, but often in different thematic context (i.e. different scientific fields).
 
-* You must complete **one module per level**.
-* Some levels offer **alternative modules** covering the same concepts in different scientific contexts.
-* Challenges are optional for SP1/SP2 (but, required for higher grades in Data Processing).
+Each module consists of theory sections, assignments and challenges. In the schedule
+you will see these icons:
 
-### Programming modules {#programming-modules}
+<ul class="types">
+  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-people-fill" viewBox="0 0 16 16"><path d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6m-5.784 6A2.24 2.24 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.3 6.3 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1zM4.5 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5"/></svg> <b>Collaborative assignments</b> — you are encouraged to work on these
+      together with other students, and copying each other's code is no problem here.</li>
+  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16"><path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6"/></svg> <b>Individual assignments</b> — you make these entirely on your own
+      (with our help, of course). You may not copy code from anyone else.</li>
+  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill-gear" viewBox="0 0 16 16"><path d="M11 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0m-9 8c0 1 1 1 1 1h5.256A4.5 4.5 0 0 1 8 12.5a4.5 4.5 0 0 1 1.544-3.393Q8.844 9.002 8 9c-5 0-6 3-6 4m9.886-3.54c.18-.613 1.048-.613 1.229 0l.043.148a.64.64 0 0 0 .921.382l.136-.074c.561-.306 1.175.308.87.869l-.075.136a.64.64 0 0 0 .382.92l.149.045c.612.18.612 1.048 0 1.229l-.15.043a.64.64 0 0 0-.38.921l.074.136c.305.561-.309 1.175-.87.87l-.136-.075a.64.64 0 0 0-.92.382l-.045.149c-.18.612-1.048.612-1.229 0l-.043-.15a.64.64 0 0 0-.921-.38l-.136.074c-.561.305-1.175-.309-.87-.87l.075-.136a.64.64 0 0 0-.382-.92l-.148-.045c-.613-.18-.613-1.048 0-1.229l.148-.043a.64.64 0 0 0 .382-.921l-.074-.136c-.306-.561.308-1.175.869-.87l.136.075a.64.64 0 0 0 .92-.382zM14 12.5a1.5 1.5 0 1 0-3 0 1.5 1.5 0 0 0 3 0"/></svg> <b>Challenges</b> — optional, considerably harder assignments,
+      for when you want to get the most out of this course.</li>
+</ul>
 
-An overview of all modules, per course. Click a module title to read what it is about.
+<style>
+.types { list-style: none; padding-left: 0; }
+.types li { margin-bottom: 0.5em; }
+.types svg { vertical-align: -0.15em; margin-right: 0.3em; }
+</style>
+
+Here below is an overview of all modules for all courses. Click a module title to read what it is about.
 
 <style>
 .modules { width: 100%; border-collapse: collapse; margin-bottom: 1.5em; }
@@ -122,7 +226,7 @@ An overview of all modules, per course. Click a module title to read what it is 
 .modules .todo { color: #8a6d3b; font-style: italic; }
 </style>
 
-#### Scientific Programming 1 (Level 1 - Level 3) {#sp1-modules}
+### Scientific Programming 1 (Level 1 - Level 3) {#sp1-modules}
 
 <table class="modules">
   <tr>
@@ -163,7 +267,7 @@ An overview of all modules, per course. Click a module title to read what it is 
   </tr>
 </table>
 
-#### Scientific Programming 2 (Level 4 - Level 6) {#sp2-modules}
+### Scientific Programming 2 (Level 4 - Level 6) {#sp2-modules}
 
 <table class="modules">
   <tr>
@@ -190,7 +294,7 @@ An overview of all modules, per course. Click a module title to read what it is 
   </tr>
 </table>
 
-#### Data Processing (Level 7 - Level 10 + final project) {#dp-modules}
+### Data Processing (Level 7 - Level 10 + final project) {#dp-modules}
 
 <table class="modules">
   <tr>
@@ -229,105 +333,145 @@ An overview of all modules, per course. Click a module title to read what it is 
   </tr>
 </table>
 
-### Tutorials and Support
-
-Although the track is flexible, **you are not on your own**.
-
-* Tutorials are on-campus working sessions.
-* Teaching staff are present to answer questions and discuss solutions.
-* **You are expected to attend at least one tutorial per week.**
-* You select a tutorial group via the intake form.
-
-Tutorial schedules:
-[Tutorial schedules (Datanose)](/datanose)
-
-## Getting Started
-
-To begin:
-
-1. Read this syllabus carefully.
-2. Install Python (instructions on the website).
-3. Start with **Level 1**, choosing either *Algorithms* or *Numbers*.
-
 ## Deadlines {#deadlines}
-**Fall 2026/2027, (SP1 + SP2 + DP, Fast Pace) **
 
-## Assessment & Grading
+**Fall 2026/2027 — SP1 + SP2 + DP, Fast pace**
 
-### Scientific Programming 1 & 2 (Pass/Fail)
+*TODO: add the deadline table.*
 
-Scientific Programming 1 & 2 are pass/fail courses. That means that you final grade will be one of the following:
+## Grading {#grading}
 
-* **AVV (Pass)**
+Scientific Programming 1 and 2 are pass/fail courses, while Data Processing is a graded course.
 
-  * All modules completed, discussed, and passed
-  * Final exam passed
-* **NAV (Insufficient)**
+### Scientific Programming 1 and Scientific Programming 2 {#sp-grading}
 
-  * Active participation but incomplete or insufficient modules/exam
-* **NAP (Non-attendance)**
+The grading for Scientific Programming 1 and 2 is exactly the same. For both, the grading is
+based on three modules and a final exam.
 
-  * No active participation
+#### Final grade
 
-#### Coursework (Modules)
+The course's final result will be "pass" or "fail", which means that no grades are assigned.
+You pass by:
 
-* Each module contains 5–9 submissions, mostly auto-graded.
-* **All required submissions must be correct** to pass a module.
-* After completion, you must **discuss your code in person** during a tutorial.
-* A module is only passed after discussion.
-* All modules must be passed **before** you can take the exam.
-
-#### Final Exam
-
-* You may participate in the final exam **only if you have completed all coursework**, meaning that all modules are *finished*, *discussed*, and marked as *pass*.
-* If you do not meet these requirements (for example, if you still have an insufficient or a module hos not been discussed), you may not participate in the exam at that time. You must first complete the coursework and take the exam at a later date.
-* The final exam is an **on-campus programming exam** conducted in a controlled setting. You will take the exam on a dedicated exam computer, not on your own laptop.
-* The exam lasts approximately 3 hours and consists of 4 small programming assignments.
-* To pass the exam, you must solve at least 3 of the 4 assignments correctly.
-* Your exam will be evaluated solely on the correctness of your solutions. Code design, comments, and style are *not* taken into account.
-* Checkpy is available during the exam, allowing you to verify the correctness of your solutions.
-* You may use the course website as a resource (you may open *sp.proglab.nl* in a new tab after logging in).
-* You may use a **printed version** of [these cheatsheets](/python/en/overview) during the exam.
-* You may *not* import external modules such as `numpy`, `csv`, or others, unless the assignment explicitly states that this is allowed.
-
-### Data Processing (Graded)
-
-For Data Processing, you will receive a regular grade on a 1–10 scale. 
-
-There is no final exam, only programming modules and a final project. Your final grade is determined by the grades for Level 7, Level 8, and the final project, weighted as follows:
-
-| Module        | Weight |
-| ------------- | ------ |
-| Level 7       | 25%    |
-| Level 8       | 25%    |
-| Final Project | 50%    |
-
-Note that, Levels 9 and 10 do not contribute to the final grade, but you must still submit them correctly in order to pass the course.
+- submitting sufficient coursework (as detailed below)
+- passing the final exam
 
 #### Coursework (modules)
 
-Some assignments are **graded** (Level 7, Level 9, and the final project), while others are **pass/fail** (Level 8 and Level 10).
+- Each module consists of several submissions (between 5 and 9), most of which are auto-graded.
+  This allows you to track your progress instantly.
 
-* All modules must be **discussed in person** after submission in order to receive a grade or pass.
-* For pass/fail assignments, grading works the same as in Scientific Programming 1 and 2: they are assessed strictly as pass/fail.
-* For graded assignments, your grade depends on the number of challenge assignments you complete.
+  - **Normal submissions** are compulsory; you must complete all of them with correct results
+    to pass the module.
+  - **Challenges** are not compulsory, but we highly recommend completing at least one per
+    module to be fully prepared for the exam and/or future courses.
 
-  * Correctly completing the base assignments results in a grade of **7**.
-  * Additional points are awarded for completed challenges.
-* Final project grade, see below.
+- Some assignments are marked as *collaborative* assignments. For those you can (we even
+  encourage you to) work together, so you can learn from other students. For *individual*
+  assignments, however, we expect them to be entirely your own work.
+- After you have submitted all parts of a module, **you need to come to the tutorial and
+  discuss your code in person**. At this stage, you may receive a **pass** or **fail** for the
+  module.
+- You must have **discussed** and **passed** all modules, before the final exam.
+- You may not re-submit (variations of) solutions that you wrote for any other course's
+  problems. In case you have done similar assignments before, discuss with the course staff
+  whether this is the right course for you.
+
+#### Final exam
+
+- The final exam is an (on campus) programming exam in a controlled setting. This will take
+  about 3 hours. It contains a couple of small programming assignments. You'll pass the exam
+  when your answers are sufficiently correct.
+- You can participate in the final exam if you're done with the coursework, meaning: all
+  modules are *finished*, *discussed*, and marked as *pass*.
+- If you do not meet these requirements (for example when you still have an insufficient, or
+  one of the first two modules isn't graded yet) you cannot participate in the exam yet. You
+  will have to finish the coursework first and do an exam at a later date.
+
+### Data Processing {#dp-grading}
+
+There is no final exam for Data Processing, only programming modules and a final project.
+
+#### Coursework (modules)
+
+For Data Processing, some of the modules are graded and some are pass/fail.
+
+* **Level 8 (XKCD)** and **Level 10 (Wikipedia)** are graded. **Level 7 (Pandas)** and
+  **Level 9 (Databases)** are pass/fail.
+* All modules have to be discussed in person after submitting in order to get a grade.
+* For the pass/fail modules the grading works the same as for Scientific Programming 1 and 2.
+* For the graded modules you get a grade based on how many of the challenges you have
+  finished. For correctly handing in the base modules you get a 7, and you get additional
+  points for the challenges.
 
 #### Final project grade
 
-Your project will be evaluated on four criteria: **Research Question / Project Goal**, **Complexity**, **Novelty / Learning**, and **Quality**.
+The final project is graded based on research question, complexity, novelty and quality. For
+each of these you get points on a scale from 1 to 5.
 
-For each criterion, you can receive 0 to 3 points. All criteria contribute equally to the final project grade. The final grade is calculated as:
+#### Final grade
 
-$$
-\text{grade} = \frac{\text{question} + \text{complexity} + \text{novelty} + \text{quality}}{12} \times 9 + 1
-$$
+For Data Processing you will receive a regular grade (1-10). Your final grade is determined by
+the grades for Level 8, Level 10 and your final project, as follows:
 
+| Module        | Weight |
+|---------------|--------|
+| Level 8       | 25%    |
+| Level 10      | 25%    |
+| Final Project | 50%    |
 
-## Doing your own work
+Note that, even though Level 7 and Level 9 do not contribute to the grade, you still need to
+hand them in correctly in order to pass the course.
+
+## Prerequisites {#prerequisites}
+
+### Scientific Programming 1
+
+* No prior programming experience required.
+* Some modules assume **high-school level mathematics or physics**, but alternatives are available.
+* If you already have substantial programming experience, this course may not be appropriate—contact staff for advice.
+
+### Scientific Programming 2
+
+* Requires **Scientific Programming 1** (or equivalent experience).
+
+### Data Processing
+
+* Requires **Scientific Programming 2** (or equivalent experience).
+
+If at any point you feel unsure whether this track fits your background, please contact us.
+
+## Learning goals {#learning-goals}
+
+### After Scientific Programming 1, you:
+
+- can transform the description of a simple algorithm into working code by combining basic program elements;
+- can apply several scientific programming techniques from different areas of study;
+- can use a couple of libraries in your program and know how to find and read documentation on other libraries;
+- can make your programs simpler and easier to read by employing a few standard tactics;
+- can trace and fix several common programming errors.
+
+### After Scientific Programming 2, you:
+
+- can use native python data structures (like sets, dictionaries, and tuples);
+- analyze the complexity of an algorithm;
+- quickly learn to use new python packages and know how to find documentation for them;
+- import and analyze data;
+- create advanced plots.
+
+### After Data Processing, you:
+
+- can read data into your programs from several structured standard formats;
+- can transform data into a form suitable for further analysis by combining basic operators;
+- can build meaningful visualizations of your data;
+- understand how to write programs that are easy to understand for yourself and other programmers;
+- are capable of using advanced programming concepts (like object oriented programming).
+
+## Course materials {#materials}
+
+All the reading and video material is available on this website. You do not need to purchase any books or software. Every module consists of short explanations (written and in the form of videos) and assignments. _You do need to bring your own laptop._
+
+## Doing your own work {#plagiarism}
 
 This course's philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course's material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
 
