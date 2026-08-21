@@ -1,23 +1,264 @@
 # Syllabus Scientific Programming / Data Processing {#overview}
 
-## General info {#general}
+- [General info](#general-info)
+  - [Schedule](#schedule)
+  - [Attendance](#attendance)
+- [Programming modules](#programming-modules)
+- [Grading](#grading)
+- [Prerequisites](#prerequisites)
+- [Learning goals](#learning-goals)
+- [Course materials](#materials)
+- [Doing your own work](#plagiarism)
+- [Acknowledgements](#acknowledgements)
 
-Welcome to this programming track! In the weeks ahead, you’ll use the Python programming language while learning to solve scientific problems from several fields of science. This track is intended for students who have no experience in programming at all. It comprises three courses, Scientific Programming 1, Scientific Programming 2 and Data Processing wherein you learn about the Python language by working on programming problems from several scientific areas. The three courses from this track are designed to be taken together, but you can choose to only follow one or two of the courses.
+## General info {#general-info}
 
-### TODO: TOC
+Welcome to this programming track! Here, you’ll use the Python programming language while learning to solve scientific problems from several fields of science. This track is intended for students who have no experience in programming at all. The Scientific Programming track consists of three courses:
+
+- Scientific Programming 1 (3 EC, not graded but pass/fail).
+- Scientific Programming 2 (3 EC, not graded but pass/fail).
+- Data Processing (6 EC, graded).
+
+You learn about the Python language by working on programming problems from several scientific areas. The three courses from this track are designed to be taken together, but you can choose to only follow one or two of the courses.
+
+### Schedule
+
+You can follow each course at different paces to fit your schedule. This means you could do all three courses in a single semester, or you could do them spread out over several semesters. 
+
+These are the three most common schedules:
+
+**Fast:**
+| Sep | Oct | Nov + Dec|
+| --- | --- | --- |
+| Scientific Programming 1 | Scientific Programming 2 | Data Processing |
+
+**Regular:**
+| Sep + Oct | Nov + Dec | Feb - May | 
+| --- | --- | --- |
+| Scientific Programming 1 | Scientific Programming 2 | Data Processing |
+
+**Relaxed:**
+| Sep - Dec | Feb - May |
+| --- | --- |
+| Scientific Programming 1 | Scientific Programming 2 |
+
+You don't have to follow the entire Scientific Programming track, **you can also follow a single course**. 
+
+If you already have some programming experience and would like to skip the first (two) course(s), please contact us.
+
+### Attendance
+
+There are no lectures (except for a non-compulsary kick-off meeting at the start of Scientific Programming 1) and the tutorials are flexible. 
+
+The fact that the track offers a lot of flexibility doesn't mean you are on you own. In the tutorials, we do provide a lot of help with the programming assignments. You'll work on campus (together with other students) in a classroom. You can ask us questions while you're working on your assignments.
+
+- You can find the times and locations here: [Tutorial and exam schedules](/datanose)
+- **We expect all students to join at least one tutorial a week.** You can pick which one you prefer youreslf.
+- This is the main place where you talk with us and meet other students.
 
 
-### Prerequisites {#prerequisites}
+## Programming modules
 
-Scientific Programming 1 assumes no prior programming experience. If you have already done a course in Python, or if you have extensive experience in another programming language, this course might not be your best option—but we’re happy to refer you to other courses if you’d like!
+You're going to learn programming through a number of programming modules. 
+The modules are grouped into levels, you have to make one module per level. 
+For some levels you have the choice between two different modules. 
+When there is such a choice, you will learn the same programming concepts, but often in different thematic context (i.e. different scientific fields).
 
-Other than that, some modules assume high school mathematics or physics, but in those case you can choose an alternative module that doesn't. If you feel overwhelmed, don’t hesitate to contact the course staff! We can explain the course’s philosophy and requirements, and make recommendations on how to approach problems.
+Here below is an overview of all modules for all courses. Click a module title to read what it is about.
+
+<style>
+.modules { width: 100%; border-collapse: collapse; margin-bottom: 1.5em; }
+.modules th {
+  text-align: left; padding: 0.4em 0.6em; font-size: 0.9em;
+  background: #f0ede6; border: 1px solid #d8d2c4;
+}
+.modules td { vertical-align: top; padding: 0.5em 0.6em; border: 1px solid #d8d2c4; }
+.modules td.mid { vertical-align: middle; }
+.modules summary { cursor: pointer; font-weight: bold; }
+.modules details p { margin: 0.6em 0 0; font-size: 0.9em; line-height: 1.4; }
+.modules .or { margin: 0.5em 0; font-style: italic; }
+.modules .todo { color: #8a6d3b; font-style: italic; }
+</style>
+
+### Scientific Programming 1 (Level 1 - Level 3) {#sp1-modules}
+
+<table class="modules">
+  <tr>
+    <th>Level 0</th>
+    <th>Level 1 (choose one)</th>
+    <th>Level 2 (choose one)</th>
+    <th>Level 3</th>
+  </tr>
+  <tr>
+    <td class="mid">
+      <details><summary>INSTALL</summary>
+        <p>Before you can start programming you set up your own machine: learn to use the command line, install Python together with uv and checkpy, and install the Zed editor. Work through these steps before Level 1.</p>
+      </details>
+    </td>
+    <td>
+      <details><summary>ALGORITHMS</summary>
+        <p>Learn to think like a computer. Things that we intuitively know how to do, like drawing a pyramid or computing change for a payment, is hard to get a computer to do right. In this module you’ll learn how to break down such intuitive problems into steps that even a computer can understand.</p>
+      </details>
+      <p class="or">or</p>
+      <details><summary>NUMBERS</summary>
+        <p>How do you know if a number is a prime number? Number theory is the science about properties of numbers. In this mathematically oriented module you create a series of programs that compute this and other properties of numbers. No math knowledge required for this module. (You will learn some, though.)</p>
+      </details>
+    </td>
+    <td>
+      <details><summary>INTEGRATION</summary>
+        <p>In many scientific fields you need to determine the surface area under a function. Integration is a mathematical tool for doing so. However this tool doesn't always work and in such cases we can use numerical integration techniques to let the computer do the work for us. You will learn two important techniques for numerical integration.</p>
+      </details>
+      <p class="or">or</p>
+      <details><summary>TEXT</summary>
+        <p>Natural language processing is the science of making a computer understand (something about) natural human language. You will learn how you can get a computer to understand the sentiment of tweets. Is the tone of the tweet positive or negative?</p>
+      </details>
+    </td>
+    <td class="mid">
+      <details><summary>BIG DATA</summary>
+        <p>In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period?</p>
+      </details>
+    </td>
+  </tr>
+</table>
+
+### Scientific Programming 2 (Level 4 - Level 6) {#sp2-modules}
+
+<table class="modules">
+  <tr>
+    <th>Level 4</th>
+    <th>Level 5</th>
+    <th>Level 6</th>
+  </tr>
+  <tr>
+    <td>
+      <details><summary>MONOPOLY</summary>
+        <p>When playing Monopoly, a starting player's advantage seems unfair. To verify, you could play many (millions) real games, but this would take way too much time. Instead, you'll write a computer simulation. This also allows you to experiment with game adjustments to make it fair. You're doing all this for a board game, but this simulation principle applies to various scientific fields (economy, chemistry, biology...).</p>
+      </details>
+    </td>
+    <td>
+      <details><summary>MONOPOLY 2</summary>
+        <p>This is a continuation of MONOPOLY. You’re going to improve the design of your Monopoly simulation. You will learn about more advanced data structures that can help you improve the design of your code dramatically, making it easier to debug, maintain and extend. You will also learn about computational complexity, which gives you a way to reason about the efficiency of your algorithms and shows why picking the right data structure can mean the difference between a run time of a couple of minutes and one of weeks. Redesigning code that you already wrote using more advanced concepts might seem redundant, but it can be one of the most valuable learning experiences on the way to becoming a good programmer.</p>
+      </details>
+    </td>
+    <td>
+      <details><summary>POPULATIONS</summary>
+        <p>Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP).</p>
+      </details>
+    </td>
+  </tr>
+</table>
+
+### Data Processing (Level 7 - Level 10 + final project) {#dp-modules}
+
+<table class="modules">
+  <tr>
+    <th>Level 7</th>
+    <th>Level 8</th>
+    <th>Level 9</th>
+    <th>Level 10</th>
+    <th width="32%">Final project</th>
+  </tr>
+  <tr>
+    <td>
+      <details><summary>PANDAS</summary>
+        <p>Data processing is the art of reading and transforming data so that it can be easily analyzed, visualized and used in machine learning. You could do all of that with the for-loops and file I/O you already know, but it gets cumbersome very quickly, which is why Python has packages built for the job. In this and the next module we focus on the most widely used one, Pandas, though the principles carry over to most data-oriented packages and programming languages, such as SQL or R. Some subjects you will see in this module are: reading, selecting and grouping data, and dealing with missing values. In the end you will see how some of the *Weather* assignments from Scientific Programming 1 become considerably easier with Pandas.</p>
+      </details>
+    </td>
+    <td>
+      <details><summary>XKCD</summary>
+        <p>This is a continuation of PANDAS. Some subjects you will see in this module are: data quality, combining data sets with concatenation and joins, reshaping data between long and wide form, and rolling windows. You finish with an assignment in which you have to combine data from wildly different sources, from biology, physics and astronomy, to reproduce an <a href="https://xkcd.com/3283/">XKCD comic</a>.</p>
+      </details>
+    </td>
+    <td>
+      <details><summary>DATABASES</summary>
+        <p>When working with really large amounts of data, you typically won't store it in simple (text) files on your computer. You'd use something like a relational database. To get information from a database you'll need a specific language called Structured Query Language (SQL). You're going to practice SQL by solving a mystery...</p>
+      </details>
+    </td>
+    <td>
+      <details><summary>WIKIPEDIA</summary>
+        <p>When you’re working with data, it does not always come packaged in a nice “machine readable” way, like a CSV file or a database. Sometimes the information we have is embedded in the HTML of a website. Knowing how to access, transform and visualize that information can be an extremely useful tool in many real-world data projects. In this module you will learn how to use BeautifulSoup, a Python package that allows you to extract data from websites, on a copy of Wikipedia that we host ourselves.</p>
+      </details>
+    </td>
+    <td>
+      <details><summary>FINAL PROJECT</summary>
+        <p>Do you have data from your own studies or research that you would like to analyze? Do this with our help for the final project of this course. The goal here is to work on something that you find interesting and care about.</p>
+      </details>
+    </td>
+  </tr>
+</table>
+
+## Grading
+
+The grading for Scientific Programming 1 and 2 is different from the grading for Data Processing. Scientific Programming 1 and 2 are pass/fail courses, while Data Processing is a graded course.
+
+<details markdown="1"><summary  markdown="span"><b>Grading Scientific Programming 1 and Scientific Programming 2</b></summary>
+
+The grading for Scientific Programming 1 and 2 is exactly the same. For both, the grading is based on three modules and a final exam.
+
+### Final grade
+The course's final result will be "pass" or "fail", which means that no grades are assigned. You pass by:
+
+- submitting sufficient coursework (as detailed below)
+- passing the final exam
+
+### Coursework (modules)
+
+- Each module consists of several submissions (between 5 and 9), most of which are auto-graded. This allows you to track your progress instantly.
+
+  - **Normal submissions** are compulsory; you must complete all of them with correct results to pass the module.  
+  - **Challenges** are not compulsory, but we highly recommend completing at least one per module to be fully prepared for the exam and/or future courses.
+
+- Some assignments are marked as *pair* assignments. For those you can (we even encourage you to) work together, so you can learn from other students. For *individual* assignments, however, we expect them to be entirely your own work.
+- After you have submitted all parts of a module, **you need to come to the tutorial and discuss your code in person**. At this stage, you may receive a **pass** or **fail** for the module.
+- You must have **discussed** and **passed** all modules, before the final exam.
+- You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
+
+### Final exam
+
+- The final exam is (on campus) programming exam in a controlled setting. This will take about 3 hours. It contains a couple of small programming assignments. You'll pass the exam when your answers are sufficiently correct.
+- You can participate in the final exam if you're done with the coursework, meaning: all modules are *finished*, *discussed*, and marked as *pass*.
+- If you do not meet these requirements (for example when you still have an insufficient or one of the first two modules isn't graded yet) you cannot participate with the exam yet. You will have to finish the coursework first and do an exam at a later date.
+
+</details>
+
+<details markdown="1"><summary  markdown="span"><b>Grading Data Processing</b></summary>
+
+### Coursework (modules)
+
+For Data Processing, some of the modules are graded and some are pass/fail.
+
+* All modules have to be discussed in person after submitting in order to get a grade.
+* For the pass/fail modules the grading works the same as for Scientific Programming 1 and 2.
+* For the graded modules you get a grade based on how many of the challenges you have finished. For correctly handing in the base modules you get a 7, and you get additional points for the challenges.
+* The final project is graded based on research-question, complexity, novelty and quality. For each of these you get points on a scale from 1 to 5.
+
+### Final grade
+
+For Data Processing you will receive a regular grade (1-10).
+
+Your final grade will be determined by the grades for Level 8, 10 and your final project as follows:
+
+| Module                  | Weight |
+|-------------------------|--------|
+| Level 8                 | 25%    |
+| Level 10                | 25%    |
+| Final Project           | 50%    |
+
+Note that, even though level 7 and 9 do not contribute to the grade, you still need to hand them in correctly in order to pass the course.
+
+</details>
+
+## Prerequisites
+
+Scientific Programming 1 assumes no prior programming experience. If you have already done a course in Python, or if you have extensive experience in another programming language, this course might not be your best starting point.
+
+Other than that, some modules assume high school mathematics or physics, but in those case you can choose an alternative module that doesn't. 
 
 Scientific Programming 2 and Data Processing only assume the preceding course as prior knowledge.
 
-### Learning goals {#goals}
+## Learning goals
 
-**Scientific Programming 1** is a beginner's course. We will teach you the basics of Python programming as well as several different ways of solving computational problems. After this course, we envision that you:
+**Scientific Programming 1** is a beginner's course. You will learn the basics of Python programming as well as several different ways of solving computational problems. After this course, we envision that you:
 
 - can transform the description of a simple algorithm into working code by combining basic program elements;
 - can apply several scientific programming techniques from different areas of study;
@@ -33,7 +274,7 @@ After **Scientific Programming 2** you should be able to independently tackle ty
 - import and analyze data;
 - create advanced plots.
 
-For **Data Processing** you'll build your own toolkit of useful programs with which you can read, transform and analyze data that you might find in various scientific areas. After this course we envision that you:
+For **Data Processing** you'll learn how to read, transform and analyze data that you might find in various scientific areas. After this course we envision that you:
 
 - can read data into your programs from several structured standard formats;
 - can transform data into a form suitable for further analysis by combining basic operators;
@@ -41,312 +282,15 @@ For **Data Processing** you'll build your own toolkit of useful programs with wh
 - understand how to write programs that are easy to understand for yourself and other programmers;
 - are capable of using advanced programming concepts (like object oriented programming).
 
-### Course materials {#materials}
+## Course materials {#materials}
 
 All the reading and video material is available on this website. You do not need to purchase any books or software. Every module consists of short explanations (written and in the form of videos) and assignments. _You do need to bring your own laptop._
 
-### Getting started {#start}
-
-Your entry to the course is the sidebar, where you can leaf through all modules (levels) that you have to complete. To get started:
-
-- Read the rest of the syllabus, below.
-- Install Python.
-- Choose one of the level 1 modules (Algorithms or Numbers) to get started!
-
-Beware that these are all the modules for all the Scientific Programming courses! **Don't start making them all until you've read below which specific modules you need to do for the course you are following.**
-
-### The track {#track}
-
-The Scientific Programming track consists of three courses:
-
-- Scientific Programming 1 (3 EC, not graded but pass/fail).
-- Scientific Programming 2 (3 EC, not graded but pass/fail).
-- Data Processing (6 EC, graded).
-
-You can follow each course at different paces to fit your schedule. You don't have to follow the entire Scientific Programming track, you can also follow a single course. If you already have some programming experience and would like to skip the first (two) course(s), please contact us.
-
-Course specific information can be found further down.
-
-### Structure {#structure}
-
-The track is designed to be very flexible. So, there are no compulsory sessions. There are no lectures (except for a kick-off meeting at the start of Scientific Programming 1) and the tutorials are optional. And, you can follow the courses at any pace that fits your schedule.
-
-### Tutorials {#help}
-
-The fact that the track is flexible doesn't mean you are on you own. We do provide a lot of help throughout the course with the programming assignments. It is up to you to seek out this help.
-
-Tutorials are the way of getting help with your programming. You’ll work on campus (together with other students) in a classroom. You can ask us questions while you’re working on your assignments.
-
-- You can find the times and locations here: [Tutorial and exam schedules](/datanose)
-- **We expect all students to join at least one tutorial a week.**
-- You can select your tuttorial through the intake form.
-- This is the main place where you talk with us and meet other students.
-
-### Programming modules {#programming-modules}
-
-You're going to learn programming through a number of programming modules. Each module consist of:
-
-- Theory: Explanations both written and in the form of video's.
-- Pair: Assignments that you can do together with other students.
-- Individual: Assignments that you should do individually (but with our help, of course).
-- Challenges: Assignments that are marked as *challenges* are not compulsory, we do recommend to try at least one for each module. (Keep in mind that for Data Processing you do need to finish challenge assignments if you want to get a grade above a 7.)
-
-The modules are grouped into levels, you have to make one module per level. For some levels you have the choice between two different modules. When there is such a choice, you will learn the same programming concepts, but often in different thematic context (i.e. different scientific fields).
-
-Here below is an overview of all modules for all courses.
-
-#### Scientific Programming 1 (Level 1 - Level 3) {#sp1-modules}
-
-<table>
-  <tr>
-    <td> Level 0 </td><td colspan="3"> Python Installation </td>
-  </tr><tr>
-    <td>
-      <b>Level 1</b> (choose one of the modules)
-    </td><td>
-      <b>ALGORITHMS</b>. Learn to think like a computer. Things that we intuitively know how to do, like drawing a pyramid or computing change for a payment, is hard to get a computer to do right. In this module you’ll learn how to break down such intuitive problems into steps that even a computer can understand.
-    </td><td>
-      <b>or</b>
-    </td><td>
-      <b>NUMBERS</b>. How do you know if a number is a prime number? Number theory is the science about properties of numbers. In this mathematically oriented module you create a series of programs that compute this and other properties of numbers. No math knowledge required for this module. (You will learn some, though.)
-    </td>
-  </tr><tr>
-    <td>
-      <b>Level 2</b> (choose one of the modules)
-    </td><td>
-      <b>TEXT</b>. Natural language processing is the science of making a computer understand (something about) natural human language. You will learn how you can get a computer to understand the sentiment of tweets. Is the tone of the tweet positive or negative?
-    </td><td>
-      <b>or</b>
-    </td><td>
-      <b>NUMERICAL INTEGRATION</b>. In many scientific fields you need to determine the surface area under a function. Integration is a mathematical tool for doing so. However this tool doesn't always work and in such cases we can use numerical integration techniques to let the computer do the work for us. You will learn two important techniques for numerical integration.
-    </td>
-  </tr><tr>
-    <td> <b>Level 3</b> (no choice)</td><td colspan="3"> <b>BIG-DATA</b>. In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period? </td>
-  </tr><tr>
-
-  </tr><tr>
-    <td> <b>Bonus</b> (this module is optional)</td><td colspan="3"> <b>MOVEMENT</b>. What happens if you dig a tunnel from one side to the other side of the planet and you fall in this tunnel? In this module you’re going to simulate that situation. In physics you often run into problems that are too laborious to compute by hand. In this module you’ll learn how to use your computer instead. </td>
-  </tr>
-</table>
-
-#### Scientific Programming 2 (Level 4 - Level 6) {#sp2-modules}
-
-<table>
-  <tr>
-    <td> <b>Level 4</b> </td><td colspan="3"> <b>MONOPOLY</b>. When playing Monopoly, a starting player's advantage seems unfair. To verify, you could play many (millions) real games, but this would take way too much time. Instead, you'll write a computer simulation. This also allows you to experiment with game adjustments to make it fair. You're doing all this for a board game, but this simulation principle applies to various scientific fields (economy, chemistry, biology...).</td>
-  </tr><tr>
-    <td> <b>Level 5</b> (choose one of the modules)</td>
-    <td>
-      <b>MONOPOLY 2</b>. TBA
-    </td><td>
-      <b>or</b>
-    </td><td>
-      <b>SHAKESPEARE</b>. Was the play “Arden of Faversham” (1592) written by Shakespeare? A.C. Swinburne thought it was, but T.S. Eliot didn’t. Could we create a computer program that could settle the debate once and for all? It turns out that the answer is: yes… maybe?
-    </td>
-  </tr><tr>
-    <td> <b>Level 6</b> </td><td colspan="3"> <b>SURVIVAL</b>. Python is very popular for analyzing and processing data. And Pandas is an important reason why. Pandas is the most used Python package for handling data. You will learn how to use this package to analyze and visualize geographical data.</td>
-  </tr>
-</table>
-
-#### Data Processing (Level 7 - Level 11) {#dp-modules}
-
-<table>
-  <tr>
-    <td> <b>Level 7</b> </td><td colspan="3"> <b>POPULATIONS</b>. Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP).</td>
-  </tr><tr>
-    <td> <b>Level 8</b> </td><td colspan="3"> <b>WIKIPEDIA</b>. TBA </td>
-  </tr><tr>
-    <td> <b>Level 9</b> </td><td colspan="3"> <b>TRANSFORMATION</b>. Does a restaurant pass health code inspections? Could you gauge this by analyzing reviews of this restaurant? You will use information from two different data sources (Yelp and the Washington State Department of Health) to answer these questions. The problem is (as you will see quite often when analyzing data), there is no straightforward way to combine the two data sources. They were never made to be used together, so you will need to transform the datasets to be used together.</td>
-  </tr><tr>
-    <td> <b>Level 10</b> </td><td colspan="3"> <b>DATABASES</b>. When working with really large amounts of data, you typically wont store it in simple (text) files on your computer. You'd use something like a relational database. To get information from a database you'll need a specific language called Structured Query Language (SQL). You're going to practice SQL by solving a mystery... </td>
-  </tr><tr>
-    <td> <b>Level 11</b> </td><td colspan="3"> <b>FINAL PROJECT</b>. Do you have data from your own studies or research that you would like to analyze? Do this with our help for the final project of this course. The goal here is to work on something that you find interesting and care about. </td>
-  </tr>
-</table>
-
-## Dates and deadlines {#deadlines}
-
-### Deadlines {#level-deadlines}
-
-Deadlines for each level are listed below. The deadlines depend on the course you're starting this period and on the pace you decided to do the course at: *relaxed*, *standard*, or *fast*. Most students tend to follow the *standard* schedule. The standard schedule corresponds to an investment of about 10 hours per week, but this varies a lot per student and educational background.
-
-Select your track and course below to see the schedule for semester 1 of 2025 (Fall 2025).
-
-<details markdown="1"><summary  markdown="span">Fast Track - All courses in one semester, study load 20 hours/week</summary>
-
-| Date | Deadline
-|-|-
-|Friday 5 Sep | Module 1
-|Friday 12 Sep | Module 2
-|Friday 19 Sep | Module 3
-|Friday 26 Sep | Module 4
-|Friday 3 Oct | Module 5
-|Friday 10 Oct | Module 6
-|Friday 17 Oct | Practice Exams SP1 and SP1
-|Monday 20 Oct | Exam SP1
-|Tuesday 21 Oct | Exam SP2
-|**Thursday** 30 Oct | Module 7
-|Friday 7 Nov | Module 8
-|Friday 14 Nov | Module 9
-|Friday 21 Nov | Module 10 & Project proposal discussion
-|Tuesday 25 Nov | Amended project proposal (only if initial proposal was insufficient)
-|Friday 5 Dec | Project proof of concept discussion
-|Friday 12 Dec | Final deadline project
-|TBD 15-19 Dec | Project presentations
-
-</details>
-
-<details markdown="1"><summary  markdown="span">Standard Track - Half the courses in one semester, study load 10 hours/week</summary>
-
-<div style="margin-left: 2em;">
-<details markdown="1"><summary  markdown="span">SP1 & SP2</summary>
-
-| Date | Deadline
-|-|-
-|Friday 12 Sep | Module 1
-|Friday 26 Sep | Module 2
-|Friday 10 Oct | Module 3
-|Friday 17 Oct | Practice Exam SP1
-|Monday 20 Oct | Exam SP1
-|Friday 7 Nov | Module 4
-|Friday 21 Nov | Module 5
-|Friday 5 Dec | Module 6
-|Friday 12 Dec | Practice Exam SP2
-|Monday 16 Dec | Exam SP2
-
-</details>
-</div>
-
-<div style="margin-left: 2em;">
-<details markdown="1"><summary  markdown="span">Data Processing</summary>
-
-| Date | Deadline
-|-|-
-|Friday 12 Sep | Module 7
-|Friday 26 Sep | Module 8
-|Friday 10 Oct | Module 9
-|**Thursday** 30 Oct | Module 10 & Project proposal discussion
-|Tuesday 4 Nov | Amended project proposal (only if initial proposal was insufficient)
-|Friday 21 Nov | Project proof of concept discussion
-|Friday 12 Dec | Final deadline project
-|TBD 15-19 Dec | Project presentations
-
-</details>
-</div>
-
-</details>
-
-<details markdown="1"><summary  markdown="span">Relaxed Track - One course in a semester, study load 5 hours/week</summary>
-
-<div style="margin-left: 2em;">
-<details markdown="1"><summary  markdown="span">SP1</summary>
-
-| Date | Deadline
-|-|-
-|Friday 26 Sep | Module 1
-|**Thursday** 30 Oct | Module 2
-|Friday 21 Nov | Module 3
-|Friday 12 Dec | Practice exam SP1
-|Monday 15 Dec | Exam SP1
-
-
-</details>
-</div>
-
-<div style="margin-left: 2em;">
-<details markdown="1"><summary  markdown="span">SP2</summary>
-
-| Date | Deadline
-|-|-
-|Friday 26 Sep | Module 4
-|**Thursday** 30 Oct | Module 5
-|Friday 21 Nov | Module 6
-|Friday 12 Dec | Practice exam SP2
-|Tuesday 16 Dec | Exam SP2
-
-</details>
-</div>
-
-</details>
-
-If none of these schedules apply, please contact us.
-
-## Grading {#grading}
-
-The grading for Scientific Programming 1 and 2 is different from the grading for Data Processing. The main differences are:
-
-  - Scientific Programming 1 and 2 are pass/fail courses and Data Processing is a graded course.
-  - Scientific Programming 1 and 2 have a final exam Data Processing hasn't.
-
-### Grading Scientific Programming 1 and Scientific Programming 2 {#sp1-sp2-grading}
-
-<details markdown="1"><summary  markdown="span">Show grading details.</summary>
-
-The grading for Scientific Programming 1 and 2 is exactly the same. For both, the grading is based on three modules and a final exam.
-
-#### Final grade
-The course's final result will be "pass" or "fail", which means that no grades are assigned. You pass by:
-
-- submitting sufficient coursework (as detailed below)
-- passing the final exam
-
-#### Coursework (modules)
-
-- Each module consists of several submissions (between 5 and 9), most of which are auto-graded. This allows you to track your progress instantly.
-
-  - **Normal submissions** are compulsory; you must complete all of them with correct results to pass the module.  
-  - **Challenges** are not compulsory, but we highly recommend completing at least one per module to be fully prepared for the exam and/or future courses.
-
-- Some assignments are marked as *pair* assignments. For those you can (we even encourage you to) work together, so you can learn from other students. For *individual* assignments, however, we expect them to be entirely your own work.
-- After you have submitted all parts of a module, **you need to come to the tutorial and discuss your code in person**. At this stage, you may receive a **pass** or **fail** for the module.
-- You must have **discussed** and **passed** all modules, before the final exam.
-- You may not re-submit (variations of) solutions that you wrote for any other course's problems. In case you have done similar assignments before, discuss with the course staff whether this is the right course for you.
-
-#### Final exam
-
-- The final exam is (on campus) programming exam in a controlled setting. This will take about 3 hours. It contains a couple of small programming assignments. You'll pass the exam when your answers are sufficiently correct.
-- You can participate in the final exam if you're done with the coursework, meaning: all modules are *finished*, *discussed*, and marked as *pass*.
-- If you do not meet these requirements (for example when you still have an insufficient or one of the first two modules isn't graded yet) you cannot participate with the exam yet. You will have to finish the coursework first and do an exam at a later date.
-</details>
-
-### Grading Data Processing {#dp-grading}
-
-<details markdown="1"><summary  markdown="span">Show grading details.</summary>
-
-#### Final grade
-
-For Data Processing you will receive a regular grade (1-10).
-
-Your final grade will be determined by the grades for Level 7, 9 and your final project as follows:
-
-| Module                  | Weight |
-|-------------------------|--------|
-| Level 7                 | 25%    |
-| Level 8                 | 25%    |
-| Final Project           | 50%    |
-
-Note that, even though level 9 and 10 do not contribute to the grade, you still need to hand them in correctly in order to pass the course.
-
-#### Coursework (modules)
-
-Some of the assignments are graded (level 7, level 9 and the final project) and some are pass fail (level 8 and level 10).
-
-* All modules have to be discussed in person after submitting in order to get a grade.
-* For the pass/fail assignments the grading works the same as for Scientific Programming 1 and 2: they are graded **pass/fail**
-* For the graded assignments you get a grade based on how many of the challenges you have finished. For correctly handing in the base assignments you get a 7, and you get additional points for the challenges.
-* The final project is graded based on research-question, complexity, novelty and quality. For both you get points on a scale from 1 to 5.
-
-#### Final project grade
-
-TBA: project rubric
-
-</details>
-
-## Doing your own work {#plagiarism}
+## Doing your own work
 
 This course's philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course's material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
 
-The essence of all work that you submit to this course must be your own (unless explicitly stated otherwise). Collaboration on problem sets is not permitted except to the extent that you may ask classmates and others for help so long as that help does not reduce to another doing your work for you. Generally speaking, when asking for help, you may show your code to others, but you may not view theirs, so long as you and they respect this policy's other constraints. Collaboration on the course's test and quiz is not permitted at all.
+The essence of all work that you submit to this course must be your own (unless explicitly stated otherwise). 
 
 Below are rules of thumb that (inexhaustively) characterize acts that the course considers reasonable and not reasonable. If in doubt as to whether some act is reasonable, do not commit it until you solicit and receive approval in writing from the course's heads. Acts considered not reasonable by the course are handled harshly.
 
@@ -388,7 +332,6 @@ BSc programme. Find them here in [English] and [Dutch].
 
 [Dutch]: http://uva.nl/plagiaat
 [English]: https://student.uva.nl/en/content/az/plagiarism-and-fraud/plagiarism-and-fraud.html
-
 
 ## Acknowledgements {#acknowledgements}
 This course has been designed by Simon Pauw, Martijn Stegeman, Wouter Vrielink, Tim Doolan and Ivo van Vulpen.

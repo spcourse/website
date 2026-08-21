@@ -369,7 +369,7 @@ SP2 - Practice exam:
 # /pandas/assignment-size-and-lifespan below still does not exist - it is a placeholder.
 
 DP - L7 (Pandas):
-    Data Processing - Level 7 (Pandas) [graded]:
+    Data Processing - Level 7 (Pandas) [pass/fail]:
     7.1 Jupyter notebook:
         "[icon:people-fill] Jupyter notebook": /pandas/notebooks-sp
     7.2 Pandas 1 (foundations):
