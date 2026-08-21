@@ -1,4 +1,4 @@
-# Syllabus Scientific Programming / Data Processing {#overview}
+# Syllabus
 
 - [General info](#general-info)
   - [Schedule](#schedule)
@@ -121,6 +121,12 @@ And these if you start in Semester 2:
     </tr>
   </tbody>
 </table>
+
+The course load is of course dependent on your chosen track. The actual amount of work it takes to complete the course varies a lot for each student. But, as a rough estimate, count at least:
+
+* 20 hrs per week for the **fast** track,
+* 10 hrs per week for the **standard** track, and
+* 5 hrs per week for the **relaxed** track.
 
 You don't have to follow the entire Scientific Programming track, **you can also follow a single course**. 
 
