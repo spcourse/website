@@ -36,7 +36,7 @@ These are the most common schedules if you start in Semester 1:
 .tracks th, .tracks td {
   border: none; padding: 0.4em 0.5em; text-align: center; background: transparent;
 }
-.tracks tbody th { text-align: left; white-space: nowrap; }
+.tracks tbody th { text-align: left; white-space: nowrap; font-weight: normal;}
 .tracks .sp1, .tracks .sp2, .tracks .dp { border-radius: 5px; }
 .tracks .sp1 { background: #dbe3d1; color: #39492a; }
 .tracks .sp2 { background: #f0e2be; color: #5d4713; }
@@ -47,7 +47,7 @@ These are the most common schedules if you start in Semester 1:
 <table class="tracks">
   <thead>
     <tr>
-      <th>Schedule</th>
+      <th></th>
       <th>Sep</th><th>Oct</th><th>Nov</th><th>Dec</th><th>Jan</th>
       <th>Feb</th><th>Mar</th><th>Apr</th><th>May</th><th>Jun</th>
       <th></th>
@@ -87,7 +87,7 @@ And these if you start in Semester 2:
 <table class="tracks">
   <thead>
     <tr>
-      <th>Schedule</th>
+      <th></th>
       <th>Sep</th><th>Oct</th><th>Nov</th><th>Dec</th><th>Jan</th>
       <th>Feb</th><th>Mar</th><th>Apr</th><th>May</th><th>Jun</th>
       <th></th>
