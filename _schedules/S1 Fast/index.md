@@ -115,6 +115,7 @@ An overview of all modules, per course. Click a module title to read what it is 
   background: #f0ede6; border: 1px solid #d8d2c4;
 }
 .modules td { vertical-align: top; padding: 0.5em 0.6em; border: 1px solid #d8d2c4; }
+.modules td.mid { vertical-align: middle; }
 .modules summary { cursor: pointer; font-weight: bold; }
 .modules details p { margin: 0.6em 0 0; font-size: 0.9em; line-height: 1.4; }
 .modules .or { margin: 0.5em 0; font-style: italic; }
@@ -125,11 +126,17 @@ An overview of all modules, per course. Click a module title to read what it is 
 
 <table class="modules">
   <tr>
+    <th>Level 0</th>
     <th>Level 1 (choose one)</th>
     <th>Level 2 (choose one)</th>
     <th>Level 3</th>
   </tr>
   <tr>
+    <td class="mid">
+      <details><summary>INSTALLATION</summary>
+        <p>Before you can start programming you set up your own machine: learn to use the command line, install Python together with uv and checkpy, and install the Zed editor. Work through these steps before Level 1.</p>
+      </details>
+    </td>
     <td>
       <details><summary>ALGORITHMS</summary>
         <p>Learn to think like a computer. Things that we intuitively know how to do, like drawing a pyramid or computing change for a payment, is hard to get a computer to do right. In this module you’ll learn how to break down such intuitive problems into steps that even a computer can understand.</p>
@@ -148,7 +155,7 @@ An overview of all modules, per course. Click a module title to read what it is 
         <p>In many scientific fields you need to determine the surface area under a function. Integration is a mathematical tool for doing so. However this tool doesn't always work and in such cases we can use numerical integration techniques to let the computer do the work for us. You will learn two important techniques for numerical integration.</p>
       </details>
     </td>
-    <td>
+    <td class="mid">
       <details><summary>BIG DATA</summary>
         <p>In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period?</p>
       </details>
@@ -186,6 +193,13 @@ An overview of all modules, per course. Click a module title to read what it is 
 #### Data Processing (Level 7 - Level 10 + final project) {#dp-modules}
 
 <table class="modules">
+  <colgroup>
+    <col style="width: 17%">
+    <col style="width: 17%">
+    <col style="width: 17%">
+    <col style="width: 17%">
+    <col style="width: 32%">
+  </colgroup>
   <tr>
     <th>Level 7</th>
     <th>Level 8</th>
