@@ -133,7 +133,7 @@ An overview of all modules, per course. Click a module title to read what it is 
   </tr>
   <tr>
     <td class="mid">
-      <details><summary>INSTALLATION</summary>
+      <details><summary>INSTAL</summary>
         <p>Before you can start programming you set up your own machine: learn to use the command line, install Python together with uv and checkpy, and install the Zed editor. Work through these steps before Level 1.</p>
       </details>
     </td>
