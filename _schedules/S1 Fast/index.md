@@ -194,10 +194,10 @@ An overview of all modules, per course. Click a module title to read what it is 
 
 <table class="modules">
   <colgroup>
-    <col style="width: 17%">
-    <col style="width: 17%">
-    <col style="width: 17%">
-    <col style="width: 17%">
+    <col>
+    <col>
+    <col>
+    <col>
     <col style="width: 32%">
   </colgroup>
   <tr>
