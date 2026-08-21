@@ -193,19 +193,12 @@ An overview of all modules, per course. Click a module title to read what it is 
 #### Data Processing (Level 7 - Level 10 + final project) {#dp-modules}
 
 <table class="modules">
-  <colgroup>
-    <col>
-    <col>
-    <col>
-    <col>
-    <col style="width: 32%">
-  </colgroup>
   <tr>
     <th>Level 7</th>
     <th>Level 8</th>
     <th>Level 9</th>
     <th>Level 10</th>
-    <th>Final project</th>
+    <th width="32%">Final project</th>
   </tr>
   <tr>
     <td>
