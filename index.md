@@ -28,12 +28,13 @@ You can follow each course at different paces to fit your schedule. This means y
 These are the most common schedules:
 
 <style>
-.tracks { width: 100%; border-collapse: collapse; margin-bottom: 1.5em; font-size: 0.9em; }
-.tracks th, .tracks td {
-  border: 1px solid #d8d2c4; padding: 0.35em 0.5em; text-align: center; border-radius: 3px !important; border-spacing: 5px; 
+.tracks {
+  width: 100%; margin-bottom: 1.5em; font-size: 0.9em;
+  border-collapse: separate; border-spacing: 3px;
 }
-.tracks thead th { background: #f0ede6; }
-.tracks tbody th { text-align: left; white-space: nowrap; background: #f7f5f0; }
+.tracks th, .tracks td { border: none; padding: 0.4em 0.5em; text-align: center; }
+.tracks tbody th { text-align: left; white-space: nowrap; }
+.tracks .sp1, .tracks .sp2, .tracks .dp { border-radius: 5px; }
 .tracks .sp1 { background: #dbe3d1; color: #39492a; }
 .tracks .sp2 { background: #f0e2be; color: #5d4713; }
 .tracks .dp  { background: #d3e0dc; color: #2d4a43; }
