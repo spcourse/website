@@ -330,7 +330,48 @@ Here below is an overview of all modules for all courses. Click a module title t
 
 **Fall 2026/2027 — SP1 + SP2 + DP, Fast pace**
 
-*TODO: add the deadline table.*
+Each level has to be submitted by the date below. Exam dates and rooms come from
+[Datanose](/datanose).
+
+<style>
+.deadlines {
+  width: 100%; font-size: 0.9em; margin-bottom: 1.5em;
+  border-collapse: separate; border-spacing: 3px 4px;
+}
+.deadlines, .deadlines thead, .deadlines tbody, .deadlines tr,
+.deadlines th, .deadlines td { background: transparent; }
+.deadlines th, .deadlines td { border: none; padding: 0.35em 0.6em; text-align: left; }
+.deadlines .date { white-space: nowrap; }
+.deadlines .tag { text-align: center; border-radius: 5px; white-space: nowrap; width: 3.5em; }
+.deadlines .sp1 { background: #dbe3d1; color: #39492a; }
+.deadlines .sp2 { background: #f0e2be; color: #5d4713; }
+.deadlines .dp  { background: #d3e0dc; color: #2d4a43; }
+.deadlines .mod { color: #6b6455; }
+</style>
+
+<table class="deadlines">
+  <thead>
+    <tr><th>Date</th><th></th><th>Deadline</th></tr>
+  </thead>
+  <tbody>
+    <tr><td class="date">Wed 9 Sep</td><td class="tag sp1">SP1</td><td>Level 1 <span class="mod">(Algorithms or Numbers)</span></td></tr>
+    <tr><td class="date">Wed 16 Sep</td><td class="tag sp1">SP1</td><td>Level 2 <span class="mod">(Integration or Text)</span></td></tr>
+    <tr><td class="date">Wed 23 Sep</td><td class="tag sp1">SP1</td><td>Level 3 <span class="mod">(Big Data)</span></td></tr>
+    <tr><td class="date">Wed 30 Sep</td><td class="tag sp2">SP2</td><td>Level 4 <span class="mod">(Monopoly)</span></td></tr>
+    <tr><td class="date">Wed 7 Oct</td><td class="tag sp2">SP2</td><td>Level 5 <span class="mod">(Monopoly 2)</span></td></tr>
+    <tr><td class="date">Wed 14 Oct</td><td class="tag sp2">SP2</td><td>Level 6 <span class="mod">(Populations)</span></td></tr>
+    <tr><td class="date">Mon 19 Oct</td><td class="tag sp2">SP2</td><td><b>Exam</b> <span class="mod">— 9:00-12:00, IWO 4.04C (Blauw)</span></td></tr>
+    <tr><td class="date">Tue 20 Oct</td><td class="tag sp1">SP1</td><td><b>Exam</b> <span class="mod">— 9:30-11:30, USC Universum Sporthal 1</span></td></tr>
+    <tr><td class="date">Fri 30 Oct</td><td class="tag dp">DP</td><td>Level 7 <span class="mod">(Pandas)</span></td></tr>
+    <tr><td class="date">Fri 6 Nov</td><td class="tag dp">DP</td><td>Level 8 <span class="mod">(XKCD)</span></td></tr>
+    <tr><td class="date">Fri 13 Nov</td><td class="tag dp">DP</td><td>Level 9 <span class="mod">(Databases)</span></td></tr>
+    <tr><td class="date">Fri 20 Nov</td><td class="tag dp">DP</td><td>Level 10 <span class="mod">(Wikipedia)</span></td></tr>
+    <tr><td class="date">Fri 20 Nov</td><td class="tag dp">DP</td><td>Final project — first proposal</td></tr>
+    <tr><td class="date">Mon 23 Nov</td><td class="tag dp">DP</td><td>Final project — final proposal</td></tr>
+    <tr><td class="date">Fri 4 Dec</td><td class="tag dp">DP</td><td>Final project — minimum viable product</td></tr>
+    <tr><td class="date">Thu 10 Dec</td><td class="tag dp">DP</td><td>Final project — final product</td></tr>
+  </tbody>
+</table>
 
 ## Grading {#grading}
 
