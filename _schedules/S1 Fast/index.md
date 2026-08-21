@@ -147,12 +147,12 @@ An overview of all modules, per course. Click a module title to read what it is 
       </details>
     </td>
     <td>
-      <details><summary>TEXT</summary>
-        <p>Natural language processing is the science of making a computer understand (something about) natural human language. You will learn how you can get a computer to understand the sentiment of tweets. Is the tone of the tweet positive or negative?</p>
+      <details><summary>INTEGRATION</summary>
+        <p>In many scientific fields you need to determine the surface area under a function. Integration is a mathematical tool for doing so. However this tool doesn't always work and in such cases we can use numerical integration techniques to let the computer do the work for us. You will learn two important techniques for numerical integration.</p>
       </details>
       <p class="or">or</p>
-      <details><summary>NUMERICAL INTEGRATION</summary>
-        <p>In many scientific fields you need to determine the surface area under a function. Integration is a mathematical tool for doing so. However this tool doesn't always work and in such cases we can use numerical integration techniques to let the computer do the work for us. You will learn two important techniques for numerical integration.</p>
+      <details><summary>TEXT</summary>
+        <p>Natural language processing is the science of making a computer understand (something about) natural human language. You will learn how you can get a computer to understand the sentiment of tweets. Is the tone of the tweet positive or negative?</p>
       </details>
     </td>
     <td class="mid">
