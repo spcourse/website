@@ -1,45 +1,10 @@
 # Syllabus Scientific Programming / Data Processing {#overview}
 
-**Fall 2025/2026**
-
-
-## Team
-
-<table>
-  <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/suzanne.jpg" style="max-width:90px" width = "150"><br>Suzanne</td><td> ...
-  </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/website/raw/2025/team/anestasia.jpg" style="max-width:90px"><br>Anastasia</td><td> ...
-  </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/website/raw/2025/team/luka.jpg" style="max-width:90px" width = "150"><br>Luka</td><td> ...
-  </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon</td><td> Simon studied Computer Science and then the Master of Logic at the University of Amsterdam (UvA). He conducted research in computational linguistics and robotics at Sony, Aldebaran (now Softbank), the Universitat Autònoma de Barcelona, and the UvA. He now works as a lecturer at the UvA and teaches programming in various programs.</td></tr>
-</table>
-
-Contact: <scientific@proglab.nl>
-
 ## General info {#general}
 
 Welcome to this programming track! In the weeks ahead, you’ll use the Python programming language while learning to solve scientific problems from several fields of science. This track is intended for students who have no experience in programming at all. It comprises three courses, Scientific Programming 1, Scientific Programming 2 and Data Processing wherein you learn about the Python language by working on programming problems from several scientific areas. The three courses from this track are designed to be taken together, but you can choose to only follow one or two of the courses.
 
-### Table of Contents {#toc}
-
-- [General info](#general)
-  - [Prerequisites](#prerequisites)
-  - [Learning goals](#goals)
-  - [Course materials](#materials)
-  - [Staff](#staff)
-  - [Getting started](#start)
-  - [About the Scientific Programming track](#track)
-  - [Structure of the courses](#structure)
-  - [Help](#help)
-  - [Programming modules](#programming-modules)
-- [Dates and deadlines](#deadlines)
-  - [Deadlines](#level-deadlines)
-- [Grading](#grading)
-  - [Grading Scientific Programming 1 and Scientific Programming 2](#sp1-sp2-grading)
-  - [Grading Data Processing](#dp-grading)
-- [Doing your own work](#plagiarism)
-- [Acknowledgements](#acknowledgements)
+### TODO: TOC
 
 
 ### Prerequisites {#prerequisites}

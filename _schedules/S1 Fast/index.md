@@ -133,7 +133,7 @@ An overview of all modules, per course. Click a module title to read what it is 
   </tr>
   <tr>
     <td class="mid">
-      <details><summary>INSTAL</summary>
+      <details><summary>INSTALL</summary>
         <p>Before you can start programming you set up your own machine: learn to use the command line, install Python together with uv and checkpy, and install the Zed editor. Work through these steps before Level 1.</p>
       </details>
     </td>
@@ -179,7 +179,7 @@ An overview of all modules, per course. Click a module title to read what it is 
     </td>
     <td>
       <details><summary>MONOPOLY 2</summary>
-        <p class="todo">TODO: add description.</p>
+        <p>This is a continuation of MONOPOLY. You’re going to improve the design of your Monopoly simulation. You will learn about more advanced data structures that can help you improve the design of your code dramatically, making it easier to debug, maintain and extend. You will also learn about computational complexity, which gives you a way to reason about the efficiency of your algorithms and shows why picking the right data structure can mean the difference between a run time of a couple of minutes and one of weeks. Redesigning code that you already wrote using more advanced concepts might seem redundant, but it can be one of the most valuable learning experiences on the way to becoming a good programmer.</p>
       </details>
     </td>
     <td>
@@ -209,13 +209,13 @@ An overview of all modules, per course. Click a module title to read what it is 
   </tr>
   <tr>
     <td>
-      <details><summary>PANDAS 1</summary>
-        <p class="todo">TODO: add description.</p>
+      <details><summary>PANDAS</summary>
+        <p>Data processing is the art of reading and transforming data so that it can be easily analyzed, visualized and used in machine learning. You could do all of that with the for-loops and file I/O you already know, but it gets cumbersome very quickly, which is why Python has packages built for the job. In this and the next module we focus on the most widely used one, Pandas, though the principles carry over to most data-oriented packages and programming languages, such as SQL or R. Some subjects you will see in this module are: reading, selecting and grouping data, and dealing with missing values. In the end you will see how some of the *Weather* assignments from Scientific Programming 1 become considerably easier with Pandas.</p>
       </details>
     </td>
     <td>
-      <details><summary>PANDAS 2</summary>
-        <p class="todo">TODO: add description.</p>
+      <details><summary>XKCD</summary>
+        <p>This is a continuation of PANDAS. Some subjects you will see in this module are: data quality, combining data sets with concatenation and joins, reshaping data between long and wide form, and rolling windows. You finish with an assignment in which you have to combine data from wildly different sources, from biology, physics and astronomy, to reproduce an <a href="https://xkcd.com/3283/">XKCD comic</a>.</p>
       </details>
     </td>
     <td>
@@ -225,7 +225,7 @@ An overview of all modules, per course. Click a module title to read what it is 
     </td>
     <td>
       <details><summary>WIKIPEDIA</summary>
-        <p class="todo">TODO: add description.</p>
+        <p>When you’re working with data, it does not always come packaged in a nice “machine readable” way, like a CSV file or a database. Sometimes the information we have is embedded in the HTML of a website. Knowing how to access, transform and visualize that information can be an extremely useful tool in many real-world data projects. In this module you will learn how to use BeautifulSoup, a Python package that allows you to extract data from websites, on a copy of Wikipedia that we host ourselves.</p>
       </details>
     </td>
     <td>

@@ -368,8 +368,8 @@ SP2 - Practice exam:
 # data files and has a checkpy (spcourse/tests, tests/pandas-dp/weather-pandasTest.py).
 # /pandas/assignment-size-and-lifespan below still does not exist - it is a placeholder.
 
-DP - L7 (Pandas 1):
-    Data Processing - Level 7 (Pandas 1) [graded]:
+DP - L7 (Pandas):
+    Data Processing - Level 7 (Pandas) [graded]:
     7.1 Jupyter notebook:
         "[icon:people-fill] Jupyter notebook": /pandas/notebooks-sp
     7.2 Pandas 1 (foundations):
@@ -383,8 +383,8 @@ DP - L7 (Pandas 1):
         Submit [submit]: /submit/mod7/s3
     Make sure to [discuss] your solutions in person after completing this level!:
 
-DP - L8 (Pandas 2):
-    Data Processing - Level 8 (Pandas 2) [graded]:
+DP - L8 (XKCD):
+    Data Processing - Level 8 (XKCD) [graded]:
     8.1 Pandas 3 (quality and combining):
         "[icon:people-fill] Data quality, concat, joins and the cross join": /pandas/pandas-dp/notebook-3
         Submit [submit]: /submit/mod8/s1
