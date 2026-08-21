@@ -281,10 +281,10 @@ Each level has to be submitted by the date below. Exam dates and rooms come from
     <tr><th>Date</th><th></th><th>Deadline</th></tr>
   </thead>
   <tbody>
-    <tr><td class="date">Wed 30 Sep</td><td class="tag sp2">SP2</td><td>Level 4 <span class="mod">(Monopoly)</span></td></tr>
-    <tr><td class="date">Wed 7 Oct</td><td class="tag sp2">SP2</td><td>Level 5 <span class="mod">(Monopoly 2)</span></td></tr>
-    <tr><td class="date">Wed 14 Oct</td><td class="tag sp2">SP2</td><td>Level 6 <span class="mod">(Populations)</span></td></tr>
-    <tr><td class="date">Mon 19 Oct</td><td class="tag sp2">SP2</td><td><b>Exam</b> <span class="mod">— 9:00-11:00, IWO 4.04C (Blauw)</span></td></tr>
+    <tr><td class="date">Fri 25 Sep</td><td class="tag sp2">SP2</td><td>Level 4 <span class="mod">(Monopoly)</span></td></tr>
+    <tr><td class="date">Fri 30 Oct</td><td class="tag sp2">SP2</td><td>Level 5 <span class="mod">(Monopoly 2)</span></td></tr>
+    <tr><td class="date">Fri 27 Nov</td><td class="tag sp2">SP2</td><td>Level 6 <span class="mod">(Populations)</span></td></tr>
+    <tr><td class="date">Mon 14 Dec</td><td class="tag sp2">SP2</td><td><b>Exam</b> <span class="mod">— 9:00-11:00, IWO 4.04C (Blauw)</span></td></tr>
   </tbody>
 </table>
 

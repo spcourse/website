@@ -291,14 +291,14 @@ Each level has to be submitted by the date below.
     <tr><th>Date</th><th></th><th>Deadline</th></tr>
   </thead>
   <tbody>
-    <tr><td class="date">Fri 30 Oct</td><td class="tag dp">DP</td><td>Level 7 <span class="mod">(Pandas)</span></td></tr>
-    <tr><td class="date">Fri 6 Nov</td><td class="tag dp">DP</td><td>Level 8 <span class="mod">(XKCD)</span></td></tr>
-    <tr><td class="date">Fri 13 Nov</td><td class="tag dp">DP</td><td>Level 9 <span class="mod">(Databases)</span></td></tr>
-    <tr><td class="date">Fri 20 Nov</td><td class="tag dp">DP</td><td>Level 10 <span class="mod">(Wikipedia)</span></td></tr>
-    <tr><td class="date">Fri 20 Nov</td><td class="tag dp">DP</td><td>Final project — first proposal</td></tr>
-    <tr><td class="date">Mon 23 Nov</td><td class="tag dp">DP</td><td>Final project — final proposal</td></tr>
-    <tr><td class="date">Fri 4 Dec</td><td class="tag dp">DP</td><td>Final project — minimum viable product</td></tr>
-    <tr><td class="date">Thu 10 Dec</td><td class="tag dp">DP</td><td>Final project — final product</td></tr>
+    <tr><td class="date">Fri 18 Sep</td><td class="tag dp">DP</td><td>Level 7 <span class="mod">(Pandas)</span></td></tr>
+    <tr><td class="date">Fri 2 Oct</td><td class="tag dp">DP</td><td>Level 8 <span class="mod">(XKCD)</span></td></tr>
+    <tr><td class="date">Fri 16 Oct</td><td class="tag dp">DP</td><td>Level 9 <span class="mod">(Databases)</span></td></tr>
+    <tr><td class="date">Fri 6 Nov</td><td class="tag dp">DP</td><td>Level 10 <span class="mod">(Wikipedia)</span></td></tr>
+    <tr><td class="date">Mon 9 Nov</td><td class="tag dp">DP</td><td>Final project — first proposal</td></tr>
+    <tr><td class="date">Wed 11 Nov</td><td class="tag dp">DP</td><td>Final project — final proposal</td></tr>
+    <tr><td class="date">Fri 27 Nov</td><td class="tag dp">DP</td><td>Final project — minimum viable product</td></tr>
+    <tr><td class="date">Fri 11 Dec</td><td class="tag dp">DP</td><td>Final project — final product</td></tr>
   </tbody>
 </table>
 

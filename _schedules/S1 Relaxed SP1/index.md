@@ -288,10 +288,10 @@ Each level has to be submitted by the date below. Exam dates and rooms come from
     <tr><th>Date</th><th></th><th>Deadline</th></tr>
   </thead>
   <tbody>
-    <tr><td class="date">Wed 9 Sep</td><td class="tag sp1">SP1</td><td>Level 1 <span class="mod">(Algorithms or Numbers)</span></td></tr>
-    <tr><td class="date">Wed 16 Sep</td><td class="tag sp1">SP1</td><td>Level 2 <span class="mod">(Integration or Text)</span></td></tr>
-    <tr><td class="date">Wed 23 Sep</td><td class="tag sp1">SP1</td><td>Level 3 <span class="mod">(Big Data)</span></td></tr>
-    <tr><td class="date">Tue 20 Oct</td><td class="tag sp1">SP1</td><td><b>Exam</b> <span class="mod">— 9:30-11:30, USC Universum Sporthal 1</span></td></tr>
+    <tr><td class="date">Fri 25 Sep</td><td class="tag sp1">SP1</td><td>Level 1 <span class="mod">(Algorithms or Numbers)</span></td></tr>
+    <tr><td class="date">Fri 30 Oct</td><td class="tag sp1">SP1</td><td>Level 2 <span class="mod">(Integration or Text)</span></td></tr>
+    <tr><td class="date">Fri 27 Nov</td><td class="tag sp1">SP1</td><td>Level 3 <span class="mod">(Big Data)</span></td></tr>
+    <tr><td class="date">Tue 15 Dec</td><td class="tag sp1">SP1</td><td><b>Exam</b> <span class="mod">— 9:00-11:00, REC D4.02 (Brug)</span></td></tr>
   </tbody>
 </table>
 

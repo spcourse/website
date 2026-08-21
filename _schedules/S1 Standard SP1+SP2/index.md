@@ -315,14 +315,14 @@ Each level has to be submitted by the date below. Exam dates and rooms come from
     <tr><th>Date</th><th></th><th>Deadline</th></tr>
   </thead>
   <tbody>
-    <tr><td class="date">Wed 9 Sep</td><td class="tag sp1">SP1</td><td>Level 1 <span class="mod">(Algorithms or Numbers)</span></td></tr>
-    <tr><td class="date">Wed 16 Sep</td><td class="tag sp1">SP1</td><td>Level 2 <span class="mod">(Integration or Text)</span></td></tr>
-    <tr><td class="date">Wed 23 Sep</td><td class="tag sp1">SP1</td><td>Level 3 <span class="mod">(Big Data)</span></td></tr>
-    <tr><td class="date">Wed 30 Sep</td><td class="tag sp2">SP2</td><td>Level 4 <span class="mod">(Monopoly)</span></td></tr>
-    <tr><td class="date">Wed 7 Oct</td><td class="tag sp2">SP2</td><td>Level 5 <span class="mod">(Monopoly 2)</span></td></tr>
-    <tr><td class="date">Wed 14 Oct</td><td class="tag sp2">SP2</td><td>Level 6 <span class="mod">(Populations)</span></td></tr>
-    <tr><td class="date">Mon 19 Oct</td><td class="tag sp2">SP2</td><td><b>Exam</b> <span class="mod">— 9:00-11:00, IWO 4.04C (Blauw)</span></td></tr>
+    <tr><td class="date">Fri 18 Sep</td><td class="tag sp1">SP1</td><td>Level 1 <span class="mod">(Algorithms or Numbers)</span></td></tr>
+    <tr><td class="date">Fri 2 Oct</td><td class="tag sp1">SP1</td><td>Level 2 <span class="mod">(Integration or Text)</span></td></tr>
+    <tr><td class="date">Fri 16 Oct</td><td class="tag sp1">SP1</td><td>Level 3 <span class="mod">(Big Data)</span></td></tr>
     <tr><td class="date">Tue 20 Oct</td><td class="tag sp1">SP1</td><td><b>Exam</b> <span class="mod">— 9:30-11:30, USC Universum Sporthal 1</span></td></tr>
+    <tr><td class="date">Fri 6 Nov</td><td class="tag sp2">SP2</td><td>Level 4 <span class="mod">(Monopoly)</span></td></tr>
+    <tr><td class="date">Fri 20 Nov</td><td class="tag sp2">SP2</td><td>Level 5 <span class="mod">(Monopoly 2)</span></td></tr>
+    <tr><td class="date">Fri 4 Dec</td><td class="tag sp2">SP2</td><td>Level 6 <span class="mod">(Populations)</span></td></tr>
+    <tr><td class="date">Mon 14 Dec</td><td class="tag sp2">SP2</td><td><b>Exam</b> <span class="mod">— 9:00-11:00, IWO 4.04C (Blauw)</span></td></tr>
   </tbody>
 </table>
 
