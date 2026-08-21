@@ -25,12 +25,12 @@ You learn about the Python language by working on programming problems from seve
 
 You can follow each course at different paces to fit your schedule. This means you could do all three courses in a single semester, or you could do them spread out over several semesters. 
 
-These are the most common schedules:
+These are the most common schedules if you start in Semester 1:
 
 <style>
 .tracks {
   width: 100%; margin-bottom: 1.5em; font-size: 0.9em;
-  border-collapse: separate; border-spacing: 3px;
+  border-collapse: separate; border-spacing: 3px 7px;
 }
 .tracks, .tracks thead, .tracks tbody, .tracks tr { background: transparent; }
 .tracks th, .tracks td {
@@ -79,8 +79,23 @@ These are the most common schedules:
       <td></td>
       <td class="next">DP next year</td>
     </tr>
+  </tbody>
+</table>
+
+And these if you start in Semester 2:
+
+<table class="tracks">
+  <thead>
     <tr>
-      <th>Fast (starting Feb)</th>
+      <th>Schedule</th>
+      <th>Sep</th><th>Oct</th><th>Nov</th><th>Dec</th><th>Jan</th>
+      <th>Feb</th><th>Mar</th><th>Apr</th><th>May</th><th>Jun</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Fast</th>
       <td colspan="5"></td>
       <td class="sp1">SP1</td>
       <td class="sp2">SP2</td>
@@ -89,7 +104,7 @@ These are the most common schedules:
       <td></td>
     </tr>
     <tr>
-      <th>Standard (starting Feb)</th>
+      <th>Standard</th>
       <td colspan="5"></td>
       <td class="sp1" colspan="2">SP1</td>
       <td class="sp2" colspan="2">SP2</td>
@@ -97,7 +112,7 @@ These are the most common schedules:
       <td class="next">DP next year</td>
     </tr>
     <tr>
-      <th>Relaxed (starting Feb)</th>
+      <th>Relaxed</th>
       <td colspan="5"></td>
       <td class="sp1" colspan="4">SP1</td>
       <td></td>
