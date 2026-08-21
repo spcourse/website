@@ -104,6 +104,124 @@ Key rules:
 * Some levels offer **alternative modules** covering the same concepts in different scientific contexts.
 * Challenges are optional for SP1/SP2 (but, required for higher grades in Data Processing).
 
+### Programming modules {#programming-modules}
+
+An overview of all modules, per course. Click a module title to read what it is about.
+
+<style>
+.modules { width: 100%; border-collapse: collapse; margin-bottom: 1.5em; }
+.modules th {
+  text-align: left; padding: 0.4em 0.6em; font-size: 0.9em;
+  background: #f0ede6; border: 1px solid #d8d2c4;
+}
+.modules td { vertical-align: top; padding: 0.5em 0.6em; border: 1px solid #d8d2c4; }
+.modules summary { cursor: pointer; font-weight: bold; }
+.modules details p { margin: 0.6em 0 0; font-size: 0.9em; line-height: 1.4; }
+.modules .or { margin: 0.5em 0; font-style: italic; }
+.modules .todo { color: #8a6d3b; font-style: italic; }
+</style>
+
+#### Scientific Programming 1 (Level 1 - Level 3) {#sp1-modules}
+
+<table class="modules">
+  <tr>
+    <th>Level 1 (choose one)</th>
+    <th>Level 2 (choose one)</th>
+    <th>Level 3</th>
+  </tr>
+  <tr>
+    <td>
+      <details><summary>ALGORITHMS</summary>
+        <p>Learn to think like a computer. Things that we intuitively know how to do, like drawing a pyramid or computing change for a payment, is hard to get a computer to do right. In this module you’ll learn how to break down such intuitive problems into steps that even a computer can understand.</p>
+      </details>
+      <p class="or">or</p>
+      <details><summary>NUMBERS</summary>
+        <p>How do you know if a number is a prime number? Number theory is the science about properties of numbers. In this mathematically oriented module you create a series of programs that compute this and other properties of numbers. No math knowledge required for this module. (You will learn some, though.)</p>
+      </details>
+    </td>
+    <td>
+      <details><summary>TEXT</summary>
+        <p>Natural language processing is the science of making a computer understand (something about) natural human language. You will learn how you can get a computer to understand the sentiment of tweets. Is the tone of the tweet positive or negative?</p>
+      </details>
+      <p class="or">or</p>
+      <details><summary>NUMERICAL INTEGRATION</summary>
+        <p>In many scientific fields you need to determine the surface area under a function. Integration is a mathematical tool for doing so. However this tool doesn't always work and in such cases we can use numerical integration techniques to let the computer do the work for us. You will learn two important techniques for numerical integration.</p>
+      </details>
+    </td>
+    <td>
+      <details><summary>BIG DATA</summary>
+        <p>In this module you will learn to work with data. You will, for example, analyze weather from the Netherlands and answer questions like: When was the first heat-wave? What was the longest freezing period?</p>
+      </details>
+    </td>
+  </tr>
+</table>
+
+#### Scientific Programming 2 (Level 4 - Level 6) {#sp2-modules}
+
+<table class="modules">
+  <tr>
+    <th>Level 4</th>
+    <th>Level 5</th>
+    <th>Level 6</th>
+  </tr>
+  <tr>
+    <td>
+      <details><summary>MONOPOLY</summary>
+        <p>When playing Monopoly, a starting player's advantage seems unfair. To verify, you could play many (millions) real games, but this would take way too much time. Instead, you'll write a computer simulation. This also allows you to experiment with game adjustments to make it fair. You're doing all this for a board game, but this simulation principle applies to various scientific fields (economy, chemistry, biology...).</p>
+      </details>
+    </td>
+    <td>
+      <details><summary>MONOPOLY 2</summary>
+        <p class="todo">TODO: add description.</p>
+      </details>
+    </td>
+    <td>
+      <details><summary>POPULATIONS</summary>
+        <p>Predator-prey simulations are models used in ecology and computer science to study the dynamics between populations of predators and their prey within an ecosystem. What's particularly interesting about these simulations is how they can reveal emergent patterns and complex behaviors that arise from relatively simple rules. To make it easier to program such a simulation you will learn a programming technique called object oriented programming (OOP).</p>
+      </details>
+    </td>
+  </tr>
+</table>
+
+#### Data Processing (Level 7 - Level 10 + final project) {#dp-modules}
+
+<table class="modules">
+  <tr>
+    <th>Level 7</th>
+    <th>Level 8</th>
+    <th>Level 9</th>
+    <th>Level 10</th>
+    <th>Final project</th>
+  </tr>
+  <tr>
+    <td>
+      <details><summary>PANDAS 1</summary>
+        <p class="todo">TODO: add description.</p>
+      </details>
+    </td>
+    <td>
+      <details><summary>PANDAS 2</summary>
+        <p class="todo">TODO: add description.</p>
+      </details>
+    </td>
+    <td>
+      <details><summary>DATABASES</summary>
+        <p>When working with really large amounts of data, you typically won't store it in simple (text) files on your computer. You'd use something like a relational database. To get information from a database you'll need a specific language called Structured Query Language (SQL). You're going to practice SQL by solving a mystery...</p>
+      </details>
+    </td>
+    <td>
+      <details><summary>WIKIPEDIA</summary>
+        <p class="todo">TODO: add description.</p>
+      </details>
+    </td>
+    <td>
+      <details><summary>FINAL PROJECT</summary>
+        <p>Do you have data from your own studies or research that you would like to analyze? Do this with our help for the final project of this course. The goal here is to work on something that you find interesting and care about.</p>
+      </details>
+    </td>
+  </tr>
+</table>
+
 ### Tutorials and Support
 
 Although the track is flexible, **you are not on your own**.
