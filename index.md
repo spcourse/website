@@ -15,9 +15,9 @@
 
 Welcome to this programming track! Here, you’ll use the Python programming language while learning to solve scientific problems from several fields of science. This track is intended for students who have no experience in programming at all. The Scientific Programming track consists of three courses:
 
-- Scientific Programming 1 (3 EC, not graded but pass/fail).
-- Scientific Programming 2 (3 EC, not graded but pass/fail).
-- Data Processing (6 EC, graded).
+- Scientific Programming 1 (SP1) — 3 EC, not graded but pass/fail.
+- Scientific Programming 2 (SP2) — 3 EC, not graded but pass/fail.
+- Data Processing (DP) — 6 EC, graded.
 
 You learn about the Python language by working on programming problems from several scientific areas. The three courses from this track are designed to be taken together, but you can choose to only follow one or two of the courses.
 
@@ -25,25 +25,82 @@ You learn about the Python language by working on programming problems from seve
 
 You can follow each course at different paces to fit your schedule. This means you could do all three courses in a single semester, or you could do them spread out over several semesters. 
 
-These are the three most common schedules:
+These are the most common schedules:
 
-**Fast:**
+<style>
+.tracks { width: 100%; border-collapse: collapse; margin-bottom: 1.5em; font-size: 0.9em; }
+.tracks th, .tracks td {
+  border: 1px solid #d8d2c4; padding: 0.35em 0.5em; text-align: center;
+}
+.tracks thead th { background: #f0ede6; }
+.tracks tbody th { text-align: left; white-space: nowrap; background: #f7f5f0; }
+.tracks .sp1 { background: #dbe3d1; color: #39492a; }
+.tracks .sp2 { background: #f0e2be; color: #5d4713; }
+.tracks .dp  { background: #d3e0dc; color: #2d4a43; }
+.tracks .next { text-align: left; font-style: italic; color: #6b6455; white-space: nowrap; }
+</style>
 
-| Sep | Oct | Nov + Dec|
-| --- | --- | --- |
-| Scientific Programming 1 | Scientific Programming 2 | Data Processing |
-
-**Regular:**
-
-| Sep + Oct | Nov + Dec | Feb - May | 
-| --- | --- | --- |
-| Scientific Programming 1 | Scientific Programming 2 | Data Processing |
-
-**Relaxed:**
-
-| Sep - Dec | Feb - May |
-| --- | --- |
-| Scientific Programming 1 | Scientific Programming 2 |
+<table class="tracks">
+  <thead>
+    <tr>
+      <th>Schedule</th>
+      <th>Sep</th><th>Oct</th><th>Nov</th><th>Dec</th><th>Jan</th>
+      <th>Feb</th><th>Mar</th><th>Apr</th><th>May</th><th>Jun</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Fast</th>
+      <td class="sp1">SP1</td>
+      <td class="sp2">SP2</td>
+      <td class="dp" colspan="2">DP</td>
+      <td colspan="6"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Standard</th>
+      <td class="sp1" colspan="2">SP1</td>
+      <td class="sp2" colspan="2">SP2</td>
+      <td></td>
+      <td class="dp" colspan="4">DP</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Relaxed</th>
+      <td class="sp1" colspan="4">SP1</td>
+      <td></td>
+      <td class="sp2" colspan="4">SP2</td>
+      <td></td>
+      <td class="next">DP next year</td>
+    </tr>
+    <tr>
+      <th>Fast (starting Feb)</th>
+      <td colspan="5"></td>
+      <td class="sp1">SP1</td>
+      <td class="sp2">SP2</td>
+      <td class="dp" colspan="2">DP</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Standard (starting Feb)</th>
+      <td colspan="5"></td>
+      <td class="sp1" colspan="2">SP1</td>
+      <td class="sp2" colspan="2">SP2</td>
+      <td></td>
+      <td class="next">DP next year</td>
+    </tr>
+    <tr>
+      <th>Relaxed (starting Feb)</th>
+      <td colspan="5"></td>
+      <td class="sp1" colspan="4">SP1</td>
+      <td></td>
+      <td class="next">SP2 and DP next year</td>
+    </tr>
+  </tbody>
+</table>
 
 You don't have to follow the entire Scientific Programming track, **you can also follow a single course**. 
 
@@ -203,21 +260,6 @@ modules and passing an on-campus programming exam of about three hours.
 **Data Processing** is graded (1-10) and has no exam. Your grade comes from two of the modules
 and the final project:
 
-| Module        | Weight |
-|---------------|--------|
-| Level 8       | 25%    |
-| Level 10      | 25%    |
-| Final Project | 50%    |
-
-The remaining modules are pass/fail: you still have to complete them, but they do not affect
-your grade.
-
-Two things apply to every course in the track:
-
-- Challenges are optional in Scientific Programming 1 and 2. In Data Processing you need them
-  for a grade above a 7.
-- After submitting a module you discuss your code in person with a teacher during a tutorial.
-
 Once you are enrolled, the syllabus for your own schedule has the full rules and the deadlines.
 
 ## Prerequisites {#prerequisites}
@@ -278,7 +320,7 @@ course considers reasonable and which it does not.
 ## Acknowledgements {#acknowledgements}
 This course has been designed by Simon Pauw, Martijn Stegeman, Wouter Vrielink, Tim Doolan and Ivo van Vulpen.
 
-It is partially based on many great programming resources that have been published as Open Courseware under a Creative Commons license. The resulting work itself is also published under the Creative Commons License Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Feel free to re-use! If you would like to use the work commercially, please send an e-mail for arranging a license.
+It is partially based on many great programming resources that have been published as Open Courseware under a Creative Commons license. The resulting work itself is also published under the Creative Commons License Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
 
 We have had lots of help from students as well as teaching assistants who tried the course or added ideas of their own. We especially thank:
 
