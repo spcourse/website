@@ -32,7 +32,10 @@ These are the most common schedules:
   width: 100%; margin-bottom: 1.5em; font-size: 0.9em;
   border-collapse: separate; border-spacing: 3px;
 }
-.tracks th, .tracks td { border: none; padding: 0.4em 0.5em; text-align: center; }
+.tracks, .tracks thead, .tracks tbody, .tracks tr { background: transparent; }
+.tracks th, .tracks td {
+  border: none; padding: 0.4em 0.5em; text-align: center; background: transparent;
+}
 .tracks tbody th { text-align: left; white-space: nowrap; }
 .tracks .sp1, .tracks .sp2, .tracks .dp { border-radius: 5px; }
 .tracks .sp1 { background: #dbe3d1; color: #39492a; }
