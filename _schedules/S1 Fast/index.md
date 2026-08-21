@@ -10,7 +10,11 @@
 
 **Teaching staff**
 
-<table>
+<style>
+.team, .team thead, .team tbody, .team tr, .team th, .team td { background: transparent; }
+</style>
+
+<table class="team">
   <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/suzanne.jpg" style="max-width:90px" width = "150"><br>Suzanne</td><td> ...
   </td></tr>
   <tr><td><img src = "https://github.com/spcourse/website/raw/2025/team/anestasia.jpg" style="max-width:90px"><br>Anastasia</td><td> ...
