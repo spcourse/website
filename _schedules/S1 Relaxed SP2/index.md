@@ -90,7 +90,7 @@ shown in case you would like to switch to another one).
       <td class="sp2" colspan="4">SP2</td>
       <td></td>
       <td colspan="5"></td>
-      <td class="next">DP next year?</td>
+      <td class="next"></td>
     </tr>
     <tr class="dim">
       <th class="sched">Fast</th>
