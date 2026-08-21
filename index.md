@@ -30,7 +30,7 @@ These are the most common schedules:
 <style>
 .tracks { width: 100%; border-collapse: collapse; margin-bottom: 1.5em; font-size: 0.9em; }
 .tracks th, .tracks td {
-  border: 1px solid #d8d2c4; padding: 0.35em 0.5em; text-align: center;
+  border: 1px solid #d8d2c4; padding: 0.35em 0.5em; text-align: center; border-radius: 3px; border-spacing: 5px;
 }
 .tracks thead th { background: #f0ede6; }
 .tracks tbody th { text-align: left; white-space: nowrap; background: #f7f5f0; }
