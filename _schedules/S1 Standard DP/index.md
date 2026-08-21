@@ -84,6 +84,13 @@ shown in case you would like to switch to another one).
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th class="sched">Standard (DP only)</th>
+      <td class="dp" colspan="4">DP</td>
+      <td></td>
+      <td colspan="5"></td>
+      <td></td>
+    </tr>
     <tr class="dim">
       <th class="sched">Fast</th>
       <td class="sp1">SP1</td>
@@ -133,7 +140,7 @@ And, for reference, the schedules that start in Semester 2:
       <td></td>
       <td></td>
     </tr>
-    <tr>
+    <tr class="dim">
       <th class="sched">Standard</th>
       <td colspan="5"></td>
       <td class="sp1" colspan="2">SP1</td>
