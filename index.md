@@ -29,7 +29,7 @@ These are the most common schedules if you start in Semester 1:
 
 <style>
 .tracks {
-  width: 100%; margin-bottom: 1.5em; font-size: 0.9em;
+  width: 100%; margin-bottom: 2.5em; font-size: 0.9em;
   border-collapse: separate; border-spacing: 3px 7px;
 }
 .tracks, .tracks thead, .tracks tbody, .tracks tr { background: transparent; }
@@ -42,6 +42,7 @@ These are the most common schedules if you start in Semester 1:
 .tracks .sp2 { background: #f0e2be; color: #5d4713; }
 .tracks .dp  { background: #d3e0dc; color: #2d4a43; }
 .tracks .next { text-align: left; font-style: italic; color: #6b6455; white-space: nowrap; }
+.tracks .sched { font-weight: bold; }
 </style>
 
 <table class="tracks">
@@ -55,7 +56,7 @@ These are the most common schedules if you start in Semester 1:
   </thead>
   <tbody>
     <tr>
-      <th>Fast</th>
+      <th class="sched">Fast</th>
       <td class="sp1">SP1</td>
       <td class="sp2">SP2</td>
       <td class="dp" colspan="2">DP</td>
@@ -63,7 +64,7 @@ These are the most common schedules if you start in Semester 1:
       <td></td>
     </tr>
     <tr>
-      <th>Standard</th>
+      <th class="sched">Standard</th>
       <td class="sp1" colspan="2">SP1</td>
       <td class="sp2" colspan="2">SP2</td>
       <td></td>
@@ -72,7 +73,7 @@ These are the most common schedules if you start in Semester 1:
       <td></td>
     </tr>
     <tr>
-      <th>Relaxed</th>
+      <th class="sched">Relaxed</th>
       <td class="sp1" colspan="4">SP1</td>
       <td></td>
       <td class="sp2" colspan="4">SP2</td>
@@ -95,7 +96,7 @@ And these if you start in Semester 2:
   </thead>
   <tbody>
     <tr>
-      <th>Fast</th>
+      <th class="sched">Fast</th>
       <td colspan="5"></td>
       <td class="sp1">SP1</td>
       <td class="sp2">SP2</td>
@@ -104,7 +105,7 @@ And these if you start in Semester 2:
       <td></td>
     </tr>
     <tr>
-      <th>Standard</th>
+      <th class="sched">Standard</th>
       <td colspan="5"></td>
       <td class="sp1" colspan="2">SP1</td>
       <td class="sp2" colspan="2">SP2</td>
@@ -112,7 +113,7 @@ And these if you start in Semester 2:
       <td class="next">DP next year?</td>
     </tr>
     <tr>
-      <th>Relaxed</th>
+      <th class="sched">Relaxed</th>
       <td colspan="5"></td>
       <td class="sp1" colspan="4">SP1</td>
       <td></td>
