@@ -77,7 +77,7 @@ These are the most common schedules if you start in Semester 1:
       <td></td>
       <td class="sp2" colspan="4">SP2</td>
       <td></td>
-      <td class="next">DP next year</td>
+      <td class="next">DP next year?</td>
     </tr>
   </tbody>
 </table>
@@ -109,14 +109,14 @@ And these if you start in Semester 2:
       <td class="sp1" colspan="2">SP1</td>
       <td class="sp2" colspan="2">SP2</td>
       <td></td>
-      <td class="next">DP next year</td>
+      <td class="next">DP next year?</td>
     </tr>
     <tr>
       <th>Relaxed</th>
       <td colspan="5"></td>
       <td class="sp1" colspan="4">SP1</td>
       <td></td>
-      <td class="next">SP2 and DP next year</td>
+      <td class="next">SP2 next year?</td>
     </tr>
   </tbody>
 </table>
