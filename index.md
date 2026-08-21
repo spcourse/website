@@ -34,9 +34,9 @@ These are the most common schedules if you start in Semester 1:
 }
 .tracks, .tracks thead, .tracks tbody, .tracks tr { background: transparent; }
 .tracks th, .tracks td {
-  border: none; padding: 0.4em 0.5em; text-align: center; background: transparent;
+  border: none; padding: 0.4em 0.5em; text-align: center; background: transparent; font-weight: normal;
 }
-.tracks tbody th { text-align: left; white-space: nowrap; font-weight: normal;}
+.tracks tbody th { text-align: left; white-space: nowrap;}
 .tracks .sp1, .tracks .sp2, .tracks .dp { border-radius: 5px; }
 .tracks .sp1 { background: #dbe3d1; color: #39492a; }
 .tracks .sp2 { background: #f0e2be; color: #5d4713; }
