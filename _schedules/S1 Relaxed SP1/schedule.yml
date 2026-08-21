@@ -1,0 +1,273 @@
+_description: "Relaxed - Do Scientific Programming 1 this semester - Expected workload: 5 hrs/week"
+
+
+Welcome:
+    Read the syllabus to get started: /syllabus
+    Installation Windows:
+        Command line (Windows): /python/en/installing/uv/cli-win
+        Exercise 1, course folders: /python/en/installing/uv/sp/cli-exercise
+        Python setup with uv (Windows): /python/en/installing/uv/sp/install-win
+        Exercise 2, first files in Zed: /python/en/installing/uv/sp/zed-exercise
+    Installation macOS/Linux:
+        Command line (macOS/Linux): /python/en/installing/uv/cli-mac
+        Exercise 1, course folders: /python/en/installing/uv/sp/cli-exercise
+        Python setup with uv (macOS/Linux): /python/en/installing/uv/sp/install-mac
+        Exercise 2, first files in Zed: /python/en/installing/uv/sp/zed-exercise
+
+
+SP1 - L1 (Algorithms):
+    1.1 Output:
+        "[icon:people-fill] Hello, world": /shorts/hello
+        Submit [submit]: /submit/mod1a/s1
+    1.2 Input and Calculations:
+        Basics [theory]: /python/en/basics
+        "[icon:people-fill] Number Whiz": /numbers/en/whiz
+        "[icon:person-fill] Divide": /shorts/oranges
+        Submit [submit]: /submit/mod1a/s2
+    1.3 If-then:
+        Algorithms [theory]: /python/en/algorithms
+        "[icon:people-fill] Less Than": /shorts/less_than
+        "[icon:people-fill] First Year": /shorts/first_year
+        "[icon:person-fill] First or Last Year": /shorts/first_or_last_year
+        "[icon:person-fill] Leap Year": /shorts/leap_year
+        Submit [submit]: /submit/mod1a/s3
+    1.4 Loops 1 (For):
+        For Loops [theory]: /python/en/loops/for
+        "[icon:people-fill] Between": /shorts/between
+        "[icon:people-fill] Buzz": /shorts/buzz
+        "[icon:person-fill] Sum": /shorts/sum
+        "[icon:people-fill] Leap Years": /shorts/leap_years
+        "[icon:people-fill] Newton": /shorts/newton
+        "[icon:person-fill] Repeat String": /shorts/repeat
+        Submit [submit]: /submit/mod1a/s4
+    1.5 Loops 2 (While):
+        While Loops [theory]: /python/en/loops/while
+        Loops examples [theory]: /python/en/loops/practical-uses
+        "[icon:people-fill] Elmo": /shorts/elmo
+        "[icon:person-fill] Positive": /shorts/positive
+        "[icon:people-fill] Sum Until": /shorts/sum_until
+        "[icon:people-fill] Max Until": /shorts/max_until
+        "[icon:person-fill] Calculate Change": /algorithms/en/greedy
+        Submit [submit]: /submit/mod1a/s5
+    1.6 Lists:
+        Debugging [theory]: /python/en/debugging-basics
+        Code in Style [theory]: /python/en/style
+        Lists [theory]: /python/en/lists
+        "[icon:people-fill] Positive List": /shorts/positive_list
+        "[icon:people-fill] Odd": /shorts/odd
+        "[icon:people-fill] Average": /shorts/average
+        "[icon:person-fill] Squares": /shorts/squares
+        "[icon:person-fill] Collect Change": /algorithms/en/collect
+        Submit [submit]: /submit/mod1a/s6
+    Make sure to [discuss] your solutions in person after completing this level!:
+    1.7 Challenge 1:
+        Not required to pass, but recommended to at least try:
+        "[icon:person-fill-gear] Mario Pyramid": /algorithms/en/pyramid
+        Submit Pyramid: /submit/mod1a/c-pyramid
+    1.8 Challenge 2:
+        Not required to pass:
+        "[icon:person-fill-gear] Conway’s Game of Life": /algorithms/en/conway
+        Submit Conway: /submit/mod1a/c-conway
+
+
+SP1 - L1 (Number Theory):
+    1.1 Output:
+        "[icon:people-fill] Hello, world": /shorts/hello
+        Submit [submit]: /submit/mod1n/s1
+    1.2 Input and Calculations:
+        Basics [theory]: /python/en/basics
+        "[icon:people-fill] Number Whiz": /numbers/en/whiz
+        "[icon:person-fill] Divide": /shorts/oranges
+        Submit [submit]: /submit/mod1n/s2
+    1.3 If-then:
+        Algorithms [theory]: /python/en/algorithms
+        "[icon:people-fill] Less Than": /shorts/less_than
+        "[icon:people-fill] First Year": /shorts/first_year
+        "[icon:person-fill] First or Last Year": /shorts/first_or_last_year
+        "[icon:person-fill] Leap Year": /shorts/leap_year
+        Submit [submit]: /submit/mod1n/s3
+    1.4 Loops 1 (For):
+        For Loops [theory]: /python/en/loops/for
+        "[icon:people-fill] Between": /shorts/between
+        "[icon:people-fill] Buzz": /shorts/buzz
+        "[icon:person-fill] Sum": /shorts/sum
+        "[icon:people-fill] Leap Years": /shorts/leap_years
+        "[icon:person-fill] Count Leap Years": /shorts/count_leap_years
+        "[icon:people-fill] Newton": /shorts/newton
+        "[icon:person-fill] Check Prime": /numbers/en/check-prime
+        Submit [submit]: /submit/mod1n/s4
+    1.5 Loops 2 (While):
+        While Loops [theory]: /python/en/loops/while
+        Loops examples [theory]: /python/en/loops/practical-uses
+        "[icon:people-fill] Elmo": /shorts/elmo
+        "[icon:person-fill] Positive": /shorts/positive
+        "[icon:people-fill] Sum Until": /shorts/sum_until
+        "[icon:people-fill] Birthday": /numbers/en/birthday
+        "[icon:person-fill] 1001 Primes": /numbers/en/n-primes
+        Submit [submit]: /submit/mod1n/s5
+    1.6 Lists:
+        Debugging [theory]: /python/en/debugging-basics
+        Code in Style [theory]: /python/en/style
+        Lists [theory]: /python/en/lists
+        "[icon:people-fill] Positive List": /shorts/positive_list
+        "[icon:people-fill] Odd": /shorts/odd
+        "[icon:people-fill] Average": /shorts/average
+        "[icon:person-fill] Squares": /shorts/squares
+        "[icon:person-fill] Prime List": /numbers/en/primelist
+        Submit [submit]: /submit/mod1n/s6
+    Make sure to [discuss] your solutions in person after completing this level!:
+    1.7 Challenge 1:
+        Not required to pass, but recommended to at least try:
+        "[icon:person-fill-gear] Goldbach": /numbers/en/goldbach
+        Submit Goldbach: /submit/mod1n/c-goldbach
+    1.8 Challenge 2:
+        Not required to pass:
+        "[icon:person-fill-gear] Amicable": /numbers/en/amicable
+        Submit Amicable: /submit/mod1n/c-amicable
+    1.9 Challenge 3:
+        Not required to pass:
+        "[icon:person-fill-gear] Eratosthenes": /numbers/en/eratosthenes
+        Submit Eratosthenes: /submit/mod1n/c-eratosthenes
+
+
+SP1 - L2 (Text Processing):
+    2.1 Functions:
+        Functions [theory]: /python/en/functions
+        "[icon:people-fill] Squared": /shorts/squared
+        "[icon:people-fill] Min": /shorts/min
+        "[icon:person-fill] Fun Sum": /shorts/fun_sum
+        "[icon:person-fill] Max": /shorts/max
+        "[icon:person-fill] Max Index": /shorts/max_index
+        "[icon:person-fill] Arange": /shorts/arange
+        Submit [submit]: /submit/mod2t/s1
+    2.2 Strings 1:
+        Strings [theory]: /python/en/strings
+        "[icon:people-fill] Vowels": /shorts/vowels
+        "[icon:people-fill] Vowel Words": /shorts/vowel_words
+        "[icon:person-fill] Text Statistics": /text/en/statistics
+        Submit [submit]: /submit/mod2t/s2
+    2.3 Strings 2:
+        "[icon:people-fill] Longest Word": /shorts/longest_word
+        "[icon:people-fill] Word-by-Word": /text/en/words
+        "[icon:people-fill] Resplit": /shorts/resplit
+        "[icon:person-fill] Snake Case": /shorts/snake_case
+        "[icon:person-fill] Align": /text/en/align
+        Submit [submit]: /submit/mod2t/s3
+    2.4 Files:
+        Read Files [theory]: /python/en/file-io
+        "[icon:people-fill] Practice with files": /python/en/files
+        "[icon:people-fill] Alice": /shorts/alice
+        "[icon:person-fill] Sentiment": /text/en/sentiment
+        Submit [submit]: /submit/mod2t/s4
+    2.5 Plot:
+        Import [theory]: /python/en/modules
+        Plot [theory]: /python/en/plotting
+        "[icon:people-fill] Plot": /plot/en/plot1
+        "[icon:person-fill] Plot Min": /plot/en/plot2
+        Submit [submit]: /submit/mod2t/s5
+    2.6 Style:
+        "[icon:person-fill] Style": /style/text
+        Submit [submit]: /submit/mod2t/s6
+    Make sure to [discuss] your solutions in person after completing this level!:
+    2.7 Challenge 1:
+        Not required to pass, but recommended to at least try:
+        "[icon:person-fill-gear] Twitter": /text/en/tweets
+        Submit Twitter (21 jan): /submit/mod2t/c-twitter
+    2.8 Challenge 2:
+        Not required to pass:
+        "[icon:person-fill-gear] Reformat": /text/en/reformatting
+        Submit Reformat (21 jan): /submit/mod2t/c-reformatting
+    2.9 Challenge 3:
+        Not required to pass:
+        "[icon:person-fill-gear] Plot Min Max": /plot/en/plot_mm
+        Submit Plot Min Max (21 jan): /submit/mod2t/c-plot-min-max
+
+
+SP1 - L2 (Numerical Integration):
+    Introduction: /integrals/en/intro2
+    2.1 Functions:
+        Functions [theory]: /python/en/functions
+        "[icon:people-fill] Squared": /shorts/squared
+        "[icon:people-fill] Min": /shorts/min
+        "[icon:person-fill] Fun Sum": /shorts/fun_sum
+        "[icon:person-fill] Max": /shorts/max
+        "[icon:person-fill] Max Index": /shorts/max_index
+        "[icon:person-fill] Arange": /shorts/arange
+        Submit [submit]: /submit/mod2i/s1
+    2.2 Plot:
+        Import [theory]: /python/en/modules
+        Plot [theory]: /python/en/plotting
+        "[icon:people-fill] Plot": /plot/en/plot1
+        "[icon:person-fill] Roots": /integrals/en/roots
+        "[icon:person-fill] Plot Min": /plot/en/plot2
+        Submit [submit]: /submit/mod2i/s2
+    2.3 Riemann:
+        Riemann Sum [theory]: /integrals/en/riemann/explanation
+        "[icon:person-fill] Riemann Sum": /integrals/en/riemann/integrals
+        Submit [submit]: /submit/mod2i/s3
+    2.4 Strings:
+        Strings [theory]: /python/en/strings
+        "[icon:people-fill] Vowels": /shorts/vowels
+        "[icon:person-fill] Longest Word": /shorts/longest_word
+        Submit [submit]: /submit/mod2i/s4
+    2.5 Random:
+        Random Numbers [theory]: /python/en/random
+        "[icon:people-fill] Random Fact": /integrals/en/random/fact
+        "[icon:person-fill] Random Distance": /integrals/en/random/distance
+        "[icon:person-fill] Random Histogram": /integrals/en/random/histogram
+        Submit [submit]: /submit/mod2i/s5
+    2.6 Style:
+        "[icon:person-fill] Style": /style/integrals
+        Submit [submit]: /submit/mod2i/s6
+    Make sure to [discuss] your solutions in person after completing this level!:
+    2.7 Challenge 1:
+        Not required to pass, but recommended to try:
+        More Function [theory]: /python/en/functions2
+        Monte Carlo [theory]: /integrals/en/monte-carlo/explanation
+        "[icon:person-fill-gear] Monte Carlo": /integrals/en/monte-carlo/integrals
+        Submit [submit]: /submit/mod2i/c-montecarlo
+    2.8 Challenge 2:
+        Not required to pass:
+        "[icon:person-fill-gear] Egg": /integrals/en/monte-carlo/egg
+        Submit [submit]: /submit/mod2i/c-egg
+
+
+SP1 - L3 (Big Data):
+    3.1 Car:
+        Read Files (repeated) [theory]: /python/en/file-io
+        "[icon:people-fill] Car Ride": /bigdata/en/car
+        Submit [submit]: /submit/mod3/s1
+    3.2 Weather 1:
+        More about Functions [theory]: /python/en/functions3
+        "[icon:person-fill] Reading the data": /bigdata/en/weather1
+        Submit [submit]: /submit/mod3/s2
+    3.3 Weather 2:
+        "[icon:person-fill] Extremes": /bigdata/en/weather2
+        Submit [submit]: /submit/mod3/s3
+    3.4 Weather 3:
+        "[icon:person-fill] Cold, colder, coldest": /bigdata/en/weather3
+        Submit [submit]: /submit/mod3/s4
+    3.5 Weather 4:
+        "[icon:person-fill] Plot summer and tropical days": /bigdata/en/weather4
+        Submit [submit]: /submit/mod3/s5
+    Make sure to [discuss] your solutions in person after completing this level!:
+    3.6 Challenge 1:
+        Not required to pass, but recommended:
+        "[icon:person-fill-gear] Heat wave": /bigdata/en/weather5
+        Submit [submit]: /submit/mod3/c-weather5
+    3.7 Challenge 2:
+        Not required to pass:
+        "[icon:person-fill-gear] Decade trends, temperature and freezing": /bigdata/en/weather6
+        Submit [submit]: /submit/mod3/c-weather6
+    3.8 Challenge 3:
+        Not required to pass:
+        "[icon:person-fill-gear] Decade trends, heat waves": /bigdata/en/weather7
+        Submit [submit]: /submit/mod3/c-weather7
+
+
+SP1 - Practice exam:
+    Practice exam: /practice-exams/sp1/
+
+################################################################################
+##################################### SP 2 #####################################
+################################################################################

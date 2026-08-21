@@ -1,0 +1,92 @@
+_description: "Standard - Do Data Processing this semester - Expected workload: 10 hrs/week"
+
+
+Welcome:
+    Read the syllabus to get started: /syllabus
+    Installation Windows:
+        Command line (Windows): /python/en/installing/uv/cli-win
+        Exercise 1, course folders: /python/en/installing/uv/sp/cli-exercise
+        Python setup with uv (Windows): /python/en/installing/uv/sp/install-win
+        Exercise 2, first files in Zed: /python/en/installing/uv/sp/zed-exercise
+    Installation macOS/Linux:
+        Command line (macOS/Linux): /python/en/installing/uv/cli-mac
+        Exercise 1, course folders: /python/en/installing/uv/sp/cli-exercise
+        Python setup with uv (macOS/Linux): /python/en/installing/uv/sp/install-mac
+        Exercise 2, first files in Zed: /python/en/installing/uv/sp/zed-exercise
+
+
+DP - L7 (Pandas):
+    Data Processing - Level 7 (Pandas) [pass/fail]:
+    7.1 Jupyter notebook:
+        "[icon:people-fill] Jupyter notebook": /pandas/notebooks-sp
+    7.2 Pandas 1 (foundations):
+        "[icon:people-fill] Series, DataFrames, reading files, selecting and plotting": /pandas/pandas-dp/notebook-1
+        Submit [submit]: /submit/mod7/s1
+    7.3 Pandas 2 (cleaning and summarizing):
+        "[icon:people-fill] Types, missing data, deriving columns, sorting and grouping": /pandas/pandas-dp/notebook-2
+        Submit [submit]: /submit/mod7/s2
+    7.4 Assignment:
+        "[icon:person-fill] Weather": /pandas/pandas-dp/weather
+        Submit [submit]: /submit/mod7/s3
+    Make sure to [discuss] your solutions in person after completing this level!:
+
+
+DP - L8 (XKCD):
+    Data Processing - Level 8 (XKCD) [graded]:
+    8.1 Pandas 3 (quality and combining):
+        "[icon:people-fill] Data quality, concat, joins and the cross join": /pandas/pandas-dp/notebook-3
+        Submit [submit]: /submit/mod8/s1
+    8.2 Pandas 4 (reshaping and windows):
+        "[icon:people-fill] Long vs wide, melt and pivot, rolling and diff": /pandas/pandas-dp/notebook-4
+        Submit [submit]: /submit/mod8/s2
+    8.3 Assignment:
+        "[icon:person-fill] Size and Lifespan": /pandas/assignment-size-and-lifespan
+        Submit [submit]: /submit/mod8/s3
+    Make sure to [discuss] your solutions in person after completing this level!:
+
+
+DP - L9 (Databases):
+    Data Processing - Level 9 (Databases) [pass/fail]:
+    Introduction: /sql/intro
+    9.1 Learn SQL:
+        Learn about Databases: /sql/lecture
+        Store movie information using sqlite: /sql/movies
+        Submit [submit]: /submit/mod9/s1
+    9.2 Fiftyville:
+        Solve a mistery using sqlite: /sql/fiftyville
+        Submit [submit]: /submit/mod9/s2
+    Make sure to [discuss] your solutions in person after completing this level!:
+
+
+DP - L10 (Wikipedia):
+    Data Processing - Level 10 (Wikipedia) [graded]:
+    Introduction: /wikipedia/intro
+    10.1 HTML:
+        What is HTML?: /homepage/html
+        Make your own website: /homepage/homepage
+        Submit [submit]: /submit/mod10/s1
+    10.2 Scraping:
+        Scraping a Wikipedia page: /wikipedia/scraping
+        Plotting the results: /wikipedia/visualize-gdp
+        Submit [submit]: /submit/mod10/s2
+    Make sure to [discuss] your solutions in person after completing this level!:
+    10.3 Challenge 1 - Crawling:
+        Not required to pass (but needed for higher grade):
+        "[icon:person-fill-gear] Crawling Wikipedia": /wikipedia/crawling
+        "[icon:person-fill-gear] Plotting the results": /wikipedia/visualize-gini
+        Submit [submit]: /submit/mod10/c-crawling
+    10.4 Challenge 2 - BBC:
+        Not required to pass (but needed for higher grade):
+        "[icon:person-fill-gear] Crawling Wikipedia": /wikipedia/bbc
+        Submit [submit]: /submit/mod10/c-bbc
+
+
+DP - Final project:
+    Data Processing - Final Project [graded]:
+    Learn to use git: /basics/git
+    Create your classroom repo: /project/classroom
+    Project outline: /project
+    Submit first proposal: /submit/project/s1
+    Submit second proposal: /submit/project/s2
+    Submit proof of concept: /submit/project/s3
+    Submit final project: /submit/project/s4

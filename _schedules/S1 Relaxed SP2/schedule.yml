@@ -1,0 +1,118 @@
+_description: "Relaxed - Do Scientific Programming 2 this semester - Expected workload: 5 hrs/week"
+
+
+Welcome:
+    Read the syllabus to get started: /syllabus
+    Installation Windows:
+        Command line (Windows): /python/en/installing/uv/cli-win
+        Exercise 1, course folders: /python/en/installing/uv/sp/cli-exercise
+        Python setup with uv (Windows): /python/en/installing/uv/sp/install-win
+        Exercise 2, first files in Zed: /python/en/installing/uv/sp/zed-exercise
+    Installation macOS/Linux:
+        Command line (macOS/Linux): /python/en/installing/uv/cli-mac
+        Exercise 1, course folders: /python/en/installing/uv/sp/cli-exercise
+        Python setup with uv (macOS/Linux): /python/en/installing/uv/sp/install-mac
+        Exercise 2, first files in Zed: /python/en/installing/uv/sp/zed-exercise
+
+
+SP2 - L4 (Monopoly):
+    Scientific Programming 2 - Level 4 (Monopoly):
+    4.1 Monopoly 1:
+        Introduction: /monopoly/en/
+        Debugging [theory]: /python/en/debugging
+        Main function [theory]: /python/en/main_function
+        "[icon:people-fill] Moving around": /monopoly/en/moving-around
+    4.2 Monopoly 2:
+        Default arguments [theory]: /python/en/default-arguments
+        "[icon:person-fill] Money": /monopoly/en/money
+        Submit [submit]: /submit/mod4/s1
+    4.3 Monopoly 3:
+        "[icon:person-fill] Two players": /monopoly/en/two-player
+        Submit [submit]: /submit/mod4/s2
+    Make sure to [discuss] your solutions in person after completing this level!:
+    4.4 Challenge 1:
+        Not required to pass, but recommended:
+        Learn how to create animated graphics [theory]: /animation/en/explanation-gif
+        "[icon:person-fill-gear] Spiral": /animation/en/dot
+        "[icon:person-fill-gear] Buzzed student": /animation/en/student
+        Submit [submit]: /submit/mod4/c-animation
+    4.5 Challenge 2:
+        Not required to pass:
+        "[icon:person-fill-gear] Improve monopoly design and extend to many players": /monopoly/en/n-player
+        Submit [submit]: /submit/mod4/c-monopoly-n-player
+
+
+SP2 - L5 (Monopoly 2):
+    5.1 Data structures:
+        Dictionaries [theory]: /python/en/dictionaries/use
+        Tuples [theory]: /python/en/tuples
+        Sets [theory]: /python/en/sets
+        List slicing and indexing [theory]: /python/en/slicing
+        Use dictionaries and sets - part 1 [assignment]: /python/en/datastructures-practice/part1
+        Submit [submit]: /submit/mod5/s1
+    5.2 Monopoly with dicts:
+        Dictionaries practical examples [theory]: /monopoly_dict/using_dicts_theory
+        Use dicts and sets to imporove Monopoly [theory]: /monopoly_dict/monopoly_config
+        Submit [submit]: /submit/mod5/s2
+    5.3 Computational complexity:
+        Complexity 1 [theory]: /python/en/complexity-intro
+        Complexity 2 [theory]: /python/en/complexity-calculation
+        Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
+        "[icon:person-fill] Complexity questions": /shakespeare/complexity-questions
+        Submit [submit]: /submit/mod5/s3
+    Make sure to [discuss] your solutions in person after completing this level!:
+    5.4 Challenge 1:
+        Not required to pass:
+        "[icon:person-fill-gear] Annalyzing the board": /monopoly_dict/counting_visits
+        Submit [submit]: /submit/mod5/c-counting-visits
+    5.5 Challenge 2:
+        Not required to pass:
+        "[icon:person-fill-gear] Use dictionaries and sets - part 2": /python/en/datastructures-practice/part2
+        Submit [submit]: /submit/mod5/c-datastructures2
+    5.6 Challenge 3:
+        Not required to pass:
+        "[icon:person-fill-gear] Improve monopoly design and extend to many players": /monopoly2/n-player
+        Submit [submit]: /submit/mod5/c-monopoly2-n-player
+
+
+SP2 - L6 (Populations):
+    Scientific Programming 2 - Level 6 (Populations):
+    Introduction: /populations-oo
+    6.1 Classes:
+        Learn about using classes in Python [theory]: /python/en/classes
+        "[icon:people-fill] Practice with classes": /objects/cards
+    6.2 Populations (part 1):
+        Introduction: /populations-oo/introduction
+        "[icon:people-fill] Phase 1": /populations-oo/phase1
+        "[icon:people-fill] Phase 2": /populations-oo/phase2
+        "[icon:people-fill] Phase 3": /populations-oo/phase3
+        "[icon:person-fill] Phase 4": /populations-oo/phase4
+        Submit [submit]: /submit/mod6/s1
+    6.3 Populations (part 2):
+        "[icon:people-fill] Phase 5": /populations-oo/phase5
+        "[icon:people-fill] Phase 6": /populations-oo/phase6
+        "[icon:people-fill] Phase 7": /populations-oo/phase7
+        "[icon:person-fill] Phase 8": /populations-oo/phase8
+        "[icon:person-fill] Phase 9": /populations-oo/phase9
+        Submit [submit]: /submit/mod6/s2
+    Make sure to [discuss] your solutions in person after completing this level!:
+    6.4 Challenge 1 - Creative:
+        Not required to pass:
+        "[icon:person-fill-gear] Experiment": /populations-oo/creative
+        Submit [submit]: /submit/mod6/c-creative
+
+
+SP2 - Practice exam:
+    Practice exam: /practice-exams/sp2/
+
+
+################################################################################
+##################################### Data #####################################
+################################################################################
+
+
+# NOTE: the four notebook pages are live (spcourse/pandas, pandas-dp/notebook-N/content.md).
+# Students download only the .ipynb; it fetches its own data and tests.py at run time.
+# The weather assignment is live too, at pandas-dp/weather/ - that page ships its own two
+# data files and has a checkpy (spcourse/tests, tests/pandas-dp/weather-pandasTest.py).
+# /pandas/assignment-size-and-lifespan below still does not exist - it is a placeholder.
