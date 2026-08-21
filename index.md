@@ -28,16 +28,19 @@ You can follow each course at different paces to fit your schedule. This means y
 These are the three most common schedules:
 
 **Fast:**
+
 | Sep | Oct | Nov + Dec|
 | --- | --- | --- |
 | Scientific Programming 1 | Scientific Programming 2 | Data Processing |
 
 **Regular:**
+
 | Sep + Oct | Nov + Dec | Feb - May | 
 | --- | --- | --- |
 | Scientific Programming 1 | Scientific Programming 2 | Data Processing |
 
 **Relaxed:**
+
 | Sep - Dec | Feb - May |
 | --- | --- |
 | Scientific Programming 1 | Scientific Programming 2 |
