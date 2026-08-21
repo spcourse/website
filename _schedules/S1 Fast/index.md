@@ -78,7 +78,7 @@ shown in case you would like to switch to another one).
 .tracks .dp  { background: #d3e0dc; color: #2d4a43; }
 .tracks .next { text-align: left; font-style: italic; color: #6b6455; white-space: nowrap; }
 .tracks .sched { font-weight: bold; }
-.tracks tr.dim td, .tracks tr.dim th { filter: grayscale(50%); opacity: 0.2; }
+.tracks tr.dim td, .tracks tr.dim th { filter: grayscale(60%); opacity: 0.3; }
 </style>
 
 <table class="tracks">
