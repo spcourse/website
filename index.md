@@ -276,7 +276,7 @@ Here below is an overview of all modules for all courses. Click a module title t
 ## Grading {#grading}
 
 **Scientific Programming 1 and 2** are pass/fail. You pass a course by completing all of its
-modules and passing an on-campus programming exam of about three hours.
+modules and passing an on-campus programming exam of about two hours.
 
 **Data Processing** is graded (1-10) and has no exam. Your grade comes from two of the modules
 and the final project:

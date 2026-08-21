@@ -360,7 +360,7 @@ Each level has to be submitted by the date below. Exam dates and rooms come from
     <tr><td class="date">Wed 30 Sep</td><td class="tag sp2">SP2</td><td>Level 4 <span class="mod">(Monopoly)</span></td></tr>
     <tr><td class="date">Wed 7 Oct</td><td class="tag sp2">SP2</td><td>Level 5 <span class="mod">(Monopoly 2)</span></td></tr>
     <tr><td class="date">Wed 14 Oct</td><td class="tag sp2">SP2</td><td>Level 6 <span class="mod">(Populations)</span></td></tr>
-    <tr><td class="date">Mon 19 Oct</td><td class="tag sp2">SP2</td><td><b>Exam</b> <span class="mod">— 9:00-12:00, IWO 4.04C (Blauw)</span></td></tr>
+    <tr><td class="date">Mon 19 Oct</td><td class="tag sp2">SP2</td><td><b>Exam</b> <span class="mod">— 9:00-11:00, IWO 4.04C (Blauw)</span></td></tr>
     <tr><td class="date">Tue 20 Oct</td><td class="tag sp1">SP1</td><td><b>Exam</b> <span class="mod">— 9:30-11:30, USC Universum Sporthal 1</span></td></tr>
     <tr><td class="date">Fri 30 Oct</td><td class="tag dp">DP</td><td>Level 7 <span class="mod">(Pandas)</span></td></tr>
     <tr><td class="date">Fri 6 Nov</td><td class="tag dp">DP</td><td>Level 8 <span class="mod">(XKCD)</span></td></tr>
@@ -414,7 +414,7 @@ You pass by:
 #### Final exam
 
 - The final exam is an (on campus) programming exam in a controlled setting. This will take
-  about 3 hours. It contains a couple of small programming assignments. You'll pass the exam
+  about 2 hours. It contains a couple of small programming assignments. You'll pass the exam
   when your answers are sufficiently correct.
 - You can participate in the final exam if you're done with the coursework, meaning: all
   modules are *finished*, *discussed*, and marked as *pass*.
