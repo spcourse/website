@@ -83,7 +83,7 @@ Here are the three most common schedules for **if you have no prior programming 
   </tbody>
 </table>
 
-**If you have programmed before**, you can skip the courses you already covered elsewhere:
+**If you have programmed before**, you can skip the courses you already covered:
 
 <table class="tracks">
   <thead>
