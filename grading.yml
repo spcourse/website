@@ -139,7 +139,7 @@ grades:
             xkcd_3: boolean
             xkcd_4: boolean
         calculation: "1.0 + base_correct * -6.0 + xkcd_2 * -1.0 + xkcd_3 * -1.0 + xkcd_4 * -1.0"
-    m8-passed: *check
+    m9-passed: *check
     m10-passed:
         type: float
         subgrades:
@@ -173,8 +173,12 @@ grades:
     c-crawling: *check
     c-bbc: *check
 
+    p_1p: *check
+    p_2p: *check
+    p_3p: *check
+    p_4p: *check
 
-####### SP final grade stuff -> kan dit hier?
+### SP1
 
 sp1_checks:
     type: pass_all        # alles moet pass zijn
@@ -182,6 +186,129 @@ sp1_checks:
         - m1-passed
         - m2-passed
         - m3-passed
+
+
+sp1_level_1_algorithms_l1alg:
+  small_block_overview: true
+  submits:
+    1_1a: 1
+    1_2a: 1
+    1_3a: 1
+    1_4a: 1
+    1_5a: 1
+    1_6a: 1
+
+sp1_level_1_numbers_l1num:
+  small_block_overview: true
+  submits:
+    1_1n: 1
+    1_2n: 1
+    1_3n: 1
+    1_4n: 1
+    1_5n: 1
+    1_6n: 1
+
+sp1_level_1_challenges_l1cha:
+  small_block_overview: true
+  submits:
+    c-pyramid: 1
+    c-conway: 1
+    c-goldbach: 1
+    c-amicable: 1
+    c-eratosthenes: 1
+
+sp1_level_2_text_l2tex:
+  small_block_overview: true
+  submits:
+    2_1t: 1
+    2_2t: 1
+    2_3t: 1
+    2_4t: 1
+    2_5t: 1
+    2_6t: 1
+
+sp1_level_2_integration_l2int:
+  small_block_overview: true
+  submits:
+    2_1i: 1
+    2_2i: 1
+    2_3i: 1
+    2_4i: 1
+    2_5i: 1
+    2_6i: 1
+
+sp1_level_2_challenges_l2cha:
+  small_block_overview: true
+  submits:
+    c-twitter: 1
+    c-reformatting: 1
+    c-plot_min_max: 1
+    c-montecarlo: 1
+    c-egg: 1
+
+sp1_level_3_big_data_l3big:
+  small_block_overview: true
+  submits:
+    3_1b: 1
+    3_2b: 1
+    3_3b: 1
+    3_4b: 1
+    3_5b: 1
+
+sp1_level_3_challenges_l3cha:
+  small_block_overview: true
+  submits:
+    c-weather5: 1
+    c-weather6: 1
+    c-weather7: 1
+
+### SP 2
+
+sp2_checks:
+    type: pass_all        # alles moet pass zijn
+    submits:
+        - m4-passed
+        - m5-passed
+        - m6-passed
+
+sp2_level_4_monopoly_L4mon:
+  small_block_overview: true
+  submits:
+    4_1m: 1
+    4_2m: 1
+
+sp2_level_4_challenges_L4cha:
+  small_block_overview: true
+  submits:
+    c-animation: 1
+    c-monopoly-n-player: 1
+
+sp2_level_5_monopoly2_L5m2:
+  small_block_overview: true
+  submits:
+    5_1m: 1
+    5_2m: 1
+    5_3m: 1
+
+sp2_level_5_challenges_L5cha:
+  submits:
+    c-counting-visits: 1
+    c-datastructures2: 1
+    c-monopoly2-n-player: 1
+
+sp2_level_6_populations_L6pop:
+  small_block_overview: true
+  submits:
+    6_1p: 1
+    6_2p: 1
+
+sp2_level_6_challenges_L6cha:
+  small_block_overview: true
+  submits:
+    c-creative: 1
+
+
+####### SP final grade stuff
 
 sp1_exams:
     type: pass_first      # minimaal één gedaan (pass/fail), gebruik eerste
@@ -198,14 +325,6 @@ sp1_exams_resit:
         - sp1_exam2
         - sp1_exam3
         - sp1_exam4
-
-
-sp2_checks:
-    type: pass_all        # alles moet pass zijn
-    submits:
-        - m4-passed
-        - m5-passed
-        - m6-passed
 
 sp2_exams:
     type: pass_first      # minimaal één gedaan (pass/fail), gebruik eerste
@@ -241,11 +360,11 @@ calculation:
     sp2_final:
         type: pass
         components:
-            - sp1_checks
-            - sp1_exams
+            - sp2_checks
+            - sp2_exams
 
     sp2_resit:
         type: pass
         components:
-            - sp1_checks
-            - sp1_exams_resit
+            - sp2_checks
+            - sp2_exams_resit
