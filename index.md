@@ -40,7 +40,7 @@ You can follow each course at different paces to fit your schedule. This means y
 .tracks .sp2 { background: #f0e2be; color: #5d4713; }
 .tracks .dp  { background: #d3e0dc; color: #2d4a43; }
 .tracks .next { text-align: left; font-style: italic; color: #6b6455; white-space: nowrap; }
-.tracks .prior { text-align: left; color: #6b6455; white-space: nowrap; }
+.tracks .prior { display: block; font-weight: normal; font-size: 0.9em; color: #6b6455; }
 .tracks .sched { font-weight: bold; }
 .tracks .sched .mod { font-weight: normal; color: #6b6455; }
 .tracks tr.dim td, .tracks tr.dim th { filter: grayscale(60%); opacity: 0.3; }
@@ -84,21 +84,18 @@ You can follow each course at different paces to fit your schedule. This means y
   <thead>
     <tr>
       <th></th>
-      <th></th>
       <th>Sep</th><th>Oct</th><th>Nov</th><th>Dec</th>
       <th></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th class="sched">Standard <span class="mod">(DP this semester)</span></th>
-      <td class="prior">you already did SP1 + SP2 (or equivalent)</td>
+      <th class="sched">Standard <span class="mod">(DP this semester)</span><span class="prior">you already did SP1 + SP2 (or equivalent)</span></th>
       <td class="dp" colspan="4">DP</td>
       <td></td>
     </tr>
     <tr>
-      <th class="sched">Relaxed <span class="mod">(only SP2 this semester)</span></th>
-      <td class="prior">you already did SP1 (or equivalent)</td>
+      <th class="sched">Relaxed <span class="mod">(only SP2 this semester)</span><span class="prior">you already did SP1 (or equivalent)</span></th>
       <td class="sp2" colspan="4">SP2</td>
       <td class="next">DP next semester?</td>
     </tr>
