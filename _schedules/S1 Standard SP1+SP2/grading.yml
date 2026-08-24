@@ -1,0 +1,136 @@
+########### SP 1 ###########
+
+sp1_checks:
+  show_progress: true
+
+sp1_level_1_algorithms_l1alg:
+  show_progress: true
+  small_block_overview: true
+  submits:
+    1_1a: 1
+    1_2a: 1
+    1_3a: 1
+    1_4a: 1
+    1_5a: 1
+    1_6a: 1
+
+sp1_level_1_numbers_l1num:
+  show_progress: true
+  small_block_overview: true
+  submits:
+    1_1n: 1
+    1_2n: 1
+    1_3n: 1
+    1_4n: 1
+    1_5n: 1
+    1_6n: 1
+
+sp1_level_1_challenges_l1cha:
+  show_progress: true
+  small_block_overview: true
+  submits:
+    c-pyramid: 1
+    c-conway: 1
+    c-goldbach: 1
+    c-amicable: 1
+    c-eratosthenes: 1
+
+sp1_level_2_text_l2tex:
+  show_progress: true
+  small_block_overview: true
+  submits:
+    2_1t: 1
+    2_2t: 1
+    2_3t: 1
+    2_4t: 1
+    2_5t: 1
+    2_6t: 1
+
+sp1_level_2_integration_l2int:
+  show_progress: true
+  small_block_overview: true
+  submits:
+    2_1i: 1
+    2_2i: 1
+    2_3i: 1
+    2_4i: 1
+    2_5i: 1
+    2_6i: 1
+
+sp1_level_2_challenges_l2cha:
+  show_progress: true
+  small_block_overview: true
+  submits:
+    c-twitter: 1
+    c-reformatting: 1
+    c-plot_min_max: 1
+    c-montecarlo: 1
+    c-egg: 1
+
+sp1_level_3_big_data_l3big:
+  show_progress: true
+  small_block_overview: true
+  submits:
+    3_1b: 1
+    3_2b: 1
+    3_3b: 1
+    3_4b: 1
+    3_5b: 1
+
+sp1_level_3_challenges_l3cha:
+  show_progress: true
+  small_block_overview: true
+  submits:
+    c-weather5: 1
+    c-weather6: 1
+    c-weather7: 1
+
+sp1_exams:
+  show_progress: true
+
+
+########### SP 2 ###########
+
+sp2_checks:
+  show_progress: true
+
+sp2_level_4_monopoly_L4mon:
+  show_progress: true
+  small_block_overview: true
+  submits:
+    4_1m: 1
+    4_2m: 1
+
+sp2_level_4_challenges_L4cha:
+  show_progress: true
+  small_block_overview: true
+  submits:
+    c-animation: 1
+    c-monopoly-n-player: 1
+
+sp2_level_5_monopoly2_L5m2:
+  show_progress: true
+  small_block_overview: true
+  submits:
+    5_1m: 1
+    5_2m: 1
+    5_3m: 1
+
+sp2_level_5_challenges_L5cha:
+  show_progress: true
+  small_block_overview: true
+  submits:
+    c-counting-visits: 1
+    c-datastructures2: 1
+    c-monopoly2-n-player: 1
+
+sp2_level_6_survival_L6sur:
+  show_progress: true
+  small_block_overview: true
+  submits:
+    6_1s: 1
+    6_2s: 1
+    6_3s: 1
+
+sp2_exams:
+  show_progress: true
