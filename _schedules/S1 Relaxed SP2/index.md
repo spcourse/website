@@ -59,102 +59,81 @@ shown in case you would like to switch to another one).
 <style>
 .tracks {
   width: 100%; margin-bottom: 2.5em; font-size: 0.9em;
-  border-collapse: separate; border-spacing: 3px 7px;
+  border-collapse: separate; border-spacing: 4px 8px;
 }
 .tracks, .tracks thead, .tracks tbody, .tracks tr { background: transparent; }
 .tracks th, .tracks td {
-  border: none; padding: 0.4em 0.5em; text-align: center; background: transparent; font-weight: normal;
+  border: none; padding: 0.6em 0.7em; text-align: center; background: transparent; font-weight: normal;
 }
-.tracks tbody th { text-align: left; white-space: nowrap;}
+.tracks tbody th {
+  text-align: left; white-space: nowrap;
+  padding-top: 0; padding-bottom: 0; line-height: 1.25;
+}
 .tracks .sp1, .tracks .sp2, .tracks .dp { border-radius: 5px; }
 .tracks .sp1 { background: #dbe3d1; color: #39492a; }
 .tracks .sp2 { background: #f0e2be; color: #5d4713; }
 .tracks .dp  { background: #d3e0dc; color: #2d4a43; }
 .tracks .next { text-align: left; font-style: italic; color: #6b6455; white-space: nowrap; }
+.tracks .prior {
+  display: block; font-weight: normal; font-size: 0.9em; color: #6b6455; line-height: 1.2;
+}
 .tracks .sched { font-weight: bold; }
+.tracks .sched .mod { font-weight: normal; color: #6b6455; }
 .tracks tr.dim td, .tracks tr.dim th { filter: grayscale(60%); opacity: 0.3; }
 </style>
+
+Here are the three most common schedules for **if you have no prior programming experience**. (so, you start with Scientific Programming 1):
 
 <table class="tracks">
   <thead>
     <tr>
       <th></th>
-      <th>Sep</th><th>Oct</th><th>Nov</th><th>Dec</th><th>Jan</th>
-      <th>Feb</th><th>Mar</th><th>Apr</th><th>May</th><th>Jun</th>
+      <th>Sep</th><th>Oct</th><th>Nov</th><th>Dec</th>
       <th></th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <th class="sched">Relaxed (SP2 only)</th>
-      <td class="sp2" colspan="4">SP2</td>
-      <td></td>
-      <td colspan="5"></td>
-      <td class="next"></td>
-    </tr>
     <tr class="dim">
-      <th class="sched">Fast</th>
+      <th class="sched">Fast <span class="mod">(all courses this semester)</span></th>
       <td class="sp1">SP1</td>
       <td class="sp2">SP2</td>
       <td class="dp" colspan="2">DP</td>
-      <td colspan="6"></td>
       <td></td>
     </tr>
     <tr class="dim">
-      <th class="sched">Standard</th>
+      <th class="sched">Standard <span class="mod">(SP1 + SP2 this semester)</span></th>
       <td class="sp1" colspan="2">SP1</td>
       <td class="sp2" colspan="2">SP2</td>
-      <td></td>
-      <td class="dp" colspan="4">DP</td>
-      <td></td>
-      <td></td>
+      <td class="next">DP next semester?</td>
     </tr>
     <tr class="dim">
-      <th class="sched">Relaxed</th>
+      <th class="sched">Relaxed <span class="mod">(only SP1 this semester)</span></th>
       <td class="sp1" colspan="4">SP1</td>
-      <td></td>
-      <td class="sp2" colspan="4">SP2</td>
-      <td></td>
-      <td class="next">DP next year?</td>
+      <td class="next">SP2 next semester?</td>
     </tr>
   </tbody>
 </table>
 
-And, for reference, the schedules that start in Semester 2:
+**If you have programmed before**, you can skip the courses you already covered:
 
 <table class="tracks">
   <thead>
     <tr>
       <th></th>
-      <th>Sep</th><th>Oct</th><th>Nov</th><th>Dec</th><th>Jan</th>
-      <th>Feb</th><th>Mar</th><th>Apr</th><th>May</th><th>Jun</th>
+      <th>Sep</th><th>Oct</th><th>Nov</th><th>Dec</th>
       <th></th>
     </tr>
   </thead>
   <tbody>
     <tr class="dim">
-      <th class="sched">Fast</th>
-      <td colspan="5"></td>
-      <td class="sp1">SP1</td>
-      <td class="sp2">SP2</td>
-      <td class="dp" colspan="2">DP</td>
-      <td></td>
+      <th class="sched">Standard <span class="mod">(DP this semester)</span><span class="prior">you already did SP1 + SP2 (or equivalent)</span></th>
+      <td class="dp" colspan="4">DP</td>
       <td></td>
     </tr>
-    <tr class="dim">
-      <th class="sched">Standard</th>
-      <td colspan="5"></td>
-      <td class="sp1" colspan="2">SP1</td>
-      <td class="sp2" colspan="2">SP2</td>
-      <td></td>
-      <td class="next">DP next year?</td>
-    </tr>
-    <tr class="dim">
-      <th class="sched">Relaxed</th>
-      <td colspan="5"></td>
-      <td class="sp1" colspan="4">SP1</td>
-      <td></td>
-      <td class="next">SP2 next year?</td>
+    <tr>
+      <th class="sched">Relaxed <span class="mod">(only SP2 this semester)</span><span class="prior">you already did SP1 (or equivalent)</span></th>
+      <td class="sp2" colspan="4">SP2</td>
+      <td class="next">DP next semester?</td>
     </tr>
   </tbody>
 </table>
