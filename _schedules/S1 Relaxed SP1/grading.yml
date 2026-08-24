@@ -1,0 +1,33 @@
+########### SP 1 ###########
+
+sp1_checks:
+  show_progress: true
+
+sp1_level_1_algorithms_l1alg:
+  show_progress: true
+
+sp1_level_1_numbers_l1num:
+  show_progress: true
+
+sp1_level_1_challenges_l1cha:
+  show_progress: true
+
+sp1_level_2_text_l2tex:
+  show_progress: true
+
+sp1_level_2_integration_l2int:
+  show_progress: true
+
+sp1_level_2_challenges_l2cha:
+  show_progress: true
+
+sp1_level_3_big_data_l3big:
+  show_progress: true
+
+sp1_level_3_challenges_l3cha:
+  show_progress: true
+
+########### Exams ###########
+
+sp1_exams:
+  show_progress: true

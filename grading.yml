@@ -1,191 +1,191 @@
 templates:
-    1: &auto
-        type: float
-        subgrades:
-            points: integer
-        calculation: (points >= 9) && points || 0
-        automatic:
-            points: (correctness_score * 10).floor
-        auto_publish: true
-        hide_calculated: false
-        hide_subgrades: false
+  1: &auto
+    type: float
+    subgrades:
+      points: integer
+    calculation: (points >= 9) && points || 0
+    automatic:
+      points: (correctness_score * 10).floor
+    auto_publish: true
+    hide_calculated: false
+    hide_subgrades: false
 
-    2: &check
-        type: pass
-        subgrades:
-            passed: boolean
-        calculation: passed
-        auto_publish: true
-        hide_calculated: true
-        hide_subgrades: false
+  2: &check
+    type: pass
+    subgrades:
+      passed: boolean
+    calculation: passed
+    auto_publish: true
+    hide_calculated: true
+    hide_subgrades: false
 
-    3: &testt
-        type: pass
-        subgrades:
-            passed: boolean
-            checkpy: float
-        automatic:
-            checkpy: correctness_score * 10
-        calculation: passed
-        auto_publish: false
-        hide_calculated: true
-        hide_subgrades: false
+  3: &testt
+    type: pass
+    subgrades:
+      passed: boolean
+      checkpy: float
+    automatic:
+      checkpy: correctness_score * 10
+    calculation: passed
+    auto_publish: false
+    hide_calculated: true
+    hide_subgrades: false
 
-    5: &project
-        hide_calculated: true
-        type: float
-        subgrades:
-            code_quality: integer
-            correctness: integer
-        calculation: "1.0 + 9.0 * (3.0 * correctness + 2.0 * code_quality - 5.0) / 20.0"
+  5: &project
+    hide_calculated: true
+    type: float
+    subgrades:
+      code_quality: integer
+      correctness: integer
+    calculation: "1.0 + 9.0 * (3.0 * correctness + 2.0 * code_quality - 5.0) / 20.0"
 
 
 
 grades:
-    #### SP 1 ####
-    m1-passed: *check
-    m2-passed: *check
-    m3-passed: *check
+  #### SP 1 ####
+  m1-passed: *check
+  m2-passed: *check
+  m3-passed: *check
 
-    1_1a: *auto
-    1_2a: *auto
-    1_3a: *auto
-    1_4a: *auto
-    1_5a: *auto
-    1_6a: *auto
-    c-pyramid: *auto
-    c-conway: *check
+  1_1a: *auto
+  1_2a: *auto
+  1_3a: *auto
+  1_4a: *auto
+  1_5a: *auto
+  1_6a: *auto
+  c-pyramid: *auto
+  c-conway: *check
 
-    1_1n: *auto
-    1_2n: *auto
-    1_3n: *auto
-    1_4n: *auto
-    1_5n: *auto
-    1_6n: *auto
-    c-goldbach: *auto
-    c-amicable: *auto
-    c-eratosthenes: *auto
+  1_1n: *auto
+  1_2n: *auto
+  1_3n: *auto
+  1_4n: *auto
+  1_5n: *auto
+  1_6n: *auto
+  c-goldbach: *auto
+  c-amicable: *auto
+  c-eratosthenes: *auto
 
-    2_1t: *auto
-    2_2t: *auto
-    2_3t: *auto
-    2_4t: *auto
-    2_5t: *auto
-    2_6t: *auto
-    c-twitter: *auto
-    c-reformatting: *auto
-    c-plot_min_max: *check
+  2_1t: *auto
+  2_2t: *auto
+  2_3t: *auto
+  2_4t: *auto
+  2_5t: *auto
+  2_6t: *auto
+  c-twitter: *auto
+  c-reformatting: *auto
+  c-plot_min_max: *check
 
-    2_1i: *auto
-    2_2i: *auto
-    2_3i: *auto
-    2_4i: *auto
-    2_5i: *auto
-    2_6i: *auto
-    c-montecarlo: *auto
-    c-egg: *auto
+  2_1i: *auto
+  2_2i: *auto
+  2_3i: *auto
+  2_4i: *auto
+  2_5i: *auto
+  2_6i: *auto
+  c-montecarlo: *auto
+  c-egg: *auto
 
-    3_1b: *auto
-    3_2b: *auto
-    3_3b: *auto
-    3_4b: *auto
-    3_5b: *auto
-    c-weather5: *auto
-    c-weather6: *check
-    c-weather7: *check
+  3_1b: *auto
+  3_2b: *auto
+  3_3b: *auto
+  3_4b: *auto
+  3_5b: *auto
+  c-weather5: *auto
+  c-weather6: *check
+  c-weather7: *check
 
-    sp1_practice_exam: *auto
+  sp1_practice_exam: *auto
 
-    sp1_exam1: *testt
-    sp1_exam2: *testt
-    sp1_exam3: *testt
-    sp1_exam4: *testt
+  sp1_exam1: *testt
+  sp1_exam2: *testt
+  sp1_exam3: *testt
+  sp1_exam4: *testt
 
-    #### SP 2 ####
-    m4-passed: *check
-    m5-passed: *check
-    m6-passed: *check
+  #### SP 2 ####
+  m4-passed: *check
+  m5-passed: *check
+  m6-passed: *check
 
-    4_1m: *auto
-    4_2m: *auto
-    c-animation: *check
-    c-monopoly-n-player: *check
+  4_1m: *auto
+  4_2m: *auto
+  c-animation: *check
+  c-monopoly-n-player: *check
 
-    5_1m: *auto
-    5_2m: *auto
-    5_3m: *check
-    c-counting-visits: *check
-    c-datastructures2: *auto
-    c-monopoly2-n-player: *check
+  5_1m: *auto
+  5_2m: *auto
+  5_3m: *check
+  c-counting-visits: *check
+  c-datastructures2: *auto
+  c-monopoly2-n-player: *check
 
-    6_1p: *auto
-    6_2p: *auto
-    c-creative: *check
+  6_1p: *auto
+  6_2p: *auto
+  c-creative: *check
 
-    sp2_practice_exam: *auto
+  sp2_practice_exam: *auto
 
-    sp2_exam1: *testt
-    sp2_exam2: *testt
-    sp2_exam3: *testt
-    sp2_exam4: *testt
+  sp2_exam1: *testt
+  sp2_exam2: *testt
+  sp2_exam3: *testt
+  sp2_exam4: *testt
 
-    #### DP ####
-    m7-passed: *check
-    m8-passed:
-        type: float
-        subgrades:
-            base_correct: boolean
-            xkcd_2: boolean
-            xkcd_3: boolean
-            xkcd_4: boolean
-        calculation: "1.0 + base_correct * -6.0 + xkcd_2 * -1.0 + xkcd_3 * -1.0 + xkcd_4 * -1.0"
-    m9-passed: *check
-    m10-passed:
-        type: float
-        subgrades:
-            base_correct: boolean
-            crawling: boolean
-            bbc: boolean
-        calculation: "1.0 + base_correct * -6.0 + crawling * -2.0 + bbc * - 1.0"
+  #### DP ####
+  m7-passed: *check
+  m8-passed:
+    type: float
+    subgrades:
+      base_correct: boolean
+      xkcd_2: boolean
+      xkcd_3: boolean
+      xkcd_4: boolean
+    calculation: "1.0 + base_correct * -6.0 + xkcd_2 * -1.0 + xkcd_3 * -1.0 + xkcd_4 * -1.0"
+  m9-passed: *check
+  m10-passed:
+    type: float
+    subgrades:
+      base_correct: boolean
+      crawling: boolean
+      bbc: boolean
+    calculation: "1.0 + base_correct * -6.0 + crawling * -2.0 + bbc * - 1.0"
 
-    project:
-        type: float
-        subgrades:
-            research_question: integer
-            complexity: integer
-            novelty: integer
-            quality: integer
-        calculation: "(9.0/12.0 * (novelty + quality + complexity + research_question) + 1).round(1)"
+  project:
+    type: float
+    subgrades:
+      research_question: integer
+      complexity: integer
+      novelty: integer
+      quality: integer
+    calculation: "(9.0/12.0 * (novelty + quality + complexity + research_question) + 1).round(1)"
 
-    7_1p: *check
-    7_2p: *check
-    7_3p: *check
+  7_1p: *check
+  7_2p: *check
+  7_3p: *check
 
-    8_1p: *check
-    8_2p: *check
-    8_3p: *check
+  8_1p: *check
+  8_2p: *check
+  8_3p: *check
 
-    9_1d: *auto
-    9_2d: *auto
+  9_1d: *auto
+  9_2d: *auto
 
-    10_1w: *check
-    10_2w: *check
-    c-crawling: *check
-    c-bbc: *check
+  10_1w: *check
+  10_2w: *check
+  c-crawling: *check
+  c-bbc: *check
 
-    p_1p: *check
-    p_2p: *check
-    p_3p: *check
-    p_4p: *check
+  p_1p: *check
+  p_2p: *check
+  p_3p: *check
+  p_4p: *check
 
-### SP1
+### SP1 Modules
 
 sp1_checks:
-    type: pass_all        # alles moet pass zijn
-    submits:
-        - m1-passed
-        - m2-passed
-        - m3-passed
+  type: pass_all        # alles moet pass zijn
+  submits:
+    - m1-passed
+    - m2-passed
+    - m3-passed
 
 
 sp1_level_1_algorithms_l1alg:
@@ -262,14 +262,14 @@ sp1_level_3_challenges_l3cha:
     c-weather6: 1
     c-weather7: 1
 
-### SP 2
+### SP 2 Modules
 
 sp2_checks:
-    type: pass_all        # alles moet pass zijn
-    submits:
-        - m4-passed
-        - m5-passed
-        - m6-passed
+  type: pass_all        # alles moet pass zijn
+  submits:
+    - m4-passed
+    - m5-passed
+    - m6-passed
 
 sp2_level_4_monopoly_L4mon:
   small_block_overview: true
@@ -309,63 +309,121 @@ sp2_level_6_challenges_L6cha:
     c-creative: 1
 
 
+### DP Modules
+
+dp_grades:
+  submits:
+    m7-passed: 0
+    m8-passed: 1
+    m9-passed: 0
+    m10-passed: 1
+    project: 2
+
+dp_level_7_pandas_L7pan:
+  small_block_overview: true
+  submits:
+    7_1p: 1
+    7_2p: 1
+    7_3p: 1
+
+dp_level_8_xkcd_L8xkc:
+  small_block_overview: true
+  submits:
+    8_1p: 1
+    8_2p: 1
+    8_3p: 1
+
+dp_level_9_databases_L9sql:
+  small_block_overview: true
+  submits:
+    9_1d: 1
+    9_2d: 1
+
+dp_level_10_wikipedia_L10wik:
+  small_block_overview: true
+  submits:
+    10_1w: 1
+    10_2w: 1
+    c-crawling: 1
+    c-bbc: 1
+
+dp_project:
+  small_block_overview: true
+  submits:
+    p_1p: 1
+    p_2p: 1
+    p_3p: 1
+    p_4p: 1
+
+
+
+
+
+
+
 ####### SP final grade stuff
 
 sp1_exams:
-    type: pass_first      # minimaal één gedaan (pass/fail), gebruik eerste
-    submits:
-        - sp1_exam1
-        - sp1_exam2
-        - sp1_exam3
-        - sp1_exam4
+  type: pass_first      # minimaal één gedaan (pass/fail), gebruik eerste
+  submits:
+    - sp1_exam1
+    - sp1_exam2
+    - sp1_exam3
+    - sp1_exam4
 
 sp1_exams_resit:
-    type: pass_last       # minimaal twee gedaan (pass/fail), gebruik laatste
-    submits:
-        - sp1_exam1
-        - sp1_exam2
-        - sp1_exam3
-        - sp1_exam4
+  type: pass_last       # minimaal twee gedaan (pass/fail), gebruik laatste
+  submits:
+    - sp1_exam1
+    - sp1_exam2
+    - sp1_exam3
+    - sp1_exam4
 
 sp2_exams:
-    type: pass_first      # minimaal één gedaan (pass/fail), gebruik eerste
-    submits:
-        - sp2_exam1
-        - sp2_exam2
-        - sp2_exam3
-        - sp2_exam4
+  type: pass_first      # minimaal één gedaan (pass/fail), gebruik eerste
+  submits:
+    - sp2_exam1
+    - sp2_exam2
+    - sp2_exam3
+    - sp2_exam4
 
 sp2_exams_resit:
-    type: pass_last       # minimaal twee gedaan (pass/fail), gebruik laatste
-    submits:
-        - sp2_exam1
-        - sp2_exam2
-        - sp2_exam3
-        - sp2_exam4
+  type: pass_last       # minimaal twee gedaan (pass/fail), gebruik laatste
+  submits:
+    - sp2_exam1
+    - sp2_exam2
+    - sp2_exam3
+    - sp2_exam4
 
 ########## FINAL GRADES ###########
 
 calculation:
-    sp1_final:
-        type: pass
-        components:
-            - sp1_checks
-            - sp1_exams
+  sp1_final:
+    type: pass
+    components:
+      - sp1_checks
+      - sp1_exams
 
-    sp1_resit:
-        type: pass
-        components:
-            - sp1_checks
-            - sp1_exams_resit
+  sp1_resit:
+    type: pass
+    components:
+      - sp1_checks
+      - sp1_exams_resit
 
-    sp2_final:
-        type: pass
-        components:
-            - sp2_checks
-            - sp2_exams
+  sp2_final:
+    type: pass
+    components:
+      - sp2_checks
+      - sp2_exams
 
-    sp2_resit:
-        type: pass
-        components:
-            - sp2_checks
-            - sp2_exams_resit
+  sp2_resit:
+    type: pass
+    components:
+      - sp2_checks
+      - sp2_exams_resit
+
+  final_data_semester_1:
+    dp_grades: 1
+
+  final_data_semester_2:
+    dp_grades: 1

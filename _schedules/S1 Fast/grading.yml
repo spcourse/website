@@ -1,0 +1,85 @@
+########### SP 1 ###########
+
+sp1_checks:
+  show_progress: true
+
+sp1_level_1_algorithms_l1alg:
+  show_progress: true
+
+sp1_level_1_numbers_l1num:
+  show_progress: true
+
+sp1_level_1_challenges_l1cha:
+  show_progress: true
+
+sp1_level_2_text_l2tex:
+  show_progress: true
+
+sp1_level_2_integration_l2int:
+  show_progress: true
+
+sp1_level_2_challenges_l2cha:
+  show_progress: true
+
+sp1_level_3_big_data_l3big:
+  show_progress: true
+
+sp1_level_3_challenges_l3cha:
+  show_progress: true
+
+
+
+########### SP 2 ###########
+
+sp2_checks:
+  show_progress: true
+
+sp2_level_4_monopoly_L4mon:
+  show_progress: true
+
+sp2_level_4_challenges_L4cha:
+  show_progress: true
+
+sp2_level_5_monopoly2_L5m2:
+  show_progress: true
+
+sp2_level_5_challenges_L5cha:
+  show_progress: true
+
+sp2_level_6_populations_L6pop:
+  show_progress: true
+
+sp2_level_6_challenges_L6cha:
+  show_progress: true
+
+
+
+########### Data Processing ###########
+
+dp_grades:
+  show_progress: true
+
+dp_level_7_pandas_L7pan:
+  show_progress: true
+
+dp_level_8_xkcd_L8xkc:
+  show_progress: true
+
+dp_level_9_databases_L9sql:
+  show_progress: true
+
+dp_level_10_wikipedia_L10wik:
+  show_progress: true
+
+dp_project:
+  show_progress: true
+
+
+
+########### Exams ###########
+
+sp1_exams:
+  show_progress: true
+
+sp2_exams:
+  show_progress: true

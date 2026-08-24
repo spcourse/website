@@ -1,0 +1,19 @@
+########### Data Processing ###########
+
+dp_grades:
+  show_progress: true
+
+dp_level_7_pandas_L7pan:
+  show_progress: true
+
+dp_level_8_xkcd_L8xkc:
+  show_progress: true
+
+dp_level_9_databases_L9sql:
+  show_progress: true
+
+dp_level_10_wikipedia_L10wik:
+  show_progress: true
+
+dp_project:
+  show_progress: true

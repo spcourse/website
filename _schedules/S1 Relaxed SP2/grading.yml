@@ -1,0 +1,27 @@
+########### SP 2 ###########
+
+sp2_checks:
+  show_progress: true
+
+sp2_level_4_monopoly_L4mon:
+  show_progress: true
+
+sp2_level_4_challenges_L4cha:
+  show_progress: true
+
+sp2_level_5_monopoly2_L5m2:
+  show_progress: true
+
+sp2_level_5_challenges_L5cha:
+  show_progress: true
+
+sp2_level_6_populations_L6pop:
+  show_progress: true
+
+sp2_level_6_challenges_L6cha:
+  show_progress: true
+
+########### Exams ###########
+
+sp2_exams:
+  show_progress: true
