@@ -118,8 +118,8 @@ grades:
     c-datastructures2: *auto
     c-monopoly2-n-player: *check
 
-    7_1p: *auto
-    7_2p: *auto
+    6_1p: *auto
+    6_2p: *auto
     c-creative: *check
 
     sp2_practice_exam: *auto

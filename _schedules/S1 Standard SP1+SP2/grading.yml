@@ -124,6 +124,18 @@ sp2_level_5_challenges_L5cha:
     c-datastructures2: 1
     c-monopoly2-n-player: 1
 
+sp2_level_6_populations_L6pop:
+  show_progress: true
+  small_block_overview: true
+  submits:
+    6_1p: 1
+    6_2p: 1
+
+sp2_level_6_challenges_L6cha:
+  show_progress: true
+  small_block_overview: true
+  submits:
+    c-creative: 1
 
 sp2_exams:
   show_progress: true
