@@ -291,6 +291,7 @@ sp2_level_5_monopoly2_L5m2:
     5_3m: 1
 
 sp2_level_5_challenges_L5cha:
+  small_block_overview: true
   submits:
     c-counting-visits: 1
     c-datastructures2: 1
