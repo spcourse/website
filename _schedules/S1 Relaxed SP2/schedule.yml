@@ -17,6 +17,7 @@ Welcome:
 
 SP2 - L4 (Monopoly):
     Scientific Programming 2 - Level 4 (Monopoly):
+    The deadline for this level is Friday 25 September:
     4.1 Monopoly 1:
         Introduction: /monopoly/en/
         Debugging [theory]: /python/en/debugging
@@ -29,7 +30,7 @@ SP2 - L4 (Monopoly):
     4.3 Monopoly 3:
         "[icon:person-fill] Two players": /monopoly/en/two-player
         Submit [submit]: /submit/mod4/s2
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     4.4 Challenge 1:
         Not required to pass, but recommended:
         Learn how to create animated graphics [theory]: /animation/en/explanation-gif
@@ -43,6 +44,7 @@ SP2 - L4 (Monopoly):
 
 
 SP2 - L5 (Monopoly 2):
+    The deadline for this level is Friday 30 October:
     5.1 Data structures:
         Dictionaries [theory]: /python/en/dictionaries/use
         Tuples [theory]: /python/en/tuples
@@ -60,7 +62,7 @@ SP2 - L5 (Monopoly 2):
         Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
         "[icon:person-fill] Complexity questions": /shakespeare/complexity-questions
         Submit [submit]: /submit/mod5/s3
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     5.4 Challenge 1:
         Not required to pass:
         "[icon:person-fill-gear] Annalyzing the board": /monopoly_dict/counting_visits
@@ -77,6 +79,7 @@ SP2 - L5 (Monopoly 2):
 
 SP2 - L6 (Populations):
     Scientific Programming 2 - Level 6 (Populations):
+    The deadline for this level is Friday 27 November:
     Introduction: /populations-oo
     6.1 Classes:
         Learn about using classes in Python [theory]: /python/en/classes
@@ -95,7 +98,7 @@ SP2 - L6 (Populations):
         "[icon:person-fill] Phase 8": /populations-oo/phase8
         "[icon:person-fill] Phase 9": /populations-oo/phase9
         Submit [submit]: /submit/mod6/s2
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     6.4 Challenge 1 - Creative:
         Not required to pass:
         "[icon:person-fill-gear] Experiment": /populations-oo/creative

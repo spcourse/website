@@ -16,6 +16,7 @@ Welcome:
 
 
 SP1 - L1 (Algorithms):
+    The deadline for this level is Friday 25 September:
     1.1 Output:
         "[icon:people-fill] Hello, world": /shorts/hello
         Submit [submit]: /submit/mod1a/s1
@@ -59,7 +60,7 @@ SP1 - L1 (Algorithms):
         "[icon:person-fill] Squares": /shorts/squares
         "[icon:person-fill] Collect Change": /algorithms/en/collect
         Submit [submit]: /submit/mod1a/s6
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     1.7 Challenge 1:
         Not required to pass, but recommended to at least try:
         "[icon:person-fill-gear] Mario Pyramid": /algorithms/en/pyramid
@@ -71,6 +72,7 @@ SP1 - L1 (Algorithms):
 
 
 SP1 - L1 (Number Theory):
+    The deadline for this level is Friday 25 September:
     1.1 Output:
         "[icon:people-fill] Hello, world": /shorts/hello
         Submit [submit]: /submit/mod1n/s1
@@ -115,7 +117,7 @@ SP1 - L1 (Number Theory):
         "[icon:person-fill] Squares": /shorts/squares
         "[icon:person-fill] Prime List": /numbers/en/primelist
         Submit [submit]: /submit/mod1n/s6
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     1.7 Challenge 1:
         Not required to pass, but recommended to at least try:
         "[icon:person-fill-gear] Goldbach": /numbers/en/goldbach
@@ -131,6 +133,7 @@ SP1 - L1 (Number Theory):
 
 
 SP1 - L2 (Text Processing):
+    The deadline for this level is Friday 30 October:
     2.1 Functions:
         Functions [theory]: /python/en/functions
         "[icon:people-fill] Squared": /shorts/squared
@@ -168,7 +171,7 @@ SP1 - L2 (Text Processing):
     2.6 Style:
         "[icon:person-fill] Style": /style/text
         Submit [submit]: /submit/mod2t/s6
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     2.7 Challenge 1:
         Not required to pass, but recommended to at least try:
         "[icon:person-fill-gear] Twitter": /text/en/tweets
@@ -184,6 +187,7 @@ SP1 - L2 (Text Processing):
 
 
 SP1 - L2 (Numerical Integration):
+    The deadline for this level is Friday 30 October:
     Introduction: /integrals/en/intro2
     2.1 Functions:
         Functions [theory]: /python/en/functions
@@ -219,7 +223,7 @@ SP1 - L2 (Numerical Integration):
     2.6 Style:
         "[icon:person-fill] Style": /style/integrals
         Submit [submit]: /submit/mod2i/s6
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     2.7 Challenge 1:
         Not required to pass, but recommended to try:
         More Function [theory]: /python/en/functions2
@@ -233,6 +237,7 @@ SP1 - L2 (Numerical Integration):
 
 
 SP1 - L3 (Big Data):
+    The deadline for this level is Friday 27 November:
     3.1 Car:
         Read Files (repeated) [theory]: /python/en/file-io
         "[icon:people-fill] Car Ride": /bigdata/en/car
@@ -250,7 +255,7 @@ SP1 - L3 (Big Data):
     3.5 Weather 4:
         "[icon:person-fill] Plot summer and tropical days": /bigdata/en/weather4
         Submit [submit]: /submit/mod3/s5
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     3.6 Challenge 1:
         Not required to pass, but recommended:
         "[icon:person-fill-gear] Heat wave": /bigdata/en/weather5

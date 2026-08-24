@@ -15,6 +15,7 @@ Welcome:
         Exercise 2, first files in Zed: /python/en/installing/uv/sp/zed-exercise
 
 SP1 - L1 (Algorithms):
+    The deadline for this level is Wednesday 9 September:
     1.1 Output:
         "[icon:people-fill] Hello, world": /shorts/hello
         Submit [submit]: /submit/mod1a/s1
@@ -58,7 +59,7 @@ SP1 - L1 (Algorithms):
         "[icon:person-fill] Squares": /shorts/squares
         "[icon:person-fill] Collect Change": /algorithms/en/collect
         Submit [submit]: /submit/mod1a/s6
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     1.7 Challenge 1:
         Not required to pass, but recommended to at least try:
         "[icon:person-fill-gear] Mario Pyramid": /algorithms/en/pyramid
@@ -70,6 +71,7 @@ SP1 - L1 (Algorithms):
 
 
 SP1 - L1 (Number Theory):
+    The deadline for this level is Wednesday 9 September:
     1.1 Output:
         "[icon:people-fill] Hello, world": /shorts/hello
         Submit [submit]: /submit/mod1n/s1
@@ -114,7 +116,7 @@ SP1 - L1 (Number Theory):
         "[icon:person-fill] Squares": /shorts/squares
         "[icon:person-fill] Prime List": /numbers/en/primelist
         Submit [submit]: /submit/mod1n/s6
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     1.7 Challenge 1:
         Not required to pass, but recommended to at least try:
         "[icon:person-fill-gear] Goldbach": /numbers/en/goldbach
@@ -129,6 +131,7 @@ SP1 - L1 (Number Theory):
         Submit Eratosthenes: /submit/mod1n/c-eratosthenes
 
 SP1 - L2 (Text Processing):
+    The deadline for this level is Wednesday 16 September:
     2.1 Functions:
         Functions [theory]: /python/en/functions
         "[icon:people-fill] Squared": /shorts/squared
@@ -166,7 +169,7 @@ SP1 - L2 (Text Processing):
     2.6 Style:
         "[icon:person-fill] Style": /style/text
         Submit [submit]: /submit/mod2t/s6
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     2.7 Challenge 1:
         Not required to pass, but recommended to at least try:
         "[icon:person-fill-gear] Twitter": /text/en/tweets
@@ -182,6 +185,7 @@ SP1 - L2 (Text Processing):
 
 
 SP1 - L2 (Numerical Integration):
+    The deadline for this level is Wednesday 16 September:
     Introduction: /integrals/en/intro2
     2.1 Functions:
         Functions [theory]: /python/en/functions
@@ -217,7 +221,7 @@ SP1 - L2 (Numerical Integration):
     2.6 Style:
         "[icon:person-fill] Style": /style/integrals
         Submit [submit]: /submit/mod2i/s6
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     2.7 Challenge 1:
         Not required to pass, but recommended to try:
         More Function [theory]: /python/en/functions2
@@ -230,6 +234,7 @@ SP1 - L2 (Numerical Integration):
         Submit [submit]: /submit/mod2i/c-egg
 
 SP1 - L3 (Big Data):
+    The deadline for this level is Wednesday 23 September:
     3.1 Car:
         Read Files (repeated) [theory]: /python/en/file-io
         "[icon:people-fill] Car Ride": /bigdata/en/car
@@ -247,7 +252,7 @@ SP1 - L3 (Big Data):
     3.5 Weather 4:
         "[icon:person-fill] Plot summer and tropical days": /bigdata/en/weather4
         Submit [submit]: /submit/mod3/s5
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     3.6 Challenge 1:
         Not required to pass, but recommended:
         "[icon:person-fill-gear] Heat wave": /bigdata/en/weather5
@@ -271,6 +276,7 @@ SP1 - Practice exam:
 
 SP2 - L4 (Monopoly):
     Scientific Programming 2 - Level 4 (Monopoly):
+    The deadline for this level is Wednesday 30 September:
     4.1 Monopoly 1:
         Introduction: /monopoly/en/
         Debugging [theory]: /python/en/debugging
@@ -283,7 +289,7 @@ SP2 - L4 (Monopoly):
     4.3 Monopoly 3:
         "[icon:person-fill] Two players": /monopoly/en/two-player
         Submit [submit]: /submit/mod4/s2
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     4.4 Challenge 1:
         Not required to pass, but recommended:
         Learn how to create animated graphics [theory]: /animation/en/explanation-gif
@@ -296,6 +302,7 @@ SP2 - L4 (Monopoly):
         Submit [submit]: /submit/mod4/c-monopoly-n-player
 
 SP2 - L5 (Monopoly 2):
+    The deadline for this level is Wednesday 7 October:
     5.1 Data structures:
         Dictionaries [theory]: /python/en/dictionaries/use
         Tuples [theory]: /python/en/tuples
@@ -313,7 +320,7 @@ SP2 - L5 (Monopoly 2):
         Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
         "[icon:person-fill] Complexity questions": /shakespeare/complexity-questions
         Submit [submit]: /submit/mod5/s3
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     5.4 Challenge 1:
         Not required to pass:
         "[icon:person-fill-gear] Annalyzing the board": /monopoly_dict/counting_visits
@@ -329,6 +336,7 @@ SP2 - L5 (Monopoly 2):
 
 SP2 - L6 (Populations):
     Scientific Programming 2 - Level 6 (Populations):
+    The deadline for this level is Wednesday 14 October:
     Introduction: /populations-oo
     6.1 Classes:
         Learn about using classes in Python [theory]: /python/en/classes
@@ -347,7 +355,7 @@ SP2 - L6 (Populations):
         "[icon:person-fill] Phase 8": /populations-oo/phase8
         "[icon:person-fill] Phase 9": /populations-oo/phase9
         Submit [submit]: /submit/mod6/s2
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     6.4 Challenge 1 - Creative:
         Not required to pass:
         "[icon:person-fill-gear] Experiment": /populations-oo/creative
@@ -370,6 +378,7 @@ SP2 - Practice exam:
 
 DP - L7 (Pandas):
     Data Processing - Level 7 (Pandas) [pass/fail]:
+    The deadline for this level is Friday 30 October:
     7.1 Jupyter notebook:
         "[icon:people-fill] Jupyter notebook": /pandas/notebooks-sp
     7.2 Pandas 1 (foundations):
@@ -381,10 +390,11 @@ DP - L7 (Pandas):
     7.4 Assignment:
         "[icon:person-fill] Weather": /pandas/pandas-dp/weather
         Submit [submit]: /submit/mod7/s3
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
 
 DP - L8 (XKCD):
     Data Processing - Level 8 (XKCD) [graded]:
+    The deadline for this level is Friday 6 November:
     8.1 Pandas 3 (quality and combining):
         "[icon:people-fill] Data quality, concat, joins and the cross join": /pandas/pandas-dp/notebook-3
         Submit [submit]: /submit/mod8/s1
@@ -394,10 +404,11 @@ DP - L8 (XKCD):
     8.3 Assignment:
         "[icon:person-fill] Size and Lifespan": /pandas/assignment-size-and-lifespan
         Submit [submit]: /submit/mod8/s3
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
 
 DP - L9 (Databases):
     Data Processing - Level 9 (Databases) [pass/fail]:
+    The deadline for this level is Friday 13 November:
     Introduction: /sql/intro
     9.1 Learn SQL:
         Learn about Databases: /sql/lecture
@@ -406,10 +417,11 @@ DP - L9 (Databases):
     9.2 Fiftyville:
         Solve a mistery using sqlite: /sql/fiftyville
         Submit [submit]: /submit/mod9/s2
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
 
 DP - L10 (Wikipedia):
     Data Processing - Level 10 (Wikipedia) [graded]:
+    The deadline for this level is Friday 20 November:
     Introduction: /wikipedia/intro
     10.1 HTML:
         What is HTML?: /homepage/html
@@ -419,7 +431,7 @@ DP - L10 (Wikipedia):
         Scraping a Wikipedia page: /wikipedia/scraping
         Plotting the results: /wikipedia/visualize-gdp
         Submit [submit]: /submit/mod10/s2
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     10.3 Challenge 1 - Crawling:
         Not required to pass (but needed for higher grade):
         "[icon:person-fill-gear] Crawling Wikipedia": /wikipedia/crawling
@@ -432,6 +444,7 @@ DP - L10 (Wikipedia):
 
 DP - Final project:
     Data Processing - Final Project [graded]:
+    The deadlines for this project are first proposal Friday 20 November, final proposal Monday 23 November, MVP Friday 4 December, final product Thursday 10 December:
     Learn to use git: /basics/git
     Create your classroom repo: /project/classroom
     Project outline: /project

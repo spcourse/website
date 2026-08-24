@@ -17,6 +17,7 @@ Welcome:
 
 DP - L7 (Pandas):
     Data Processing - Level 7 (Pandas) [pass/fail]:
+    The deadline for this level is Friday 18 September:
     7.1 Jupyter notebook:
         "[icon:people-fill] Jupyter notebook": /pandas/notebooks-sp
     7.2 Pandas 1 (foundations):
@@ -28,11 +29,12 @@ DP - L7 (Pandas):
     7.4 Assignment:
         "[icon:person-fill] Weather": /pandas/pandas-dp/weather
         Submit [submit]: /submit/mod7/s3
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
 
 
 DP - L8 (XKCD):
     Data Processing - Level 8 (XKCD) [graded]:
+    The deadline for this level is Friday 2 October:
     8.1 Pandas 3 (quality and combining):
         "[icon:people-fill] Data quality, concat, joins and the cross join": /pandas/pandas-dp/notebook-3
         Submit [submit]: /submit/mod8/s1
@@ -42,11 +44,12 @@ DP - L8 (XKCD):
     8.3 Assignment:
         "[icon:person-fill] Size and Lifespan": /pandas/assignment-size-and-lifespan
         Submit [submit]: /submit/mod8/s3
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
 
 
 DP - L9 (Databases):
     Data Processing - Level 9 (Databases) [pass/fail]:
+    The deadline for this level is Friday 16 October:
     Introduction: /sql/intro
     9.1 Learn SQL:
         Learn about Databases: /sql/lecture
@@ -55,11 +58,12 @@ DP - L9 (Databases):
     9.2 Fiftyville:
         Solve a mistery using sqlite: /sql/fiftyville
         Submit [submit]: /submit/mod9/s2
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
 
 
 DP - L10 (Wikipedia):
     Data Processing - Level 10 (Wikipedia) [graded]:
+    The deadline for this level is Friday 6 November:
     Introduction: /wikipedia/intro
     10.1 HTML:
         What is HTML?: /homepage/html
@@ -69,7 +73,7 @@ DP - L10 (Wikipedia):
         Scraping a Wikipedia page: /wikipedia/scraping
         Plotting the results: /wikipedia/visualize-gdp
         Submit [submit]: /submit/mod10/s2
-    Make sure to [discuss] your solutions in person after completing this level!:
+    Make sure to discuss your solutions in person after completing this level!:
     10.3 Challenge 1 - Crawling:
         Not required to pass (but needed for higher grade):
         "[icon:person-fill-gear] Crawling Wikipedia": /wikipedia/crawling
@@ -83,6 +87,7 @@ DP - L10 (Wikipedia):
 
 DP - Final project:
     Data Processing - Final Project [graded]:
+    The deadlines for this project are first proposal Monday 9 November, final proposal Wednesday 11 November, MVP Friday 27 November, final product Friday 11 December:
     Learn to use git: /basics/git
     Create your classroom repo: /project/classroom
     Project outline: /project
