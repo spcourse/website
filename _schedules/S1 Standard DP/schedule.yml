@@ -16,7 +16,8 @@ Welcome:
 
 
 DP - L7 (Pandas):
-    Data Processing - Level 7 (Pandas) [pass/fail]:
+    Data Processing:
+    Level 7 (Pandas) [pass/fail]:
     The deadline for this level is Friday 18 September:
     7.1 Jupyter notebook:
         "[icon:people-fill] Jupyter notebook": /pandas/notebooks-sp
@@ -33,7 +34,8 @@ DP - L7 (Pandas):
 
 
 DP - L8 (XKCD):
-    Data Processing - Level 8 (XKCD) [graded]:
+    Data Processing:
+    Level 8 (XKCD) [graded]:
     The deadline for this level is Friday 2 October:
     8.1 Pandas 3 (quality and combining):
         "[icon:people-fill] Data quality, concat, joins and the cross join": /pandas/pandas-dp/notebook-3
@@ -48,7 +50,8 @@ DP - L8 (XKCD):
 
 
 DP - L9 (Databases):
-    Data Processing - Level 9 (Databases) [pass/fail]:
+    Data Processing:
+    Level 9 (Databases) [pass/fail]:
     The deadline for this level is Friday 16 October:
     Introduction: /sql/intro
     9.1 Learn SQL:
@@ -62,7 +65,8 @@ DP - L9 (Databases):
 
 
 DP - L10 (Wikipedia):
-    Data Processing - Level 10 (Wikipedia) [graded]:
+    Data Processing:
+    Level 10 (Wikipedia) [graded]:
     The deadline for this level is Friday 6 November:
     Introduction: /wikipedia/intro
     10.1 HTML:
@@ -86,12 +90,13 @@ DP - L10 (Wikipedia):
 
 
 DP - Final project:
-    Data Processing - Final Project [graded]:
-    The deadlines for this project are first proposal Monday 9 November, final proposal Wednesday 11 November, MVP Friday 27 November, final product Friday 11 December:
+    Data Processing:
+    Final Project [graded]:
+    Multiple deadlines (see below):
     Learn to use git: /basics/git
     Create your classroom repo: /project/classroom
     Project outline: /project
-    Submit first proposal: /submit/project/s1
-    Submit second proposal: /submit/project/s2
-    Submit proof of concept: /submit/project/s3
-    Submit final project: /submit/project/s4
+    Submit first proposal (deadline 9 Nov): /submit/project/s1
+    Submit second proposal (deadline 11 Nov): /submit/project/s2
+    Submit proof of concept (deadline 27 Nov): /submit/project/s3
+    Submit final project (deadline 11 Dec): /submit/project/s4

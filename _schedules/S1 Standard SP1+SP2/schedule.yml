@@ -16,6 +16,8 @@ Welcome:
 
 
 SP1 - L1 (Algorithms):
+    Scientific Programming 1:
+    Level 1 - OPTION 1 (Algorithms):
     The deadline for this level is Friday 18 September:
     1.1 Output:
         "[icon:people-fill] Hello, world": /shorts/hello
@@ -71,7 +73,9 @@ SP1 - L1 (Algorithms):
         Submit Conway: /submit/mod1a/c-conway
 
 
-SP1 - L1 (Number Theory):
+SP1 - L1 (Numbers):
+    Scientific Programming 1:
+    Level 1 - OPTION 2 (Numbers):
     The deadline for this level is Friday 18 September:
     1.1 Output:
         "[icon:people-fill] Hello, world": /shorts/hello
@@ -132,7 +136,9 @@ SP1 - L1 (Number Theory):
         Submit Eratosthenes: /submit/mod1n/c-eratosthenes
 
 
-SP1 - L2 (Text Processing):
+SP1 - L2 (Text):
+    Scientific Programming 1:
+    Level 2 - OPTION 1 (Text):
     The deadline for this level is Friday 2 October:
     2.1 Functions:
         Functions [theory]: /python/en/functions
@@ -186,7 +192,9 @@ SP1 - L2 (Text Processing):
         Submit Plot Min Max (21 jan): /submit/mod2t/c-plot-min-max
 
 
-SP1 - L2 (Numerical Integration):
+SP1 - L2 (Integration):
+    Scientific Programming 1:
+    Level 2 - OPTION 2 (Integration):
     The deadline for this level is Friday 2 October:
     Introduction: /integrals/en/intro2
     2.1 Functions:
@@ -237,6 +245,8 @@ SP1 - L2 (Numerical Integration):
 
 
 SP1 - L3 (Big Data):
+    Scientific Programming 1:
+    Level 3 (Big Data):
     The deadline for this level is Friday 16 October:
     3.1 Car:
         Read Files (repeated) [theory]: /python/en/file-io
@@ -279,7 +289,8 @@ SP1 - Practice exam:
 
 
 SP2 - L4 (Monopoly):
-    Scientific Programming 2 - Level 4 (Monopoly):
+    Scientific Programming 2:
+    Level 4 (Monopoly):
     The deadline for this level is Friday 6 November:
     4.1 Monopoly 1:
         Introduction: /monopoly/en/
@@ -307,6 +318,8 @@ SP2 - L4 (Monopoly):
 
 
 SP2 - L5 (Monopoly 2):
+    Scientific Programming 2:
+    Level 5 (Monopoly 2):
     The deadline for this level is Friday 20 November:
     5.1 Data structures:
         Dictionaries [theory]: /python/en/dictionaries/use
@@ -341,7 +354,8 @@ SP2 - L5 (Monopoly 2):
 
 
 SP2 - L6 (Populations):
-    Scientific Programming 2 - Level 6 (Populations):
+    Scientific Programming 2:
+    Level 6 (Populations):
     The deadline for this level is Friday 4 December:
     Introduction: /populations-oo
     6.1 Classes:
