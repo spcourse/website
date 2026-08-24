@@ -218,7 +218,7 @@ SP1 - L2 (Integration):
     2.4 Strings:
         Strings [theory]: /python/en/strings
         "[icon:people-fill] Vowels": /shorts/vowels
-        "[icon:person-fill] Longest Word": /shorts/longest_word
+        "[icon:people-fill] Longest Word": /shorts/longest_word
         Submit [submit]: /submit/mod2i/s4
     2.5 Random:
         Random Numbers [theory]: /python/en/random
@@ -321,22 +321,22 @@ SP2 - L5 (Monopoly 2):
         Tuples [theory]: /python/en/tuples
         Sets [theory]: /python/en/sets
         List slicing and indexing [theory]: /python/en/slicing
-        Use dictionaries and sets - part 1 [assignment]: /python/en/datastructures-practice/part1
+        "[icon:people-fill] Use dictionaries and sets - part 1": /python/en/datastructures-practice/part1
         Submit [submit]: /submit/mod5/s1
     5.2 Monopoly with dicts:
         Dictionaries practical examples [theory]: /monopoly_dict/using_dicts_theory
-        Use dicts and sets to imporove Monopoly [theory]: /monopoly_dict/monopoly_config
+        "[icon:person-fill] Use dicts and sets to improve Monopoly": /monopoly_dict/monopoly_config
         Submit [submit]: /submit/mod5/s2
     5.3 Computational complexity:
         Complexity 1 [theory]: /python/en/complexity-intro
         Complexity 2 [theory]: /python/en/complexity-calculation
         Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
-        "[icon:person-fill] Complexity questions": /shakespeare/complexity-questions
+        "[icon:people-fill] Complexity questions": /shakespeare/complexity-questions
         Submit [submit]: /submit/mod5/s3
     Make sure to discuss your solutions in person after completing this level!:
     5.4 Challenge 1:
         Not required to pass:
-        "[icon:person-fill-gear] Annalyzing the board": /monopoly_dict/counting_visits
+        "[icon:person-fill-gear] Analyzing the board": /monopoly_dict/counting_visits
         Submit [submit]: /submit/mod5/c-counting-visits
     5.5 Challenge 2:
         Not required to pass:
@@ -344,7 +344,7 @@ SP2 - L5 (Monopoly 2):
         Submit [submit]: /submit/mod5/c-datastructures2
     5.6 Challenge 3:
         Not required to pass:
-        "[icon:person-fill-gear] Improve monopoly design and extend to many players": /monopoly2/n-player
+        "[icon:person-fill-gear] Improve monopoly design and extend to many players": /monopoly_dict/n-player
         Submit [submit]: /submit/mod5/c-monopoly2-n-player
 
 SP2 - L6 (Populations):
@@ -428,11 +428,11 @@ DP - L9 (Databases):
     The deadline for this level is Friday 13 November:
     Introduction: /sql/intro
     9.1 Learn SQL:
-        Learn about Databases: /sql/lecture
-        Store movie information using sqlite: /sql/movies
+        Learn about Databases [theory]: /sql/lecture
+        "[icon:people-fill] Store movie information using sqlite": /sql/movies
         Submit [submit]: /submit/mod9/s1
     9.2 Fiftyville:
-        Solve a mistery using sqlite: /sql/fiftyville
+        "[icon:person-fill] Solve a mystery using sqlite": /sql/fiftyville
         Submit [submit]: /submit/mod9/s2
     Make sure to discuss your solutions in person after completing this level!:
 
@@ -442,12 +442,12 @@ DP - L10 (Wikipedia):
     The deadline for this level is Friday 20 November:
     Introduction: /wikipedia/intro
     10.1 HTML:
-        What is HTML?: /homepage/html
-        Make your own website: /homepage/homepage
+        What is HTML? [theory]: /homepage/html
+        "[icon:person-fill] Make your own website": /homepage/homepage
         Submit [submit]: /submit/mod10/s1
     10.2 Scraping:
-        Scraping a Wikipedia page: /wikipedia/scraping
-        Plotting the results: /wikipedia/visualize-gdp
+        "[icon:people-fill] Scraping a Wikipedia page": /wikipedia/scraping
+        "[icon:people-fill] Plotting the results": /wikipedia/visualize-gdp
         Submit [submit]: /submit/mod10/s2
     Make sure to discuss your solutions in person after completing this level!:
     10.3 Challenge 1 - Crawling:
@@ -457,7 +457,7 @@ DP - L10 (Wikipedia):
         Submit [submit]: /submit/mod10/c-crawling
     10.4 Challenge 2 - BBC:
         Not required to pass (but needed for higher grade):
-        "[icon:person-fill-gear] Crawling Wikipedia": /wikipedia/bbc
+        "[icon:person-fill-gear] Crawling the BBC": /wikipedia/bbc
         Submit [submit]: /submit/mod10/c-bbc
 
 DP - Final project:

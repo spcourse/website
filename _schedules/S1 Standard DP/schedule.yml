@@ -55,11 +55,11 @@ DP - L9 (Databases):
     The deadline for this level is Friday 16 October:
     Introduction: /sql/intro
     9.1 Learn SQL:
-        Learn about Databases: /sql/lecture
-        Store movie information using sqlite: /sql/movies
+        Learn about Databases [theory]: /sql/lecture
+        "[icon:people-fill] Store movie information using sqlite": /sql/movies
         Submit [submit]: /submit/mod9/s1
     9.2 Fiftyville:
-        Solve a mistery using sqlite: /sql/fiftyville
+        "[icon:person-fill] Solve a mystery using sqlite": /sql/fiftyville
         Submit [submit]: /submit/mod9/s2
     Make sure to discuss your solutions in person after completing this level!:
 
@@ -70,12 +70,12 @@ DP - L10 (Wikipedia):
     The deadline for this level is Friday 6 November:
     Introduction: /wikipedia/intro
     10.1 HTML:
-        What is HTML?: /homepage/html
-        Make your own website: /homepage/homepage
+        What is HTML? [theory]: /homepage/html
+        "[icon:person-fill] Make your own website": /homepage/homepage
         Submit [submit]: /submit/mod10/s1
     10.2 Scraping:
-        Scraping a Wikipedia page: /wikipedia/scraping
-        Plotting the results: /wikipedia/visualize-gdp
+        "[icon:people-fill] Scraping a Wikipedia page": /wikipedia/scraping
+        "[icon:people-fill] Plotting the results": /wikipedia/visualize-gdp
         Submit [submit]: /submit/mod10/s2
     Make sure to discuss your solutions in person after completing this level!:
     10.3 Challenge 1 - Crawling:
@@ -85,7 +85,7 @@ DP - L10 (Wikipedia):
         Submit [submit]: /submit/mod10/c-crawling
     10.4 Challenge 2 - BBC:
         Not required to pass (but needed for higher grade):
-        "[icon:person-fill-gear] Crawling Wikipedia": /wikipedia/bbc
+        "[icon:person-fill-gear] Crawling the BBC": /wikipedia/bbc
         Submit [submit]: /submit/mod10/c-bbc
 
 
