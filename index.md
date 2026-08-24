@@ -51,7 +51,7 @@ You can follow each course at different paces to fit your schedule. This means y
 .tracks tr.dim td, .tracks tr.dim th { filter: grayscale(60%); opacity: 0.3; }
 </style>
 
-**If you have no prior programming experience**, you start with Scientific Programming 1:
+Here are the three most common schedules for **if you have no prior programming experience**. (so, you start with Scientific Programming 1):
 
 <table class="tracks">
   <thead>
