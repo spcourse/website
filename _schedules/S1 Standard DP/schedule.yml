@@ -43,9 +43,14 @@ DP - L8 (XKCD):
     8.2 Pandas 4 (reshaping and windows):
         "[icon:people-fill] Long vs wide, melt and pivot, rolling and diff": /pandas/pandas-dp/notebook-4
         Submit [submit]: /submit/mod8/s2
-    8.3 Assignment:
-        "[icon:person-fill] Size and Lifespan": /pandas/assignment-size-and-lifespan
+    8.3 Assignment (XKCD):
+        "[icon:person-fill] 1 - Animals": /pandas/xkcd1
+        "[icon:person-fill] 2 - Stars": /pandas/xkcd2
         Submit [submit]: /submit/mod8/s3
+    8.4 Challenge - Particles:
+        Not required to pass (but needed for higher grade):
+        "[icon:person-fill-gear] 3 - Particles": /pandas/xkcd3
+        Submit [submit]: /submit/mod8/c-particles
     Make sure to discuss your solutions in person after completing this level!:
 
 

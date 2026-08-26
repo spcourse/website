@@ -164,6 +164,7 @@ grades:
   8_1p: *check
   8_2p: *check
   8_3p: *check
+  c-particles: *check
 
   9_1d: *auto
   9_2d: *auto
@@ -332,6 +333,7 @@ dp_level_8_xkcd_L8xkc:
     8_1p: 1
     8_2p: 1
     8_3p: 1
+    c-particles: 1
 
 dp_level_9_databases_L9sql:
   small_block_overview: true

@@ -122,4 +122,5 @@ SP2 - Practice exam:
 # Students download only the .ipynb; it fetches its own data and tests.py at run time.
 # The weather assignment is live too, at pandas-dp/weather/ - that page ships its own two
 # data files and has a checkpy (spcourse/tests, tests/pandas-dp/weather-pandasTest.py).
-# /pandas/assignment-size-and-lifespan below still does not exist - it is a placeholder.
+# The XKCD assignment is live at pandas/xkcd1..xkcd3 - three pages, one growing xkcd.py,
+# one checkpy (spcourse/tests, tests/pandas-dp/xkcdTest.py) submitted once at /submit/mod8/s3.

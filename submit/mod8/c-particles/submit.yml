@@ -1,4 +1,4 @@
-name: 8_3p
+name: c-particles
 files:
     required:
         - xkcd.py
