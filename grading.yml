@@ -135,10 +135,9 @@ grades:
     type: float
     subgrades:
       base_correct: boolean
-      xkcd_2: boolean
       xkcd_3: boolean
       xkcd_4: boolean
-    calculation: "1.0 + base_correct * -6.0 + xkcd_2 * -1.0 + xkcd_3 * -1.0 + xkcd_4 * -1.0"
+    calculation: "1.0 + base_correct * -6.0 + xkcd_3 * -1.5 + xkcd_4 * -1.5"
   m9-passed: *check
   m10-passed:
     type: float
@@ -165,6 +164,7 @@ grades:
   8_2p: *check
   8_3p: *check
   c-particles: *check
+  c-pick-your-own: *check
 
   9_1d: *auto
   9_2d: *auto
@@ -334,6 +334,7 @@ dp_level_8_xkcd_L8xkc:
     8_2p: 1
     8_3p: 1
     c-particles: 1
+    c-pick-your-own: 1
 
 dp_level_9_databases_L9sql:
   small_block_overview: true
