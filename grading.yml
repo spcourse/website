@@ -156,8 +156,8 @@ grades:
       quality: integer
     calculation: "(9.0/12.0 * (novelty + quality + complexity + research_question) + 1).round(1)"
 
-  7_1p: *check
-  7_2p: *check
+  7_1p: *auto
+  7_2p: *auto
   7_3p: *check
 
   8_1p: *check
