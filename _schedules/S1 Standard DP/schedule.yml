@@ -20,7 +20,7 @@ DP - L7 (Pandas):
     Level 7 (Pandas) [pass/fail]:
     The deadline for this level is Friday 18 September:
     7.1 Jupyter notebook:
-        "[icon:people-fill] Jupyter notebook": /pandas/notebooks-sp
+        "[icon:people-fill] Jupyter notebook": /pandas/notebooks-lab
     7.2 Pandas 1 (foundations):
         "[icon:people-fill] Series, DataFrames, reading files, selecting and plotting": /pandas/pandas-dp/notebook-1
         Submit [submit]: /submit/mod7/s1
