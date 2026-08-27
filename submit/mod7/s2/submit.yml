@@ -3,4 +3,4 @@ files:
     required:
         - notebook-2-cleaning-summarizing.ipynb
 check:
-  tool: checkpy
+  tool: checknb
