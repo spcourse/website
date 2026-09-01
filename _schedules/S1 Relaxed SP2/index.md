@@ -14,15 +14,12 @@
 .team, .team thead, .team tbody, .team tr, .team th, .team td { background: transparent; }
 </style>
 
-<!--<table class="team">
-  <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/suzanne.jpg" style="max-width:90px" width = "150"><br>Suzanne</td><td> ...
-  </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/website/raw/2025/team/anestasia.jpg" style="max-width:90px"><br>Anastasia</td><td> ...
-  </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/website/raw/2025/team/luka.jpg" style="max-width:90px" width = "150"><br>Luka</td><td> ...
-  </td></tr>
-  <tr><td><img src = "https://github.com/spcourse/website/raw/2024/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon</td><td> Simon studied Computer Science and then the Master of Logic at the University of Amsterdam (UvA). He conducted research in computational linguistics and robotics at Sony, Aldebaran (now Softbank), the Universitat Autònoma de Barcelona, and the UvA. He now works as a lecturer at the UvA and teaches programming in various programs.</td></tr>
-</table>-->
+<table class="team">
+  <tr><td><img src = "https://github.com/spcourse/website/raw/2026/team/suzanne.jpg" style="max-width:90px" width = "150"><br>Suzanne</td><td> Suzanne is the Junior Lecturer for the Scientific Programming track. She obtained her BSc and MSc degrees in Astronomy Research from Leiden University, where she developed pipelines to reduce and analyze data from ground- and space-based telescopes. She has a strong interest in data-driven algorithms and imaging.</td></tr>
+  <tr><td><img src = "https://github.com/spcourse/website/raw/2026/team/anastasia.jpg" style="max-width:90px" width = "150"><br>Anastasia</td><td> Anastasia studied Mathematics and Linguistics and worked as a software engineer. She is now a master's student in the Brain and Cognitive Sciences and Artificial Intelligence programmes at the University of Amsterdam. She enjoys programming and is interested in the human brain, especially how speech processing is organized within it.</td></tr>
+  <tr><td><img src = "https://github.com/spcourse/website/raw/2026/team/luka.jpg" style="max-width:90px" width = "150"><br>Luka</td><td> Luka is a second-year MSc student studying Artificial Intelligence at the VU after finishing a BSc in Sociology at the UvA. This radical transition started when taking the minor AI at the UvA, which shares much of the course material with the SP and DP courses. It sparked his deep interest in the capabilities of software and programming, motivating him to ignite this in others too.</td></tr>
+  <tr><td><img src = "https://github.com/spcourse/website/raw/2026/team/simon.jpg" style="max-width:90px" width = "150"><br>Simon</td><td> Simon studied Computer Science and then the Master of Logic at the University of Amsterdam (UvA). He conducted research in computational linguistics and robotics at Sony, Aldebaran (now Softbank), the Universitat Autònoma de Barcelona, and the UvA. He now works as a lecturer at the UvA and teaches programming in various programs.</td></tr>
+</table>
 
 **Contact email**
 [scientific@proglab.nl](mailto:scientific@proglab.nl)
