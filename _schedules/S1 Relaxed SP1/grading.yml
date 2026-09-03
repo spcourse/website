@@ -31,3 +31,8 @@ sp1_level_3_challenges_l3cha:
 
 sp1_exams:
   show_progress: true
+
+########### TEMPORARY - PDF render test, remove with submit/temp-pdf-test ###########
+
+temp_pdf_test_block:
+  show_progress: true

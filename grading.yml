@@ -179,6 +179,9 @@ grades:
   p_3p: *check
   p_4p: *check
 
+  #### TEMPORARY - PDF render test, remove together with submit/temp-pdf-test ####
+  temp_pdf_test: *check
+
 ### SP1 Modules
 
 sp1_checks:
@@ -357,6 +360,15 @@ dp_project:
     p_2p: 1
     p_3p: 1
     p_4p: 1
+
+
+### TEMPORARY - PDF render test, remove together with submit/temp-pdf-test
+### Opted into via show_progress in the S1 Relaxed SP1 schedule only.
+
+temp_pdf_test_block:
+  small_block_overview: true
+  submits:
+    temp_pdf_test: 1
 
 
 

@@ -1,0 +1,4 @@
+name: temp_pdf_test
+files:
+    required:
+        - test.pdf
