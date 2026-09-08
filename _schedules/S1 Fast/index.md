@@ -353,6 +353,7 @@ Each level has to be submitted by the date below. Exam dates and rooms come from
     <tr><td class="date">Mon 23 Nov</td><td class="tag dp">DP</td><td>Final project — final proposal</td></tr>
     <tr><td class="date">Fri 4 Dec</td><td class="tag dp">DP</td><td>Final project — minimum viable product</td></tr>
     <tr><td class="date">Thu 10 Dec</td><td class="tag dp">DP</td><td>Final project — final product</td></tr>
+    <tr><td class="date">Wed 16 Dec</td><td class="tag dp">DP</td><td><b>Final presentation</b> <span class="mod">— 13:00-16:45, SP L1.07</span></td></tr>
   </tbody>
 </table>
 
