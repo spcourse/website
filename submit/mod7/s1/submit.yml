@@ -2,3 +2,5 @@ name: 7_1p
 files:
     required:
         - notebook-1-foundations.ipynb
+check:
+  tool: checknb

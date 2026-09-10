@@ -2,3 +2,5 @@ name: 8_1p
 files:
     required:
         - notebook-3-quality-combining.ipynb
+check:
+  tool: checknb

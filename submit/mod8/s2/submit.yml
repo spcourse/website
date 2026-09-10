@@ -2,3 +2,5 @@ name: 8_2p
 files:
     required:
         - notebook-4-reshaping-aggregation.ipynb
+check:
+  tool: checknb
