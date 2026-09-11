@@ -1,9 +1,9 @@
 # Syllabus
 
-<p style="color: #c00; font-size: 2em; font-weight: bold; line-height: 1.3; margin: 0.5em 0 1em;">
+<p style="color: #a8453a; font-size: 2em; font-weight: bold; line-height: 1.3; margin: 0.5em 0 1em;">
 You are currently auditing this course: you cannot submit anything!
 If this is incorrect, please email us at
-<a href="mailto:scientific@proglab.nl" style="color: #c00; text-decoration: underline;">scientific@proglab.nl</a>.
+<a href="mailto:scientific@proglab.nl" style="color: #a8453a; text-decoration: underline;">scientific@proglab.nl</a>.
 </p>
 
 - [General info](#general-info)
