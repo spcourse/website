@@ -1,0 +1,411 @@
+_description: "Audit - Follow the full programme (SP1, SP2 and Data Processing) this semester at the Fast pace, without submitting anything"
+
+
+Welcome:
+    Read the syllabus to get started: /syllabus
+    Installation Windows:
+        Command line (Windows): /python/en/installing/uv/cli-win
+        Exercise 1, course folders: /python/en/installing/uv/sp/cli-exercise
+        Python setup with uv (Windows): /python/en/installing/uv/sp/install-win
+        Exercise 2, first files in Zed: /python/en/installing/uv/sp/zed-exercise
+    Installation macOS/Linux:
+        Command line (macOS/Linux): /python/en/installing/uv/cli-mac
+        Exercise 1, course folders: /python/en/installing/uv/sp/cli-exercise
+        Python setup with uv (macOS/Linux): /python/en/installing/uv/sp/install-mac
+        Exercise 2, first files in Zed: /python/en/installing/uv/sp/zed-exercise
+
+SP1 - L1 (Algorithms):
+    Scientific Programming 1:
+    Level 1 - OPTION 1 (Algorithms):
+    The deadline for this level is Wednesday 9 September:
+    1.1 Output:
+        "[icon:people-fill] Hello, world": /shorts/hello
+    1.2 Input and Calculations:
+        Basics [theory]: /python/en/basics
+        "[icon:people-fill] Number Whiz": /numbers/en/whiz
+        "[icon:person-fill] Divide": /shorts/oranges
+    1.3 If-then:
+        Algorithms [theory]: /python/en/algorithms
+        "[icon:people-fill] Less Than": /shorts/less_than
+        "[icon:people-fill] First Year": /shorts/first_year
+        "[icon:person-fill] First or Last Year": /shorts/first_or_last_year
+        "[icon:person-fill] Leap Year": /shorts/leap_year
+    1.4 Loops 1 (For):
+        For Loops [theory]: /python/en/loops/for
+        "[icon:people-fill] Between": /shorts/between
+        "[icon:people-fill] Buzz": /shorts/buzz
+        "[icon:person-fill] Sum": /shorts/sum
+        "[icon:people-fill] Leap Years": /shorts/leap_years
+        "[icon:people-fill] Newton": /shorts/newton
+        "[icon:person-fill] Repeat String": /shorts/repeat
+    1.5 Loops 2 (While):
+        While Loops [theory]: /python/en/loops/while
+        Loops examples [theory]: /python/en/loops/practical-uses
+        "[icon:people-fill] Elmo": /shorts/elmo
+        "[icon:person-fill] Positive": /shorts/positive
+        "[icon:people-fill] Sum Until": /shorts/sum_until
+        "[icon:people-fill] Max Until": /shorts/max_until
+        "[icon:person-fill] Calculate Change": /algorithms/en/greedy
+    1.6 Lists:
+        Debugging [theory]: /python/en/debugging-basics
+        Code in Style [theory]: /python/en/style
+        Lists [theory]: /python/en/lists
+        "[icon:people-fill] Positive List": /shorts/positive_list
+        "[icon:people-fill] Odd": /shorts/odd
+        "[icon:people-fill] Average": /shorts/average
+        "[icon:person-fill] Squares": /shorts/squares
+        "[icon:person-fill] Collect Change": /algorithms/en/collect
+    Make sure to discuss your solutions in person after completing this level!:
+    1.7 Challenge 1:
+        Not required to pass, but recommended to at least try:
+        "[icon:person-fill-gear] Mario Pyramid": /algorithms/en/pyramid
+    1.8 Challenge 2:
+        Not required to pass. This is a very difficult exercise!:
+        "[icon:person-fill-gear] Conway’s Game of Life": /algorithms/en/conway
+
+
+SP1 - L1 (Numbers):
+    Scientific Programming 1:
+    Level 1 - OPTION 2 (Numbers):
+    The deadline for this level is Wednesday 9 September:
+    1.1 Output:
+        "[icon:people-fill] Hello, world": /shorts/hello
+    1.2 Input and Calculations:
+        Basics [theory]: /python/en/basics
+        "[icon:people-fill] Number Whiz": /numbers/en/whiz
+        "[icon:person-fill] Divide": /shorts/oranges
+    1.3 If-then:
+        Algorithms [theory]: /python/en/algorithms
+        "[icon:people-fill] Less Than": /shorts/less_than
+        "[icon:people-fill] First Year": /shorts/first_year
+        "[icon:person-fill] First or Last Year": /shorts/first_or_last_year
+        "[icon:person-fill] Leap Year": /shorts/leap_year
+    1.4 Loops 1 (For):
+        For Loops [theory]: /python/en/loops/for
+        "[icon:people-fill] Between": /shorts/between
+        "[icon:people-fill] Buzz": /shorts/buzz
+        "[icon:person-fill] Sum": /shorts/sum
+        "[icon:people-fill] Leap Years": /shorts/leap_years
+        "[icon:person-fill] Count Leap Years": /shorts/count_leap_years
+        "[icon:people-fill] Newton": /shorts/newton
+        "[icon:person-fill] Check Prime": /numbers/en/check-prime
+    1.5 Loops 2 (While):
+        While Loops [theory]: /python/en/loops/while
+        Loops examples [theory]: /python/en/loops/practical-uses
+        "[icon:people-fill] Elmo": /shorts/elmo
+        "[icon:person-fill] Positive": /shorts/positive
+        "[icon:people-fill] Sum Until": /shorts/sum_until
+        "[icon:people-fill] Birthday": /numbers/en/birthday
+        "[icon:person-fill] 1001 Primes": /numbers/en/n-primes
+    1.6 Lists:
+        Debugging [theory]: /python/en/debugging-basics
+        Code in Style [theory]: /python/en/style
+        Lists [theory]: /python/en/lists
+        "[icon:people-fill] Positive List": /shorts/positive_list
+        "[icon:people-fill] Odd": /shorts/odd
+        "[icon:people-fill] Average": /shorts/average
+        "[icon:person-fill] Squares": /shorts/squares
+        "[icon:person-fill] Prime List": /numbers/en/primelist
+    Make sure to discuss your solutions in person after completing this level!:
+    1.7 Challenge 1:
+        Not required to pass, but recommended to at least try:
+        "[icon:person-fill-gear] Goldbach": /numbers/en/goldbach
+    1.8 Challenge 2:
+        Not required to pass:
+        "[icon:person-fill-gear] Amicable": /numbers/en/amicable
+    1.9 Challenge 3:
+        Not required to pass:
+        "[icon:person-fill-gear] Eratosthenes": /numbers/en/eratosthenes
+
+SP1 - L2 (Text):
+    Scientific Programming 1:
+    Level 2 - OPTION 1 (Text):
+    The deadline for this level is Wednesday 16 September:
+    2.1 Functions:
+        Functions [theory]: /python/en/functions
+        "[icon:people-fill] Squared": /shorts/squared
+        "[icon:people-fill] Min": /shorts/min
+        "[icon:person-fill] Fun Sum": /shorts/fun_sum
+        "[icon:person-fill] Max": /shorts/max
+        "[icon:person-fill] Max Index": /shorts/max_index
+        "[icon:person-fill] Arange": /shorts/arange
+    2.2 Strings 1:
+        Strings [theory]: /python/en/strings
+        "[icon:people-fill] Vowels": /shorts/vowels
+        "[icon:people-fill] Vowel Words": /shorts/vowel_words
+        "[icon:person-fill] Text Statistics": /text/en/statistics
+    2.3 Strings 2:
+        "[icon:people-fill] Longest Word": /shorts/longest_word
+        "[icon:people-fill] Word-by-Word": /text/en/words
+        "[icon:people-fill] Resplit": /shorts/resplit
+        "[icon:person-fill] Snake Case": /shorts/snake_case
+        "[icon:person-fill] Align": /text/en/align
+    2.4 Files:
+        Read Files [theory]: /python/en/file-io
+        "[icon:people-fill] Practice with files": /python/en/files
+        "[icon:people-fill] Alice": /shorts/alice
+        "[icon:person-fill] Sentiment": /text/en/sentiment
+    2.5 Plot:
+        Import [theory]: /python/en/modules
+        Plot [theory]: /python/en/plotting
+        "[icon:people-fill] Plot": /plot/en/plot1
+        "[icon:person-fill] Plot Min": /plot/en/plot2
+    2.6 Style:
+        "[icon:person-fill] Style": /style/text
+    Make sure to discuss your solutions in person after completing this level!:
+    2.7 Challenge 1:
+        Not required to pass, but recommended to at least try:
+        "[icon:person-fill-gear] Twitter": /text/en/tweets
+    2.8 Challenge 2:
+        Not required to pass:
+        "[icon:person-fill-gear] Reformat": /text/en/reformatting
+    2.9 Challenge 3:
+        Not required to pass:
+        "[icon:person-fill-gear] Plot Min Max": /plot/en/plot_mm
+
+
+SP1 - L2 (Integration):
+    Scientific Programming 1:
+    Level 2 - OPTION 2 (Integration):
+    The deadline for this level is Wednesday 16 September:
+    Introduction: /integrals/en/intro2
+    2.1 Functions:
+        Functions [theory]: /python/en/functions
+        "[icon:people-fill] Squared": /shorts/squared
+        "[icon:people-fill] Min": /shorts/min
+        "[icon:person-fill] Fun Sum": /shorts/fun_sum
+        "[icon:person-fill] Max": /shorts/max
+        "[icon:person-fill] Max Index": /shorts/max_index
+        "[icon:person-fill] Arange": /shorts/arange
+    2.2 Plot:
+        Import [theory]: /python/en/modules
+        Plot [theory]: /python/en/plotting
+        "[icon:people-fill] Plot": /plot/en/plot1
+        "[icon:person-fill] Roots": /integrals/en/roots
+        "[icon:person-fill] Plot Min": /plot/en/plot2
+    2.3 Riemann:
+        Riemann Sum [theory]: /integrals/en/riemann/explanation
+        "[icon:person-fill] Riemann Sum": /integrals/en/riemann/integrals
+    2.4 Strings:
+        Strings [theory]: /python/en/strings
+        "[icon:people-fill] Vowels": /shorts/vowels
+        "[icon:people-fill] Longest Word": /shorts/longest_word
+    2.5 Random:
+        Random Numbers [theory]: /python/en/random
+        "[icon:people-fill] Random Fact": /integrals/en/random/fact
+        "[icon:person-fill] Random Distance": /integrals/en/random/distance
+        "[icon:person-fill] Random Histogram": /integrals/en/random/histogram
+    2.6 Style:
+        "[icon:person-fill] Style": /style/integrals
+    Make sure to discuss your solutions in person after completing this level!:
+    2.7 Challenge 1:
+        Not required to pass, but recommended to try:
+        More Function [theory]: /python/en/functions2
+        Monte Carlo [theory]: /integrals/en/monte-carlo/explanation
+        "[icon:person-fill-gear] Monte Carlo": /integrals/en/monte-carlo/integrals
+    2.8 Challenge 2:
+        Not required to pass:
+        "[icon:person-fill-gear] Egg": /integrals/en/monte-carlo/egg
+
+SP1 - L3 (Big Data):
+    Scientific Programming 1:
+    Level 3 (Big Data):
+    The deadline for this level is Wednesday 23 September:
+    3.1 Car:
+        Read Files (repeated) [theory]: /python/en/file-io
+        "[icon:people-fill] Car Ride": /bigdata/en/car
+    3.2 Weather 1:
+        More about Functions [theory]: /python/en/functions3
+        "[icon:person-fill] Reading the data": /bigdata/en/weather1
+    3.3 Weather 2:
+        "[icon:person-fill] Extremes": /bigdata/en/weather2
+    3.4 Weather 3:
+        "[icon:person-fill] Cold, colder, coldest": /bigdata/en/weather3
+    3.5 Weather 4:
+        "[icon:person-fill] Plot summer and tropical days": /bigdata/en/weather4
+    Make sure to discuss your solutions in person after completing this level!:
+    3.6 Challenge 1:
+        Not required to pass, but recommended:
+        "[icon:person-fill-gear] Heat wave": /bigdata/en/weather5
+    3.7 Challenge 2:
+        Not required to pass:
+        "[icon:person-fill-gear] Decade trends, temperature and freezing": /bigdata/en/weather6
+    3.8 Challenge 3:
+        Not required to pass:
+        "[icon:person-fill-gear] Decade trends, heat waves": /bigdata/en/weather7
+
+
+SP1 - Practice exam:
+    Practice exam: /practice-exams/sp1/
+
+################################################################################
+##################################### SP 2 #####################################
+################################################################################
+
+SP2 - L4 (Monopoly):
+    Scientific Programming 2:
+    Level 4 (Monopoly):
+    The deadline for this level is Wednesday 30 September:
+    4.1 Monopoly 1:
+        Introduction: /monopoly/en/
+        Debugging [theory]: /python/en/debugging
+        Main function [theory]: /python/en/main_function
+        "[icon:people-fill] Moving around": /monopoly/en/moving-around
+    4.2 Monopoly 2:
+        Default arguments [theory]: /python/en/default-arguments
+        "[icon:person-fill] Money": /monopoly/en/money
+    4.3 Monopoly 3:
+        "[icon:person-fill] Two players": /monopoly/en/two-player
+    Make sure to discuss your solutions in person after completing this level!:
+    4.4 Challenge 1:
+        Not required to pass, but recommended:
+        Learn how to create animated graphics [theory]: /animation/en/explanation-gif
+        "[icon:person-fill-gear] Spiral": /animation/en/dot
+        "[icon:person-fill-gear] Buzzed student": /animation/en/student
+    4.5 Challenge 2:
+        Not required to pass:
+        "[icon:person-fill-gear] Improve monopoly design and extend to many players": /monopoly/en/n-player
+
+SP2 - L5 (Monopoly 2):
+    Scientific Programming 2:
+    Level 5 (Monopoly 2):
+    The deadline for this level is Wednesday 7 October:
+    5.1 Data structures:
+        Dictionaries [theory]: /python/en/dictionaries/use
+        Tuples [theory]: /python/en/tuples
+        Sets [theory]: /python/en/sets
+        List slicing and indexing [theory]: /python/en/slicing
+        "[icon:people-fill] Use dictionaries and sets - part 1": /python/en/datastructures-practice/part1
+    5.2 Monopoly with dicts:
+        Dictionaries practical examples [theory]: /monopoly_dict/using_dicts_theory
+        "[icon:person-fill] Use dicts and sets to improve Monopoly": /monopoly_dict/monopoly_config
+    5.3 Computational complexity:
+        Complexity 1 [theory]: /python/en/complexity-intro
+        Complexity 2 [theory]: /python/en/complexity-calculation
+        Efficiency of dictionaries [theory]: /python/en/dictionaries/complexity
+        "[icon:people-fill] Complexity questions": /shakespeare/complexity-questions
+    Make sure to discuss your solutions in person after completing this level!:
+    5.4 Challenge 1:
+        Not required to pass:
+        "[icon:person-fill-gear] Analyzing the board": /monopoly_dict/counting_visits
+    5.5 Challenge 2:
+        Not required to pass:
+        "[icon:person-fill-gear] Use dictionaries and sets - part 2": /python/en/datastructures-practice/part2
+    5.6 Challenge 3:
+        Not required to pass:
+        "[icon:person-fill-gear] Improve monopoly design and extend to many players": /monopoly_dict/n-player
+
+SP2 - L6 (Populations):
+    Scientific Programming 2:
+    Level 6 (Populations):
+    The deadline for this level is Wednesday 14 October:
+    Introduction: /populations-oo
+    6.1 Classes:
+        Learn about using classes in Python [theory]: /python/en/classes
+        "[icon:people-fill] Practice with classes": /objects/cards
+    6.2 Populations (part 1):
+        Introduction: /populations-oo/introduction
+        "[icon:people-fill] Phase 1": /populations-oo/phase1
+        "[icon:people-fill] Phase 2": /populations-oo/phase2
+        "[icon:people-fill] Phase 3": /populations-oo/phase3
+        "[icon:person-fill] Phase 4": /populations-oo/phase4
+    6.3 Populations (part 2):
+        "[icon:people-fill] Phase 5": /populations-oo/phase5
+        "[icon:people-fill] Phase 6": /populations-oo/phase6
+        "[icon:people-fill] Phase 7": /populations-oo/phase7
+        "[icon:person-fill] Phase 8": /populations-oo/phase8
+        "[icon:person-fill] Phase 9": /populations-oo/phase9
+    Make sure to discuss your solutions in person after completing this level!:
+    6.4 Challenge 1 - Creative:
+        Not required to pass:
+        "[icon:person-fill-gear] Experiment": /populations-oo/creative
+
+SP2 - Practice exam:
+    Practice exam: /practice-exams/sp2/
+
+
+################################################################################
+##################################### Data #####################################
+################################################################################
+
+
+# NOTE: the four notebook pages are live (spcourse/pandas, pandas-dp/notebook-N/content.md).
+# Students download only the .ipynb; it fetches its own data and tests.py at run time.
+# The weather assignment is live too, at pandas-dp/weather/ - that page ships its own two
+# data files and has a checkpy (spcourse/tests, tests/pandas-dp/weather-pandasTest.py).
+# The XKCD assignment is live at pandas/xkcd1..xkcd4 - four pages, one growing xkcd.py,
+# one checkpy (spcourse/tests, tests/pandas-dp/xkcdTest.py) submitted once at /submit/mod8/s3.
+# xkcd4 is open-ended - students pick their own dataset. No data files, no checkpy; the
+# challenge submit at /submit/mod8/c-pick-your-own is graded by hand.
+
+DP - L7 (Pandas):
+    Data Processing:
+    Level 7 (Pandas) [pass/fail]:
+    The deadline for this level is Friday 30 October:
+    7.1 Jupyter notebook:
+        "[icon:people-fill] Jupyter notebook": /pandas/notebooks-lab
+    7.2 Pandas 1 (foundations):
+        "[icon:people-fill] Series, DataFrames, reading files, selecting and plotting": /pandas/pandas-dp/notebook-1
+    7.3 Pandas 2 (cleaning and summarizing):
+        "[icon:people-fill] Types, missing data, deriving columns, sorting and grouping": /pandas/pandas-dp/notebook-2
+    7.4 Assignment:
+        "[icon:person-fill] Weather": /pandas/pandas-dp/weather
+    Make sure to discuss your solutions in person after completing this level!:
+
+DP - L8 (XKCD):
+    Data Processing:
+    Level 8 (XKCD) [graded]:
+    The deadline for this level is Friday 6 November:
+    8.1 Pandas 3 (quality and combining):
+        "[icon:people-fill] Data quality, concat, joins and the cross join": /pandas/pandas-dp/notebook-3
+    8.2 Pandas 4 (reshaping and windows):
+        "[icon:people-fill] Long vs wide, melt and pivot, rolling and diff": /pandas/pandas-dp/notebook-4
+    8.3 Assignment (XKCD):
+        "[icon:person-fill] 1 - Animals": /pandas/xkcd1
+        "[icon:person-fill] 2 - Stars": /pandas/xkcd2
+    8.4 Challenge - Particles:
+        Not required to pass (but needed for higher grade):
+        "[icon:person-fill-gear] 3 - Particles": /pandas/xkcd3
+    8.5 Challenge - Pick your own:
+        Not required to pass (but needed for higher grade):
+        "[icon:person-fill-gear] 4 - Pick your own": /pandas/xkcd4
+    Make sure to discuss your solutions in person after completing this level!:
+
+DP - L9 (Databases):
+    Data Processing:
+    Level 9 (Databases) [pass/fail]:
+    The deadline for this level is Friday 13 November:
+    Introduction: /sql/intro
+    9.1 Learn SQL:
+        Learn about Databases [theory]: /sql/lecture
+        "[icon:people-fill] Store movie information using sqlite": /sql/movies
+    9.2 Fiftyville:
+        "[icon:person-fill] Solve a mystery using sqlite": /sql/fiftyville
+    Make sure to discuss your solutions in person after completing this level!:
+
+DP - L10 (Wikipedia):
+    Data Processing:
+    Level 10 (Wikipedia) [graded]:
+    The deadline for this level is Friday 20 November:
+    Introduction: /wikipedia/intro
+    10.1 HTML:
+        What is HTML? [theory]: /homepage/html
+        "[icon:person-fill] Make your own website": /homepage/homepage
+    10.2 Scraping:
+        "[icon:people-fill] Scraping a Wikipedia page": /wikipedia/scraping
+        "[icon:people-fill] Plotting the results": /wikipedia/visualize-gdp
+    Make sure to discuss your solutions in person after completing this level!:
+    10.3 Challenge 1 - Crawling:
+        Not required to pass (but needed for higher grade):
+        "[icon:person-fill-gear] Crawling Wikipedia": /wikipedia/crawling
+        "[icon:person-fill-gear] Plotting the results": /wikipedia/visualize-gini
+    10.4 Challenge 2 - BBC:
+        Not required to pass (but needed for higher grade):
+        "[icon:person-fill-gear] Crawling the BBC": /wikipedia/bbc
+
+DP - Final project:
+    Data Processing:
+    Final Project [graded]:
+    Learn to use git: /basics/git
+    Create your classroom repo: /project/classroom
+    Project outline: /project
