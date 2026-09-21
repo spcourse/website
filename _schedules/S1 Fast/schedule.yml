@@ -389,7 +389,8 @@ SP2 - Practice exam:
 # The weather assignment is live too, at pandas-dp/weather/ - that page ships its own two
 # data files and has a checkpy (spcourse/tests, tests/pandas-dp/weather-pandasTest.py).
 # The XKCD assignment is live at pandas/xkcd1..xkcd4 - four pages, one growing xkcd.py,
-# one checkpy (spcourse/tests, tests/pandas-dp/xkcdTest.py) submitted once at /submit/mod8/s3.
+# one checkpy (spcourse/tests, tests/pandas-dp/xkcdTest.py). Both /submit/mod8/s3 and the
+# challenge submit /submit/mod8/c-particles run it on the whole xkcd.py.
 # xkcd4 is open-ended - students pick their own dataset. No data files, no checkpy; the
 # challenge submit at /submit/mod8/c-pick-your-own is graded by hand.
 

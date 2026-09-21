@@ -158,12 +158,16 @@ grades:
 
   7_1p: *auto
   7_2p: *auto
-  7_3p: *check
+  7_3p: *auto
 
-  8_1p: *check
-  8_2p: *check
-  8_3p: *check
-  c-particles: *check
+  8_1p: *auto
+  8_2p: *auto
+  8_3p:
+    # xkcdTest.py is shared with c-particles and has 40 tests; 13 need particles (step 3),
+    # so a complete 8.3 without them scores 27/40 = 6.75 -> 6 points.
+    <<: *auto
+    calculation: (points >= 6) && points || 0
+  c-particles: *auto
   c-pick-your-own: *check
 
   9_1d: *auto

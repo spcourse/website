@@ -2,3 +2,7 @@ name: c-particles
 files:
     required:
         - xkcd.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: xkcd
