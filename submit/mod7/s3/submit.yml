@@ -3,3 +3,7 @@ files:
     required:
         # placeholder - assignment page still to be written
         - weather-pandas.py
+check:
+    tool: checkpy
+    repo: spcourse/tests
+    args: weather-pandas
