@@ -43,16 +43,6 @@ Welcome to this programming track! Here, you’ll use the Python programming lan
 
 You learn about the Python language by working on programming problems from several scientific areas. The three courses from this track are designed to be taken together, but you can choose to only follow one or two of the courses.
 
-### Schedule {#schedule}
-
-Scientific Programming 1 starts with a kick-off on **Wednesday 7 October**, 10:00–15:30,
-at LAB42, Amsterdam Science Park. Each of the three levels has its own deadline, and the
-course ends with the final exam on **Tuesday 15 December**. All dates are listed under
-[Deadlines](#deadlines).
-
-The actual amount of work it takes to complete the course varies a lot for each student.
-But, as a rough estimate, count at least 10 hrs per week.
-
 ### Attendance {#attendance}
 
 There are no lectures (except for a non-compulsory kick-off meeting at the start of Scientific Programming 1) and the tutorials are flexible. 
