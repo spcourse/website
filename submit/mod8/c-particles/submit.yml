@@ -1,4 +1,4 @@
-name: c_particles
+name: c-particles
 files:
     required:
         - xkcd.py
