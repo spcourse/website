@@ -1,4 +1,4 @@
-name: c_pick-your-own
+name: c-pick-your-own
 files:
     required:
         - xkcd.py
