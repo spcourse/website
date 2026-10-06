@@ -27,8 +27,8 @@
 **Tutorial schedules & locations**
 [Tutorial schedules (Datanose)](/datanose)
 
-**Deadlines**
-[jump to deadlines](#deadlines)
+**Schedule & deadlines**
+[jump to schedule](#deadlines)
 
 **Grading**
 [jump to grading](#grading)
@@ -143,40 +143,39 @@ Here below is an overview of all modules for this course. Click a module title t
   </tr>
 </table>
 
-## Deadlines {#deadlines}
+## Schedule and deadlines {#deadlines}
 
 **Fall 2026/2027 — SP1, Lifelong Learning**
 
-Each level has to be submitted by the date below. Exam dates and rooms come from
-[Datanose](/datanose).
+Each level has to be submitted by the deadline in the schedule below. Tutorials are
+shared with the other SP and DP students; join at least one a week. There are no
+tutorials in the week of 19 October. Times and rooms come from [Datanose](/datanose).
 
 <style>
-.deadlines {
-  width: 100%; font-size: 0.9em; margin-bottom: 1.5em;
-  border-collapse: separate; border-spacing: 3px 4px;
+.tut, .exam, .dl {
+  display: block;
+  padding: 0.45em 0.6em;
+  border-radius: 4px;
+  line-height: 1.35;
 }
-.deadlines, .deadlines thead, .deadlines tbody, .deadlines tr,
-.deadlines th, .deadlines td { background: transparent; }
-.deadlines th, .deadlines td { border: none; padding: 0.35em 0.6em; text-align: left; }
-.deadlines .date { white-space: nowrap; }
-.deadlines .tag { text-align: center; border-radius: 5px; white-space: nowrap; width: 3.5em; }
-.deadlines .sp1 { background: #dbe3d1; color: #39492a; }
-.deadlines .sp2 { background: #f0e2be; color: #5d4713; }
-.deadlines .dp  { background: #d3e0dc; color: #2d4a43; }
-.deadlines .mod { color: #6b6455; }
+.tut  { background: #dbe3d1; color: #39492a; }  /* sage       - tutorial */
+.dl   { background: #f0e2be; color: #5d4713; margin-top: 0.3em; }  /* ochre - deadline */
+.exam { background: #ecd3c5; color: #6d3a20; }  /* terracotta - exam     */
 </style>
 
-<table class="deadlines">
-  <thead>
-    <tr><th>Date</th><th></th><th>Deadline</th></tr>
-  </thead>
-  <tbody>
-    <tr><td class="date">Fri 30 Oct</td><td class="tag sp1">SP1</td><td>Level 1 <span class="mod">(Algorithms or Numbers)</span></td></tr>
-    <tr><td class="date">Fri 13 Nov</td><td class="tag sp1">SP1</td><td>Level 2 <span class="mod">(Integration or Text)</span></td></tr>
-    <tr><td class="date">Fri 27 Nov</td><td class="tag sp1">SP1</td><td>Level 3 <span class="mod">(Big Data)</span></td></tr>
-    <tr><td class="date">Tue 15 Dec</td><td class="tag sp1">SP1</td><td><b>Exam</b> <span class="mod">— 9:00-11:00, REC D4.02 (Brug)</span></td></tr>
-  </tbody>
-</table>
+| when | mon | tue | wed | thu | fri |
+|------|-----|-----|-----|-----|-----|
+| **5 Oct**<br>9 Oct<br>*start* | | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span> |
+| **12 Oct**<br>16 Oct | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span> |
+| **19 Oct**<br>23 Oct<br>*no tutorials* | | | | | |
+| **26 Oct**<br>30 Oct | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span> |
+| **2 Nov**<br>6 Nov | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span><span class="dl">deadline<br>Level 1</span> |
+| **9 Nov**<br>13 Nov | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span> |
+| **16 Nov**<br>20 Nov | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span><span class="dl">deadline<br>Level 2</span> |
+| **23 Nov**<br>27 Nov | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span> |
+| **30 Nov**<br>4 Dec | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span><span class="dl">deadline<br>Level 3</span> |
+| **7 Dec**<br>11 Dec | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span> |
+| **14 Dec**<br>18 Dec<br>*exam* | | 9:00 - 11:00<br><span class="exam">exam SP1<br>REC D4.02<br>(Brug)</span> | | | |
 
 ## Grading {#grading}
 
