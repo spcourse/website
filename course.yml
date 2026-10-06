@@ -5,5 +5,5 @@ language: en
 links:
     '[brush] Style guide': /python/en/style
     '[check] Checkpy': /python/en/checkpy
-    '[hammer] Reference': /python/en/overview
+    '[hammer] Reference': /python/en/overview-sp
     '[question-square] Tutorial schedule': /datanose
