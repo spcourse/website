@@ -163,22 +163,23 @@ tutorials in the week of 19 October. Times and rooms come from [Datanose](/datan
 .dl   { background: #d3e0dc; color: #2d4a43; margin-top: 0.3em; }  /* copper - deadline */
 .exam { background: #ecd3c5; color: #6d3a20; }  /* terracotta - exam     */
 table.week { table-layout: fixed; width: 100%; }
+.t { display: block; font-size: 0.7em; white-space: nowrap; opacity: 0.8; }
 table.week th:first-child { width: 15%; }
 </style>
 
 | when | mon | tue | wed | thu | fri |
 |------|-----|-----|-----|-----|-----|
-| **5 Oct**<br>9 Oct<br>*start* | | | 10:00 - 16:00<br><span class="lec">SP1 kick-off<br>session</span> | | |
-| **12 Oct**<br>16 Oct | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span> |
+| **5 Oct**<br>9 Oct<br>*start* | | | <span class="lec"><span class="t">10:00 - 16:00</span>kick-off</span> | | |
+| **12 Oct**<br>16 Oct | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">15:00 - 18:45</span>tutorial<br>SP L0.10</span> |
 | **19 Oct**<br>23 Oct<br>*no tutorials* | | | | | |
-| **26 Oct**<br>30 Oct | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span><span class="dl">deadline<br>Level 1</span> |
-| **2 Nov**<br>6 Nov | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span> |
-| **9 Nov**<br>13 Nov | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span><span class="dl">deadline<br>Level 2</span> |
-| **16 Nov**<br>20 Nov | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span> |
-| **23 Nov**<br>27 Nov | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span><span class="dl">deadline<br>Level 3</span> |
-| **30 Nov**<br>4 Dec | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span> |
-| **7 Dec**<br>11 Dec | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span> |
-| **14 Dec**<br>18 Dec<br>*exam* | | 9:00 - 11:00<br><span class="exam">exam SP1<br>REC D4.02<br>(Brug)</span> | | | |
+| **26 Oct**<br>30 Oct | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">15:00 - 18:45</span>tutorial<br>SP L0.10</span><span class="dl"><span class="t">23:59</span>deadline<br>Level 1</span> |
+| **2 Nov**<br>6 Nov | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">15:00 - 18:45</span>tutorial<br>SP L0.10</span> |
+| **9 Nov**<br>13 Nov | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">15:00 - 18:45</span>tutorial<br>SP L0.10</span><span class="dl"><span class="t">23:59</span>deadline<br>Level 2</span> |
+| **16 Nov**<br>20 Nov | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">15:00 - 18:45</span>tutorial<br>SP L0.10</span> |
+| **23 Nov**<br>27 Nov | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">15:00 - 18:45</span>tutorial<br>SP L0.10</span><span class="dl"><span class="t">23:59</span>deadline<br>Level 3</span> |
+| **30 Nov**<br>4 Dec | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">15:00 - 18:45</span>tutorial<br>SP L0.10</span> |
+| **7 Dec**<br>11 Dec | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">15:00 - 18:45</span>tutorial<br>SP L0.10</span> |
+| **14 Dec**<br>18 Dec<br>*exam* | | <span class="exam"><span class="t">9:00 - 11:00</span>exam SP1<br>REC D4.02<br>(Brug)</span> | | | |
 {: .week}
 
 ## Grading {#grading}
