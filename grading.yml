@@ -118,6 +118,12 @@ grades:
   c-datastructures2: *auto
   c-monopoly2-n-player: *check
 
+  5_1s: *auto
+  5_2s: *check
+  5_3s: *auto
+  c-tf-idf: *check
+  c-generate-word-list: *check
+
   6_1p: *auto
   6_2p: *auto
   c-creative: *check
@@ -301,6 +307,20 @@ sp2_level_5_challenges_L5cha:
     c-counting-visits: 1
     c-datastructures2: 1
     c-monopoly2-n-player: 1
+
+sp2_level_5_shakespeare_L5sha:
+  small_block_overview: true
+  submits:
+    5_1s: 1
+    5_2s: 1
+    5_3s: 1
+
+sp2_level_5_shakespeare_challenges_L5sch:
+  small_block_overview: true
+  submits:
+    c-tf-idf: 1
+    c-generate-word-list: 1
+    c-datastructures2: 1
 
 sp2_level_6_populations_L6pop:
   small_block_overview: true
