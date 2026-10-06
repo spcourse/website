@@ -1,5 +1,7 @@
-# Practice Exam Scientific Programming 1
+# Practice Exams Scientific Programming 1
 
-Download the exam here: [download](sp1-practice-exam.pdf)
+Two practice exams in one document, each with three assignments to make in two hours.
 
-Make the exam in the online exam editor: [editor](/exams)
+Download the practice exams here: [download](sp1-practice-exam.pdf)
+
+Make them in the online exam editor: [editor](/exams)
