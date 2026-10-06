@@ -152,13 +152,14 @@ shared with the other SP and DP students; join at least one a week. There are no
 tutorials in the week of 19 October. Times and rooms come from [Datanose](/datanose).
 
 <style>
-.tut, .lec, .exam, .dl {
+.tut, .off, .lec, .exam, .dl {
   display: block;
   padding: 0.45em 0.6em;
   border-radius: 4px;
   line-height: 1.35;
 }
 .tut  { background: #dbe3d1; color: #39492a; }  /* sage       - tutorial */
+.off  { background: #ebe9e4; color: #9a958a; }  /* gray - after the last deadline */
 .lec  { background: #f0e2be; color: #5d4713; }  /* ochre      - kick-off */
 .dl   { background: #d3e0dc; color: #2d4a43; margin-top: 0.3em; }  /* copper - deadline */
 .exam { background: #ecd3c5; color: #6d3a20; }  /* terracotta - exam     */
@@ -177,8 +178,8 @@ table.week th:first-child { width: 15%; }
 | **9 Nov**<br>13 Nov | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">15:00 - 18:45</span>tutorial<br>SP L0.10</span><span class="dl"><span class="t">23:59</span>deadline<br>Level 2</span> |
 | **16 Nov**<br>20 Nov | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">15:00 - 18:45</span>tutorial<br>SP L0.10</span> |
 | **23 Nov**<br>27 Nov | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">15:00 - 18:45</span>tutorial<br>SP L0.10</span><span class="dl"><span class="t">23:59</span>deadline<br>Level 3</span> |
-| **30 Nov**<br>4 Dec | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">15:00 - 18:45</span>tutorial<br>SP L0.10</span> |
-| **7 Dec**<br>11 Dec | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="tut"><span class="t">15:00 - 18:45</span>tutorial<br>SP L0.10</span> |
+| **30 Nov**<br>4 Dec | <span class="off"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="off"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="off"><span class="t">15:00 - 18:45</span>tutorial<br>SP L0.10</span> |
+| **7 Dec**<br>11 Dec | <span class="off"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="off"><span class="t">13:00 - 16:45</span>tutorial<br>SP L0.09</span> | | <span class="off"><span class="t">15:00 - 18:45</span>tutorial<br>SP L0.10</span> |
 | **14 Dec**<br>18 Dec<br>*exam* | | <span class="exam"><span class="t">9:00 - 11:00</span>exam SP1<br>REC D4.02<br>(Brug)</span> | | | |
 {: .week}
 
