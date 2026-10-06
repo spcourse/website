@@ -162,6 +162,8 @@ tutorials in the week of 19 October. Times and rooms come from [Datanose](/datan
 .lec  { background: #f0e2be; color: #5d4713; }  /* ochre      - kick-off */
 .dl   { background: #d3e0dc; color: #2d4a43; margin-top: 0.3em; }  /* copper - deadline */
 .exam { background: #ecd3c5; color: #6d3a20; }  /* terracotta - exam     */
+table.week { table-layout: fixed; width: 100%; }
+table.week th:first-child { width: 15%; }
 </style>
 
 | when | mon | tue | wed | thu | fri |
@@ -177,6 +179,7 @@ tutorials in the week of 19 October. Times and rooms come from [Datanose](/datan
 | **30 Nov**<br>4 Dec | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span> |
 | **7 Dec**<br>11 Dec | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 13:00 - 16:45<br><span class="tut">tutorial<br>SP L0.09</span> | | 15:00 - 18:45<br><span class="tut">tutorial<br>SP L0.10</span> |
 | **14 Dec**<br>18 Dec<br>*exam* | | 9:00 - 11:00<br><span class="exam">exam SP1<br>REC D4.02<br>(Brug)</span> | | | |
+{: .week}
 
 ## Grading {#grading}
 
